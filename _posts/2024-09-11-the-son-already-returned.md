@@ -51,7 +51,7 @@ It is true that in the Aramaic, the word for "generation" can also mean "tribe" 
 ---
 
 {% include verse.html
-text="No, this is what was spoken through the prophet Joel: ‘In the last days it will be, God declares, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams. Even upon my slaves, both men and women, in those days I will pour out my Spirit, and they shall prophesy. And I will show portents in the heaven above and signs on the earth below, blood, and fire, and smoky mist. The sun shall be turned to darkness and the moon to blood, **before the coming of the Lord’s great and glorious day**. Then everyone who calls on the name of the Lord shall be saved.’"
+text="No, this is what was spoken through the prophet Joel: ‘In the last days it will be, God declares, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams. Even upon my slaves, both men and women, in those days I will pour out my Spirit, and they shall prophesy. And I will show portents in the heaven above and signs on the earth below, blood, and fire, and smoky mist. The sun shall be turned to darkness and the moon to blood, **before the coming of the Lord’s great and glorious day**. Then everyone who calls on the name of the Lord shall be saved.’"
 verse="Acts 2:16-21"
 %}
 
@@ -64,14 +64,12 @@ text="After the sixty-two weeks, an anointed one shall be cut off and shall have
 verse="Daniel 9:26-27"
 %}
 
-Here we see that the desolating sacrilege and the one-week tribulation were fulfilled at the destruction of Jerusalem ("the city and the sanctuary") after the crucifixion ("an anointed one shall be cut off"). It is interesting to cross-reference this with Revelation 12:14-15, which was another prophecy about the same time:
+Here we see that the desolating sacrilege and the one-week tribulation were fulfilled at the destruction of Jerusalem ("the city and the sanctuary") after the crucifixion ("an anointed one shall be cut off"). It is interesting to cross-reference this with Revelation 12:14-15, which was another prophecy about the same time (and which also mentions a flood):
 
 {% include verse.html
 text="But the woman was given the two wings of the great eagle, so that she could fly from the serpent into the wilderness, to her place where she is nourished for a time, and times, and half a time. Then from his mouth the serpent poured water like a river after the woman, to sweep her away with the flood."
 verse="Revelation 12:14-15"
 %}
-
-There are many similarities between these two prophecies -- they even both mention a flood.
 
 ---
 
