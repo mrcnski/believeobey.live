@@ -1,0 +1,32 @@
+<footer class="site-footer">
+
+  <div class="wrapper-footer">
+    <div class="footer-col-wrapper">
+
+      <span class="footer-link">
+        <a href="{{ '/' | relative_url }}">home</a>
+      </span>
+      •
+      <span class="footer-link">
+        {% include icon-github.html username=site.github_username display='github' %}
+      </span>
+      •
+      <span class="footer-link">
+        {% include icon-email.html email=site.email display='contact' %}
+      </span>
+      •
+      <span class="footer-link">
+        <a href="{{ '/feed.xml' | relative_url }}">rss</a>
+      </span>
+
+    </div>
+
+    <div class="copyright">
+      © {{ site.copyright_year }} mrcnski
+    </div>
+  </div>
+
+  <!-- Generate link anchors for all headlines. -->
+  <script src="/assets/js/anchorize.js"></script>
+
+</footer>

@@ -1,0 +1,95 @@
+# If you find yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Believe, Obey, Live
+author: Marcin S
+email: marcin@realemail.net
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to Believe, Obey, Live. My understanding is that if you believe and obey, and endure to the end, you will live.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://believeobey.live" # the base hostname & protocol for your site, e.g. https://example.com
+short_url: "believeobey.live"
+github_username: "mrcnski"
+category_dir: category
+copyright_year: 2024
+
+repository: "mrcnski/believeobey.live"
+
+# Outputting
+permalink: /:title/
+timezone: Etc/UTC
+
+# Serving
+detach: false
+
+# Build settings
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
+  # syntax_highlighter_opts:
+highlighter: rouge
+strict_front_matter: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+compress_html:
+  blanklines: true
+  clippings: all
+  comments: all
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - Makefile
+    - README.md
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
+
+category_descriptions:
+  - { name: "anki", description: "" }
+  - { name: "announcements", description: "" }
+  - { name: "blogging", description: "" }
+  - { name: "books", description: "" }
+  - { name: "c", description: "" }
+  - { name: "cryptography", description: "" }
+  - { name: "css", description: "" }
+  - { name: "emacs", description: "" }
+  - { name: "face-offs", description: "" }
+  - { name: "go", description: "" }
+  - { name: "health", description: "" }
+  - { name: "jekyll", description: "" }
+  - { name: "language-learning", description: "" }
+  - { name: "lifestyle", description: "" }
+  - { name: "nutrition", description: "" }
+  - { name: "org-mode", description: "" }
+  - { name: "osx", description: "" }
+  - { name: "presentations", description: "" }
+  - { name: "productivity", description: "" }
+  - { name: "programming", description: "" }
+  - { name: "projects", description: "" }
+  - { name: "reviews", description: "" }
+  - { name: "rust", description: "" }
+  - { name: "self-improvement", description: "" }
+  - { name: "site", description: "" }
+  - { name: "web-dev", description: "" }
+  - { name: "writing", description: "" }

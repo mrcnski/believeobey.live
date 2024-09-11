@@ -1,0 +1,28 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <!-- Enable pre-loading pages with query strings and for external links -->
+  <body data-instant-allow-query-string data-instant-allow-external-links>
+
+    {% include header.html %}
+
+    <main class="default-content" aria-label="Content">
+      <div class="wrapper-content">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    <!-- Pre-load pages when hovering over a link -->
+    <script src="/assets/js/instantpage.js" type="module" integrity="sha384-/IkE5iZAM/RxPto8B0nvKlMzIyCWtYocF01PbGGp1qElJuxv9J4whdWBRtzZltWn"></script>
+
+  </body>
+
+</html>
