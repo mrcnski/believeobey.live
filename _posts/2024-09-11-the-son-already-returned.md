@@ -77,3 +77,43 @@ verse="Malachi 4"
 %}
 
 This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in Luke 10:19.
+
+---
+
+{% include verse.html
+text="Repent, for the kingdom of heaven is at hand [near]."
+verse="Matthew 3:2"
+%}
+
+{% include verse.html
+text="The end of all things is at hand [near]; therefore be serious and discipline yourselves for the sake of your prayers."
+verse="1 Peter 4:7"
+%}
+
+{% include verse.html
+text="I am coming soon; hold fast to what you have, so that no one takes away your crown."
+verse="Revelation 3:11"
+%}
+
+
+{% include verse.html
+text="See, I am coming soon; my reward is with me, to repay according to everyone’s work."
+verse="Revelation 22:12"
+%}
+
+{% include verse.html
+text="The one who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!"
+verse="Revelation 22:20"
+%}
+
+
+The word "soon" is Strong's G5035:
+
+G5035   (Strong)
+ταχύ
+tachu
+takh-oo'
+
+> Neuter singular of G5036 (as adverb); shortly, that is, **without delay**, soon, or (by surprise) suddenly, or (by implication of ease) readily: - lightly, quickly.
+
+Note that there is no Scriptural basis for the "suddenly" definition. Confirm it for yourself with a [concordance](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/)!
