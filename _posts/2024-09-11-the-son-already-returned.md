@@ -1,8 +1,6 @@
 ---
 title: "The Son Already Returned"
-date: 2024-09-11
 categories: study
-description: Do we believe what Scripture tells us?
 ---
 
 {% include verse.html
