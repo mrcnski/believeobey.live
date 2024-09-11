@@ -1,11 +1,11 @@
 ---
-layout: default
+title: "Enoch's Prophecy Of Weeks!"
+categories: study
 ---
-
-# Bible Chronologies, compared to Enoch's Prophecy of Weeks!
 
 - 1 pixel = 1 year.
 - Viewing this on mobile is probably not a good idea.
+- See also [this page](/pow) for a comparison of the PoW with the Septuagint timeline.
 
 <br>
 
