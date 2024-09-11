@@ -1,4 +1,8 @@
 <div class="verse">
-  <p style="margin-bottom: 0;"><i>{{ include.text }}</i></p>
-  <p class="verse-verse">~ {{ include.verse }}</p>
+  <p style="margin-bottom: 0;">
+    <i>
+      {{ include.text | markdownify }}
+    </i>
+  </p>
+  <p class="verse-verse">~ <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version=NRSVUE">{{ include.verse }}</a></p>
 </div>
