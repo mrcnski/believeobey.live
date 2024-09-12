@@ -53,7 +53,7 @@ text="No, this is what was spoken through the prophet Joel: ‘In the last days 
 verse="Acts 2:16-21"
 %}
 
-Peter clearly believed he was living during the fulfillment of Joel's prophecy ({% include inline-verse.html verse="Joel 2:28-32" %}) and of the day of the Lord in the "last days".
+Peter clearly believed he was living during the fulfillment of Joel's prophecy {% include inline-verse.html verse="Joel 2:28-32" text-before="(" text-after=")" %} and of the day of the Lord in the "last days".
 
 ---
 
@@ -76,7 +76,7 @@ text="See, the day is coming, burning like an oven, when all the arrogant and al
 verse="Malachi 4"
 %}
 
-This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in {% include inline-verse.html verse="Luke 10:19" %}.
+This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in {% include inline-verse.html verse="Luke 10:19" text-after="." %}
 
 ---
 
@@ -118,10 +118,45 @@ takh-oo'
 
 Note that there is no Scriptural basis for the "suddenly" definition. Confirm it for yourself with a [concordance](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/)!
 
----
+## Update (Sep 12, 2024)
 
-**[Update Sep 12, 2024]**
 {% include verse.html
 text="When they persecute you in this town, flee to the next, for truly I tell you, you will not have finished going through all the towns of Israel before the Son of Man comes."
 verse="Matthew 10:23"
+%}
+
+---
+
+{% include verse.html
+text="A little while, and you will no longer see me, and again a little while, and you will see me."
+verse="John 16:16"
+%}
+
+---
+
+{% include verse.html
+text="“Do you see all these things?” he asked. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.” As Jesus was sitting on the Mount of Olives, the disciples came to him privately. “Tell us,” they said, **“when will this happen, and what will be the sign of your coming and of the end of the age?”**"
+verse="Matthew 24:2-3"
+%}
+
+I have heard *claims* that the disciples were asking three separate questions: when will the temple be destroyed, what will be the sign of Yeshua's coming (or presence), and what is the sign of the end of the age? After this Bible study, however, we can see that these three things were to happen around the same time.
+{: .note}
+
+---
+
+{% include verse.html
+text="But Jesus remained silent. The high priest said to him, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.” “You have said so,” Jesus replied. “But <b>I say to all of you</b>: From now on <b>you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.</b>”"
+verse="Matthew 26:63-65"
+%}
+
+{% include verse.html
+text="But Jesus remained silent and gave no answer. Again the high priest asked him, “Are you the Messiah, the Son of the Blessed One?” “I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”"
+verse="Mark 14:61-62"
+%}
+
+---
+
+{% include verse.html
+text="You too, be patient and stand firm, because the Lord’s coming is near. Don’t grumble against one another, brothers and sisters, or you will be judged. The Judge is standing at the door!"
+verse="James 5:8-9"
 %}
