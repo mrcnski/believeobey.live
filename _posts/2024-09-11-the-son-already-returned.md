@@ -1,5 +1,4 @@
 ---
-title: "The Son Already Returned"
 categories: study
 ---
 
