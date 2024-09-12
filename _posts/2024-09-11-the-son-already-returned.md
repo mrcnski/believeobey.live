@@ -1,5 +1,6 @@
 ---
 categories: study
+last-updated: Sep 12, 2024
 ---
 
 {% include verse.html
@@ -116,3 +117,11 @@ takh-oo'
 > Neuter singular of G5036 (as adverb); shortly, that is, **without delay**, soon, or (by surprise) suddenly, or (by implication of ease) readily: - lightly, quickly.
 
 Note that there is no Scriptural basis for the "suddenly" definition. Confirm it for yourself with a [concordance](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/)!
+
+---
+
+**[Update Sep 12, 2024]**
+{% include verse.html
+text="When they persecute you in this town, flee to the next, for truly I tell you, you will not have finished going through all the towns of Israel before the Son of Man comes."
+verse="Matthew 10:23"
+%}
