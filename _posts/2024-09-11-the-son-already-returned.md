@@ -53,7 +53,7 @@ text="No, this is what was spoken through the prophet Joel: ‘In the last days 
 verse="Acts 2:16-21"
 %}
 
-Peter clearly believed he was living during the fulfillment of Joel's prophecy (Joel 2:28-32) and of the day of the Lord in the "last days".
+Peter clearly believed he was living during the fulfillment of Joel's prophecy ({% include inline-verse.html verse="Joel 2:28-32" %}) and of the day of the Lord in the "last days".
 
 ---
 
@@ -76,7 +76,7 @@ text="See, the day is coming, burning like an oven, when all the arrogant and al
 verse="Malachi 4"
 %}
 
-This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in Luke 10:19.
+This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in {% include inline-verse.html verse="Luke 10:19" %}.
 
 ---
 
