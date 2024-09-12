@@ -308,6 +308,10 @@ img + em {
     font-size: $small-font-size;
 
     padding-left: $spacing-unit / 4;
+
+    .post-meta-last-updated {
+        font-size: $smaller-font-size;
+    }
 }
 
 .post-meta-home {

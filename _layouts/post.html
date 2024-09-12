@@ -18,6 +18,13 @@ layout: default
       {% include filed.html %}
       <!-- •
            <a href="#commento"></a> -->
+
+      <br>
+      <span class="post-meta-last-updated">
+        {% if page.last-updated %}
+        [Last Updated: <time datetime="{{ page.last-updated | date_to_xmlschema }}" itemprop="dateModified">{{ page.last-updated | date: date_format }}</time>]
+        {% endif %}
+      </span>
     </p>
   </header>
 
