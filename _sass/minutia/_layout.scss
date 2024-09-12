@@ -308,6 +308,7 @@ img + em {
     font-size: $small-font-size;
 
     padding-left: $spacing-unit / 4;
+    margin-bottom: 3 * $spacing-unit / 4;
 
     .post-meta-last-updated {
         font-size: $smaller-font-size;
@@ -360,6 +361,8 @@ img + em {
 
 .post-filed {
     display: flex;
+
+    margin-top: $spacing-unit;
 
     p {
         flex: 1 1 auto;

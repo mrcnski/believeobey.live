@@ -76,7 +76,7 @@ input, textarea, button {
 
 /* Set `margin-bottom` to maintain vertical rhythm */
 
-h1, h2, h3, h4, h5, h6,
+h1, h3, h4, h5, h6,
 p, blockquote,
 ul, ol, dl, figure,
 %vertical-rhythm {
@@ -197,7 +197,9 @@ h1 {
 
 h2 {
     @include relative-font-size(1.625);
-    border-bottom: 1px solid $light-gray;
+
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
 
     &,
     a,
