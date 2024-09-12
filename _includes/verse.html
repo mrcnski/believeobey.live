@@ -1,7 +1,7 @@
 <div class="verse">
-  <p style="margin-bottom: 0;">
+  <p>
     <i>
-      {{ include.text | markdownify }}
+      {{ include.text | replace_regex: '\*\*(.+)\*\*', '<strong>\1</strong>'}}
     </i>
   </p>
   <p class="verse-verse">~ <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version=NRSVUE">{{ include.verse }}</a></p>
