@@ -1,6 +1,7 @@
 ---
 categories: study
 last-updated: Sep 21, 2024
+history: https://github.com/mrcnski/believeobey.live/commits/master/_posts/2024-09-11-the-son-already-returned.md
 ---
 
 {% include verse.html
