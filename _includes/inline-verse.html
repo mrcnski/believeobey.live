@@ -1,1 +1,1 @@
-{{ include.text-before }}<a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version=NASB1995">{{ include.verse }}</a>{{ include.text-after }}
+{{ include.text-before }}<a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version={{ include.version | default: 'NRSVUE' }}">{{ include.verse }}</a>{{ include.text-after }}
