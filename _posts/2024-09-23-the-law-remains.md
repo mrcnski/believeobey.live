@@ -135,12 +135,12 @@ verse="Deuteronomy 28:1-2"
 ---
 
 {% include verse.html
-text="Do not think that I will accuse you before the Father; your accuser is Moses, on whom you have set your hope."
+text="Do not think that I will accuse you before the Father; **your accuser is Moses, on whom you have set your hope**."
 verse="John 5:45"
 %}
 
 {% include verse.html
-text="For whoever keeps the whole law but fails in one point has become accountable for all of it. For the one who said, “You shall not commit adultery,” also said, “You shall not murder.” Now if you do not commit adultery but you murder, you have become a transgressor of the law. So speak and so act as those who are to be judged by the law of liberty. For judgment will be without mercy to anyone who has shown no mercy; mercy triumphs over judgment."
+text="For whoever keeps the whole law but fails in one point has become accountable for all of it. For the one who said, “You shall not commit adultery,” also said, “You shall not murder.” Now if you do not commit adultery but you murder, you have become a transgressor of the law. **So speak and so act as those who are to be judged by the law of liberty.** For judgment will be without mercy to anyone who has shown no mercy; mercy triumphs over judgment."
 verse="James 2:10-13"
 %}
 
