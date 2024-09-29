@@ -1,7 +1,6 @@
 ---
 categories: study
-last-updated: Sep 21, 2024
-history: https://github.com/mrcnski/believeobey.live/commits/master/_posts/2024-09-11-the-son-already-returned.md
+last-updated: Sep 29, 2024
 ---
 
 {% include verse.html
@@ -132,6 +131,9 @@ Note that there is no Scriptural basis for the "suddenly" definition. Confirm it
 text="A little while, and you will no longer see me, and again a little while, and you will see me."
 verse="John 16:16"
 %}
+
+Actually, this is probably talking about the resurrection.
+{: .update}
 
 ---
 

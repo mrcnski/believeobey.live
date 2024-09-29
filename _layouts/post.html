@@ -22,7 +22,9 @@ layout: default
       <br>
       <span class="post-meta-last-updated">
         {% if page.last-updated %}
-        <a href={{ page.history }}>[Last Updated: <time datetime="{{ page.last-updated | date_to_xmlschema }}" itemprop="dateModified">{{ page.last-updated | date: date_format }}</time>]</a>
+        <i>
+        <a href="https://github.com/mrcnski/believeobey.live/commits/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.slug }}.md">Last Updated: <time datetime="{{ page.last-updated | date_to_xmlschema }}" itemprop="dateModified">{{ page.last-updated | date: date_format }}</time></a>
+        </i>
         {% endif %}
       </span>
     </p>
