@@ -1,5 +1,6 @@
 ---
 categories: study
+last-updated: Sep 29, 2024
 ---
 
 There's a popular idea that the Law of Moses was replaced, or does not apply to Christians anymore. I wrestled with this for a long time, but I couldn't get around the fact that Scripture explicitly tells us otherwise:
@@ -146,6 +147,13 @@ verse="James 2:10-13"
 
 Is James teaching lawlessness, or the magnification of the law?
 
+---
+
+{% include verse.html
+text="Jesus answered, “Is it not written in your <strong>Torah</strong>, ‘I said, you are gods’? If those to whom the word of God came were called ‘gods’—and **the scripture cannot be annulled**—"
+verse="John 10:34-35"
+%}
+
 ## The "Least" of the Commandments
 
 Man has a deceitful heart ({% include inline-verse.html verse="Jeremiah 17:9" text-after=")," %} and can convince himself that he is obedient even when he is picking and choosing commandments that he likes and ignoring the ones that he doesn't like.
@@ -279,6 +287,9 @@ version="NASB1995"
 
 Some shenanigans are afoot -- the translators can't seem to agree with each other here.
 
+When you look for *clear* statements about the Torah in the New Testament, you will only ever find that it was *not* abolished and that all of the commandments remain until heaven and earth pass away. The less-clear statements should be read with that understanding.
+{: .update}
+
 ---
 
 {% include verse.html
@@ -311,7 +322,37 @@ text="Watch out that no one takes you captive through philosophy and empty decei
 verse="Colossians 2:8"
 %}
 
-The context of this whole chapter seems to be Paul denouncing not the Torah, but the pagan practices, traditions, and philosophies that held us all captive before Christ.
+The context of this whole chapter seems to be Paul denouncing not the Torah, but the pagan practices, traditions, and philosophies that held us all captive before Christ. He definitely didn't consider Torah a "human tradition", as elsewhere he calls it "holy and just and good".
+
+---
+
+{% include verse.html
+text="“All things are permitted,” but not all things are beneficial. “All things are permitted,” but not all things build up."
+verse="1 Corinthians 10:23"
+%}
+
+This is a great example of translator error/bias. In the Aramaic, which [generally is more accurate and nuanced than the Greek](/was-the-new-testament-really-written-in-greek/), this verse reads as follows:
+
+{% include verse.html
+text="Everything is in my power; but everything is not profitable. Everything is in my power; but everything does not build up."
+verse="1 Corinthians 10:23"
+%}
+
+When read in the full context, the Aramaic makes much more sense than the Greek. Again quoting from the Aramaic:
+
+{% include verse.html
+text="What then do I say? That an idol is anything? Or, that an idol’s sacrifice is anything? No. But that what the Gentiles sacrifice they sacrifice to demons, and not to Elohim. And I would not that you should be associates of demons. You cannot drink the cup of our Master (Y’shua) and the cup of demons; and you cannot be partakers at the table of our Master, and at the table of demons. Or, would we provoke our Master (Y’shua’s) jealousy? Are we stronger than he? **Everything is in my power; but everything is not profitable. Everything is in my power; but everything does not build up.** Let no one seek his own things, but also the things of his fellow-man."
+verse="1 Corinthians 10:19-24"
+%}
+
+The translators may have been aiming to prime the reader to interpret the rest of the chapter, which talks about meats, through the lens of lawlessness. A few verses later Paul writes:
+
+{% include verse.html
+text="Whatever is sold in the flesh-market you eat without an inquiry on account of conscience: For the earth is Master YHWH’s, in its fullness. And if one of the pagans invite you, and you are disposed to go, eat whatever is set before you, without an inquiry on account of conscience. But if any one will say to you, “This meat is derived from a sacrifice;” don’t eat it, for the sake of him who told you, and for conscience’s sake. The conscience I speak of is not your own, but his who told you. But why is my freedom judged of by the conscience of others? If I by grace partake, why am I reproached for that for which I give thanks? If you therefore eat, or if you drink, or if you do any thing, do all things for the glory of Elohim. You be without offense to the Jews and to the Gentiles, and to the assembly of Elohim: Even as I also, in everything, please every man; and do not seek what is profitable to me, but what is profitable to many; that they may live."
+verse="1 Corinthians 10:25-33"
+%}
+
+The reader may be conditioned to read this a certain way, but try to read this knowing that Paul wrote that the law is "holy and just and good" and that he upholds Torah. Is he teaching people to eat unclean meats, or is he continuing the theme from earlier in the chapter about sacrifices to idols?
 
 ---
 
