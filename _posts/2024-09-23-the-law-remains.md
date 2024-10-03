@@ -1,6 +1,6 @@
 ---
 categories: study
-last-updated: Sep 29, 2024
+last-updated: Oct 3, 2024
 ---
 
 There's a popular idea that the Law of Moses was replaced, or does not apply to Christians anymore. I wrestled with this for a long time, but I couldn't get around the fact that Scripture explicitly tells us otherwise:
@@ -58,6 +58,11 @@ verse="Jeremiah 31:33"
 %}
 
 You can't have the new covenant without Torah. Such a notion is totally absent in the prophets.
+
+{% include verse.html
+text="A new heart I will give you, and a new spirit I will put within you, and I will remove from your body the heart of stone and give you a heart of flesh. I will put my spirit within you and make you follow my statutes and be careful to observe my ordinances."
+verse="Ezekiel 36:26-27"
+%}
 
 ---
 
@@ -117,6 +122,11 @@ verse="Romans 3:31"
 {% include verse.html
 text="So Torah is holy, and the commandment is holy and just and good."
 verse="Romans 7:12"
+%}
+
+{% include verse.html
+text="For I delight in the Torah of God in my inmost self"
+verse="Romans 7:22"
 %}
 
 ---
