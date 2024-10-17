@@ -1,6 +1,6 @@
 ---
 categories: study
-last-updated: Sep 29, 2024
+last-updated: Oct 17, 2024
 ---
 
 {% include verse.html
@@ -102,6 +102,10 @@ text="I am coming soon; hold fast to what you have, so that no one takes away yo
 verse="Revelation 3:11"
 %}
 
+{% include verse.html
+text="And he said to me, “These words are trustworthy and true, for the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place. See, I am coming soon! Blessed is the one who keeps the words of the prophecy of this book.”"
+verse="Revelation 22:6-7"
+%}
 
 {% include verse.html
 text="See, I am coming soon; my reward is with me, to repay according to everyone’s work."
@@ -124,6 +128,20 @@ takh-oo'
 > Neuter singular of G5036 (as adverb); shortly, that is, **without delay**, soon, or (by surprise) suddenly, or (by implication of ease) readily: - lightly, quickly.
 
 Note that there is no Scriptural basis for the "suddenly" definition. Confirm it for yourself with a [concordance](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/)!
+
+---
+
+{% include verse.html
+text="And he said to me, **“Do not seal up the words of the prophecy of this book, for the time is near.”**"
+verse="Revelation 22:10"
+%}
+
+Contrast this with Daniel 12:4. It seems that Revelation was written for the generation that received it.
+
+{% include verse.html
+text="But you, Daniel, keep the words secret and the book sealed until the time of the end. Many shall be running back and forth, and evil shall increase.”"
+verse="Daniel 12:4"
+%}
 
 ---
 
