@@ -1,6 +1,6 @@
 ---
-categories: study
 title: "Was the New Testament Really Written in Greek?"
+categories: language
 last-updated: Sep 23, 2024
 ---
 

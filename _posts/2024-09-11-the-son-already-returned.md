@@ -1,5 +1,5 @@
 ---
-categories: study
+categories: prophecy
 last-updated: Oct 17, 2024
 ---
 

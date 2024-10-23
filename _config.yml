@@ -66,4 +66,6 @@ defaults:
       layout: "post"
 
 category_descriptions:
-  - { name: "study", description: "" }
+  - { name: "language", description: "" }
+  - { name: "prophecy", description: "" }
+  - { name: "torah", description: "" }

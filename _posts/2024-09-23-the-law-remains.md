@@ -1,5 +1,5 @@
 ---
-categories: study
+categories: torah
 last-updated: Oct 3, 2024
 ---
 
