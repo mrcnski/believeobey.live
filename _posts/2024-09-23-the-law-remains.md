@@ -1,7 +1,11 @@
 ---
 categories: torah
-last-updated: Oct 3, 2024
+toc: true
+last-updated: Oct 24, 2024
 ---
+
+* Table of contents.
+{:toc}
 
 There's a popular idea that the Law of Moses was replaced, or does not apply to Christians anymore. I wrestled with this for a long time, but I couldn't get around the fact that Scripture explicitly tells us otherwise:
 
@@ -9,6 +13,8 @@ There's a popular idea that the Law of Moses was replaced, or does not apply to 
 text="Remember the teaching of my servant Moses, the statutes and ordinances that I commanded him at Horeb for all Israel."
 verse="Malachi 4:4"
 %}
+
+## Torah Not Abolished
 
 God clearly told us what He expects from us. The Law of Christ is not some vague, nebulous thing that every modern sect of Christianity gets to define differently. The Law of Christ is, in fact, the written Torah magnified:
 
