@@ -5,8 +5,16 @@
 layout: home
 ---
 
+{% include image.html name="index-header.jpeg" alt="Believe, Live, Obey." %}
+
 # Studies
 
 {% for page in site.posts %}
 {% include post-info.html description=1 %}
 {% endfor %}
+
+# Other Pages
+
+<h3>
+  <a href="/about" class="post-link">About</a>
+</h3>

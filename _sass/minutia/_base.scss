@@ -181,6 +181,7 @@ h1 {
 
     @include relative-font-size(2);
     line-height: 1;
+    margin-top: $spacing-unit;
     padding-bottom: $spacing-unit / 4;
     border-bottom: 1px solid $mild-gray;
 
