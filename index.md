@@ -18,3 +18,6 @@ layout: home
 <h3>
   <a href="/about" class="post-link">About</a>
 </h3>
+
+<script async src="https://talk.hyvor.com/embed/newsletter.js" type="module"></script>
+<hyvor-talk-newsletter website-id="12077"></hyvor-talk-newsletter>
