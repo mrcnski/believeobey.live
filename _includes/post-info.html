@@ -3,12 +3,7 @@
   <h3 class="post-header"><a class="post-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h3>
 
   <p class="post-meta post-meta-home">
-    {% assign date_format = site.minutia.date_format | default: "%b %-d, %Y" %}
-    {{ page.date | date: date_format }}
-    •
-    {% include filed.html %}
-    <!-- • -->
-    <!-- <a href="{{ page.url | relative_url }}#commento"></a> -->
+    {% include post-meta.html %}
   </p>
 
   {% if page.description and include.description == 1 %}

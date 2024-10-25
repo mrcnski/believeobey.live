@@ -7,18 +7,7 @@ layout: default
   <header class="page-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minutia.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-      • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}
-      •
-      {% include filed.html %}
-      <!-- •
-           <a href="#commento"></a> -->
-
+      {% include post-meta.html %}
       <br>
       <span class="post-meta-last-updated">
         {% if page.last-updated %}
@@ -42,8 +31,17 @@ layout: default
     {% include post-footer.html %}
   </div>
 
-  <!-- <div class="comments">
-       {% include comments.html %}
-       </div> -->
+  <h2 id="comments">Comments</h2>
+
+  <div class="comments">
+    {% include comments.html %}
+  </div>
 
 </article>
+
+<script src="https://talk.hyvor.com/embed/comment-counts.js"></script>
+<script>
+ hyvorTalkCommentCounts.load({
+   "website-id": 12077
+ })
+</script>

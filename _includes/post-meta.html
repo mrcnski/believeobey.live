@@ -1,0 +1,10 @@
+<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+  {% assign date_format = site.minutia.date_format | default: "%b %-d, %Y" %}
+  {{ page.date | date: date_format }}
+</time>
+•
+{% include filed.html %}
+•
+<a href="{{ page.url | relative_url }}#comments">
+  <hyvor-talk-comment-count page-id="{{ page.slug }}"></hyvor-talk-comment-count>
+</a>
