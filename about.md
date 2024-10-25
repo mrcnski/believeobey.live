@@ -44,3 +44,9 @@ endure God’s wrath."
 %}
 
 ... etc.
+
+<h2 id="comments">Comments</h2>
+
+<div class="comments">
+{% include comments.html %}
+</div>
