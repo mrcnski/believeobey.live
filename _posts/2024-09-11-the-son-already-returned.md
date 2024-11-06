@@ -1,6 +1,6 @@
 ---
 categories: prophecy
-last-updated: Oct 17, 2024
+last-updated: Nov 6, 2024
 ---
 
 {% include verse.html
@@ -84,6 +84,9 @@ verse="Malachi 4"
 %}
 
 This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in {% include inline-verse.html verse="Luke 10:19" text-after="." %}
+
+Since writing the above I've found {% include inline-verse.html verse="Luke 1:16-17" %}, confirming that my understanding was correct. These verses explicitly say that John the Baptist was Elijah who would "turn the hearts of parents to their children", as prophesied by Malachi.
+{: .update}
 
 ---
 
