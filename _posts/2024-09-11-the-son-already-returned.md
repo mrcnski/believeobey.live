@@ -1,6 +1,6 @@
 ---
 categories: prophecy
-last-updated: Nov 6, 2024
+last-updated: Nov 8, 2024
 ---
 
 {% include verse.html
@@ -83,10 +83,19 @@ text="See, the day is coming, burning like an oven, when all the arrogant and al
 verse="Malachi 4"
 %}
 
-This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in {% include inline-verse.html verse="Luke 10:19" text-after="." %}
+This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in Luke 10:19:
 
-Since writing the above I've found {% include inline-verse.html verse="Luke 1:16-17" %}, confirming that my understanding was correct. These verses explicitly say that John the Baptist was Elijah who would "turn the hearts of parents to their children", as prophesied by Malachi.
-{: .update}
+{% include verse.html
+text="Indeed, I have given you authority to tread on snakes and scorpions and over all the power of the enemy, and nothing will hurt you."
+verse="Luke 10:19"
+%}
+
+**Update:** Since writing the above I've found the following verses, confirming that my understanding was correct. These verses explicitly say that John the Baptist was Elijah who would "turn the hearts of parents to their children", as prophesied by Malachi.
+
+{% include verse.html
+text="He [John] will turn many of the people of Israel to the Lord their God. <strong>With the spirit and power of Elijah</strong> he will go before him, to **turn the hearts of parents to their children** and the disobedient to the wisdom of the righteous, to make ready a people prepared for the Lord."
+verse="Luke 1:16-17"
+%}
 
 ---
 
@@ -142,7 +151,7 @@ verse="Revelation 22:10"
 Contrast this with Daniel 12:4. It seems that Revelation was written for the generation that received it.
 
 {% include verse.html
-text="But you, Daniel, keep the words secret and the book sealed until the time of the end. Many shall be running back and forth, and evil shall increase.”"
+text="But you, Daniel, keep the words secret and the book sealed until the time of the end. Many shall be running back and forth, and evil shall increase."
 verse="Daniel 12:4"
 %}
 
