@@ -1,5 +1,5 @@
 ---
-categories: prophecy
+categories: Yeshua prophecy
 last-updated: Nov 8, 2024
 ---
 

@@ -1,5 +1,5 @@
 ---
-categories: torah
+categories: Yeshua torah
 toc: true
 ---
 
