@@ -10,7 +10,9 @@ layout: home
 # Studies
 
 {% for page in site.posts %}
+{% unless page.hidden %}
 {% include post-info.html description=1 %}
+{% endunless %}
 {% endfor %}
 
 # Other Pages

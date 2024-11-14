@@ -2,8 +2,10 @@
   {% assign date_format = site.minutia.date_format | default: "%b %-d, %Y" %}
   {{ page.date | date: date_format }}
 </time>
+{% if page.categories.size > 0 %}
 •
 {% include filed.html %}
+{% endif %}
 •
 <a href="{{ page.url | relative_url }}#comments">
   <hyvor-talk-comment-count page-id="{{ page.slug }}"></hyvor-talk-comment-count>
