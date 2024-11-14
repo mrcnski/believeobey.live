@@ -171,13 +171,8 @@ verse="Exodus 23:20-21"
 In the previous verse we saw that the angel will not pardon transgressions. Most would agree that only YHWH can pardon transgressions. So who is this "angel"? Well, let's allow Scripture to tell us:
 
 {% include verse.html
-text="There **the angel of YHWH** appeared to him in a flame of fire out of a bush; he looked, and the bush was blazing, yet it was not consumed. Then Moses said, “I must turn aside and look at this great sight and see why the bush is not burned up.” <strong>When YHWH saw that he had turned aside to see</strong>, God called to him out of the bush, “Moses, Moses!” And he said, “Here I am.”"
-verse="Exodus 3:2-4"
-%}
-
-{% include verse.html
-text="Go and assemble the elders of Israel and say to them, ‘**YHWH, the God of your ancestors, the God of Abraham, Isaac, and Jacob, has appeared to me**, saying: I have given heed to you and to what has been done to you in Egypt."
-verse="Exodus 3:16"
+text="There **the angel of YHWH** appeared to him in a flame of fire out of a bush; he looked, and the bush was blazing, yet it was not consumed. Then Moses said, “I must turn aside and look at this great sight and see why the bush is not burned up.” <strong>When YHWH saw that he had turned aside to see</strong>, God called to him out of the bush, “Moses, Moses!” And he said, “Here I am.” [...] Go and assemble the elders of Israel and say to them, ‘<strong>YHWH, the God of your ancestors, the God of Abraham, Isaac, and Jacob, has appeared to me</strong>, saying: I have given heed to you and to what has been done to you in Egypt."
+verse="Exodus 3:2-4,16"
 %}
 
 ---
@@ -214,6 +209,54 @@ verse="Isaiah 53:1-2"
 {% include verse.html
 text="I will bring near my deliverance swiftly; my salvation has gone out, and **my arms will rule the peoples**; the coastlands wait for me, and <strong>for my arm they hope</strong>. Lift up your eyes to the heavens and look at the earth beneath, for the heavens will vanish like smoke, the earth will wear out like a garment, and those who live on it will die like gnats, but <strong>my salvation [Hebrew: Yeshua] will be forever</strong>, and my deliverance will never be ended."
 verse="Isaiah 51:5-6"
+%}
+
+## Yeshua is Worshipped
+
+{% include verse.html
+text="Once when Joshua was by Jericho, he looked up and saw a man standing before him with a drawn sword in his hand. Joshua went to him and said to him, “Are you one of us or one of our adversaries?” He replied, “Neither, but as commander of the army of YHWH I have now come.” **And Joshua fell on his face to the earth and worshiped**, and he said to him, “What do you command your servant, my lord?”"
+verse="Joshua 5:13-14"
+%}
+
+We know this isn't an angel because it is forbidden to worship angels ({% include inline-verse.html verse="Revelation 22:8-9" text-after="," %} {% include inline-verse.html verse="Matthew 4:9-10" text-after=")." %}
+
+We know this isn't the Father because no one has seen God ({% include inline-verse.html verse="John 1:18" text-after="," %} {% include inline-verse.html verse="John 5:37" text-after="," %} {% include inline-verse.html verse="Exodus 33:20" text-after="," %} {% include inline-verse.html verse="1 John 4:12" text-after=")." %}
+
+{% include verse.html
+text="YHWH your God you shall fear, him you shall serve, and by his name alone you shall swear."
+verse="Deuteronomy 6:13"
+%}
+
+---
+
+{% include verse.html
+text="And those in the boat worshiped him, saying, “Truly you are the Son of God.”"
+verse="Matthew 14:33"
+%}
+
+{% include verse.html
+text="Suddenly Yeshua met them and said, “Greetings!” And they came to him, took hold of his feet, and worshiped him."
+verse="Matthew 28:9"
+%}
+
+{% include verse.html
+text="He said, “Lord, I believe.” And he worshiped him."
+verse="John 9:38"
+%}
+
+{% include verse.html
+text="And they worshiped him and returned to Jerusalem with great joy ..."
+verse="Luke 24:52"
+%}
+
+{% include verse.html
+text="On entering the house, they saw the child with Mary his mother, and they knelt down and paid him homage. Then, opening their treasure chests, they offered him gifts of gold, frankincense, and myrrh."
+verse="Matthew 2:11"
+%}
+
+{% include verse.html
+text="And again, when he brings the firstborn into the world, he says, “Let all God’s angels worship him.”"
+verse="Hebrews 1:6"
 %}
 
 ## Other Interesting Verses
