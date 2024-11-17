@@ -36,6 +36,11 @@ verse="Deuteronomy 18:19"
 %}
 
 {% include verse.html
+text="Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit and teaching them to **obey everything that I have commanded you**."
+verse="Matthew 28:19-20"
+%}
+
+{% include verse.html
     text="For God so loved the world that he gave his only Son, so that everyone who
 believes in him may not perish but may have eternal life. [...] Whoever believes
 in the Son has eternal life; **whoever disobeys the Son will not see life** but must
