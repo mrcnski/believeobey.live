@@ -1,7 +1,7 @@
 ---
 categories: torah
 toc: true
-last-updated: Oct 24, 2024
+last-updated: Nov 17, 2024
 ---
 
 * Table of contents.
@@ -121,18 +121,23 @@ There are two conditions to be a saint.
 ---
 
 {% include verse.html
-text="Do we then overthrow Torah through this faith? By no means! On the contrary, we uphold Torah."
+text="Do we then overthrow law through this faith? By no means! On the contrary, we uphold law."
 verse="Romans 3:31"
 %}
 
 {% include verse.html
-text="So Torah is holy, and the commandment is holy and just and good."
+text="So law is holy, and the commandment is holy and just and good."
 verse="Romans 7:12"
 %}
 
 {% include verse.html
-text="For I delight in the Torah of God in my inmost self"
+text="For I delight in the law of God in my inmost self"
 verse="Romans 7:22"
+%}
+
+{% include verse.html
+text="For this reason the mind that is set on the flesh is hostile to God; it does not submit to God’s law—indeed, it cannot ..."
+verse="Romans 8:7"
 %}
 
 ---
