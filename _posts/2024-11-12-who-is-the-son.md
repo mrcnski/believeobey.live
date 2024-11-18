@@ -1,6 +1,7 @@
 ---
 title: "Who is the Son?"
 categories: Yeshua
+last-updated: Nov 18, 2024
 toc: true
 hidden: true
 ---
@@ -8,7 +9,7 @@ hidden: true
 * Table of contents.
 {:toc}
 
-Let's start by asking, who is the Father? Well, there is evidence that He is YHWH:
+Let's start by asking, who is the Father? Well, there is evidence that YHWH is the Father:
 
 {% include verse.html
 text="YHWH says to my lord, “Sit at my right hand until I make your enemies your footstool.”"
@@ -27,7 +28,12 @@ text="A son honors his father and a servant his master. **If then I am a father*
 verse="Malachi 1:6"
 %}
 
-Is that the full story, though?
+{% include verse.html
+text="I will tell of the decree of YHWH: He said to me, You are my son; today I have begotten you."
+verse="Psalm 2:7"
+%}
+
+It seems that YHWH is the one who begets the Son. Is that the full story, though?
 
 ## The First and the Last?
 
@@ -159,6 +165,15 @@ The above verse clearly shows us that the Father, Son, and Holy Spirit all share
 Some people don't like this verse and have suggested that it's an insertion by Trinitarian Catholics, but there's no evidence to suggest that. The [Greek](https://www.blueletterbible.org/nasb95/mat/28/19/s_957019), [Aramaic](https://dukhrana.com/peshitta/index.php), and [Hebrew](https://www.hebrewgospels.com/matthew) texts all contain this verse. Actually, in this study we've seen numerous examples where the Father and Son seem to share the name of YHWH.
 {: .note }
 
+In Acts, we see numerous examples of being baptized in the name of Yeshua:
+
+{% include verse.html
+text="Peter said to them, “Repent and **be baptized every one of you in the name of Yeshua Messiah** so that your sins may be forgiven, and you will receive the gift of the Holy Spirit."
+verse="Acts 2:38"
+%}
+
+... etc. This would contradict Matthew 28:19, unless the name is in fact shared with the Father (and the Holy Spirit).
+
 ---
 
 {% include verse.html
@@ -226,6 +241,9 @@ We know this isn't the Father because no one has seen God ({% include inline-ver
 text="YHWH your God you shall fear, him you shall serve, and by his name alone you shall swear."
 verse="Deuteronomy 6:13"
 %}
+
+On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word "shâchâh" used in Gen 19:1, where Lot "bows" to two angels.
+{: .update}
 
 ---
 
