@@ -1,9 +1,9 @@
 ---
 title: "Who is the Son?"
 categories: Yeshua
-last-updated: Nov 18, 2024
+last-updated: Dec 29, 2024
 toc: true
-hidden: true
+hidden: false
 ---
 
 * Table of contents.
@@ -204,6 +204,15 @@ text="For he said, “Surely they are my people, children who will not act decei
 verse="Isaiah 63:8-9"
 %}
 
+---
+
+In the next passage it seems very clear that the angel of YHWH also bears His name:
+
+{% include verse.html
+text="Then he showed me the high priest Joshua standing before the **angel of YHWH** and the accuser standing at his right hand to accuse him. And <strong>YHWH said</strong> to the accuser, “<strong>YHWH rebuke you, O accuser!</strong> YHWH who has chosen Jerusalem rebuke you! Is not this man a brand plucked from the fire?”"
+verse="Zechariah 3:1-2"
+%}
+
 ## The Right Hand of YHWH?
 
 {% include verse.html
@@ -242,7 +251,7 @@ text="YHWH your God you shall fear, him you shall serve, and by his name alone y
 verse="Deuteronomy 6:13"
 %}
 
-On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word "shâchâh" used in Gen 19:1, where Lot "bows" to two angels.
+On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word "shâchâh" used in {% include inline-verse.html verse="Genesis 19:1" text-after="," %} where Lot "bows" to two angels.
 {: .update}
 
 ---
