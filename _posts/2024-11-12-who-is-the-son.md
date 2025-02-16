@@ -213,6 +213,13 @@ text="Then he showed me the high priest Joshua standing before the **angel of YH
 verse="Zechariah 3:1-2"
 %}
 
+---
+
+{% include verse.html
+text="On that day YHWH will shield the inhabitants of Jerusalem so that the feeblest among them on that day shall be like David, and the house of David shall be **like God, like the angel of YHWH**, at their head."
+verse="Zechariah 12:8"
+%}
+
 ## The Right Hand of YHWH?
 
 {% include verse.html
