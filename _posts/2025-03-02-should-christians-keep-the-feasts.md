@@ -1,7 +1,7 @@
 ---
 title: "Should Christians Keep the Feasts?"
 categories: torah
-# last-updated: Dec 29, 2024
+last-updated: Mar 3, 2025
 toc: true
 hidden: false
 ---
@@ -64,8 +64,25 @@ text="At that time I, Daniel, had been mourning for three weeks. I had eaten no 
 verse="Daniel 10:2-4"
 %}
 
-
 Of note is that Yeshua kept Passover (often referred to as the "Last Supper") within Jerusalem.
+
+---
+
+For what it's worth, in the apocrypha, Tobit does keep a feast while in exile:
+
+{% include verse.html
+text="In the days of Esar-haddon I returned home, and my wife Anna and my son Tobias were restored to me. **At our Festival of Pentecost**, which is the sacred Festival of Weeks, a good dinner was prepared for me, and I reclined to eat. When the table had been set for me and an abundance of food placed before me, I said to my son Tobias, “Go, my son, and bring whatever poor person you may find of our kindred among the exiles in Nineveh who is wholeheartedly mindful of God, and he shall eat together with me. I will wait for you, my son, until you come back.”"
+verse="Tobit 2:1-2"
+%}
+
+However, feasting may not have been the right thing for Tobit to do:
+
+{% include verse.html
+text="Then I remembered the prophecy of Amos, how he said against Bethel, “Your festivals shall be turned into mourning and all your songs into lamentation.” And I wept."
+verse="Tobit 2:6"
+%}
+
+He becomes blind on the same day.
 
 ## But When are the Feasts?
 
@@ -105,6 +122,16 @@ Enoch seems to hint at the reason for this:
 text="And in the days of the sinners the years shall be shortened, And their seed shall be tardy on their lands and fields, And all things on the earth shall alter, And shall not appear in their time: And the rain shall be kept back And the heaven shall withhold (it). And in those times the fruits of the earth shall be backward, And shall not grow in their time, And the fruits of the trees shall be withheld in their time. And the moon shall alter her order, And not appear at her time."
 verse="Enoch 80:2-4"
 url="https://parallel.thebookofenoch.info/#80"
+%}
+
+---
+
+The following verse is possibly related, though I think this has to be properly
+interpreted (if the feasts were abolished, it would contradict {% include inline-verse.html verse="Zechariah 14:16" text-after=")." %}
+
+{% include verse.html
+text="I will put an end to all her mirth, her festivals, her new moons, her Sabbaths, and all her appointed festivals."
+verse="Hosea 2:11"
 %}
 
 ## Conclusion
