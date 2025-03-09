@@ -1,7 +1,7 @@
 ---
 title: "Should Christians Keep the Feasts?"
 categories: torah
-last-updated: Mar 3, 2025
+last-updated: Mar 9, 2025
 toc: true
 hidden: false
 ---
@@ -83,6 +83,25 @@ verse="Tobit 2:6"
 %}
 
 He becomes blind on the same day.
+
+## "This is a Statute Forever"
+
+Then we have these verses. For the sake of readability, I won't be reproducing the whole context, as there is a lot of text. However, it is always important that the reader (you) studies the context.
+
+{% include verse.html
+text="You shall eat no bread or parched grain or fresh ears until that very day, until you have brought the offering of your God. **This is a statute forever throughout your generations in all your settlements.**"
+verse="Leviticus 23:14"
+%}
+
+{% include verse.html
+text="On that same day you shall make proclamation; you shall hold a holy convocation; you shall not work at your occupations. **This is a statute forever in all your settlements throughout your generations.**"
+verse="Leviticus 23:21"
+%}
+
+{% include verse.html
+text="And anyone who does any work during that entire day, such a one I will destroy from the midst of the people. You shall do no work. **This is a statute forever throughout your generations in all your settlements.**"
+verse="Leviticus 23:30-31"
+%}
 
 ## But When are the Feasts?
 
