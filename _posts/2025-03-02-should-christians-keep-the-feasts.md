@@ -1,7 +1,7 @@
 ---
 title: "Should Christians Keep the Feasts?"
 categories: torah
-last-updated: Mar 9, 2025
+last-updated: Apr 15, 2025
 toc: true
 hidden: false
 ---
@@ -40,7 +40,7 @@ This Scripture says that the Passover must be kept where **He** chooses, not whe
 
 {% include verse.html
 text="You are not permitted to offer the Passover sacrifice within any of your towns that YHWH your God is giving you. But **at the place that YHWH your God will choose as a dwelling for his name, only there shall you offer the Passover sacrifice**, in the evening at sunset, the time of day when you departed from Egypt."
-verse="Deuteronomy‬ ‭16‬:‭5‬-‭6‬"
+verse="Deuteronomy 16:5-6"
 %}
 
 The following Scripture indicates that curses come upon those who keep Passover other than as prescribed. However, it also shows that YHWH is merciful towards those who try to keep His feasts.
@@ -154,7 +154,5 @@ verse="Hosea 2:11"
 %}
 
 ## Conclusion
-
-That's all I have. I am hoping for further revelation on this matter. I don't want to lead anybody astray, but to me it seems that the most direct Scriptural parallel to our situation (being outside the land) is Daniel.
 
 Please leave a comment below if you have any ideas!
