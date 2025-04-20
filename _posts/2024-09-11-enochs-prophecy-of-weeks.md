@@ -1,6 +1,6 @@
 ---
 title: "Enoch's Prophecy Of Weeks!"
-categories: prophecy
+categories: prophecy apocrypha
 ---
 
 - 1 pixel = 1 year.
