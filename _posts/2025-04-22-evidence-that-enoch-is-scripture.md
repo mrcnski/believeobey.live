@@ -1,7 +1,7 @@
 ---
 title: "Evidence that Enoch is Scripture"
 categories: apocrypha
-# last-updated: Dec 29, 2024
+last-updated: Apr 23, 2025
 toc: true
 hidden: false
 ---
@@ -48,6 +48,20 @@ By saying that the Sadduccees [Zadokites] did not know the scriptures, it would 
 ## Direct Quotes in Canon
 
 Here are some more instances where the canonical books seem to quote almost verbatim from Enoch:
+
+---
+
+{% include verse.html
+text="But for the elect there shall be light and joy and peace, And they shall inherit the earth."
+verse="Enoch 5:7"
+url="https://parallel.thebookofenoch.info/#5"
+%}
+
+{% include verse.html
+text="Blessed are the resting ones, for they will inherit the earth."
+verse="Matthew 5:5 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
+%}
 
 ---
 
