@@ -1,7 +1,7 @@
 ---
 title: "Evidence that Enoch is Scripture"
 categories: apocrypha
-last-updated: Apr 23, 2025
+last-updated: Apr 27, 2025
 toc: true
 hidden: false
 ---
@@ -90,6 +90,21 @@ verse="Revelation 20:13"
 %}
 
 ## More Evidence from Canon
+
+{% include verse.html
+text="And the angels who did not keep their own position but deserted their proper dwelling, he has kept in eternal chains in deepest darkness for the judgment of the great day."
+verse="Jude 6"
+%}
+
+What Jude is referring to is not found in canon, but in Enoch:
+
+{% include verse.html
+text="bind them [fallen Watchers] fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated."
+verse="10:12-13"
+url="https://parallel.thebookofenoch.info/#10"
+%}
+
+---
 
 {% include verse.html
 text="but the goat on which the lot fell for Azazel shall be presented alive before the Lord to make atonement over it, that it may be sent away into the wilderness to Azazel."
