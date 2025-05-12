@@ -80,11 +80,6 @@ verse="Matthew 7:21-23"
 ---
 
 {% include verse.html
-text="The Law and the Prophets were until John came; since then the good news of the kingdom of God is being proclaimed, and everyone tries to enter it by force. But **it is easier for heaven and earth to pass away than for one stroke of a letter in the law to be dropped**."
-verse="Luke 16:16-17"
-%}
-
-{% include verse.html
 text="From the days of John the Baptist until now, the kingdom of heaven has suffered violence, and violent people take it by force."
 verse="Matthew 11:12"
 %}
@@ -117,28 +112,6 @@ verse="Revelation 14:12"
 %}
 
 There are two conditions to be a saint.
-
----
-
-{% include verse.html
-text="Do we then overthrow law through this faith? By no means! On the contrary, we uphold law."
-verse="Romans 3:31"
-%}
-
-{% include verse.html
-text="So law is holy, and the commandment is holy and just and good."
-verse="Romans 7:12"
-%}
-
-{% include verse.html
-text="For I delight in the law of God in my inmost self"
-verse="Romans 7:22"
-%}
-
-{% include verse.html
-text="For this reason the mind that is set on the flesh is hostile to God; it does not submit to God’s law—indeed, it cannot ..."
-verse="Romans 8:7"
-%}
 
 ---
 
@@ -274,7 +247,7 @@ verse="Enoch 108:1-2"
 url="https://parallel.thebookofenoch.info/#108"
 %}
 
-Keep an eye out for my upcoming (Yah willing) Bible study showing Enoch is scripture!
+Check out [my Bible study](/evidence-that-enoch-is-scripture) with evidence that Enoch is scripture!
 
 {% include verse.html
 text="And after that in the fourth week, at its close, Visions of the holy and righteous shall be seen, And **a law for all generations** and an enclosure shall be made for them."
@@ -294,122 +267,11 @@ verse="Genesis 17:9-13"
 ## Where Does the Misconception Come From?
 
 {% include verse.html
-text="For he is our peace; in his flesh he has made both into one and has broken down the dividing wall, that is, the hostility between us, **abolishing the law with its commandments and ordinances**, that he might create in himself one new humanity in place of the two, thus making peace..."
-verse="Ephesians 2:14-15"
-%}
-
-The law was abolished? Isn't that a contradiction in the Bible? Let's try a different version...
-
-{% include verse.html
-text="For He Himself is our peace, who made both groups into one and broke down the barrier of the dividing wall, **by abolishing in His flesh the enmity, which is the Law of commandments contained in ordinances**, so that in Himself He might make the two into one new man, thus establishing peace..."
-verse="Ephesians 2:14-15"
-version="NASB1995"
-%}
-
-Some shenanigans are afoot -- the translators can't seem to agree with each other here.
-
-When you look for *clear* statements about the Torah in the New Testament, you will only ever find that it was *not* abolished and that all of the commandments remain until heaven and earth pass away. The less-clear statements should be read with that understanding.
-{: .update}
-
----
-
-{% include verse.html
-text="You foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly exhibited as crucified! The only thing I want to learn from you is this: Did you receive the Spirit by doing the works of the law or by believing what you heard? Are you so foolish? Having started with the Spirit, are you now ending with the flesh? Did you experience so much for nothing?—if it really was for nothing. Well then, does God supply you with the Spirit and work miracles among you by your doing the works of the law or by your believing what you heard?"
-verse="Galatians 3:1-5"
-%}
-
-Some Torah keepers don't like Paul because of verses like this. I personally agree with what he says here. Salvation begins with faith, and as seen above, both faith and obedience are required to be a saint, not one or the other.
-
-Addressing the rest of Galatians would be a whole study in itself.
-
----
-
-{% include verse.html
-text="Therefore, do not let anyone condemn you in matters of food or drink or of observing festivals, new moons, or Sabbaths. These are only a shadow of what is to come, but the body belongs to Christ."
-verse="Colossians 2:16-17"
-%}
-
-This verse seems pretty lawless... when taken out of context. The very next verse we read:
-
-{% include verse.html
-text="Do not let anyone disqualify you, insisting on self-abasement and worship of angels, initiatory visions, puffed up without cause by a human way of thinking,"
-verse="Colossians 2:18"
-%}
-
-What does this have to do with Torah? This doesn't sound like he's talking about Torah at all, but pagan practices. And just a few verses before we read:
-
-{% include verse.html
-text="Watch out that no one takes you captive through philosophy and empty deceit, according to human tradition, according to the elemental principles of the world, and not according to Christ."
-verse="Colossians 2:8"
-%}
-
-The context of this whole chapter seems to be Paul denouncing not the Torah, but the pagan practices, traditions, and philosophies that held us all captive before Christ. He definitely didn't consider Torah a "human tradition", as elsewhere he calls it "holy and just and good".
-
----
-
-{% include verse.html
-text="“All things are permitted,” but not all things are beneficial. “All things are permitted,” but not all things build up."
-verse="1 Corinthians 10:23"
-%}
-
-This is a great example of translator error/bias. In the Aramaic, which [generally is more accurate and nuanced than the Greek](/was-the-new-testament-really-written-in-greek/), this verse reads as follows:
-
-{% include verse.html
-text="Everything is in my power; but everything is not profitable. Everything is in my power; but everything does not build up."
-verse="1 Corinthians 10:23"
-%}
-
-When read in the full context, the Aramaic makes much more sense than the Greek. Again quoting from the Aramaic:
-
-{% include verse.html
-text="What then do I say? That an idol is anything? Or, that an idol’s sacrifice is anything? No. But that what the Gentiles sacrifice they sacrifice to demons, and not to Elohim. And I would not that you should be associates of demons. You cannot drink the cup of our Master (Y’shua) and the cup of demons; and you cannot be partakers at the table of our Master, and at the table of demons. Or, would we provoke our Master (Y’shua’s) jealousy? Are we stronger than he? **Everything is in my power; but everything is not profitable. Everything is in my power; but everything does not build up.** Let no one seek his own things, but also the things of his fellow-man."
-verse="1 Corinthians 10:19-24"
-%}
-
-The translators may have been aiming to prime the reader to interpret the rest of the chapter, which talks about meats, through the lens of lawlessness. A few verses later Paul writes:
-
-{% include verse.html
-text="Whatever is sold in the flesh-market you eat without an inquiry on account of conscience: For the earth is Master YHWH’s, in its fullness. And if one of the pagans invite you, and you are disposed to go, eat whatever is set before you, without an inquiry on account of conscience. But if any one will say to you, “This meat is derived from a sacrifice;” don’t eat it, for the sake of him who told you, and for conscience’s sake. The conscience I speak of is not your own, but his who told you. But why is my freedom judged of by the conscience of others? If I by grace partake, why am I reproached for that for which I give thanks? If you therefore eat, or if you drink, or if you do any thing, do all things for the glory of Elohim. You be without offense to the Jews and to the Gentiles, and to the assembly of Elohim: Even as I also, in everything, please every man; and do not seek what is profitable to me, but what is profitable to many; that they may live."
-verse="1 Corinthians 10:25-33"
-%}
-
-The reader may be conditioned to read this a certain way, but try to read this knowing that Paul wrote that the law is "holy and just and good" and that he upholds Torah. Is he teaching people to eat unclean meats, or is he continuing the theme from earlier in the chapter about sacrifices to idols?
-
----
-
-{% include verse.html
 text="He said to them, “So, are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile, since it enters not the heart but the stomach and goes out into the sewer?” **(Thus he declared all foods clean.)**"
 verse="Mark 7:18-19"
 %}
 
 The bolded part is found in Greek manuscripts (though not all of them), but is absent in the Aramaic. See my study on [whether the NT was written in Greek](/was-the-new-testament-really-written-in-greek/).
-
----
-
-{% include verse.html
-text="Therefore I have reached the decision that we should not trouble those gentiles who are turning to God, but we should write to them to abstain only from things polluted by idols and from sexual immorality and from whatever has been strangled and from blood. For in every city, for generations past, **Moses has had those who proclaim him, for he has been read aloud every Sabbath in the synagogues**."
-verse="Acts 15:19-21"
-%}
-
-There's a lot that could be said here, but I want to keep my own interpretations to a minimum. Perhaps it is best for the reader to meditate on the Council of Jerusalem's decision. Were the apostles going against Yeshua and teaching that Torah was abolished, or just the opposite?
-
-Also, keep in mind that Gentiles couldn't participate in the temple system, just as we are not able to today.
-
----
-
-{% include verse.html
-text="About noon the next day, as they were on their journey and approaching the city, Peter went up on the roof to pray. He became hungry and wanted something to eat, and while it was being prepared he fell into a trance. He saw the heaven opened and something like a large sheet coming down, being lowered to the ground by its four corners. In it were all kinds of four-footed creatures and reptiles and birds of the air. Then he heard a voice saying, “Get up, Peter; kill and eat.” But Peter said, “By no means, Lord, for **I have never eaten anything that is profane or unclean**.” The voice said to him again, a second time, “What God has made clean, you must not call profane.” This happened three times, and the thing was suddenly taken up to heaven."
-verse="Acts 10:9-16"
-%}
-
-To paraphrase Noel Hadley from *The Unexpected Cosmology*: if Yeshua had taught that pork is clean, Peter apparently didn't get the memo. All these years later, and the chief apostle still refuses to eat unclean meat.
-
-Anyway, these verses are not abolishing the food laws. I will let scripture itself provide the interpretation:
-
-{% include verse.html
-text="You yourselves know that it is improper for a Jew to associate with or to visit an outsider, but God has shown me that **I should not call anyone profane or unclean**."
-verse="Acts 10:28"
-%}
 
 ---
 
@@ -423,3 +285,8 @@ It is tempting to impose our own interpretations on these verses, but we must be
 If we take this at face value, David was in an emergency situation where he had to break the Sabbath or die, and God didn't hold him guilty. That's all this says. Similarly to Peter's vision of the animals, we can't take a single situation out of context and ignore the rest of Scripture.
 
 By the way, He says here that He is lord of the Sabbath, not of Sunday. The Lord's Day is Sabbath.
+
+---
+
+The writings of Paul and Luke may need to be properly addressed in a separate
+study.

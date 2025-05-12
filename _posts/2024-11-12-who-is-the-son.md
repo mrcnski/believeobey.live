@@ -115,13 +115,6 @@ text="Declare and present your case; take counsel together! Who told this long a
 verse="Isaiah 45:21"
 %}
 
-{% include verse.html
-text="so that **at the name given to Yeshua every knee should bend**, in heaven and on earth and under the earth, and that <strong>every tongue should confess that the MarYah [Master YHWH] is Y’shua Mashiyach</strong> to the glory of Elohim his Father."
-verse="Philippians 2:11"
-version="Aramaic"
-url="https://dukhrana.com/peshitta/index.php"
-%}
-
 ---
 
 {% include verse.html
@@ -164,15 +157,6 @@ The above verse clearly shows us that the Father, Son, and Holy Spirit all share
 
 Some people don't like this verse and have suggested that it's an insertion by Trinitarian Catholics, but there's no evidence to suggest that. The [Greek](https://www.blueletterbible.org/nasb95/mat/28/19/s_957019), [Aramaic](https://dukhrana.com/peshitta/index.php), and [Hebrew](https://www.hebrewgospels.com/matthew) texts all contain this verse. Actually, in this study we've seen numerous examples where the Father and Son seem to share the name of YHWH.
 {: .note }
-
-In Acts, we see numerous examples of being baptized in the name of Yeshua:
-
-{% include verse.html
-text="Peter said to them, “Repent and **be baptized every one of you in the name of Yeshua Messiah** so that your sins may be forgiven, and you will receive the gift of the Holy Spirit."
-verse="Acts 2:38"
-%}
-
-... etc. This would contradict Matthew 28:19, unless the name is in fact shared with the Father (and the Holy Spirit).
 
 ---
 
@@ -279,18 +263,8 @@ verse="John 9:38"
 %}
 
 {% include verse.html
-text="And they worshiped him and returned to Jerusalem with great joy ..."
-verse="Luke 24:52"
-%}
-
-{% include verse.html
 text="On entering the house, they saw the child with Mary his mother, and they knelt down and paid him homage. Then, opening their treasure chests, they offered him gifts of gold, frankincense, and myrrh."
 verse="Matthew 2:11"
-%}
-
-{% include verse.html
-text="And again, when he brings the firstborn into the world, he says, “Let all God’s angels worship him.”"
-verse="Hebrews 1:6"
 %}
 
 ## Other Interesting Verses

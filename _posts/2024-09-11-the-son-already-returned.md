@@ -16,11 +16,6 @@ verse="Matthew 16:27-28"
 %}
 
 {% include verse.html
-text="Those who are ashamed of me and of my words, of them the Son of Man will be ashamed when he comes in his glory and the glory of the Father and of the holy angels. Indeed, truly I tell you, **there are some standing here who will not taste death** before they see the kingdom of Elohim."
-verse="Luke 9:26-27"
-%}
-
-{% include verse.html
 text="Those who are ashamed of me and of my words in this adulterous and sinful generation, of them the Son of Man will also be ashamed when he comes in the glory of his Father with the holy angels. Truly I tell you, **there are some standing here who will not taste death** until they see that the kingdom of Elohim has come with power."
 verse="Mark 8:38-9:1"
 %}
@@ -47,20 +42,11 @@ verse="Revelation 1:7"
 
 {% include verse.html
 text="Truly I say to you, this generation will not pass away until all these things take place."
-verse="Matthew 24:34, Mark 13:30, Luke 21:32"
+verse="Matthew 24:34, Mark 13:30"
 %}
 
 It is true that in the Aramaic, the word for "generation" can also mean "tribe" or "people". This verse is included in this study for completeness; and besides, we do know from the rest of this study that "this generation" really was the correct meaning here, and not "this tribe".
 {: .note}
-
----
-
-{% include verse.html
-text="No, this is what was spoken through the prophet Joel: ‘In the last days it will be, God declares, that I will pour out my Spirit upon all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams. Even upon my slaves, both men and women, in those days I will pour out my Spirit, and they shall prophesy. And I will show portents in the heaven above and signs on the earth below, blood, and fire, and smoky mist. The sun shall be turned to darkness and the moon to blood, **before the coming of the Lord’s great and glorious day**. Then everyone who calls on the name of the Lord shall be saved.’"
-verse="Acts 2:16-21"
-%}
-
-Peter clearly believed he was living during the fulfillment of Joel's prophecy {% include inline-verse.html verse="Joel 2:28-32" text-before="(" text-after=")" %} and of the day of the Lord in the "last days".
 
 ---
 
@@ -83,18 +69,11 @@ text="See, the day is coming, burning like an oven, when all the arrogant and al
 verse="Malachi 4"
 %}
 
-This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in Luke 10:19:
+This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in Matthew 10:1:
 
 {% include verse.html
-text="Indeed, I have given you authority to tread on snakes and scorpions and over all the power of the enemy, and nothing will hurt you."
-verse="Luke 10:19"
-%}
-
-**Update:** Since writing the above I've found the following verses, confirming that my understanding was correct. These verses explicitly say that John the Baptist was Elijah who would "turn the hearts of parents to their children", as prophesied by Malachi.
-
-{% include verse.html
-text="He [John] will turn many of the people of Israel to the Lord their God. <strong>With the spirit and power of Elijah</strong> he will go before him, to **turn the hearts of parents to their children** and the disobedient to the wisdom of the righteous, to make ready a people prepared for the Lord."
-verse="Luke 1:16-17"
+text="Then Jesus summoned his twelve disciples and gave them authority over unclean spirits, to cast them out, and to cure every disease and every sickness."
+verse="Matthew 10:1"
 %}
 
 ---
@@ -128,7 +107,6 @@ verse="Revelation 22:12"
 text="The one who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!"
 verse="Revelation 22:20"
 %}
-
 
 The word "soon" is Strong's G5035:
 

@@ -65,8 +65,8 @@ verse="Matthew 23:23"
 ---
 
 {% include verse.html
-text="“Do not judge, and you will not be judged; do not condemn, and you will not be condemned. Forgive, and you will be forgiven..."
-verse="Luke 6:37"
+text="“Do not judge, so that you may not be judged. For the judgment you give will be the judgment you get, and the measure you give will be the measure you get."
+verse="Matthew 7:1-2"
 %}
 
 {% include verse.html
@@ -84,11 +84,6 @@ verse="Matthew 18:15-17"
 This sounds to me like the proper and loving way to deal with our brethren trapped in sin.
 
 ---
-
-{% include verse.html
-text="Zacchaeus stood there and said to the Lord, **“Look, half of my possessions, Lord, I will give to the poor, and if I have defrauded anyone of anything, I will pay back four times as much.”** Then Jesus said to him, “Today salvation has come to this house, because he, too, is a son of Abraham. For the Son of Man came to seek out and to save the lost.”"
-verse="Luke 19:8-10"
-%}
 
 When we really care about how our sins have hurt others, we want to make it right. This is also Yeshua magnifying the Torah commandment of restitution:
 

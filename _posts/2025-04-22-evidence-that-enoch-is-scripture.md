@@ -100,7 +100,7 @@ What Jude is referring to is not found in canon, but in Enoch:
 
 {% include verse.html
 text="bind them [fallen Watchers] fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated."
-verse="10:12-13"
+verse="Enoch 10:12-13"
 url="https://parallel.thebookofenoch.info/#10"
 %}
 

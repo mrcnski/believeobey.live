@@ -26,11 +26,6 @@ verse="Revelation 14:12"
 %}
 
 {% include verse.html
-   text=".... we have received grace and apostleship to bring about the **obedience of faith** among all the Gentiles for the sake of His name ..."
-   verse="Romans 1:5"
-%}
-
-{% include verse.html
 text="Anyone who does not heed the words that The Prophet shall speak in my name, I myself will hold accountable."
 verse="Deuteronomy 18:19"
 %}
