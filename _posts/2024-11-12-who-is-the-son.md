@@ -35,6 +35,8 @@ verse="Psalm 2:7"
 
 It seems that YHWH is the one who begets the Son. Is that the full story, though?
 
+{% include image.html name="who-is-the-son-1.jpeg" alt="Who is the Son?" width="741" %}
+
 ## The First and the Last?
 
 {% include verse.html
@@ -203,6 +205,8 @@ verse="Zechariah 3:1-2"
 text="On that day YHWH will shield the inhabitants of Jerusalem so that the feeblest among them on that day shall be like David, and the house of David shall be **like God, like the angel of YHWH**, at their head."
 verse="Zechariah 12:8"
 %}
+
+{% include image.html name="who-is-the-son-2.jpeg" alt="Who is the Son?" width="500" %}
 
 ## The Right Hand of YHWH?
 
