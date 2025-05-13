@@ -1,7 +1,7 @@
 ---
 title: "Who is the Son?"
 categories: Yeshua
-last-updated: Dec 29, 2024
+last-updated: May 12, 2025
 toc: true
 hidden: false
 ---
@@ -167,7 +167,7 @@ verse="Exodus 23:20-21"
 
 ## Who is the Angel of YHWH?
 
-In the previous verse we saw that the angel will not pardon transgressions. Most would agree that only YHWH can pardon transgressions. So who is this "angel"? Well, let's allow Scripture to tell us:
+In the previous verse we saw that the angel/messenger (Hebrew: malak) will not pardon transgressions. Scripturally, forgiving sins is associated with God (see for example {% include inline-verse.html verse="Daniel 9:9" text-after=")." %} So who is this malak?
 
 {% include verse.html
 text="There **the angel of YHWH** appeared to him in a flame of fire out of a bush; he looked, and the bush was blazing, yet it was not consumed. Then Moses said, “I must turn aside and look at this great sight and see why the bush is not burned up.” <strong>When YHWH saw that he had turned aside to see</strong>, God called to him out of the bush, “Moses, Moses!” And he said, “Here I am.” [...] Go and assemble the elders of Israel and say to them, ‘<strong>YHWH, the God of your ancestors, the God of Abraham, Isaac, and Jacob, has appeared to me</strong>, saying: I have given heed to you and to what has been done to you in Egypt."
@@ -267,14 +267,35 @@ text="On entering the house, they saw the child with Mary his mother, and they k
 verse="Matthew 2:11"
 %}
 
+## Did Yeshua Pre-Exist?
+
+{% include verse.html
+text="And at that hour that Son of Man was named In the presence of the Lord of Spirits, And his name before the Head of Days. Yea, before the sun and the signs were created, Before the stars of the heaven were made, His name was named before the Lord of Spirits. [...] And for this reason hath he been chosen and hidden before Him, Before the creation of the world and for evermore."
+verse="Enoch 48:2,3,6"
+url="https://parallel.thebookofenoch.info/#48"
+%}
+
+{% include verse.html
+text="In the beginning was the Son of Eloah. The Son of El
+was both with El, and the Son of El was Eloah. This one was
+in the beginning with El."
+verse="John 1:1-2 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+%}
+
 ## Other Interesting Verses
 
 {% include verse.html
-text="He [Moses] said, “<strong>YHWH came from Sinai and dawned from Seir upon us</strong>; he shone forth from Mount Paran. With him were myriads of holy ones, at his right, a host of his own. Indeed, **O favorite among peoples, all his holy ones were in your charge**; they marched at your heels, accepted direction from you."
-verse="Deuteronomy 33:2-3"
+text="But Yeshua said to them, “For how much of the time
+that I abode with you, did you not know me? Philip, whosoever sees
+me, sees my Father. How do you say that I should show you the
+Father? Do you not believe that I am as the Father, and the Father
+is in me? The words which I speak, I do not speak from myself; but
+the Father, abiding with me, he does the words. Do you not believe
+that I am he, and that the Father is in me? "
+verse="John 14:9-11 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
 %}
-
-Who is the "favorite among peoples"? I don't think it's Moses because he's the speaker here, and I think most would agree that it was Yeshua who had charge of all the holy ones. Well, this passage seems to identify YHWH with Yeshua.
 
 ---
 
