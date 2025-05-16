@@ -1,7 +1,7 @@
 ---
 title: "Evidence that Enoch is Scripture"
 categories: apocrypha
-last-updated: Apr 27, 2025
+last-updated: May 16, 2025
 toc: true
 hidden: false
 ---
@@ -10,6 +10,8 @@ hidden: false
 {:toc}
 
 This is not an exhaustive compilation of evidence, but only what I've personally made a note of in my study of the Book of Enoch.
+
+{% include image.html name="enoch-is-scripture.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
 
 ## The Strongest Evidence
 
@@ -63,6 +65,11 @@ verse="Matthew 5:5 [Hebrew]"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
 %}
 
+{% include verse.html
+text="But the meek shall inherit the land and delight themselves in abundant prosperity."
+verse="Psalm 37:11"
+%}
+
 ---
 
 {% include verse.html
@@ -107,7 +114,7 @@ url="https://parallel.thebookofenoch.info/#10"
 ---
 
 {% include verse.html
-text="but the goat on which the lot fell for Azazel shall be presented alive before the Lord to make atonement over it, that it may be sent away into the wilderness to Azazel."
+text="but the goat on which the lot fell for Azazel shall be presented alive before YHWH to make atonement over it, that it may be sent away into the wilderness to Azazel."
 verse="Leviticus 16:10"
 %}
 
@@ -157,7 +164,7 @@ url="https://parallel.thebookofenoch.info/#49"
 %}
 
 {% include verse.html
-text="A shoot shall come out from the stump of Jesse, and a branch shall grow out of his roots. The spirit of the Lord shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of the Lord."
+text="A shoot shall come out from the stump of Jesse, and a branch shall grow out of his roots. The spirit of YHWH shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of YHWH."
 verse="Isaiah 11:1-2"
 %}
 
@@ -170,3 +177,21 @@ Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://pa
 The Book of Enoch is the only place in Scripture where the calendar is given. See Enoch chapters [72](https://parallel.thebookofenoch.info/#72) to [80](https://parallel.thebookofenoch.info/#80).
 
 When describing the feast days, the books of Torah assumed that the readers were already familiar with the calendar. This makes sense when we consider that the Book of Enoch had already been written a long time before Moses received the Torah.
+
+## Other Points of Interest
+
+{% include verse.html
+text="When Abram heard that his nephew had been taken captive, he led forth his trained men, born in his house, three hundred eighteen of them, and went in pursuit as far as **Dan**."
+verse="Genesis 14:14"
+%}
+
+It has been remarked[^dan] that the mention of "Dan" here is anachronistic, as the allocation for the tribe of Dan did not yet exist, nor did the city of Dan (see {% include inline-verse.html verse="Judges 18:29" text-after=")." %} Interestingly, Enoch also mentions this place called Dan!
+
+[^dan]: See for example [here](https://puritanboard.com/threads/scribal-replacement-of-place-name-in-genesis-14-14.46579/) and [here](https://www.tektonics.org/af/anachronisms.php).
+
+{% include verse.html
+text="And I went off and sat down at the waters of **Dan**, in the land of <strong>Dan</strong>, to the south of the west of Hermon"
+verse="Enoch 13:7"
+%}
+
+## Footnotes
