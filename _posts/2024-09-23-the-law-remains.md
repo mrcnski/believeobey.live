@@ -1,4 +1,5 @@
 ---
+title: "The Law Remains"
 categories: torah
 toc: true
 last-updated: Nov 17, 2024
@@ -13,6 +14,8 @@ There's a popular idea that the Law of Moses was replaced, or does not apply to 
 text="Remember the teaching of my servant Moses, the statutes and ordinances that I commanded him at Horeb for all Israel."
 verse="Malachi 4:4"
 %}
+
+{% include image.html name="the-law-remains-1.jpeg" alt="The Law Remains" width="741" %}
 
 ## Torah Not Abolished
 
@@ -217,6 +220,8 @@ verse="Zechariah 14:16-18"
 %}
 
 All the nations, not just Israel, were expected to keep the yearly pilgrimage festival to Jerusalem that's commanded in Torah. Remember, Torah was *not* just for Israel ({% include inline-verse.html verse="Isaiah 56:6-8" text-after=")." %}
+
+{% include image.html name="the-law-remains-2.jpeg" alt="The Law Remains" width="741" %}
 
 ## Was the Law Temporary?
 
