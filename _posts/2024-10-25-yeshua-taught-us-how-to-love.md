@@ -1,4 +1,5 @@
 ---
+title: "Yeshua Taught Us How To Love"
 categories: Yeshua torah
 toc: true
 ---
@@ -14,6 +15,8 @@ verse="Matthew 22:36-40"
 %}
 
 Take, for example, Yeshua's commandments to forgive and not to hate others. Are these really new commandments, or are they teaching us how to keep the above commandments from Torah? (See [The Law Remains](/the-law-remains).)
+
+{% include image.html name="yeshua-taught-us-how-to-love/1.jpeg" alt="Yeshua Taught Us How to Love" %}
 
 ## Loving our Neighbor
 
@@ -83,14 +86,7 @@ verse="Matthew 18:15-17"
 
 This sounds to me like the proper and loving way to deal with our brethren trapped in sin.
 
----
-
-When we really care about how our sins have hurt others, we want to make it right. This is also Yeshua magnifying the Torah commandment of restitution:
-
-{% include verse.html
-text="When someone steals an ox or a sheep and slaughters it or sells it, the thief shall pay five oxen for an ox and four sheep for a sheep."
-verse="Exodus 22:1"
-%}
+{% include image.html name="yeshua-taught-us-how-to-love/2.jpeg" alt="Yeshua Taught Us How to Love" width="500" %}
 
 ## Loving God
 
