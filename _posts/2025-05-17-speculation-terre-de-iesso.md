@@ -1,7 +1,6 @@
 ---
 title: "Speculation: Terre de Iesso"
 categories: apocrypha
-# last-updated: Nov 17, 2024
 ---
 
 **Note:** This study will be more speculative than my others so far. I want to share an interesting discovery, while reminding the reader, as always, to test everything and that our only teacher is Messiah.
@@ -15,7 +14,7 @@ My finding is that this location for the camp of the saints (and Mount Zion) is 
 ---
 
 {% include verse.html
-text="I saw at the end of the earth the firmament of the heaven above. And I proceeded and saw a place which burns day and night, where there are seven mountains of magnificent stones, three towards the east, and three towards the south. And as for those towards the east, was of coloured stone, and one of pearl, and one of jacinth, and those towards the south of red stone. But the middle one reached to heaven like the throne of God, of alabaster, and the summit of the throne was of sapphire. And I saw a flaming fire. And beyond these mountains Is a region the end of the great earth: there the heavens were completed."
+text="I saw at the end of the earth the firmament of the heaven above. And I proceeded and saw a place which burns day and night, where there are seven mountains of magnificent stones, three towards the east, and three towards the south. And as for those towards the east, was of coloured stone, and one of pearl, and one of jacinth, and those towards the south of red stone. **But the middle one reached to heaven like the throne of God**, of alabaster, and the summit of the throne was of sapphire. And I saw a flaming fire. And beyond these mountains Is a region the end of the great earth: there the heavens were completed."
 verse="Enoch 18:6-9"
 url="https://parallel.thebookofenoch.info/#18"
 %}
@@ -27,6 +26,12 @@ text="beautiful in elevation, is the joy of all the earth, Mount Zion, in the fa
 verse="Psalm 48:2"
 %}
 
+{% include verse.html
+text="But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on the mount of assembly In the [sides] of the north."
+verse="Isaiah 14:13"
+version="NASB"
+%}
+
 Back to Enoch:
 
 {% include verse.html
@@ -36,6 +41,14 @@ url="https://parallel.thebookofenoch.info/#24"
 %}
 
 This verse seems to describe the same seven mountains.
+
+{% include verse.html
+text="**'This high mountain which thou hast seen, whose summit is like the throne of God, is His throne,** where the Holy Great One, the Lord of Glory, the Eternal King, will sit, when He shall come down to visit the earth with goodness."
+verse="Enoch 25:3-4"
+url="https://parallel.thebookofenoch.info/#24"
+%}
+
+---
 
 {% include verse.html
 text="And the fourth quarter, named the north, is divided into three parts: the first of them is for the dwelling of men: and the second contains seas of water, and the abysses and forests and rivers, and darkness and clouds; and the third part contains the garden of righteousness. I saw seven high mountains, higher than all the mountains which are on the earth"
