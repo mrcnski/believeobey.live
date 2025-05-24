@@ -1,7 +1,6 @@
 ---
 title: "Who is the Son?"
 categories: Yeshua
-last-updated: May 12, 2025
 toc: true
 hidden: false
 ---
@@ -125,14 +124,7 @@ verse="Enoch 48:2,7"
 url="https://parallel.thebookofenoch.info/#48"
 %}
 
-In the above verse we see that salvation is "in the name of the Lord of Spirits", who seems to be separate from "that Son of Man". However, we know that salvation is in the name of Yeshua:
-
-{% include verse.html
-text="This Yeshua is ‘the stone that was rejected by you, the builders; it has become the cornerstone.’ **There is salvation in no one else, for there is no other name under heaven given among mortals by which we must be saved.**"
-verse="Acts 4:11-12"
-%}
-
-This is only possible if Yeshua carries the name of YHWH (see the next section).
+In the above verse we see that salvation is "in the name of the Lord of Spirits".
 
 ## Does Yeshua Carry the Name?
 
@@ -163,6 +155,16 @@ Some people don't like this verse and have suggested that it's an insertion by T
 ---
 
 {% include verse.html
+text="And he shall stand and feed his flock in the strength of YHWH, in the majesty of the name of YHWH his God. And they shall live secure, for now he shall be great to the ends of the earth,"
+verse="Micah 5:4"
+%}
+
+{% include verse.html
+text="Then he showed me the high priest Joshua standing before the angel of YHWH and the accuser standing at his right hand to accuse him. **And YHWH said to the accuser, “YHWH rebuke you, O accuser!** YHWH who has chosen Jerusalem rebuke you! Is not this man a brand plucked from the fire?”"
+verse="Zechariah 3:1-2"
+%}
+
+{% include verse.html
 text="I am going to send an angel in front of you, to guard you on the way and to bring you to the place that I have prepared. Be attentive to him and listen to his voice; do not rebel against him, for **he will not pardon your transgression, for my name is in him**."
 verse="Exodus 23:20-21"
 %}
@@ -176,14 +178,10 @@ text="There **the angel of YHWH** appeared to him in a flame of fire out of a bu
 verse="Exodus 3:2-4,16"
 %}
 
----
-
 {% include verse.html
 text="<strong>Now the angel of YWHH came and sat under the oak at Ophrah</strong>, which belonged to Joash the Abiezrite, as his son Gideon was beating out wheat in the winepress, to hide it from the Midianites. The angel of YHWH appeared to him and said to him, “YHWH is with you, you mighty warrior.” Gideon answered him, “But sir, if YHWH is with us, why then has all this happened to us? And where are all his wonderful deeds that our ancestors recounted to us, saying, ‘Did not YHWH bring us up from Egypt?’ But now YHWH has cast us off and given us into the hand of Midian.” **Then YHWH turned to him and said**, “Go in this might of yours and deliver Israel from the hand of Midian; I hereby commission you.”"
 verse="Judges 6:11-14"
 %}
-
----
 
 {% include verse.html
 text="For he said, “Surely they are my people, children who will not act deceitfully,” and **he became their savior in all their distress. It was no messenger or angel but his presence that saved them**; in his love and pity it was he who redeemed them; he lifted them up and carried them all the days of old."
@@ -199,11 +197,26 @@ text="Then he showed me the high priest Joshua standing before the **angel of YH
 verse="Zechariah 3:1-2"
 %}
 
----
-
 {% include verse.html
 text="On that day YHWH will shield the inhabitants of Jerusalem so that the feeblest among them on that day shall be like David, and the house of David shall be **like God, like the angel of YHWH**, at their head."
 verse="Zechariah 12:8"
+%}
+
+---
+
+{% include verse.html
+text="He blessed Joseph and said, “The God before whom my ancestors Abraham and Isaac walked, **the God who has been my shepherd all my life to this day, the angel who has redeemed me from all harm,** bless the boys, and in them let my name be perpetuated and the name of my ancestors Abraham and Isaac, and let them grow into a multitude on the earth.”"
+verse="Genesis 48:15-16"
+%}
+
+The word for God here is "Elohim", and the word for angel is "malak".
+
+---
+
+{% include verse.html
+text="And on another day, Yochanan and two of his talmidim stood again, looking at Yeshua as he walked, and said, “Behold the Mal’ach [Angel] of YHWH.”"
+verse="John 1:36 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
 %}
 
 {% include image.html name="who-is-the-son-2.jpeg" alt="Who is the Son?" width="500" %}
@@ -239,14 +252,7 @@ verse="Joshua 5:13-14"
 
 We know this isn't an angel because it is forbidden to worship angels ({% include inline-verse.html verse="Revelation 22:8-9" text-after="," %} {% include inline-verse.html verse="Matthew 4:9-10" text-after=")." %}
 
-We know this isn't the Father because no one has seen God ({% include inline-verse.html verse="John 1:18" text-after="," %} {% include inline-verse.html verse="John 5:37" text-after="," %} {% include inline-verse.html verse="Exodus 33:20" text-after="," %} {% include inline-verse.html verse="1 John 4:12" text-after=")." %}
-
-{% include verse.html
-text="YHWH your God you shall fear, him you shall serve, and by his name alone you shall swear."
-verse="Deuteronomy 6:13"
-%}
-
-On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word "shâchâh" used in {% include inline-verse.html verse="Genesis 19:1" text-after="," %} where Lot "bows" to two angels.
+On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word "shâchâh" used in {% include inline-verse.html verse="Genesis 19:1" text-after="," %} where Lot "bows" to two angels. I have kept this section for the sake of completeness.
 {: .update}
 
 ---
@@ -280,12 +286,43 @@ url="https://parallel.thebookofenoch.info/#48"
 %}
 
 {% include verse.html
-text="In the beginning was the Son of Eloah. The Son of El
+text="**In the beginning was the Son of Eloah.** The Son of El
 was both with El, and the Son of El was Eloah. This one was
 in the beginning with El."
 verse="John 1:1-2 [Hebrew]"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
 %}
+
+{% include verse.html
+text="So Yeshua said to them, “Truth I say to you that before Avraham existed I, I am!”"
+verse="John 8:58 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+%}
+
+Quote from the footnote: "[Yeshua] this time uses a verb from the root ‘היה’ (from which the Name YHWH is formed), hinting even more clearly at the fact that he is YHWH."
+
+## Is The Son God?
+
+{% include verse.html
+text="In the beginning was the Son of Eloah. The Son of El was both with El, and **the Son of El was Eloah.** This one was in the beginning with El."
+verse="John 1:1-2 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+%}
+
+{% include verse.html
+text="In this way El will come - with [the glory of] his Father with the messengers, and then he will return to every one according to his deeds."
+verse="Matthew 16:27 [Hebrew]"
+url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
+%}
+
+---
+
+{% include verse.html
+text="He blessed Joseph and said, “The God before whom my ancestors Abraham and Isaac walked, **the God who has been my shepherd all my life to this day, the angel who has redeemed me from all harm,** bless the boys, and in them let my name be perpetuated and the name of my ancestors Abraham and Isaac, and let them grow into a multitude on the earth.”"
+verse="Genesis 48:15-16"
+%}
+
+The word for God here is "Elohim", and the word for angel is "malak".
 
 ## Other Interesting Verses
 
