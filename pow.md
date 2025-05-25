@@ -10,7 +10,7 @@ layout: default
 
 <br>
 
-<canvas id="canvas" width="8000" height="490"></canvas>
+<canvas id="canvas" width="8000" height="620"></canvas>
 
 **Week 1:** I was born the seventh in the first week, While judgement and righteousness still endured. [(Enoch 93:3)](https://parallel.thebookofenoch.info/#93)
 
@@ -44,6 +44,7 @@ layout: default
 1. The Septuagint timeline doesn't appear to correspond to the Prophecy of Weeks, unless the "weeks" do not all last the same amount of time. The Masoretic timeline mostly matches the Prophecy of Weeks with 700-year weeks, except for the Flood not occurring in Week 2. Possibly there is a corruption or translation error: "after it is ended" could be referring to the Flood occurring after that week, Week 2, is over. [Edit: it seems that week 2 is not about the Flood, but about the death of Adam and Enoch's translation around the same time.]
 1. I don't believe that both of these timelines can be true simultaneously. The Mandela effect has no basis in scripture. Occam's razor tells us that the Septuagint was simply corrupted, not that there are multiple alternate realities. Furthermore, the Masoretic text can be shown to be a remarkably faithful transmission of scripture by comparing it to the Dead Sea Scrolls.
 1. In performing this research, I noticed further issues with the Septuagint timeline. If Abraham's fathers were having children at ages well past 100 -- Nachor is said to have sired Terach at 179! -- then why was Abraham freaking out so much about not having an heir by 100?
+1. **Update:** I've found out that there is yet another chronology out there - the Samaritan! I've included it for completeness, but it doesn't seem to fit the PoW.
 
 <script>
  const COLORS = [
@@ -215,6 +216,41 @@ layout: default
    ["1500 AD", 960],
    ["2024 AD", 524],
  ]);
+ // Samaritan. 1307 years from A'dam to Flood.
+ const SAMARITAN = new Timeline("Samaritan\ntimeline", false, [
+   ["A'dam", 0],
+   ["Sheth", 130],
+   ["Enosh", 105],
+   ["Qeynan", 90],
+   ["Mahalal’el", 70],
+   ["Yered", 65],
+   ["Chanok", 62],
+   ["Methushelach", 65],
+   ["Lamek", 67],
+   ["Noach", 53],
+   ["Flood", 600],
+   ["Arpakshad", 2],
+   ["Shelach", 135],
+   ["Eber", 130],
+   ["Peleg", 134],
+   ["Re'u", 130],
+   ["Serug", 132],
+   ["Nachor", 130],
+   ["Terach", 79],
+   ["Abram", 70],
+   ["Yitshaq", 100],
+   ["Ya'aqov", 60],
+   // "Jacob lived in the land of Egypt seventeen years; so the days of Jacob, the years of his life, were 147 years." Genesis 47:28
+   ["Ya'aqov in Egypt¹", 130],
+   // "Now the duration of the Israelites' stay in Egypt was 430 years."- Exodus 12:40
+   ["Exodus²", 430],
+   ["crucifixion", 1359],
+   ["temple destroyed", 40],
+   ["540 AD", 470],
+   ["1500 AD", 960],
+   ["2024 AD", 524],
+ ]);
+
  const POW_700 = new Timeline("Prophecy of Weeks\n(700-year weeks)", true, [
    ["Week 1", 0],
    ["Week 2", 700],
@@ -242,8 +278,9 @@ layout: default
 
  // Draw timelines.
  // Draw in reverse order so that the week boundaries are behind the bars.
- POW_1000.drawTimeline(410);
- POW_700.drawTimeline(280);
+ POW_1000.drawTimeline(540);
+ POW_700.drawTimeline(410);
+ SAMARITAN.drawTimeline(280);
  SEPTUAGINT.drawTimeline(150);
  MASORETIC.drawTimeline(20);
 </script>
