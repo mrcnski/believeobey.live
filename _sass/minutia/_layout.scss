@@ -496,31 +496,100 @@ img + em {
 /* TOC */
 
 ul#markdown-toc {
-    padding: calc($spacing-unit / 4) $spacing-unit calc($spacing-unit / 4) $spacing-unit;
-    border: 1px solid $mild-gray;
-    margin-left: calc($spacing-unit / 2);
-    margin-right: calc($spacing-unit / 2);
+    padding: calc($spacing-unit / 2) $spacing-unit;
+    border: none;
+    border-left: 4px solid $light-blue;
+    border-radius: $border-radius;
+    margin-left: 0;
+    margin-bottom: $spacing-unit;
+    width: 50%;
 
-    font-size: $base-font-size;
-    background-color: $lightest-gray;
+    font-size: $large-font-size;
+    background: $lightest-blue;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.09);
+    backdrop-filter: blur(10px);
+
+    position: relative;
+    overflow: hidden;
+
+    @include media-query($on-palm) {
+        width: auto;
+    }
 
     li {
         padding: 0;
         margin: 0;
+        position: relative;
+
+        display: flex;
+        align-items: center;
+
+        a {
+            position: relative;
+
+            display: block;
+            border-radius: 4px;
+            flex: 1;
+
+            padding: 4px 16px;
+            text-decoration: none;
+            transition: all 0.2s ease;
+            color: $link;
+            // font-weight: $strong-font-weight;
+
+            &:hover {
+                color: $link;
+                background-color: rgba(42, 122, 226, 0.05);
+                transform: translateX(4px);
+            }
+        }
+    }
+    li::before {
+        color: $link;
+        transform: translateY(-1px);
+    }
+
+    /* Nested list styling */
+    ul {
+        margin-left: $spacing-unit;
+        margin-top: 4px;
+        margin-bottom: 4px;
+        padding-left: 16px;
+
+        li a {
+            font-size: 0.95em;
+            color: $gray;
+
+            &:hover {
+                color: $link;
+            }
+        }
+
+        ul {
+            margin-left: calc($spacing-unit * 0.8);
+
+            li a {
+                font-size: 0.9em;
+                color: $mild-gray;
+            }
+        }
     }
 }
 
-/* Spoilers */
-
-.spoiler {
+.toc {
     cursor: pointer;
-    // Make the spoiler always on the line before the displayed text.
-    // `display: block` makes the entire line with the spoiler clickable.
-    // `display: inline-block` makes the TOC appear on the same line.
-    display: table;
+    display: inline-flex;
+    align-items: center;
 
     color: $link;
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: calc($spacing-unit);
+    padding: 8px 16px;
+    background: rgba(42, 122, 226, 0.06);
+    border: 1px solid rgba(42, 122, 226, 0.15);
+    border-radius: 20px;
+    font-weight: $strong-font-weight;
+    font-size: $small-font-size;
+    transition: all 0.3s ease;
 
     /* Prevent text selection */
     -webkit-touch-callout: none;
@@ -529,50 +598,61 @@ ul#markdown-toc {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
+
+    &:hover {
+        background: rgba(42, 122, 226, 0.09);
+        border-color: rgba(42, 122, 226, 0.25);
+        transform: translateY(-1px);
+        box-shadow: 0 4px 8px rgba(42, 122, 226, 0.1);
+    }
 }
 
-input#spoiler-check {
+input#toc-check {
     display: none; /* hide the checkboxes */
 }
 
-/* Show */
-input ~ .spoiler {
+/* Collapsed state (TOC hidden) */
+input ~ .toc {
     &::before {
-        content: '[ ';
-    }
-
-    &::after {
-        content: ' ]';
+        content: '▶';
+        margin-right: 8px;
+        font-size: 0.8em;
+        transition: transform 0.3s ease;
     }
 
     ~ ul#markdown-toc {
         display: none;
+        opacity: 0;
+        transform: translateY(-10px);
+        transition: all 0.3s ease;
     }
 }
 
-/* Hide */
-input:checked ~ .spoiler {
+/* Expanded state (TOC visible) */
+input:checked ~ .toc {
     &::before {
-        content: '- ';
-    }
-
-    &::after {
-        content: ' -';
+        content: '▼';
+        margin-right: 8px;
+        font-size: 0.8em;
+        transform: rotate(0deg);
+        transition: transform 0.3s ease;
     }
 
     ~ ul#markdown-toc {
-        display: inline-block;
+        display: block;
+        opacity: 1;
+        transform: translateY(0);
+        animation: slideInFade 0.3s ease-out;
     }
 }
 
-/* Rant */
-
-.rant-off {
-    display: none;
-}
-
-.rant-on {
-    font-style: italic;
-    border: 1px solid $red;
-    border-radius: 5px;
+@keyframes slideInFade {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
