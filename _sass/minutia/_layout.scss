@@ -497,14 +497,14 @@ img + em {
 
 ul#markdown-toc {
     padding: calc($spacing-unit / 2) $spacing-unit;
-    border: 1px solid rgba(42, 122, 226, 0.15);
-    border-left: 4px solid $light-blue;
+    border: 1px solid $lighter-blue;
+    border-left: 3px solid $light-blue;
     border-radius: $border-radius;
     margin-left: 0;
     margin-bottom: $spacing-unit;
     width: 50%;
 
-    font-size: $large-font-size;
+    font-size: $base-font-size;
     background: $lightest-blue;
     backdrop-filter: blur(10px);
 
@@ -530,16 +530,15 @@ ul#markdown-toc {
             border-radius: 4px;
             flex: 1;
 
-            padding: 4px 16px;
+            padding: 4px 4px;
             text-decoration: none;
-            transition: all 0.2s ease;
+            transition: all 0.3s ease;
             color: $link;
-            // font-weight: $strong-font-weight;
 
             &:hover {
                 color: $link;
                 background-color: rgba(42, 122, 226, 0.05);
-                transform: translateX(4px);
+                padding-left: 12px;
             }
         }
     }
@@ -580,12 +579,12 @@ ul#markdown-toc {
     display: inline-flex;
     align-items: center;
 
-    color: $link;
-    margin-bottom: calc($spacing-unit);
     padding: 8px 16px;
-    background: rgba(42, 122, 226, 0.06);
-    border: 1px solid rgba(42, 122, 226, 0.15);
-    border-radius: 20px;
+    background: rgba(42, 122, 226, 0.04);
+    border: 1px solid $lighter-blue;
+    border-radius: calc($border-radius * 2);
+
+    color: $link;
     font-weight: $strong-font-weight;
     font-size: $small-font-size;
     transition: all 0.3s ease;
@@ -601,8 +600,6 @@ ul#markdown-toc {
     &:hover {
         background: rgba(42, 122, 226, 0.09);
         border-color: rgba(42, 122, 226, 0.25);
-        transform: translateY(-1px);
-        box-shadow: 0 4px 8px rgba(42, 122, 226, 0.1);
     }
 }
 
@@ -612,35 +609,18 @@ input#toc-check {
 
 /* Collapsed state (TOC hidden) */
 input ~ .toc {
-    &::before {
-        content: '▶';
-        margin-right: 8px;
-        font-size: 0.8em;
-        transition: transform 0.3s ease;
-    }
-
     ~ ul#markdown-toc {
         display: none;
         opacity: 0;
-        transform: translateY(-10px);
-        transition: all 0.3s ease;
+        transition: opacity 0.3s ease;
     }
 }
 
 /* Expanded state (TOC visible) */
 input:checked ~ .toc {
-    &::before {
-        content: '▼';
-        margin-right: 8px;
-        font-size: 0.8em;
-        transform: rotate(0deg);
-        transition: transform 0.3s ease;
-    }
-
     ~ ul#markdown-toc {
         display: block;
         opacity: 1;
-        transform: translateY(0);
         animation: slideInFade 0.3s ease-out;
     }
 }
@@ -648,10 +628,8 @@ input:checked ~ .toc {
 @keyframes slideInFade {
     from {
         opacity: 0;
-        transform: translateY(-10px);
     }
     to {
         opacity: 1;
-        transform: translateY(0);
     }
 }
