@@ -633,3 +633,12 @@ input:checked ~ .toc {
         opacity: 1;
     }
 }
+
+/* Top link */
+
+.top-link {
+    font-size: $small-font-size;
+    font-weight: $base-font-weight;
+
+    color: $link !important;
+}
