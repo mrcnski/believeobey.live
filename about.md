@@ -50,3 +50,5 @@ endure God’s wrath."
 <div class="comments">
 {% include comments.html %}
 </div>
+
+{% include post-scripts.html %}
