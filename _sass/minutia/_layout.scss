@@ -522,15 +522,11 @@ ul#markdown-toc {
         margin: 0;
         position: relative;
 
-        display: flex;
-        align-items: center;
-
         a {
             position: relative;
 
             display: block;
             border-radius: 4px;
-            flex: 1;
 
             padding: 4px 4px;
             text-decoration: none;
@@ -546,23 +542,25 @@ ul#markdown-toc {
     }
     li::before {
         color: $link;
-        transform: translateY(-1px);
+        top: 3px;
     }
 
     /* Nested list styling */
     ul {
-        margin-left: $spacing-unit;
         margin-top: 4px;
         margin-bottom: 4px;
-        padding-left: 16px;
 
         li a {
             font-size: 0.95em;
-            color: $gray;
+            color: $blue;
 
             &:hover {
-                color: $link;
+                color: $blue;
             }
+        }
+        li::before {
+            color: $blue;
+            top: 2px;
         }
 
         ul {

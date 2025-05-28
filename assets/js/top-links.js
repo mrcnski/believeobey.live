@@ -4,7 +4,7 @@
 
     function addTopLinks() {
         // Find all headers.
-        const headers = document.querySelectorAll('h2, h3, h4, h5, h6');
+        const headers = document.querySelectorAll('h2');
 
         headers.forEach(function(header) {
             // Skip if this header already has a top link
