@@ -20,6 +20,20 @@ Take, for example, Yeshua's commandments to forgive and not to hate others. Are 
 
 ## Loving our Neighbor
 
+### Love Kindness
+
+{% include verse.html
+text="He has told you, O mortal, what is good, and what does YHWH require of you but to do justice and to **love kindness** and to walk humbly with your God?"
+verse="Micah 6:8"
+%}
+
+{% include verse.html
+text="Thus says YHWH of hosts: Render true judgments, **show kindness and mercy to one another**; do not oppress the widow, the orphan, the alien, or the poor; and do not devise evil in your hearts against one another."
+verse="Zechariah 7:9-10"
+%}
+
+### You Shall Not Murder
+
 {% include verse.html
 text="“You have heard that it was said to those of ancient times, ‘You shall not murder,’ and ‘whoever murders shall be liable to judgment.’ **But I say to you that if you are angry with a brother or sister, you will be liable to judgment, and if you insult a brother or sister, you will be liable to the council, and if you say, ‘You fool,’ you will be liable to the hell of fire.** So when you are offering your gift at the altar, if you remember that your brother or sister has something against you, leave your gift there before the altar and go; first be reconciled to your brother or sister, and then come and offer your gift."
 verse="Matthew 5:21-24"
@@ -34,22 +48,15 @@ text="**All who hate a brother or sister are murderers**, and you know that murd
 verse="1 John 3:15"
 %}
 
----
+### Forgive
 
 {% include verse.html
-text="But I say to you: Love your enemies and pray for those who persecute you, so that you may be children of your Father in heaven, for he makes his sun rise on the evil and on the good and sends rain on the righteous and on the unrighteous. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?"
-verse="Matthew 5:44-46"
-%}
-
----
-
-{% include verse.html
-text="“Whenever you stand praying, forgive, if you have anything against anyone, so that your Father in heaven may also forgive you your trespasses.”"
+text="Whenever you stand praying, forgive, if you have anything against anyone, so that your Father in heaven may also forgive you your trespasses."
 verse="Mark 11:25"
 %}
 
 {% include verse.html
-text="“For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others, neither will your Father forgive your trespasses."
+text="For if you forgive others their trespasses, your heavenly Father will also forgive you, but if you do not forgive others, neither will your Father forgive your trespasses."
 verse="Matthew 6:14-15"
 %}
 
@@ -65,10 +72,10 @@ text="“Woe to you, scribes and Pharisees, hypocrites! For you tithe mint, dill
 verse="Matthew 23:23"
 %}
 
----
+### Do Not Judge
 
 {% include verse.html
-text="“Do not judge, so that you may not be judged. For the judgment you give will be the judgment you get, and the measure you give will be the measure you get."
+text="Do not judge, so that you may not be judged. For the judgment you give will be the judgment you get, and the measure you give will be the measure you get."
 verse="Matthew 7:1-2"
 %}
 
@@ -86,9 +93,30 @@ verse="Matthew 18:15-17"
 
 This sounds to me like the proper and loving way to deal with our brethren trapped in sin.
 
+### Love Your Enemies
+
+{% include verse.html
+text="But I say to you: Love your enemies and pray for those who persecute you, so that you may be children of your Father in heaven, for he makes his sun rise on the evil and on the good and sends rain on the righteous and on the unrighteous. For if you love those who love you, what reward do you have? Do not even the tax collectors do the same?"
+verse="Matthew 5:44-46"
+%}
+
 {% include image.html name="yeshua-taught-us-how-to-love/2.jpeg" alt="Yeshua Taught Us How to Love" width="500" %}
 
 ## Loving God
+
+### Believe
+
+{% include verse.html
+text="Do not let your hearts be troubled. Believe in God; believe also in me."
+verse="John 14:1"
+%}
+
+{% include verse.html
+text="Trust in YHWH with all your heart, and do not rely on your own insight."
+verse="Proverbs 3:5"
+%}
+
+### Obedience
 
 {% include verse.html
 text="So, for the sake of your tradition, you nullify the word of God. You hypocrites! Isaiah prophesied rightly about you when he said: ‘This people honors me with their lips, but their hearts are far from me; in vain do they worship me, teaching human precepts as doctrines.’"
@@ -109,7 +137,7 @@ text="**If you love me, you will keep my commandments.**"
 verse="John 14:15"
 %}
 
----
+### Fear of YHWH
 
 {% include verse.html
 text="Do not fear those who kill the body but cannot kill the soul; rather, fear the one who can destroy both soul and body in Gehenna."
@@ -124,7 +152,7 @@ verse="Proverbs 9:10"
 %}
 
 
----
+### Be His Witness
 
 {% include verse.html
 text="Everyone, therefore, who acknowledges me before others, I also will acknowledge before my Father in heaven, but whoever denies me before others, I also will deny before my Father in heaven."
@@ -133,7 +161,7 @@ verse="Matthew 10:32-33"
 
 This is a sobering warning to those who are ashamed of God and His Son. If we really loved Them, would we not confess Them?
 
----
+### Seek The Kingdom First
 
 {% include verse.html
 text="No one can serve two masters, for a slave will either **hate the one and love the other** or be devoted to the one and despise the other. You cannot serve God and wealth."
@@ -149,7 +177,7 @@ verse="Matthew 6:31-34"
 
 Trust Him, and seek His Kingdom above all else. That is how we love Him.
 
----
+### Love Others
 
 {% include verse.html
 text="Then the king will say to those at his right hand, ‘Come, you who are blessed by my Father, inherit the kingdom prepared for you from the foundation of the world, for I was hungry and you gave me food, I was thirsty and you gave me something to drink, I was a stranger and you welcomed me, I was naked and you gave me clothing, I was sick and you took care of me, I was in prison and you visited me.’ Then the righteous will answer him, ‘Lord, when was it that we saw you hungry and gave you food or thirsty and gave you something to drink? And when was it that we saw you a stranger and welcomed you or naked and gave you clothing? And when was it that we saw you sick or in prison and visited you?’ And the king will answer them, **‘Truly I tell you, just as you did it to one of the least of these brothers and sisters of mine, you did it to me.’**"
