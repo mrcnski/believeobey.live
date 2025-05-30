@@ -3,6 +3,8 @@
 .site-title {
     font-family: $logo-font-family;
     color: $logo-text !important;
+    text-decoration: none;
+    transition: opacity 0.3s ease-in-out;
 
     @include relative-font-size(1.625);
 
@@ -466,9 +468,9 @@ img + em {
     padding: 2px 8px;
     margin: 0 2px 0 0;
 
-    background: linear-gradient(135deg, rgba(64, 12, 115, 0.1) 0%, rgba(64, 12, 115, 0.05) 100%);
-    border: 1px solid rgba(64, 12, 115, 0.2);
-    border-radius: 10px;
+    background: linear-gradient(135deg, rgba(64, 12, 115, 0.06) 0%, rgba(64, 12, 115, 0.03) 100%);
+    border: 1px solid rgba(64, 12, 115, 0.3);
+    border-radius: 7px;
 
     font-size: $smallest-font-size;
     font-weight: $strong-font-weight;
@@ -494,7 +496,7 @@ img + em {
     }
 
     &:hover {
-        background: linear-gradient(135deg, rgba(64, 12, 115, 0.15) 0%, rgba(64, 12, 115, 0.08) 100%);
+        background: linear-gradient(135deg, rgba(64, 12, 115, 0.08) 0%, rgba(64, 12, 115, 0.05) 100%);
         border-color: rgba(64, 12, 115, 0.35);
         text-decoration: none !important;
 
@@ -636,7 +638,7 @@ ul#markdown-toc {
 
     color: $link;
     font-weight: $strong-font-weight;
-    font-size: $small-font-size;
+    font-size: $smaller-font-size;
     transition: background 0.3s ease, border-color 0.3s ease;
 
     /* Prevent text selection */
@@ -668,7 +670,7 @@ input ~ .toc {
 
 /* Expanded state (TOC visible) */
 input:checked ~ .toc {
-    margin-bottom: calc($spacing-unit / 4);
+    margin-bottom: calc($spacing-unit / 2);
 
     ~ ul#markdown-toc {
         display: block;

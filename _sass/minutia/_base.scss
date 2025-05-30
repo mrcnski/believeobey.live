@@ -143,7 +143,8 @@ ul li::before {
 
 a {
     color: $link;
-    text-decoration: none;
+    transition: text-decoration-color 0.25s ease-in-out;
+    text-decoration-color: transparent;
 
     &:visited {
         color: $link-visited;
@@ -151,6 +152,7 @@ a {
 
     &:hover {
         text-decoration: underline;
+        text-decoration-color: auto;
     }
 
     &:active {
@@ -168,6 +170,11 @@ h1, h2, h3, h4, h5, h6 {
     gap: 3rem;
 
     text-align: left;
+
+    a {
+        opacity: 1;
+        transition: opacity 0.3s ease;
+    }
 
     &,
     a,
