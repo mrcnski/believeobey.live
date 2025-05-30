@@ -308,7 +308,7 @@ img + em {
     font-size: $small-font-size;
 
     padding-left: calc($spacing-unit / 4);
-    margin-bottom: calc(3 * $spacing-unit / 4);
+    margin-bottom: 0;
 
     .post-meta-last-updated {
         font-size: $smaller-font-size;
@@ -316,7 +316,7 @@ img + em {
 }
 
 .post-meta-home {
-    margin-bottom: calc($spacing-unit / 4);
+    margin-bottom: calc($spacing-unit / 8);
 }
 
 .post-content {
@@ -337,7 +337,33 @@ img + em {
 }
 
 .post-info {
-    margin-bottom: calc($spacing-unit / 2);
+    margin-bottom: 10px;
+
+    .post-header-container {
+        margin-bottom: calc($spacing-unit / 4);
+    }
+}
+
+.post-header-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: calc(3 * $spacing-unit / 4);
+
+    .post-categories {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 4px;
+        flex-shrink: 0;
+
+        @include media-query(430px) {
+            flex-direction: column;
+            align-items: flex-end;
+            justify-content: center;
+            gap: 0.25rem;
+        }
+    }
 }
 
 .post-link {
@@ -345,6 +371,8 @@ img + em {
 
 .post-header {
     margin-bottom: 0;
+    flex: 1 1 auto;
+    min-width: 0; /* Allow text to wrap */
 }
 
 .post-description {
@@ -419,54 +447,75 @@ img + em {
 /* Categories */
 
 .categories {
-    text-align: left;
-    font-size: $large-font-size;
+    display: flex;
+    flex-wrap: wrap;
+
+    .category-container {
+        display: flex;
+        align-items: center;
+        margin-bottom: 1rem;
+
+        text-align: left;
+        font-size: $large-font-size;
+        line-height: 1.8;
+    }
 }
 
 .category-link {
-    color: $dark-purple !important;
-    padding: 0px 1px 1px 1px;
+    display: inline-block;
+    padding: 2px 8px;
+    margin: 0 2px 0 0;
 
-    // Prevent line breaks at hyphens.
+    background: linear-gradient(135deg, rgba(64, 12, 115, 0.1) 0%, rgba(64, 12, 115, 0.05) 100%);
+    border: 1px solid rgba(64, 12, 115, 0.2);
+    border-radius: 10px;
+
+    font-size: $smallest-font-size;
+    font-weight: $strong-font-weight;
+    color: $dark-purple !important;
+    text-decoration: none !important;
+
+    // Prevent line breaks at hyphens
     white-space: nowrap;
 
+    transition: all 0.2s ease;
+    position: relative;
+    overflow: hidden;
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+        transition: left 0.5s ease;
+    }
+
     &:hover {
-        text-decoration: none;
-        opacity: $hover-opacity;
+        background: linear-gradient(135deg, rgba(64, 12, 115, 0.15) 0%, rgba(64, 12, 115, 0.08) 100%);
+        border-color: rgba(64, 12, 115, 0.35);
+        text-decoration: none !important;
+
+        &::before {
+            left: 100%;
+        }
+    }
+
+    &:active {
+        transform: translateY(0);
+        box-shadow: 0 1px 3px rgba(64, 12, 115, 0.2);
     }
 }
 
 .category-count {
+    display: inline-block;
+    margin-right: 1.5rem;
+    padding: 2px 6px;
+    font-size: $smaller-font-size;
     color: $gray;
-}
-
-/* About */
-
-#face-pic {
-    float: left;
-    margin-right: 1em;
-    margin-bottom: 1em;
-    border: 1px solid;
-    border-radius: 10px;
-
-    max-width: 50%;
-}
-
-/* Resume */
-
-.resume {
-    a:visited {
-        // Make sure visited links don't change in color.
-        // This makes sure the look of the resume stays consistent.
-        //
-        // This interfered with heading colors (which contain anchor links),
-        // so `!important` was added there.
-        color: $link;
-    }
-}
-
-.resume-meta {
-    margin-bottom: 0;
+    font-weight: $base-font-weight;
 }
 
 /* 404 */
@@ -579,6 +628,7 @@ ul#markdown-toc {
     display: inline-flex;
     align-items: center;
 
+    margin-bottom: calc(3 * $spacing-unit / 4);
     padding: 8px 16px;
     background: rgba(42, 122, 226, 0.04);
     border: 1px solid $lighter-blue;
@@ -587,7 +637,7 @@ ul#markdown-toc {
     color: $link;
     font-weight: $strong-font-weight;
     font-size: $small-font-size;
-    transition: all 0.3s ease;
+    transition: background 0.3s ease, border-color 0.3s ease;
 
     /* Prevent text selection */
     -webkit-touch-callout: none;
@@ -618,6 +668,8 @@ input ~ .toc {
 
 /* Expanded state (TOC visible) */
 input:checked ~ .toc {
+    margin-bottom: calc($spacing-unit / 4);
+
     ~ ul#markdown-toc {
         display: block;
         opacity: 1;

@@ -1,10 +1,16 @@
 <div class="post-info">
 
-  <h3 class="post-header"><a class="post-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h3>
+  <div class="post-header-container">
+    <div>
+      <h3 class="post-header"><a class="post-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h3>
 
-  <p class="post-meta post-meta-home">
-    {% include post-meta.html %}
-  </p>
+      <p class="post-meta post-meta-home">
+        {% include post-meta.html %}
+      </p>
+    </div>
+
+    {% include post-categories.html %}
+  </div>
 
   {% if page.description and include.description == 1 %}
   <span class="post-description">{{ page.description }}</span>

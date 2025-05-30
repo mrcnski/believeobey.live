@@ -6,20 +6,24 @@ layout: default
 
   <header class="page-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-      {% include post-meta.html %}
-      <br>
-      <span class="post-meta-last-updated">
-        <i>
-          <a href="https://github.com/mrcnski/believeobey.live/commits/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.slug }}.md">
-            Last Updated:
-            <time datetime="{{ page.path | last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
-              {{ page.path | last_modified_at | date: date_format }}
-            </time>
-          </a>
-        </i>
-      </span>
-    </p>
+
+    <div class="post-header-container">
+      <p class="post-meta">
+        {% include post-meta.html %}
+        <br>
+        <span class="post-meta-last-updated">
+          <i>
+            <a href="https://github.com/mrcnski/believeobey.live/commits/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.slug }}.md">
+              Last Updated:
+              <time datetime="{{ page.path | last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
+                {{ page.path | last_modified_at | date: date_format }}
+              </time>
+            </a>
+          </i>
+        </span>
+      </p>
+      {% include post-categories.html %}
+    </div>
   </header>
 
   <div class="post-content" itemprop="articleBody">

@@ -1,0 +1,10 @@
+{% if page.categories.size > 0 %}
+<div class="post-categories">
+  {% for category in page.categories %}
+  <a class="category-link" href="/{{ site.category_dir }}/{{ category }}/" rel="category">
+    {{ category }}
+  </a>
+  {% endfor %}
+
+</div>
+{% endif %}
