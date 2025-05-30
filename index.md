@@ -5,9 +5,11 @@
 layout: home
 ---
 
+# Home
+
 {% include image.html name="index-header.jpeg" alt="Believe, Live, Obey." %}
 
-# Studies
+## Studies
 
 {% for page in site.posts %}
 {% unless page.hidden %}
@@ -15,7 +17,7 @@ layout: home
 {% endunless %}
 {% endfor %}
 
-# Other Pages
+## Other Pages
 
 <h3>
   <a href="/about" class="post-link">About</a>
@@ -25,5 +27,6 @@ layout: home
   <a href="https://github.com/mrcnski/believeobey.live/commits/master/" class="post-link">Recent Updates</a>
 </h3>
 
+<script src="/assets/js/anchorize.js"></script>
 <script async src="https://talk.hyvor.com/embed/newsletter.js" type="module"></script>
 <hyvor-talk-newsletter website-id="12077"></hyvor-talk-newsletter>
