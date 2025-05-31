@@ -15,7 +15,7 @@ text="YHWH says to my lord, “Sit at my right hand until I make your enemies yo
 verse="Psalm 110:1"
 %}
 
-It is widely accepted that the Father is speaking to the Son here, confirmed by Yeshua in {% include inline-verse.html verse="Matthew 22:42-45" text-after="." %} Let's look at some more verses:
+It seems that the Father is speaking to the Son here, evidently confirmed by Yeshua in {% include inline-verse.html verse="Matthew 22:42-45" text-after="." %} Let's look at some more verses:
 
 {% include verse.html
 text="For you are our father, though Abraham does not know us and Israel does not acknowledge us; **you, O YHWH, are our father**; our Redeemer from of old is your name."
@@ -32,7 +32,7 @@ text="I will tell of the decree of YHWH: He said to me, You are my son; today I 
 verse="Psalm 2:7"
 %}
 
-It seems that YHWH is the one who begets the Son. Is that the full story, though?
+It seems that YHWH is the one who would beget the Son. Is that the full story, though?
 
 {% include image.html name="who-is-the-son-1.jpeg" alt="Who is the Son?" width="741" %}
 
@@ -179,7 +179,7 @@ verse="Exodus 3:2-4,16"
 %}
 
 {% include verse.html
-text="<strong>Now the angel of YWHH came and sat under the oak at Ophrah</strong>, which belonged to Joash the Abiezrite, as his son Gideon was beating out wheat in the winepress, to hide it from the Midianites. The angel of YHWH appeared to him and said to him, “YHWH is with you, you mighty warrior.” Gideon answered him, “But sir, if YHWH is with us, why then has all this happened to us? And where are all his wonderful deeds that our ancestors recounted to us, saying, ‘Did not YHWH bring us up from Egypt?’ But now YHWH has cast us off and given us into the hand of Midian.” **Then YHWH turned to him and said**, “Go in this might of yours and deliver Israel from the hand of Midian; I hereby commission you.”"
+text="<strong>Now the angel of YHWH came and sat under the oak at Ophrah</strong>, which belonged to Joash the Abiezrite, as his son Gideon was beating out wheat in the winepress, to hide it from the Midianites. The angel of YHWH appeared to him and said to him, “YHWH is with you, you mighty warrior.” Gideon answered him, “But sir, if YHWH is with us, why then has all this happened to us? And where are all his wonderful deeds that our ancestors recounted to us, saying, ‘Did not YHWH bring us up from Egypt?’ But now YHWH has cast us off and given us into the hand of Midian.” **Then YHWH turned to him and said**, “Go in this might of yours and deliver Israel from the hand of Midian; I hereby commission you.”"
 verse="Judges 6:11-14"
 %}
 
