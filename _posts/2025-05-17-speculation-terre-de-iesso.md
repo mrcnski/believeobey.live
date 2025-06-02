@@ -85,6 +85,12 @@ text="They marched up over the breadth of the earth and surrounded the camp of t
 verse="Revelation 20:9"
 %}
 
+{% include verse.html
+text="And in those days a whirlwind carried me off from the earth, And set me down at the end of the heavens. And there I saw another vision, the dwelling-places of the holy, And the resting-places of the righteous. Here mine eyes saw their dwellings with His righteous angels, And their resting-places with the holy."
+verse="Enoch 39:3-5"
+url="https://parallel.thebookofenoch.info/#39"
+%}
+
 ## The Two Seas
 
 {% include verse.html
