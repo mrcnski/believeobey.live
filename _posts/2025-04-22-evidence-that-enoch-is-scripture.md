@@ -96,7 +96,7 @@ text="And the sea gave up the dead who were in it, Death and Hades gave up the d
 verse="Revelation 20:13"
 %}
 
-## More Evidence from Canon
+## References in Scripture
 
 {% include verse.html
 text="And the angels who did not keep their own position but deserted their proper dwelling, he has kept in eternal chains in deepest darkness for the judgment of the great day."
@@ -126,7 +126,7 @@ verse="Enoch 10:8-9"
 url="https://parallel.thebookofenoch.info/#10"
 %}
 
----
+## Similarities with other Scripture
 
 {% include verse.html
 text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused His light to appear On the face of the holy, righteous, and elect."
@@ -168,17 +168,19 @@ text="A shoot shall come out from the stump of Jesse, and a branch shall grow ou
 verse="Isaiah 11:1-2"
 %}
 
-## The Animal Prophecy
+## Other Points of Interest
+
+### The Animal Prophecy
 
 Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://parallel.thebookofenoch.info/#90) contain an epic prophecy about the history of the chosen people. As it's a long prophecy, I will not reproduce it here. But the interesting thing is that there are at least two sections in the canon that are remarkably similar to Enoch's animal prophecy: {% include inline-verse.html verse="Isaiah 56:9-12" %} and {% include inline-verse.html verse="Ezekiel 34" text-after="." %} I also won't reproduce these here, but I recommend studying them and comparing them to Enoch.
 
-## The Calendar
+### The Calendar
 
 The Book of Enoch is the only place in Scripture where the calendar is given. See Enoch chapters [72](https://parallel.thebookofenoch.info/#72) to [80](https://parallel.thebookofenoch.info/#80).
 
 When describing the feast days, the books of Torah assumed that the readers were already familiar with the calendar. This makes sense when we consider that the Book of Enoch had already been written a long time before Moses received the Torah.
 
-## Other Points of Interest
+### Dan
 
 {% include verse.html
 text="When Abram heard that his nephew had been taken captive, he led forth his trained men, born in his house, three hundred eighteen of them, and went in pursuit as far as **Dan**."
