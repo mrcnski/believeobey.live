@@ -356,7 +356,7 @@ img + em {
 .post-header-container {
     display: flex;
     justify-content: space-between;
-    gap: 2rem;
+    gap: 1rem;
     margin-bottom: calc(3 * $spacing-unit / 4);
 
     .post-categories {
@@ -365,6 +365,13 @@ img + em {
         align-items: center;
         gap: 4px;
         flex-shrink: 0;
+
+        @include media-query(430px) {
+            flex-direction: column;
+            align-items: flex-end;
+            justify-content: center;
+            gap: 0.25rem;
+        }
     }
 }
 
