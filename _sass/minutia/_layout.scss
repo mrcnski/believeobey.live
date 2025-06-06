@@ -338,11 +338,18 @@ img + em {
     }
 }
 
+// Post info, e.g. the index page.
 .post-info {
     margin-bottom: 10px;
 
     .post-header-container {
         margin-bottom: calc($spacing-unit / 4);
+
+        .post-categories {
+            @include media-query(520px) {
+                display: none;
+            }
+        }
     }
 }
 
@@ -358,13 +365,6 @@ img + em {
         align-items: center;
         gap: 4px;
         flex-shrink: 0;
-
-        @include media-query(430px) {
-            flex-direction: column;
-            align-items: flex-end;
-            justify-content: center;
-            gap: 0.25rem;
-        }
     }
 }
 
