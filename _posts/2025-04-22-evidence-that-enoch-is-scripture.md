@@ -61,8 +61,9 @@ url="https://parallel.thebookofenoch.info/#5"
 
 {% include verse.html
 text="Blessed are the resting ones, for they will inherit the earth."
-verse="Matthew 5:5 [Hebrew]"
+verse="Matthew 5:5"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
+version="Hebrew"
 %}
 
 {% include verse.html
@@ -79,7 +80,7 @@ url="https://parallel.thebookofenoch.info/#38"
 %}
 
 {% include verse.html
-text="woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born.”"
+text="woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born."
 verse="Matthew 26:24"
 %}
 
@@ -129,6 +130,19 @@ url="https://parallel.thebookofenoch.info/#10"
 ## Similarities with other Scripture
 
 {% include verse.html
+text="In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners."
+verse="Enoch 100:4"
+url="https://parallel.thebookofenoch.info/#100"
+%}
+
+{% include verse.html
+text="The Son of Man will send his angels, and they will collect out of his kingdom all causes of sin and all evildoers, and they will throw them into the furnace of fire, where there will be weeping and gnashing of teeth."
+verse="Matthew 13:41-42"
+%}
+
+---
+
+{% include verse.html
 text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused His light to appear On the face of the holy, righteous, and elect."
 verse="Enoch 38:4"
 url="https://parallel.thebookofenoch.info/#38"
@@ -151,8 +165,9 @@ url="https://parallel.thebookofenoch.info/#48"
 text="In the beginning was the Son of Eloah. The Son of El
 was both with El, and the Son of El was Eloah. This one was
 in the beginning with El."
-verse="John 1:1 [Hebrew]"
+verse="John 1:1"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+version="Hebrew"
 %}
 
 ---
@@ -166,6 +181,59 @@ url="https://parallel.thebookofenoch.info/#49"
 {% include verse.html
 text="A shoot shall come out from the stump of Jesse, and a branch shall grow out of his roots. The spirit of YHWH shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of YHWH."
 verse="Isaiah 11:1-2"
+%}
+
+---
+
+### The Seven Spirits
+
+There is a mystery that is not really answered in the canon: who or what are the seven spirits?
+
+{% include verse.html
+text="and in front of the throne burn seven flaming torches, which are the seven spirits of God ..."
+verse="Revelation 4:5"
+%}
+
+{% include verse.html
+text="Then I saw between the throne and the four living creatures and among the elders a Lamb standing as if it had been slaughtered, with seven horns and seven eyes, which are the **seven spirits of God** sent out into all the earth."
+verse="Revelation 5:6"
+%}
+
+{% include verse.html
+text="For on the stone that I have set before Joshua, **on a single stone with seven facets,** I will engrave its inscription, says the Lord of hosts, and I will remove the guilt of this land in a single day."
+verse="Zechariah 3:9"
+%}
+
+{% include verse.html
+text="These seven are the eyes of YHWH that range through the whole earth."
+verse="Zechariah 4:10"
+%}
+
+Interestingly, in Enoch there are seven archangels:
+
+{% include verse.html
+text="And these are the names of the holy angels who watch. <strong>Uriel</strong>, one of the holy angels, who is over the world and over Tartarus. <strong>Raphael</strong>, one of the holy angels, who is over the spirits of men. <strong>Raguel</strong>, one of the holy angels who takes vengeance on the world of the luminaries. <strong>Michael</strong>, one of the holy angels, to wit, he that is set over the best part of mankind and over chaos. <strong>Saraqael</strong>, one of the holy angels, who is set over the spirits, who sin in the spirit. <strong>Gabriel</strong>, one of the holy angels, who is over Paradise and the serpents and the Cherubim. <strong>Remiel</strong>, one of the holy angels, whom God set over those who rise."
+verse="Enoch 20"
+url="https://parallel.thebookofenoch.info/#20"
+%}
+
+{% include verse.html
+text="And those **seven holy ones** brought me and placed me on the earth before the door of my house ..."
+verse="Enoch 81:5"
+url="https://parallel.thebookofenoch.info/#81"
+%}
+
+{% include verse.html
+text="And I raised mine eyes again to heaven, and I saw in the vision, and behold there came forth from heaven beings who were like white men: and four went forth from that place and three with them."
+verse="Enoch 87:2-3"
+url="https://parallel.thebookofenoch.info/#87"
+%}
+
+{% include verse.html
+text="And the Lord called those men **the seven first white ones,** and commanded that they should bring before Him..."
+verse="Enoch 90:21"
+url="https://parallel.thebookofenoch.info/#90"
+version="Charles"
 %}
 
 ## Other Points of Interest
