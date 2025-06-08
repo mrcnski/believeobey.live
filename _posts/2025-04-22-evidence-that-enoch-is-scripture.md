@@ -53,6 +53,7 @@ Here are some more instances where the canonical books seem to quote almost verb
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="But for the elect there shall be light and joy and peace, And they shall inherit the earth."
 verse="Enoch 5:7"
@@ -70,9 +71,11 @@ version="Hebrew"
 text="But the meek shall inherit the land and delight themselves in abundant prosperity."
 verse="Psalm 37:11"
 %}
+</div>
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="And where the resting-place of those who have denied the Lord of Spirits? It had been good for them if they had not been born."
 verse="Enoch 38:2"
@@ -83,9 +86,11 @@ url="https://parallel.thebookofenoch.info/#38"
 text="woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born."
 verse="Matthew 26:24"
 %}
+</div>
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="And in those days shall the earth also give back that which has been entrusted to it, And Sheol also shall give back that which it has received, And hell shall give back that which it owes."
 verse="Enoch 51:1"
@@ -96,6 +101,7 @@ url="https://parallel.thebookofenoch.info/#51"
 text="And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and all were judged according to what they had done."
 verse="Revelation 20:13"
 %}
+</div>
 
 ## References in Scripture
 
@@ -129,6 +135,7 @@ url="https://parallel.thebookofenoch.info/#10"
 
 ## Similarities with other Scripture
 
+<div class="columns">
 {% include verse.html
 text="In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners."
 verse="Enoch 100:4"
@@ -139,9 +146,11 @@ url="https://parallel.thebookofenoch.info/#100"
 text="The Son of Man will send his angels, and they will collect out of his kingdom all causes of sin and all evildoers, and they will throw them into the furnace of fire, where there will be weeping and gnashing of teeth."
 verse="Matthew 13:41-42"
 %}
+</div>
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused His light to appear On the face of the holy, righteous, and elect."
 verse="Enoch 38:4"
@@ -152,9 +161,11 @@ url="https://parallel.thebookofenoch.info/#38"
 text="Then the righteous will shine like the sun in the kingdom of their Father. Let anyone with ears listen!"
 verse="Matthew 13:43"
 %}
+</div>
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="And for this reason hath he been chosen and hidden before Him, before the creation of the world and for evermore."
 verse="Enoch 48:6"
@@ -169,9 +180,11 @@ verse="John 1:1"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
 version="Hebrew"
 %}
+</div>
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="And in him dwells the spirit of wisdom, And the spirit which gives insight, And the spirit of understanding and of might, And the spirit of those who have fallen asleep in righteousness."
 verse="Enoch 49:3"
@@ -182,8 +195,60 @@ url="https://parallel.thebookofenoch.info/#49"
 text="A shoot shall come out from the stump of Jesse, and a branch shall grow out of his roots. The spirit of YHWH shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of YHWH."
 verse="Isaiah 11:1-2"
 %}
+</div>
 
 ---
+
+<div class="columns">
+{% include verse.html
+text="This is the son of Man who hath righteousness, With whom dwelleth righteousness, And who revealeth all the treasures of that which is hidden, Because the Lord of Spirits hath chosen him, **And whose lot hath the pre-eminence before the Lord of Spirits** in uprightness for ever."
+verse="Enoch 46:3"
+%}
+
+{% include verse.html
+text="Your throne, O God, endures forever and ever. Your royal scepter is a scepter of equity; you love righteousness and hate wickedness. **Therefore God, your God, has anointed you with the oil of gladness beyond your companions**"
+verse="Psalm 45:6-7"
+%}
+</div>
+
+### Judgment
+
+<div class="columns">
+{% include verse.html
+text="Know ye that their souls will be made to descend into Sheol... but the souls of the righteous are in the hand of God and shall not be judged at that great judgment... they shall shine and rejoice."
+verse="Enoch 104:5-6"
+%}
+
+{% include verse.html
+text="He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God."
+verse="John 3:18"
+version="NASB1995"
+%}
+</div>
+
+---
+
+{% include verse.html
+text="The Father judges no one but has given all judgment to the Son ...."
+verse="John 5:22"
+%}
+
+<div class="columns">
+{% include verse.html
+text="... and **he has given him authority to execute judgment because he is the Son of Man.**"
+verse="John 5:27"
+%}
+
+{% include verse.html
+text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
+verse="Enoch 69:27"
+%}
+</div>
+
+{% include verse.html
+text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
+verse="Enoch 49:4"
+%}
 
 ### The Seven Spirits
 

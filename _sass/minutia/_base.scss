@@ -219,6 +219,9 @@ h2 {
 }
 
 h3 {
+    margin-top: calc(3 * $spacing-unit / 4);
+    margin-bottom: calc(3 * $spacing-unit / 4);
+
     @include relative-font-size(1.375);
 
     &,
