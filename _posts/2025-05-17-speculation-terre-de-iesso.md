@@ -127,6 +127,22 @@ text="On that day living water shall flow out from Jerusalem, **half of it to th
 verse="Zechariah 14:8"
 %}
 
+In the following verses about the two seas the "ends of the earth" are also mentioned, as we saw above in {% include inline-verse.html verse="Enoch 18:6-9" url="https://parallel.thebookofenoch.info/#18" text-after=":" %}
+
+{% capture inline %}
+Note that while this verse is about Solomon, it is also a prophecy as it is repeated in the Zechariah verse below!
+{% endcapture %}
+{% include verse.html
+text="May he have dominion from sea to sea and from the River to the ends of the earth."
+verse="Psalm 72:8"
+caption=inline
+%}
+
+{% include verse.html
+text="and he shall command peace to the nations; his dominion shall be from sea to sea and from the River to the ends of the earth."
+verse="Zechariah 9:10"
+%}
+
 ## A Possible Map?
 
 Here is my latest understanding of the true geography, based on the scriptural evidence:

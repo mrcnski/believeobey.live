@@ -1,25 +1,35 @@
-<div class="verse">
-  <p>
-    <i>
-      {{ include.text | replace_regex: '\*\*(.+)\*\*', '<strong>\1</strong>'}}
-    </i>
-  </p>
-  <p class="verse-verse">
-    ~
-    {% if include.url %}
-    <a href="{{ include.url }}">
-      {{ include.verse }}
-      {% if include.version %}
-      ({{ include.version }})
+<div class="verse-wrapper">
+  <div class="verse">
+    <p>
+      <i>
+        {{ include.text | replace_regex: '\*\*(.+)\*\*', '<strong>\1</strong>'}}
+      </i>
+    </p>
+    <p class="verse-verse">
+      ~
+      {% if include.url %}
+      <a href="{{ include.url }}">
+        {{ include.verse }}
+        {% if include.version %}
+        ({{ include.version }})
+        {% endif %}
+      </a>
+      {% else %}
+      <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version={{ include.version | default: 'NRSVUE' }}">
+        {{ include.verse }}
+        {% if include.version %}
+        ({{ include.version }})
+        {% endif %}
+      </a>
       {% endif %}
-    </a>
-    {% else %}
-    <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version={{ include.version | default: 'NRSVUE' }}">
-      {{ include.verse }}
-      {% if include.version %}
-      ({{ include.version }})
-      {% endif %}
-    </a>
-    {% endif %}
-  </p>
+    </p>
+  </div>
+
+  {% if include.caption %}
+  <em class="caption">
+    {{ include.caption }}
+  </em>
+  {% else %}
+  <div class="empty-caption"></div>
+  {% endif %}
 </div>

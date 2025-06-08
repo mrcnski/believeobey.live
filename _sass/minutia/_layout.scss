@@ -116,7 +116,6 @@
     margin-right: calc($spacing-unit / 2);
     padding-left: calc($spacing-unit / 2);
     margin-top: 1;
-    margin-bottom: calc($spacing-unit / 2 + 1px);
 
     p {
         margin: 0;
@@ -126,6 +125,15 @@
         font-size: $small-font-size;
         margin-top: calc($spacing-unit / 16);
     }
+
+    + .caption {
+        margin-top: calc($spacing-unit / 8);
+        margin-left: calc($spacing-unit / 2);
+        text-align: left;
+    }
+    + .empty-caption {
+        margin-bottom: calc($spacing-unit / 2 + 1px);
+    }
 }
 
 /* Images */
@@ -133,35 +141,42 @@
 .img-wrapper {
     padding-left: calc($spacing-unit / 2);
     padding-right: calc($spacing-unit / 2);
+
+    img {
+        // Center images
+        &.center {
+            margin: auto; /* Center image horizontally */
+            margin-top: calc($spacing-unit * 3/4);
+            margin-bottom: calc($spacing-unit / 8);
+
+            max-width: 100%;
+            display: block;
+        }
+
+        // Image borders
+        &.border {
+            border: 1px solid $gray;
+            border-radius: $border-radius;
+        }
+    }
 }
 
-// Center images
-img.center {
-    margin: auto; /* Center image horizontally */
-    margin-top: calc($spacing-unit * 3/4);
-    margin-bottom: calc($spacing-unit / 8);
+/* Captions */
 
-    max-width: 100%;
-    display: block;
-}
-
-// Image borders
-img.border {
-    border: 1px solid $gray;
-    border-radius: $border-radius;
-}
-
-// Add image captions
-.empty-caption {
-    margin-bottom: calc($spacing-unit * 5/8);
-}
-
-img + em {
+.caption {
     margin-bottom: calc($spacing-unit / 2);
     display: block;
     text-align: center;
     font-size: $small-font-size;
     color: $dark-gray;
+}
+
+img {
+    + .caption {
+    }
+    + .empty-caption {
+        margin-bottom: calc($spacing-unit * 5/8);
+    }
 }
 
 /* Todo */
