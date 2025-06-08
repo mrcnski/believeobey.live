@@ -110,29 +110,31 @@
 
 /* Verses */
 
-.verse {
-    border-left: 3px solid $lighter-blue;
-    margin-left: calc($spacing-unit / 2);
-    margin-right: calc($spacing-unit / 2);
-    padding-left: calc($spacing-unit / 2);
-    margin-top: 1px;
-
-    p {
-        margin: 0;
-    }
-
-    .verse-verse {
-        font-size: $small-font-size;
-        margin-top: calc($spacing-unit / 16);
-    }
-
-    + .caption {
-        margin-top: calc($spacing-unit / 8);
+.verse-wrapper {
+    .verse {
+        border-left: 3px solid $lighter-blue;
         margin-left: calc($spacing-unit / 2);
-        text-align: left;
-    }
-    + .empty-caption {
-        margin-bottom: calc($spacing-unit / 2 + 1px);
+        margin-right: calc($spacing-unit / 2);
+        padding-left: calc($spacing-unit / 2);
+        margin-top: 1px;
+
+        p {
+            margin: 0;
+        }
+
+        .verse-verse {
+            font-size: $small-font-size;
+            margin-top: calc($spacing-unit / 16);
+        }
+
+        + .caption {
+            margin-top: calc($spacing-unit / 8);
+            margin-left: calc($spacing-unit / 2);
+            text-align: left;
+        }
+        + .empty-caption {
+            margin-bottom: calc($spacing-unit / 2 + 1px);
+        }
     }
 }
 
@@ -146,7 +148,7 @@
         // Center images
         &.center {
             margin: auto; /* Center image horizontally */
-            margin-top: calc($spacing-unit * 3/4);
+            margin-top: calc($spacing-unit * 1/4);
             margin-bottom: calc($spacing-unit / 8);
 
             max-width: 100%;
@@ -179,53 +181,42 @@ img {
     }
 }
 
-/* Todo */
+/* Todo, Notes, Update */
 
+.todo, .note, .update {
+    padding: calc($spacing-unit / 4) calc($spacing-unit / 2);
+    margin-top: calc($spacing-unit / 4);
+    margin-bottom: calc($spacing-unit * 3/4);
+    margin-left: calc($spacing-unit * 3/4);
+    margin-right: calc($spacing-unit * 3/4);
+
+    overflow: auto;
+
+    &::before {
+        display: block;
+        margin-bottom: calc($spacing-unit / 8);
+        font-weight: $bold-font-weight;
+    }
+}
 .todo {
     border: 2px dashed $red;
-    padding: calc($spacing-unit / 4) calc($spacing-unit / 2);
-    margin: calc($spacing-unit * 3/4) calc($spacing-unit / 2);
-    overflow: auto;
 
     &::before {
         content: "TODO:";
-        display: block;
-        margin-bottom: calc($spacing-unit / 8);
-        font-weight: $bold-font-weight;
     }
 }
-
-/* Notes */
-
 .note {
-    padding: calc($spacing-unit / 4) calc($spacing-unit / 2);
     border: 1px solid $green;
-    margin: calc($spacing-unit * 3/4) calc($spacing-unit / 2);
-
-    overflow: auto;
 
     &::before {
         content: "Note:";
-        display: block;
-        margin-bottom: calc($spacing-unit / 8);
-        font-weight: $bold-font-weight;
     }
 }
-
-/* Update */
-
 .update {
-    padding: calc($spacing-unit / 4) calc($spacing-unit / 2);
-    border: 1px solid $blue;
-    margin: calc($spacing-unit * 3/4) calc($spacing-unit / 2);
-
-    overflow: auto;
+    border: 1px solid $red;
 
     &::before {
         content: "Update:";
-        display: block;
-        margin-bottom: calc($spacing-unit / 8);
-        font-weight: $bold-font-weight;
     }
 }
 
@@ -291,10 +282,23 @@ img {
     font-size: $content-font-size;
 }
 
+/* Home */
+
+.home {
+    /* Disable margin collapsing. */
+    display: flex;
+    flex-direction: column;
+}
+
 /* Page */
 
-.page-content {
+.page-content, .post-content {
     text-align: justify;
+    margin-bottom: calc($spacing-unit / 2);
+
+    /* Disable margin collapsing. */
+    display: flex;
+    flex-direction: column;
 
     @include media-query($on-palm) {
         text-align: left;
@@ -337,11 +341,6 @@ img {
 }
 
 .post-content {
-    text-align: justify;
-
-    @include media-query($on-palm) {
-        text-align: left;
-    }
 }
 
 .post-list {
@@ -358,7 +357,7 @@ img {
     margin-bottom: 10px;
 
     .post-header-container {
-        margin-bottom: calc($spacing-unit / 4);
+        margin-bottom: 0;
 
         .post-categories {
             @include media-query(520px) {
@@ -414,8 +413,6 @@ img {
 .post-filed {
     display: flex;
 
-    margin-top: $spacing-unit;
-
     p {
         flex: 1 1 auto;
 
@@ -448,7 +445,7 @@ img {
 }
 
 .post-footer {
-    padding-bottom: calc($spacing-unit / 4);
+    padding-bottom: calc($spacing-unit / 2);
     border-bottom: 1px solid $mild-gray;
     // margin-bottom: $spacing-unit;
 }
@@ -651,6 +648,7 @@ ul#markdown-toc {
     cursor: pointer;
     display: inline-flex;
     align-items: center;
+    width: fit-content;
 
     margin-bottom: calc(3 * $spacing-unit / 4);
     padding: 8px 16px;
