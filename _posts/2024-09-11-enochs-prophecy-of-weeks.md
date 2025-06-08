@@ -8,7 +8,7 @@ categories: prophecy apocrypha
 - See also [this page](/pow) for a comparison of the PoW with the Septuagint timeline.
 
 <br>
-
+<style>canvas { width: fit-content } </style>
 <canvas id="canvas" width="8000" height="245"></canvas>
 
 **Week 1:** I was born the seventh in the first week, While judgement and righteousness still endured. [(Enoch 93:3)](https://parallel.thebookofenoch.info/#93)
