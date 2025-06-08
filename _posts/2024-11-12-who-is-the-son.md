@@ -215,8 +215,9 @@ The word for God here is "Elohim", and the word for angel is "malak".
 
 {% include verse.html
 text="And on another day, Yochanan and two of his talmidim stood again, looking at Yeshua as he walked, and said, “Behold the Mal’ach [Angel] of YHWH.”"
-verse="John 1:36 [Hebrew]"
+verse="John 1:36"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+version="Hebrew"
 %}
 
 {% include image.html name="who-is-the-son-2.jpeg" alt="Who is the Son?" width="500" %}
@@ -289,14 +290,16 @@ url="https://parallel.thebookofenoch.info/#48"
 text="**In the beginning was the Son of Eloah.** The Son of El
 was both with El, and the Son of El was Eloah. This one was
 in the beginning with El."
-verse="John 1:1-2 [Hebrew]"
+verse="John 1:1-2"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+version="Hebrew"
 %}
 
 {% include verse.html
 text="So Yeshua said to them, “Truth I say to you that before Avraham existed I, I am!”"
-verse="John 8:58 [Hebrew]"
+verse="John 8:58"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+version="Hebrew"
 %}
 
 Quote from the footnote: "[Yeshua] this time uses a verb from the root ‘היה’ (from which the Name YHWH is formed), hinting even more clearly at the fact that he is YHWH."
@@ -305,14 +308,16 @@ Quote from the footnote: "[Yeshua] this time uses a verb from the root ‘היה
 
 {% include verse.html
 text="In the beginning was the Son of Eloah. The Son of El was both with El, and **the Son of El was Eloah.** This one was in the beginning with El."
-verse="John 1:1-2 [Hebrew]"
+verse="John 1:1-2"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+version="Hebrew"
 %}
 
 {% include verse.html
 text="In this way El will come - with [the glory of] his Father with the messengers, and then he will return to every one according to his deeds."
-verse="Matthew 16:27 [Hebrew]"
+verse="Matthew 16:27"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
+version="Hebrew"
 %}
 
 ---
@@ -324,6 +329,13 @@ verse="Genesis 48:15-16"
 
 The word for God here is "Elohim", and the word for angel is "malak".
 
+---
+
+{% include verse.html
+text="**Your throne, O God**, endures forever and ever. Your royal scepter is a scepter of equity; you love righteousness and hate wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions"
+verse="Psalm 45:6-7"
+%}
+
 ## Other Interesting Verses
 
 {% include verse.html
@@ -334,8 +346,9 @@ Father? Do you not believe that I am as the Father, and the Father
 is in me? The words which I speak, I do not speak from myself; but
 the Father, abiding with me, he does the words. Do you not believe
 that I am he, and that the Father is in me? "
-verse="John 14:9-11 [Hebrew]"
+verse="John 14:9-11"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
+version="Hebrew"
 %}
 
 ---
