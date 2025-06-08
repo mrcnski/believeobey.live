@@ -111,12 +111,17 @@
 /* Verses */
 
 .verse-wrapper {
+    margin-left: calc($spacing-unit / 2);
+    margin-right: calc($spacing-unit / 2);
+    margin-top: 1px;
+
     .verse {
+        $border-width: 3px;
+        $padding-width: calc($spacing-unit / 2);
+        $caption-margin: calc($border-width + $padding-width);
+
         border-left: 3px solid $lighter-blue;
-        margin-left: calc($spacing-unit / 2);
-        margin-right: calc($spacing-unit / 2);
-        padding-left: calc($spacing-unit / 2);
-        margin-top: 1px;
+        padding-left: $padding-width;
 
         p {
             margin: 0;
@@ -125,15 +130,26 @@
         .verse-verse {
             font-size: $small-font-size;
             margin-top: calc($spacing-unit / 16);
+
+            font-size: $smaller-font-size;
+            @include media-query($on-palm) {
+                font-size: $smallest-font-size;
+            }
         }
 
         + .caption {
             margin-top: calc($spacing-unit / 8);
-            margin-left: calc($spacing-unit / 2);
+            margin-left: $caption-margin;
+            margin-right: $caption-margin;
             text-align: left;
         }
         + .empty-caption {
             margin-bottom: calc($spacing-unit / 2 + 1px);
+        }
+
+        font-size: $base-font-size;
+        @include media-query($on-palm) {
+            font-size: $small-font-size;
         }
     }
 }
@@ -275,11 +291,14 @@ img {
 /* Default */
 
 .default-content {
+    flex: 1;
     margin-bottom: calc($spacing-unit);
 
-    flex: 1;
-
     font-size: $content-font-size;
+
+    @include media-query($on-palm) {
+        font-size: $base-font-size;
+    }
 }
 
 /* Home */
@@ -288,6 +307,11 @@ img {
     /* Disable margin collapsing. */
     display: flex;
     flex-direction: column;
+
+    > h3 {
+        margin-top: 0;
+        margin-bottom: calc($spacing-unit * 1/2);
+    }
 }
 
 /* Page */
@@ -355,6 +379,10 @@ img {
 // Post info, e.g. the index page.
 .post-info {
     margin-bottom: 10px;
+
+    h3 {
+        margin-top: 0;
+    }
 
     .post-header-container {
         margin-bottom: 0;
@@ -721,10 +749,15 @@ input:checked ~ .toc {
 
 .columns {
     display: flex;
-    gap: calc($spacing-unit / 2);
 
     div {
         flex: 1;
         text-align: left;
+    }
+
+    @include media-query($on-palm) {
+        &.three-columns {
+            flex-direction: column;
+        }
     }
 }
