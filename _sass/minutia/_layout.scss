@@ -123,6 +123,8 @@
         border-left: 3px solid $lighter-blue;
         padding-left: $padding-width;
 
+        font-size: $base-font-size;
+
         p {
             margin: 0;
         }
@@ -147,7 +149,6 @@
             margin-bottom: calc($spacing-unit / 2 + 1px);
         }
 
-        font-size: $base-font-size;
         @include media-query($on-palm) {
             font-size: $small-font-size;
         }

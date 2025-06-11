@@ -203,11 +203,32 @@ verse="Isaiah 11:1-2"
 {% include verse.html
 text="This is the son of Man who hath righteousness, With whom dwelleth righteousness, And who revealeth all the treasures of that which is hidden, Because the Lord of Spirits hath chosen him, **And whose lot hath the pre-eminence before the Lord of Spirits** in uprightness for ever."
 verse="Enoch 46:3"
+url="https://parallel.thebookofenoch.info/#46"
 %}
 
 {% include verse.html
 text="Your throne, O God, endures forever and ever. Your royal scepter is a scepter of equity; you love righteousness and hate wickedness. **Therefore God, your God, has anointed you with the oil of gladness beyond your companions**"
 verse="Psalm 45:6-7"
+%}
+</div>
+
+---
+
+<div class="columns">
+{% include verse.html
+text="And this Son of Man whom thou hast seen Shall raise up the kings and the mighty from their seats, [...] **And break the teeth of the sinners.**"
+verse="Enoch 46:4"
+url="https://parallel.thebookofenoch.info/#46"
+%}
+
+{% include verse.html
+text="O God, break the teeth in their mouths; tear out the fangs of the young lions, O YHWH!"
+verse="Psalm 58:6"
+%}
+
+{% include verse.html
+text="Rise up, O YHWH! Deliver me, O my God! For you strike all my enemies on the cheek; you break the teeth of the wicked."
+verse="Psalm 3:7"
 %}
 </div>
 
@@ -217,6 +238,13 @@ verse="Psalm 45:6-7"
 {% include verse.html
 text="Know ye that their souls will be made to descend into Sheol... but the souls of the righteous are in the hand of God and shall not be judged at that great judgment... they shall shine and rejoice."
 verse="Enoch 104:5-6"
+url="https://parallel.thebookofenoch.info/#104"
+%}
+
+{% include verse.html
+text="Blessed is the man who dies in righteousness and goodness, Concerning whom there is no book of unrighteousness written, And against whom no day of judgement shall be found."
+verse="Enoch 81:4"
+url="https://parallel.thebookofenoch.info/#81"
 %}
 
 {% include verse.html
@@ -228,10 +256,18 @@ version="NASB1995"
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="The Father judges no one but has given all judgment to the Son ...."
 verse="John 5:22"
 %}
+
+{% include verse.html
+text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
+verse="Enoch 49:4"
+url="https://parallel.thebookofenoch.info/#49"
+%}
+</div>
 
 <div class="columns">
 {% include verse.html
@@ -242,13 +278,9 @@ verse="John 5:27"
 {% include verse.html
 text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
 verse="Enoch 69:27"
+url="https://parallel.thebookofenoch.info/#69"
 %}
 </div>
-
-{% include verse.html
-text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
-verse="Enoch 49:4"
-%}
 
 ### The Seven Spirits
 
@@ -301,6 +333,44 @@ url="https://parallel.thebookofenoch.info/#90"
 version="Charles"
 %}
 
+### Weighed in a Balance
+
+<div class="columns">
+{% include verse.html
+text="And after that I saw all the secrets of the heavens, and how the kingdom is divided, and how the actions of men are weighed in the balance."
+verse="Enoch 41:1-2"
+url="https://parallel.thebookofenoch.info/#41"
+%}
+
+{% include verse.html
+text="And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed."
+verse="Enoch 61:8"
+url="https://parallel.thebookofenoch.info/#41"
+%}
+
+{% include verse.html
+text="you have been weighed on the scales and found wanting"
+verse="Daniel 5:27"
+%}
+</div>
+
+<div class="columns">
+{% include verse.html
+text="All one’s ways may be pure in one’s own eyes, but YHWH weighs the spirit."
+verse="Proverbs 16:2"
+%}
+
+{% include verse.html
+text="All deeds are right in the sight of the doer, but YHWH weighs the heart."
+verse="Proverbs 21:2"
+%}
+
+{% include verse.html
+text="if you say, “Look, we did not know this”— does not he who weighs the heart perceive it? Does not he who keeps watch over your soul know it?"
+verse="Proverbs 24:12"
+%}
+</div>
+
 ## Other Points of Interest
 
 ### The Animal Prophecy
@@ -327,6 +397,7 @@ It has been remarked[^dan] that the mention of "Dan" here is anachronistic, as t
 {% include verse.html
 text="And I went off and sat down at the waters of **Dan**, in the land of <strong>Dan</strong>, to the south of the west of Hermon"
 verse="Enoch 13:7"
+url="https://parallel.thebookofenoch.info/#13"
 %}
 
 ## Footnotes
