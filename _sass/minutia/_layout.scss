@@ -116,11 +116,11 @@
     margin-top: 1px;
 
     .verse {
-        $border-width: 3px;
+        $border-width: 2.5px;
         $padding-width: calc($spacing-unit / 2);
         $caption-margin: calc($border-width + $padding-width);
 
-        border-left: 3px solid $lighter-blue;
+        border-left: $border-width solid $lighter-blue;
         padding-left: $padding-width;
 
         font-size: $base-font-size;
@@ -379,10 +379,34 @@ img {
 
 // Post info, e.g. the index page.
 .post-info {
-    margin-bottom: 10px;
+    $link-hover: $blue;
+
+    margin-bottom: calc($spacing-unit * 0.25);
+    padding: calc($spacing-unit * 2/4);
+
+    background: rgba(248, 250, 252, 0.4);
+    border: 1px solid rgba(42, 122, 226, 0.12);
+    border-radius: calc($border-radius * 2);
+    box-shadow:
+        0 4px 6px rgba(0, 0, 0, 0.02),
+        0 2px 4px rgba(0, 0, 0, 0.03),
+        0 1px 2px rgba(42, 122, 226, 0.05);
+
+    position: relative;
+    overflow: hidden;
+    transition: all 0.3s ease;
+
+    &:hover {
+        box-shadow:
+            0 8px 25px rgba(0, 0, 0, 0.06),
+            0 4px 10px rgba(0, 0, 0, 0.04),
+            0 2px 4px rgba(42, 122, 226, 0.08);
+        border-color: rgba(42, 122, 226, 0.12);
+    }
 
     h3 {
         margin-top: 0;
+        margin-bottom: calc($spacing-unit / 4);
     }
 
     .post-header-container {
@@ -391,6 +415,32 @@ img {
         .post-categories {
             @include media-query(520px) {
                 display: none;
+            }
+        }
+
+        /* Underline effect on hover */
+        .post-link {
+            position: relative;
+            display: inline-block;
+            transition: all 0.3s ease;
+            text-decoration: none !important;
+            &::before {
+                content: '';
+                position: absolute;
+                bottom: -2px;
+                left: 0;
+                width: 0;
+                height: 2px;
+                background: $link;
+                transition: width 0.3s ease;
+            }
+            &:hover {
+                color: $link-hover !important;
+
+                &::before {
+                    width: 100%;
+                    background: $link-hover;
+                }
             }
         }
     }
@@ -416,9 +466,6 @@ img {
             gap: 0.25rem;
         }
     }
-}
-
-.post-link {
 }
 
 .post-header {
@@ -757,7 +804,13 @@ input:checked ~ .toc {
     }
 
     @include media-query($on-palm) {
-        &.three-columns {
+        &[data-columns="3"] {
+            flex-direction: column;
+        }
+    }
+
+    @include media-query($on-laptop) {
+        &[data-columns="4"] {
             flex-direction: column;
         }
     }

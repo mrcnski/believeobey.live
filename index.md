@@ -17,6 +17,8 @@ layout: home
 {% endunless %}
 {% endfor %}
 
+<br>
+
 ## Other Pages
 
 <h3>
