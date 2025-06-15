@@ -33,42 +33,96 @@
 /* Site header */
 
 .site-header {
+    $header-height: calc($spacing-unit * 2.5);
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    height: $header-height;
     border-bottom: 1px solid $header-border;
     background-color: $header-background;
-}
 
-.wrapper-header {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
+    .wrapper-header {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
 
-    padding-top: calc($spacing-unit / 2);
-    padding-bottom: calc($spacing-unit / 2);
-}
+        width: 100%;
+        height: 100%;
 
-.header-left {
-    flex: 1 1 auto;
+        .header-left {
+            flex: 1 1 auto;
 
-    padding-right: calc($spacing-unit * 2);
-}
+            padding-right: calc($spacing-unit);
+        }
 
-.header-right {
-    flex: 0 1 auto;
+        .header-right {
+            flex: 0 1 auto;
+            display: flex;
+            align-items: center;
+            position: relative;
+            height: 100%;
 
-    .page-link {
-        font-family: $logo-font-family;
-        font-weight: $bold-font-weight;
+            .page-link {
+                font-family: $logo-font-family;
+                font-weight: $bold-font-weight;
 
-        color: $dark-blue;
+                color: $dark-blue;
 
-        padding: 0px 7px 1px 7px;
-        margin-right: 5px;
+                padding: 0px 7px 1px 7px;
+                margin-right: 5px;
 
-        @include relative-font-size(1.375);
+                @include relative-font-size(1.375);
 
-        &:hover {
-            text-decoration: none;
-            opacity: $hover-opacity;
+                &:hover {
+                    text-decoration: none;
+                    opacity: $hover-opacity;
+                }
+            }
+
+            .nav-links {
+                display: none;
+                opacity: 0;
+                position: absolute;
+
+                align-items: center;
+
+                background: none;
+                z-index: 10;
+
+                margin: 0;
+                border: 1px solid $mild-gray;
+                border-top: none;
+
+                width: 16rem;
+                height: auto;
+                top: calc($header-height + 1px);
+                right: 0;
+                padding: 1rem 0;
+
+                background-color: $background-color;
+
+                transition: opacity 0.3s ease-in-out;
+
+                .nav-card {
+                    display: block;
+
+                    border-radius: 0.25em;
+                    padding: 1em 0;
+
+                    text-align: center;
+                    color: $link;
+                    font-size: $content-font-size;
+                    text-decoration: none;
+
+                    transition: background-color 0.3s ease-in-out;
+
+                    &:hover {
+                        background-color: $hover-background;
+                    }
+                }
+            }
         }
     }
 }
@@ -110,9 +164,11 @@
 
 /* Verses */
 
+$verse-wrapper-margin: calc($spacing-unit / 2);
+
 .verse-wrapper {
-    margin-left: calc($spacing-unit / 2);
-    margin-right: calc($spacing-unit / 2);
+    margin-left: $verse-wrapper-margin;
+    margin-right: $verse-wrapper-margin;
     margin-top: 1px;
 
     .verse {
@@ -309,6 +365,10 @@ img {
     display: flex;
     flex-direction: column;
 
+    > h2 {
+        margin-bottom: calc($spacing-unit * 1/2);
+    }
+
     > h3 {
         margin-top: 0;
         margin-bottom: calc($spacing-unit * 1/2);
@@ -349,11 +409,13 @@ img {
     }
 }
 
+$post-meta-padding: calc($spacing-unit / 4);
+
 .post-meta {
     color: $dark-gray;
     font-size: $small-font-size;
 
-    padding-left: calc($spacing-unit / 4);
+    padding-left: $post-meta-padding;
     margin-bottom: 0;
 
     .post-meta-last-updated {
@@ -381,27 +443,14 @@ img {
 .post-info {
     $link-hover: $blue;
 
-    margin-bottom: calc($spacing-unit * 0.25);
     padding: calc($spacing-unit * 2/4);
-
-    background: rgba(248, 250, 252, 0.4);
-    border: 1px solid rgba(42, 122, 226, 0.12);
-    border-radius: calc($border-radius * 2);
-    box-shadow:
-        0 4px 6px rgba(0, 0, 0, 0.02),
-        0 2px 4px rgba(0, 0, 0, 0.03),
-        0 1px 2px rgba(42, 122, 226, 0.05);
 
     position: relative;
     overflow: hidden;
     transition: all 0.3s ease;
 
-    &:hover {
-        box-shadow:
-            0 8px 25px rgba(0, 0, 0, 0.06),
-            0 4px 10px rgba(0, 0, 0, 0.04),
-            0 2px 4px rgba(42, 122, 226, 0.08);
-        border-color: rgba(42, 122, 226, 0.12);
+    &:not(:last-of-type) {
+        border-bottom: 1px solid $light-gray;
     }
 
     h3 {
@@ -458,6 +507,8 @@ img {
         align-items: center;
         gap: 4px;
         flex-shrink: 0;
+
+        padding-right: $post-meta-padding;
 
         @include media-query(430px) {
             flex-direction: column;
@@ -641,20 +692,16 @@ img {
 
 /* TOC */
 
+$toc-margin-bottom: calc(3 * $spacing-unit / 4);
+
 ul#markdown-toc {
-    padding: calc($spacing-unit / 2) $spacing-unit;
-    border: 1px solid $lighter-blue;
-    border-left: 3px solid $light-blue;
-    border-radius: $border-radius;
+    padding-left: calc($spacing-unit * 3/4);
     margin-left: 0;
-    margin-bottom: $spacing-unit;
-    width: 50%;
+    margin-bottom: $toc-margin-bottom;
+    width: fit-content;
 
     font-size: $base-font-size;
     text-align: left;
-
-    background: $lightest-blue;
-    backdrop-filter: blur(10px);
 
     position: relative;
     overflow: hidden;
@@ -675,19 +722,20 @@ ul#markdown-toc {
             border-radius: 4px;
 
             padding: 4px 4px;
+            padding-right: 12px;
             text-decoration: none;
             transition: all 0.3s ease;
             color: $link;
 
             &:hover {
                 color: $link;
-                background-color: rgba(42, 122, 226, 0.05);
+                background-color: $hover-background;
                 padding-left: 12px;
             }
         }
     }
     li::before {
-        color: $link;
+        color: $text-color;
         top: 3px;
     }
 
@@ -705,7 +753,7 @@ ul#markdown-toc {
             }
         }
         li::before {
-            color: $blue;
+            color: $dark-gray;
             top: 2px;
         }
 
@@ -720,15 +768,16 @@ ul#markdown-toc {
     }
 }
 
+/* The button */
 .toc {
     cursor: pointer;
     display: inline-flex;
     align-items: center;
     width: fit-content;
 
-    margin-bottom: calc(3 * $spacing-unit / 4);
+    margin-bottom: $toc-margin-bottom;
     padding: 8px 16px;
-    background: rgba(42, 122, 226, 0.04);
+    background: rgb(248, 250, 252);
     border: 1px solid $lighter-blue;
     border-radius: calc($border-radius * 2);
 
@@ -797,10 +846,19 @@ input:checked ~ .toc {
 
 .columns {
     display: flex;
+    align-items: center;
 
     div {
         flex: 1;
         text-align: left;
+
+        margin-left: $verse-wrapper-margin;
+        margin-right: $verse-wrapper-margin;
+
+        .verse-wrapper {
+            margin-left: 0;
+            margin-right: 0;
+        }
     }
 
     @include media-query($on-palm) {

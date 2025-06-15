@@ -191,6 +191,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     line-height: 1;
     margin-top: $spacing-unit;
+    margin-bottom: calc($spacing-unit * 3/4);
     padding-bottom: calc($spacing-unit / 4);
     border-bottom: 1px solid $mild-gray;
 

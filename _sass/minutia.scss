@@ -54,12 +54,13 @@ $background-color: #fdfdfd !default;
 
 $link:             $dark-blue !default;
 $link-visited:     $light-blue !default;
+$hover-background: #f3f7fc !default;
 $hover-opacity:    0.75 !default;
 
 $logo-text:        $darkerer-blue !default;
 $logo-background:  $blue !default;
 
-$header-background: $lightest-gray !default;
+$header-background: $background-color !default;
 $header-border:    $gray !default;
 
 /* Define some widths */
@@ -95,6 +96,7 @@ $on-laptop:        880px !default;
 @import
     "minutia/fonts",
     "minutia/base",
+    "minutia/hamburgers",
     "minutia/layout",
     "minutia/syntax-highlighting"
 ;

@@ -9,12 +9,87 @@
       </a>
     </div>
 
-    {% if page_paths %}
     <div class="header-right">
-      <!-- <a class="page-link" href="{{ '/' | relative_url }}">Home</a> -->
-      <!-- <a class="page-link" href="{{ '/studies/' | relative_url }}">Studies</a> -->
+      <!-- Hamburger Menu -->
+      <button class="hamburger hamburger--collapse" type="button">
+        <span class="hamburger-box">
+          <span class="hamburger-inner"></span>
+        </span>
+      </button>
+
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}" class="nav-card">Home</a>
+        <a href="{{ '/about/' | relative_url }}" class="nav-card">About</a>
+        <a href="https://github.com/mrcnski/believeobey.live/commits/master/" class="nav-card">Updates</a>
+        <a href="mailto:{{ site.email }}" class="nav-card">Contact</a>
+      </div>
     </div>
-    {% endif %}
   </div>
+
+  <script>
+   function initHamburger() {
+       const hamburger = document.querySelector('.hamburger');
+       if (!hamburger) return;
+
+       let navbarVisible = false;
+
+       function toggleNavbarMenu(force) {
+           const navLinks = document.querySelector('.nav-links');
+           if (!navLinks) return;
+
+           function finishShow() {
+               navLinks.style.opacity = "1";
+           }
+           function finishHide() {
+               navLinks.style.display = "none";
+           }
+
+           if (force !== "hide" && (!navbarVisible || force === "show")) {
+               navLinks.style.display = "block";
+               if (force === "hide") {
+                   finishShow()
+               } else {
+                   setTimeout(finishShow, 5);
+               }
+               navbarVisible = true;
+           } else {
+               navLinks.style.opacity = "0";
+               if (force === "hide") {
+                   finishHide();
+               } else {
+                   setTimeout(finishHide, 300);
+               }
+               navbarVisible = false;
+           }
+       }
+
+       hamburger.addEventListener('click', () => {
+           hamburger.classList.toggle('is-active');
+           toggleNavbarMenu(null);
+       });
+       window.addEventListener('resize', () => {
+           const navLinks = document.querySelector('.nav-links');
+           if (!navLinks) return;
+
+           // Show the navbar menu if the window is resized to desktop size.
+           if (window.innerWidth > desktopThreshold) {
+               if (!isDesktop) {
+                   hamburger.classList.remove('is-active');
+                   toggleNavbarMenu("show");
+                   navLinks.style.display = "flex";
+                   isDesktop = true;
+               }
+           } else {
+               if (isDesktop) {
+                   toggleNavbarMenu("hide");
+                   isDesktop = false;
+               }
+           }
+       });
+   }
+
+   // Run when the DOM is loaded
+   document.addEventListener('DOMContentLoaded', initHamburger);
+  </script>
 
 </header>

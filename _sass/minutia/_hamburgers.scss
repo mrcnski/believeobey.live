@@ -1,0 +1,159 @@
+/*!
+ * Hamburgers
+ * @description Tasty CSS-animated hamburgers
+ * @author Jonathan Suh @jonsuh
+ * @site https://jonsuh.com/hamburgers
+ * @link https://github.com/jonsuh/hamburgers
+ */
+$hamburger-padding-x     : 0.5rem;
+$hamburger-padding-y     : 0.5rem;
+$hamburger-layer-color   : $dark-blue;
+
+$hamburger-layer-width   : 26px;
+$hamburger-layer-height  :  2.5px;
+$hamburger-layer-spacing :  6px;
+
+$hamburger-layer-width-mobile   : 20px;
+$hamburger-layer-height-mobile  :  2px;
+$hamburger-layer-spacing-mobile :  5px;
+
+.hamburger {
+    display: inline-block;
+
+    cursor: pointer;
+
+    transition-property: filter, scale;
+    transition-duration: 0.15s;
+    transition-timing-function: linear;
+
+    margin: 0;
+
+    // Normalize (<button>)
+    font: inherit;
+    color: inherit;
+    text-transform: none;
+    background-color: transparent;
+    border: 0;
+    overflow: visible;
+
+    &:hover {
+        box-shadow: none;
+    }
+
+    &:focus {
+        box-shadow: none;
+        border: none;
+    }
+
+    @include media-query(350px) {
+        display: none;
+    }
+}
+.hamburger:hover {
+    scale: 1.1;
+}
+.hamburger.is-active:hover {
+    scale: 1.1;
+}
+.hamburger.is-active .hamburger-inner,
+.hamburger.is-active .hamburger-inner::before,
+.hamburger.is-active .hamburger-inner::after {
+    background-color: $hamburger-layer-color;
+}
+
+.hamburger-box {
+    display: inline-block;
+    position: relative;
+
+    width: $hamburger-layer-width;
+    height: $hamburger-layer-height * 3 + $hamburger-layer-spacing * 2 + 6px;
+    @include media-query(700px) {
+        width: $hamburger-layer-width-mobile;
+        height: $hamburger-layer-height-mobile * 3 + $hamburger-layer-spacing-mobile * 2 + 6px;
+    }
+}
+
+.hamburger-inner {
+    display: block;
+    top: 50%;
+    margin-top: calc($hamburger-layer-height / -2);
+}
+.hamburger-inner,
+.hamburger-inner::before,
+.hamburger-inner::after {
+    position: absolute;
+
+    width: $hamburger-layer-width;
+    height: $hamburger-layer-height;
+
+    background-color: $hamburger-layer-color;
+    border-radius: 3px;
+
+    transition-property: transform;
+    transition-duration: 0.15s;
+    transition-timing-function: ease;
+
+    @include media-query(700px) {
+        width: $hamburger-layer-width-mobile;
+        height: $hamburger-layer-height-mobile;
+    }
+}
+.hamburger-inner::before,
+.hamburger-inner::after {
+    content: "";
+    display: block;
+}
+.hamburger-inner::before {
+    top: ($hamburger-layer-spacing + $hamburger-layer-height) * -1;
+    @include media-query(700px) {
+        top: ($hamburger-layer-spacing-mobile + $hamburger-layer-height-mobile) * -1;
+    }
+}
+.hamburger-inner::after {
+    bottom: ($hamburger-layer-spacing + $hamburger-layer-height) * -1;
+    @include media-query(700px) {
+        bottom: ($hamburger-layer-spacing-mobile + $hamburger-layer-height-mobile) * -1;
+    }
+}
+
+/*
+ * Collapse
+ */
+.hamburger--collapse .hamburger-inner {
+    top: auto;
+    bottom: 0;
+    transition-duration: 0.13s;
+    transition-delay: 0.13s;
+    transition-timing-function: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+.hamburger--collapse .hamburger-inner::after {
+    top: ($hamburger-layer-spacing * 2 + $hamburger-layer-height * 2) * -1;
+    transition: top 0.2s 0.2s cubic-bezier(0.33333, 0.66667, 0.66667, 1), opacity 0.1s linear;
+
+    @include media-query(700px) {
+        top: ($hamburger-layer-spacing-mobile * 2 + $hamburger-layer-height-mobile * 2) * -1;
+    }
+}
+.hamburger--collapse .hamburger-inner::before {
+    transition: top 0.12s 0.2s cubic-bezier(0.33333, 0.66667, 0.66667, 1), transform 0.13s cubic-bezier(0.55, 0.055, 0.675, 0.19);
+}
+
+.hamburger--collapse.is-active .hamburger-inner {
+    transform: translate3d(0, ($hamburger-layer-spacing + $hamburger-layer-height) * -1, 0) rotate(45deg);
+    transition-delay: 0.22s;
+    transition-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+
+    @include media-query(700px) {
+        transform: translate3d(0, ($hamburger-layer-spacing-mobile + $hamburger-layer-height-mobile) * -1, 0) rotate(45deg);
+    }
+}
+.hamburger--collapse.is-active .hamburger-inner::after {
+    top: 0;
+    opacity: 0;
+    transition: top 0.2s cubic-bezier(0.33333, 0, 0.66667, 0.33333), opacity 0.1s 0.22s linear;
+}
+.hamburger--collapse.is-active .hamburger-inner::before {
+    top: 0;
+    transform: rotate(90deg);
+    transition: top 0.1s 0.16s cubic-bezier(0.33333, 0, 0.66667, 0.33333), transform 0.13s 0.25s cubic-bezier(0.215, 0.61, 0.355, 1);
+}

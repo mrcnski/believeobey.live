@@ -19,18 +19,6 @@ layout: home
 
 <br>
 
-## Other Pages
-
-<h3>
-  <a href="/about" class="post-link">About</a>
-</h3>
-
-<h3>
-  <a href="https://github.com/mrcnski/believeobey.live/commits/master/" class="post-link">Recent Updates</a>
-</h3>
-
-<br>
-
 <script src="/assets/js/anchorize.js"></script>
 <script async src="https://talk.hyvor.com/embed/newsletter.js" type="module"></script>
 <hyvor-talk-newsletter website-id="12077"></hyvor-talk-newsletter>
