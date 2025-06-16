@@ -705,7 +705,7 @@ $post-meta-padding: calc($spacing-unit / 4);
     display: flex;
     align-items: center;
 
-    div {
+    > div {
         flex: 1;
         text-align: left;
 
@@ -729,4 +729,35 @@ $post-meta-padding: calc($spacing-unit / 4);
             flex-direction: column;
         }
     }
+}
+
+/* Highlights */
+
+.hl-1, .hl-2, .hl-3, .hl-4,
+.hl-5, .hl-6, .hl-7, .hl-8 {
+    border-radius: 4px;
+}
+.hl-1 {
+    background-color: $hl-1;
+}
+.hl-2 {
+    background-color: $hl-2;
+}
+.hl-3 {
+    background-color: $hl-3;
+}
+.hl-4 {
+    background-color: $hl-4;
+}
+.hl-5 {
+    background-color: $hl-5;
+}
+.hl-6 {
+    background-color: $hl-6;
+}
+.hl-7 {
+    background-color: $hl-7;
+}
+.hl-8 {
+    background-color: $hl-8;
 }

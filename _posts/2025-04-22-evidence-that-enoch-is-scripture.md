@@ -7,7 +7,7 @@ hidden: false
 
 This is not an exhaustive compilation of evidence, but only what I've personally made a note of in my study of the Book of Enoch.
 
-{% include image.html name="enoch-is-scripture.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
+{% include image.html name="evidence-that-enoch-is-scripture/1.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
 
 ## The Strongest Evidence
 
@@ -57,10 +57,8 @@ url="https://parallel.thebookofenoch.info/#5"
 %}
 
 {% include verse.html
-text="Blessed are the resting ones, for they will inherit the earth."
+text="Blessed are the meek, for they will inherit the earth."
 verse="Matthew 5:5"
-url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
-version="Hebrew"
 %}
 
 {% include verse.html
@@ -228,6 +226,167 @@ verse="Psalm 3:7"
 %}
 </div>
 
+### The Light of the Gentiles
+
+<div class="columns">
+{% include verse.html
+text="He shall be a staff to the righteous whereon to stay themselves and not fall, And he shall be **the light of the Gentiles,** And the hope of those who are troubled of heart."
+verse="Enoch 48:4"
+url="https://parallel.thebookofenoch.info/#48"
+%}
+
+{% include verse.html
+text="I am YHWH; I have called you in righteousness; I have taken you by the hand and kept you; I have given you as a covenant to the people, **a light to the nations,** to open the eyes that are blind, to bring out the prisoners from the dungeon, from the prison those who sit in darkness."
+verse="Isaiah 42:6-7"
+%}
+
+{% include verse.html
+text="And now YHWH says, who formed me in the womb to be his servant, [...] “It is too light a thing that you should be my servant to raise up the tribes of Jacob and to restore the survivors of Israel; I will give you as **a light to the nations, that my salvation may reach to the end of the earth.**”"
+verse="Isaiah 49:5-6"
+%}
+</div>
+
+### Straw in the Fire
+
+<div class="columns">
+{% include verse.html
+text="<span class='hl-1'>As straw in the fire so shall they burn before the face of the holy</span>: <span class='hl-2'>As lead in the water shall they sink</span> before the face of the righteous, And no trace of them shall any more be found. And on the day of their affliction there shall be rest on the earth, <span class='hl-3'>And before them they shall fall and not rise again</span>: And there shall be no one to take them with his hands and raise them: <span class='hl-4'>For they have denied the Lord of Spirits and His Anointed.</span> The name of the Lord of Spirits be blessed."
+verse="Enoch 48:9-10"
+url="https://parallel.thebookofenoch.info/#48"
+%}
+
+<div>
+{% capture stubble %}
+See also {% include inline-verse.html verse="Malachi 4:1-3" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="Therefore, <span class='hl-1'>as a tongue of fire consumes stubble And dry grass collapses into the flame,</span> So their root will become like rot and their blossom blow away as dust ..."
+verse="Isaiah 5:24"
+version="NASB1995"
+caption=stubble
+%}
+
+{% include verse.html
+text="You blew with your wind; the sea covered them; <span class='hl-2'>they sank like lead in the mighty waters.</span>"
+verse="Exodus 15:10"
+%}
+
+{% include verse.html
+text="There the evildoers lie prostrate; <span class='hl-3'>they are thrust down, unable to rise.</span>"
+verse="Psalm 36:12"
+%}
+
+{% include verse.html
+text="<span class='hl-4'>The kings of the earth set themselves, and the rulers take counsel together, against YHWH and his anointed</span> ..."
+verse="Psalm 2:2"
+%}
+</div>
+</div>
+
+### The Mountains Leap
+
+<div class="columns">
+{% include verse.html
+text="And in those days shall the mountains leap like rams, And the hills also shall skip like lambs satisfied with milk ..."
+verse="Enoch 51:4"
+url="https://parallel.thebookofenoch.info/#51"
+%}
+
+{% include verse.html
+text="The mountains skipped like rams, the hills like lambs. Why is it, O sea, that you flee? O Jordan, that you turn back? O mountains, that you skip like rams? O hills, like lambs?"
+verse="Psalm 114:4-6"
+%}
+</div>
+
+### The Mountains Will Melt
+
+<div class="columns">
+{% include verse.html
+text="And these mountains which thine eyes have seen [...] <span class='hl-1'>All these shall be in the presence of the Elect One As wax before the fire, And like the water which streams down from above</span> [upon those mountains], And they shall become powerless before his feet. <span class='hl-2'>And it shall come to pass in those days that none shall be saved, Either by gold or by silver, And none be able to escape.</span> And <span class='hl-3'>there shall be no iron for war, Nor shall one clothe oneself with a breastplate</span>. Bronze shall be of no service, And tin [shall be of no service and] shall not be esteemed, And lead shall not be desired."
+verse="Enoch 52:6-8"
+url="https://parallel.thebookofenoch.info/#52"
+%}
+
+<div>
+{% include verse.html
+text="<span class='hl-1'>Then the mountains will melt under him, and the valleys will burst open like wax near the fire, like waters poured down a slope.</span>"
+verse="Micah 1:4"
+%}
+
+{% include verse.html
+text="<span class='hl-2'>Neither their silver nor their gold will be able to save them on the day of the Lord’s wrath</span>; in the fire of his passion the whole earth shall be consumed, for a full, a terrible end he will make of all the inhabitants of the earth."
+verse="Zephaniah 1:18"
+%}
+
+{% include verse.html
+text="He shall judge between the nations and shall arbitrate for many peoples; <span class='hl-3'>they shall beat their swords into plowshares and their spears into pruning hooks; nation shall not lift up sword against nation; neither shall they learn war any more.</span>"
+verse="Isaiah 2:4"
+%}
+</div>
+</div>
+
+### The Dead Making Suit
+
+<div class="columns">
+{% include verse.html
+text="And now, behold, the souls of those who have died are crying and making their suit to the gates of heaven, and their lamentations have ascended ..."
+verse="Enoch 9:10"
+url="https://parallel.thebookofenoch.info/#9"
+%}
+
+{% include verse.html
+text="I saw under the altar the souls of those who had been slaughtered for the word of God and for the testimony they had given; they cried out with a loud voice, “Sovereign Lord, holy and true, how long will it be before you judge and avenge our blood on the inhabitants of the earth?”"
+verse="Revelation 6:9-10"
+%}
+</div>
+
+<div class="columns">
+{% include verse.html
+text="And in those days shall have ascended the prayer of the righteous, And the blood of the righteous from the earth before the Lord of Spirits."
+verse="Enoch 47:1"
+url="https://parallel.thebookofenoch.info/#47"
+%}
+
+{% include verse.html
+text="And YHWH said, “What have you done? Listen, your brother’s blood is crying out to me from the ground!"
+verse="Genesis 4:10"
+%}
+</div>
+
+### Nothing Too Hard for God
+
+<div class="columns">
+{% include verse.html
+text="For Thou hast made and Thou rulest all things, And nothing is too hard for Thee ..."
+verse="Enoch 84:3"
+url="https://parallel.thebookofenoch.info/#84"
+%}
+
+<div>
+{% include verse.html
+text="“Ah Lord God! It is you who made the heavens and the earth by your great power and by your outstretched arm! Nothing is too hard for you."
+verse="Jeremiah 32:17"
+%}
+
+{% include verse.html
+text="See, I am YHWH, the God of all flesh; is anything too hard for me?"
+verse="Jeremiah 32:27"
+%}
+</div>
+</div>
+
+<div class="columns">
+{% include verse.html
+text="Is anything too wonderful for YHWH? At the set time I will return to you, in due season, and Sarah shall have a son."
+verse="Genesis 18:14"
+%}
+
+{% include verse.html
+text="But Jesus looked at them and said, “For mortals it is impossible, but for God all things are possible.”"
+verse="Matthew 19:26"
+%}
+</div>
+
 ### Judgment
 
 <div class="columns">
@@ -275,6 +434,26 @@ verse="John 5:27"
 text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
 verse="Enoch 69:27"
 url="https://parallel.thebookofenoch.info/#69"
+%}
+</div>
+
+---
+
+<div class="columns">
+{% include verse.html
+text="**And he shall judge the secret things,** And none shall be able to utter a lying word before him ..."
+verse="Enoch 49:4"
+url="https://parallel.thebookofenoch.info/#49"
+%}
+
+{% include verse.html
+text="So have no fear of them, for nothing is covered up that will not be uncovered and nothing secret that will not become known."
+verse="Matthew 10:26"
+%}
+
+{% include verse.html
+text="For there is nothing hidden, except to be disclosed; nor is anything secret, except to come to light."
+verse="Mark 4:22"
 %}
 </div>
 
@@ -366,6 +545,61 @@ text="if you say, “Look, we did not know this”— does not he who weighs the
 verse="Proverbs 24:12"
 %}
 </div>
+
+### Can a Man Compare to God?
+
+<div class="columns">
+{% include verse.html
+text="For <span class='hl-1'>who is there of all the children of men that is able to hear the voice of the Holy One without being troubled?</span> <span class='hl-2'>And who can think His thoughts?</span> and <span class='hl-3'>who is there that can behold all the works of heaven?</span> And how should there be one who could <span class='hl-3'>behold the heaven</span>, and who is there that could <span class='hl-3'>understand the things of heaven</span> and see a soul or a spirit and could tell thereof, <span class='hl-4'>or ascend and see all their ends</span> and think them or do like them? And who is there of all men that could know <span class='hl-5'>what is the breadth and the length of the earth, and to whom has been shown the measure of all of them?</span> <span class='hl-6'>Or is there any one who could discern the length of the heaven and how great is its height,</span> <span class='hl-7'>and upon what it is founded,</span> and <span class='hl-8'>how great is the number of the stars,</span> and where all the luminaries rest?"
+verse="Enoch 93:11-14"
+url="https://parallel.thebookofenoch.info/#93"
+%}
+
+<div>
+{% include verse.html
+text="When all the people witnessed the thunder and lightning, the sound of the trumpet, and the mountain smoking, they were afraid and trembled and stood at a distance and said to Moses, <span class='hl-1'>“You speak to us, and we will listen, but do not let God speak to us, lest we die.”</span>"
+verse="Exodus 20:18-19"
+%}
+
+{% include verse.html
+text="<span class='hl-2'>For my thoughts are not your thoughts, nor are your ways my ways, says YHWH.</span> <span class='hl-6'>For as the heavens are higher than the earth,</span> so are my ways higher than your ways and my thoughts than your thoughts."
+verse="Isaiah 55:8-9"
+%}
+
+{% include verse.html
+text="<span class='hl-3'>Do you know the ordinances of the heavens?</span> Can you establish their rule on the earth?"
+verse="Job 38:33"
+%}
+
+{% include verse.html
+text="<span class='hl-4'>Who has ascended to heaven and come down?</span> Who has gathered the wind in the hollow of the hand? Who has wrapped up the waters in a garment? <span class='hl-5'>Who has established all the ends of the earth?</span> What is the person’s name? And what is the name of the person’s child? Surely you know!"
+verse="Proverbs 30:4"
+%}
+
+{% include verse.html
+text="Where were you when I laid the foundation of the earth? Tell me, if you have understanding. <span class='hl-5'>Who determined its measurements—surely you know!</span> Or who stretched the line upon it?"
+verse="Job 38:4-5"
+%}
+
+{% include verse.html
+text="<span class='hl-6'>It is higher than heaven—what can you do?</span> Deeper than Sheol—what can you know?"
+verse="Job 11:8"
+%}
+
+{% include verse.html
+text="Then the earth reeled and rocked; <span class='hl-7'>the foundations of the heavens</span> trembled and reeled because he was angry."
+verse="2 Samuel 22:8"
+%}
+
+
+{% include verse.html
+text="<span class='hl-8'>He brought him outside and said, “Look toward heaven and count the stars, if you are able to count them.”</span> Then he said to him, “So shall your descendants be.”"
+verse="Genesis 15:5"
+%}
+</div>
+</div>
+
+{% include image.html name="evidence-that-enoch-is-scripture/2.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
 
 ## Other Points of Interest
 
