@@ -1,0 +1,152 @@
+$toc-margin-bottom: calc(3 * $spacing-unit / 4);
+$toc-arrow-padding: 2px;
+
+.toc-wrapper {
+    margin-bottom: $toc-margin-bottom;
+
+    /* The checkbox */
+    input.toc-check {
+        display: none; /* hide the checkbox */
+
+        /* Collapsed state (TOC hidden) */
+        & ~ .toc-label {
+            ~ .toc-table {
+                display: none;
+            }
+        }
+
+        /* Expanded state (TOC visible) */
+        &:checked ~ .toc-label {
+            &:before {
+                transform: rotate(90deg);
+            }
+
+            ~ .toc-table {
+                display: block;
+            }
+        }
+    }
+
+    /* The button */
+    .toc-label {
+        cursor: pointer;
+        display: inline-flex;
+        position: relative;
+        width: fit-content;
+
+        padding-left: calc($spacing-unit * 1/2 + $toc-arrow-padding);
+
+        color: $link;
+        font-size: $content-font-size;
+
+        /* Prevent text selection */
+        -webkit-touch-callout: none;
+        -webkit-user-select: none;
+        -khtml-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+
+        &:hover {
+            opacity: $hover-opacity;
+        }
+
+        /* Animated arrow */
+        &:before {
+            position: absolute;
+
+            content: '';
+
+            border-width: .4rem;
+            border-style: solid;
+            border-color: transparent transparent transparent $link;
+            top: 7px;
+            left: $toc-arrow-padding;
+
+            transform: rotate(0);
+            transform-origin: .2rem 50%;
+
+            transition: .25s transform ease;
+        }
+    }
+
+    /* The table */
+    .toc-table {
+        padding-top: calc($toc-margin-bottom / 2);
+
+        ul {
+            padding-left: calc($spacing-unit * 3/4);
+            margin-left: calc($spacing-unit / 2);
+            margin-bottom: 0;
+            width: fit-content;
+
+            font-size: $base-font-size;
+            text-align: left;
+
+            position: relative;
+            overflow: hidden;
+
+            @include media-query($on-palm) {
+                width: auto;
+            }
+
+            li {
+                padding: 0;
+                margin: 0;
+                // margin-bottom: calc($spacing-unit / 4);
+                position: relative;
+
+                a {
+                    position: relative;
+
+                    display: block;
+                    border-radius: 4px;
+
+                    padding: 4px 4px;
+                    padding-right: 12px;
+                    text-decoration: none;
+                    transition: all 0.3s ease;
+                    color: $link;
+
+                    &:hover {
+                        color: $link;
+                        background-color: $hover-background;
+                        padding-left: 12px;
+                    }
+                }
+            }
+            li::before {
+                color: $text-color;
+                top: 3px;
+            }
+
+            /* Nested list styling */
+            ul {
+                margin-top: 4px;
+                margin-bottom: 4px;
+
+                li a {
+                    font-size: 0.95em;
+                    color: $blue;
+
+                    &:hover {
+                        color: $blue;
+                    }
+                }
+                li::before {
+                    color: $dark-gray;
+                    top: 2px;
+                }
+
+                ul {
+                    margin-left: calc($spacing-unit * 0.8);
+
+                    li a {
+                        font-size: 0.9em;
+                        color: $mild-gray;
+                    }
+                }
+            }
+        }
+    }
+}

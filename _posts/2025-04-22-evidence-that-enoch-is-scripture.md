@@ -1,13 +1,9 @@
 ---
 title: "Evidence that Enoch is Scripture"
 categories: apocrypha
-last-updated: May 16, 2025
 toc: true
 hidden: false
 ---
-
-* Table of contents.
-{:toc}
 
 This is not an exhaustive compilation of evidence, but only what I've personally made a note of in my study of the Book of Enoch.
 

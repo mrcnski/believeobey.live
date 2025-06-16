@@ -67,25 +67,6 @@
            hamburger.classList.toggle('is-active');
            toggleNavbarMenu(null);
        });
-       window.addEventListener('resize', () => {
-           const navLinks = document.querySelector('.nav-links');
-           if (!navLinks) return;
-
-           // Show the navbar menu if the window is resized to desktop size.
-           if (window.innerWidth > desktopThreshold) {
-               if (!isDesktop) {
-                   hamburger.classList.remove('is-active');
-                   toggleNavbarMenu("show");
-                   navLinks.style.display = "flex";
-                   isDesktop = true;
-               }
-           } else {
-               if (isDesktop) {
-                   toggleNavbarMenu("hide");
-                   isDesktop = false;
-               }
-           }
-       });
    }
 
    // Run when the DOM is loaded

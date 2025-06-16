@@ -1,13 +1,9 @@
 ---
 title: "Should Christians Keep the Feasts?"
 categories: torah
-last-updated: Apr 15, 2025
 toc: true
 hidden: false
 ---
-
-* Table of contents.
-{:toc}
 
 Based purely on Scripture (not man's private interpretations), we can be confident that [the Law remains](/the-law-remains) for Christians to keep. However, there is a conundrum around the feasts.
 

@@ -2,11 +2,7 @@
 title: "The Law Remains"
 categories: torah
 toc: true
-last-updated: Nov 17, 2024
 ---
-
-* Table of contents.
-{:toc}
 
 There's a popular idea that the Law of Moses was replaced, or does not apply to Christians anymore. I wrestled with this for a long time, but I couldn't get around the fact that Scripture explicitly tells us otherwise:
 

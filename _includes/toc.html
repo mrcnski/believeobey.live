@@ -1,2 +1,133 @@
-<input id="toc-check" type="checkbox">
-<label class="toc" for="toc-check">{{ include.text }}</label>
+<div class="toc-wrapper">
+  <input class="toc-check" type="checkbox">
+  <label class="toc-label" for="toc-check">{{ include.text }}</label>
+
+  <div class="toc-table">
+    {{ content | toc_only }}
+  </div>
+</div>
+
+<script>
+ // From https://css-tricks.com/how-to-animate-the-details-element/.
+ class Accordion {
+     constructor(el) {
+         // Store the elements
+         this.el = el;
+         let check = document.querySelector('.toc-check');
+         if (!check) {
+             throw ".toc-check not found";
+         }
+         this.check = check;
+         let label = document.querySelector('.toc-label');
+         if (!label) {
+             throw ".toc-label not found";
+         }
+         this.label = label;
+         let table = document.querySelector('.toc-table');
+         if (!table) {
+             throw ".toc-table not found";
+         }
+         this.table = table;
+
+         // Store the animation object (so we can cancel it if needed)
+         this.animation = null;
+         this.isClosing = false;
+         this.isExpanding = false;
+
+         this.label.addEventListener('click', (e) => this.onClick(e));
+     }
+
+     onClick(e) {
+         // Stop default behaviour from the browser
+         e.preventDefault();
+
+         this.el.style.overflow = 'hidden';
+
+         // Check if the element is being closed or is already closed
+         if (this.isClosing || !this.check.checked) {
+             this.open();
+             // Check if the element is being opened or is already open
+         } else if (this.isExpanding || this.check.checked) {
+             this.shrink();
+         }
+     }
+
+     open() {
+         // Apply a fixed height on the element
+         this.el.style.height = `${this.el.offsetHeight}px`;
+         // Force the [checked] attribute on the details element
+         this.check.checked = true;
+         // Wait for the next frame to call the expand function
+         window.requestAnimationFrame(() => this.expand());
+     }
+
+     expand() {
+         this.isExpanding = true;
+
+         // Get the current fixed height of the element
+         const startHeight = `${this.el.offsetHeight}px`;
+         const endHeight = `${this.label.offsetHeight + this.table.offsetHeight}px`;
+
+         // If there is already an animation running
+         if (this.animation) {
+             this.animation.cancel();
+         }
+
+         // Start a WAAPI animation
+         this.animation = this.el.animate({
+             // Set the keyframes from the startHeight to endHeight
+             height: [startHeight, endHeight]
+         }, {
+             duration: 400,
+             easing: 'ease-out'
+         });
+         this.animation.onfinish = () => this.onAnimationFinish(true);
+         this.animation.oncancel = () => this.isExpanding = false;
+     }
+
+     shrink() {
+         this.isClosing = true;
+
+         const startHeight = `${this.el.offsetHeight}px`;
+         const endHeight = `${this.label.offsetHeight}px`;
+
+         // If there is already an animation running
+         if (this.animation) {
+             this.animation.cancel();
+         }
+
+         // Start a WAAPI animation
+         this.animation = this.el.animate({
+             // Set the keyframes from the startHeight to endHeight
+             height: [startHeight, endHeight]
+         }, {
+             duration: 400,
+             easing: 'ease-out'
+         });
+
+         // When the animation is complete, call onAnimationFinish()
+         this.animation.onfinish = () => this.onAnimationFinish(false);
+         // If the animation is cancelled, isClosing variable is set to false
+         this.animation.oncancel = () => this.isClosing = false;
+     }
+
+     onAnimationFinish(open) {
+         this.check.checked = open;
+         // Clear the stored animation
+         this.animation = null;
+         // Reset isClosing & isExpanding
+         this.isClosing = false;
+         this.isExpanding = false;
+         // Remove the overflow hidden and the fixed height
+         this.el.style.height = this.el.style.overflow = '';
+     }
+ }
+
+ function addAccordions() {
+     document.querySelectorAll('.toc-wrapper').forEach((el) => {
+         new Accordion(el);
+     });
+ }
+
+ document.addEventListener('DOMContentLoaded', addAccordions);
+</script>

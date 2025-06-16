@@ -5,9 +5,6 @@ toc: true
 hidden: false
 ---
 
-* Table of contents.
-{:toc}
-
 Let's start by asking, who is the Father? Well, there is evidence that YHWH is the Father:
 
 {% include verse.html

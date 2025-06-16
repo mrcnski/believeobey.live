@@ -4,9 +4,6 @@ categories: Yeshua torah
 toc: true
 ---
 
-* Table of contents.
-{:toc}
-
 Much of Yeshua's ministry was focused on these two commandments:
 
 {% include verse.html

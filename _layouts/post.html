@@ -31,7 +31,7 @@ layout: default
     {% include toc.html text="Table of Contents" %}
     {% endif %}
 
-    {{ content }}
+    {{ content | inject_anchors }}
   </div>
 
   <div class="post-footer">

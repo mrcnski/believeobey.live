@@ -4,9 +4,6 @@ categories: apocrypha
 toc: true
 ---
 
-* Table of contents.
-{:toc}
-
 **Note:** This study will be more speculative than my others so far. I want to share an interesting discovery, while reminding the reader, as always, to test everything and that our only teacher is Messiah.
 
 Background context: [Revealed: The Land of Jesus - Strait is the Gate](https://www.youtube.com/watch?v=AFu0HqJ3lts). The premise of this video is that the [camp of the saints](https://www.biblegateway.com/passage/?search=rev%2020%3A9&version=NRSVUE) is located in the "Terre de Iesso" (Land of Jesus) that is found on old maps.
