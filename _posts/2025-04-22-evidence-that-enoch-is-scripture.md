@@ -100,6 +100,29 @@ verse="Revelation 20:13"
 ## References in Scripture
 
 {% include verse.html
+text="When people began to multiply on the face of the ground, and daughters were born to them, the sons of God saw that they were fair, and they took wives for themselves of all that they chose. [...] The Nephilim were on the earth in those days—and also afterward—when **the sons of God went in to the daughters of humans,** who bore children to them. These were the heroes that were of old, warriors of renown."
+verse="Genesis 6:1-2,4"
+%}
+
+This account in Genesis doesn't elaborate on who the sons of God are, which has led to much speculation about these verses. It seems that the writer of Genesis was assuming familiarity with an existing tradition -- possibly the book written by Enoch before the flood.
+
+{% include verse.html
+text="And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters. And **the angels, the children of the heaven,** saw and lusted after them, and said to one another: 'Come, let us choose us wives from among the children of men and beget us children.'"
+verse="Enoch 6:1-3"
+url="https://parallel.thebookofenoch.info/#6"
+%}
+
+The sons of God being angels is consistent with other Scripture:
+
+{% include verse.html
+text="Now there was a day when the sons of God came to present themselves before YHWH, and Satan also came among them."
+verse="Job 1:6"
+version="NASB1995"
+%}
+
+---
+
+{% include verse.html
 text="And the angels who did not keep their own position but deserted their proper dwelling, he has kept in eternal chains in deepest darkness for the judgment of the great day."
 verse="Jude 6"
 %}
@@ -283,6 +306,55 @@ verse="Psalm 2:2"
 </div>
 </div>
 
+### Men and Angels Judged Together
+
+<div class="columns">
+{% include verse.html
+text="And I looked and turned to another part of the earth, and saw there a deep valley with burning fire. And they brought the kings and the mighty, and began to cast them into this deep valley. And there mine eyes saw how they made these their instruments, iron chains of immeasurable weight. [...] And he said unto me: 'These are being prepared for the hosts of Azazel, so that they may take them and cast them into the abyss of complete condemnation, and they shall cover their jaws with rough stones as the Lord of Spirits commanded. And Michael, and Gabriel, and Raphael, and Phanuel shall take hold of them on that great day, and cast them on that day into the burning furnace ..."
+verse="Enoch 54:1-6"
+url="https://parallel.thebookofenoch.info/#54"
+%}
+
+<div>
+{% include verse.html
+text="On that day YHWH will punish the host of heaven in heaven and on earth the kings of the earth. They will be gathered together like prisoners in a pit; they will be shut up in a prison, and after many days they will be punished."
+verse="Isaiah 24:21-22"
+%}
+
+{% include verse.html
+text="Then he will say to those at his left hand, ‘You who are accursed, depart from me into the eternal fire prepared for the devil and his angels ..."
+verse="Matthew 25:41"
+%}
+</div>
+</div>
+
+### Satan as Accuser
+
+<div class="columns">
+{% include verse.html
+text="And I heard the fourth voice fending off the Satans and forbidding them to come before the Lord of Spirits to accuse them who dwell on the earth."
+verse="Enoch 40:7"
+url="https://parallel.thebookofenoch.info/#40"
+%}
+
+{% include verse.html
+text="Now there was a day when the sons of God came to present themselves before YHWH, and Satan also came among them."
+verse="Job 1:6"
+version="NASB1995"
+%}
+
+{% include verse.html
+text="Then he showed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to accuse him."
+verse="Zechariah 3:1"
+version="NASB1995"
+%}
+</div>
+
+{% include verse.html
+text="The great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world—he was thrown down to the earth, and his angels were thrown down with him. Then I heard a loud voice in heaven proclaiming, “Now have come the salvation and the power and the kingdom of our God and the authority of his Messiah, for the accuser of our brothers and sisters has been thrown down, who accuses them day and night before our God."
+verse="Revelation 12:9-10"
+%}
+
 ### The Mountains Leap
 
 <div class="columns">
@@ -314,7 +386,7 @@ verse="Micah 1:4"
 %}
 
 {% include verse.html
-text="<span class='hl-2'>Neither their silver nor their gold will be able to save them on the day of the Lord’s wrath</span>; in the fire of his passion the whole earth shall be consumed, for a full, a terrible end he will make of all the inhabitants of the earth."
+text="<span class='hl-2'>Neither their silver nor their gold will be able to save them on the day of YHWH’s wrath</span>; in the fire of his passion the whole earth shall be consumed, for a full, a terrible end he will make of all the inhabitants of the earth."
 verse="Zephaniah 1:18"
 %}
 
@@ -472,7 +544,7 @@ verse="Revelation 5:6"
 %}
 
 {% include verse.html
-text="For on the stone that I have set before Joshua, **on a single stone with seven facets,** I will engrave its inscription, says the Lord of hosts, and I will remove the guilt of this land in a single day."
+text="For on the stone that I have set before Joshua, **on a single stone with seven facets,** I will engrave its inscription, says YHWH of hosts, and I will remove the guilt of this land in a single day."
 verse="Zechariah 3:9"
 %}
 
@@ -629,5 +701,9 @@ text="And I went off and sat down at the waters of **Dan**, in the land of <stro
 verse="Enoch 13:7"
 url="https://parallel.thebookofenoch.info/#13"
 %}
+
+### Scriptural Geography
+
+There are other geographical descriptions in Enoch that are very consistent with Scripture. I've explored this aspect as part of my study on [Terre de Iesso](/speculation-terre-de-iesso).
 
 ## Footnotes
