@@ -126,15 +126,13 @@ In the above verse we see that salvation is "in the name of the Lord of Spirits"
 ## Does Yeshua Carry the Name?
 
 {% include verse.html
-text="The days are surely coming, says YHWH, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely and shall execute justice and righteousness in the land. In his days Judah will be saved, and Israel will live in safety. **And this is the name by which he will be called: “YHWH is our righteousness.”**"
-verse="Jeremiah 23:5-6"
-%}
-
----
-
-{% include verse.html
 text="And now I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, protect them in your name that you have given me, so that they may be one, as we are one. **While I was with them, I protected them in your name that you have given me.**"
 verse="John 17:11-12"
+%}
+
+{% include verse.html
+text="For I tell you, you will not see me again until you say, ‘Blessed is the one who comes in the name of the Lord.’"
+verse="Matthew 23:39"
 %}
 
 ---
@@ -148,6 +146,13 @@ The above verse clearly shows us that the Father, Son, and Holy Spirit all share
 
 Some people don't like this verse and have suggested that it's an insertion by Trinitarian Catholics, but there's no evidence to suggest that. The [Greek](https://www.blueletterbible.org/nasb95/mat/28/19/s_957019), [Aramaic](https://dukhrana.com/peshitta/index.php), and [Hebrew](https://www.hebrewgospels.com/matthew) texts all contain this verse. Actually, in this study we've seen numerous examples where the Father and Son seem to share the name of YHWH.
 {: .note }
+
+---
+
+{% include verse.html
+text="The days are surely coming, says YHWH, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely and shall execute justice and righteousness in the land. In his days Judah will be saved, and Israel will live in safety. **And this is the name by which he will be called: “YHWH is our righteousness.”**"
+verse="Jeremiah 23:5-6"
+%}
 
 ---
 
@@ -331,6 +336,17 @@ The word for God here is "Elohim", and the word for angel is "malak".
 {% include verse.html
 text="**Your throne, O God**, endures forever and ever. Your royal scepter is a scepter of equity; you love righteousness and hate wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions"
 verse="Psalm 45:6-7"
+%}
+
+---
+
+{% capture revelation %}
+In the <a href="https://www.hebrewgospels.com/_files/ugd/c68db9_aad134a8a148455c99c979c6fe69e0b6.pdf">Hebrew Revelation</a> Yeshua is not clearly equated with God as He is here, but this is included for completeness.
+{% endcapture %}
+{% include verse.html
+text="Great and amazing are your deeds, **Lord God the Almighty!** Just and true are your ways, King of the nations! Lord, who will not fear and glorify your name? For you alone are holy. All nations will come and worship before you, for your judgments have been revealed."
+verse="Revelation 15:3-4"
+caption=revelation
 %}
 
 ## Other Interesting Verses
