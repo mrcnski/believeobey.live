@@ -244,6 +244,10 @@ $verse-wrapper-margin: calc($spacing-unit / 2);
     text-align: center;
     font-size: $small-font-size;
     color: $dark-gray;
+
+    @include media-query($on-palm) {
+        font-size: $smaller-font-size;
+    }
 }
 
 img {
@@ -447,7 +451,6 @@ $post-meta-padding: calc($spacing-unit / 4);
 
     position: relative;
     overflow: hidden;
-    transition: all 0.3s ease;
 
     &:not(:last-of-type) {
         border-bottom: 1px solid $light-gray;
@@ -471,8 +474,8 @@ $post-meta-padding: calc($spacing-unit / 4);
         .post-link {
             position: relative;
             display: inline-block;
-            transition: all 0.3s ease;
             text-decoration: none !important;
+
             &::before {
                 content: '';
                 position: absolute;
@@ -480,15 +483,14 @@ $post-meta-padding: calc($spacing-unit / 4);
                 left: 0;
                 width: 0;
                 height: 2px;
-                background: $link;
-                transition: width 0.3s ease;
+                background-color: $link;
+                transition: width 0.3s ease,
+                            background-color 0.3s ease;
             }
             &:hover {
-                color: $link-hover !important;
-
                 &::before {
                     width: 100%;
-                    background: $link-hover;
+                    background-color: $link-hover;
                 }
             }
         }
@@ -626,7 +628,6 @@ $post-meta-padding: calc($spacing-unit / 4);
     // Prevent line breaks at hyphens
     white-space: nowrap;
 
-    transition: all 0.2s ease;
     position: relative;
     overflow: hidden;
 
@@ -642,18 +643,12 @@ $post-meta-padding: calc($spacing-unit / 4);
     }
 
     &:hover {
-        background: linear-gradient(135deg, rgba(64, 12, 115, 0.08) 0%, rgba(64, 12, 115, 0.05) 100%);
         border-color: rgba(64, 12, 115, 0.35);
         text-decoration: none !important;
 
         &::before {
             left: 100%;
         }
-    }
-
-    &:active {
-        transform: translateY(0);
-        box-shadow: 0 1px 3px rgba(64, 12, 115, 0.2);
     }
 }
 

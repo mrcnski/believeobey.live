@@ -105,7 +105,9 @@ $toc-arrow-padding: 2px;
                     padding: 4px 4px;
                     padding-right: 12px;
                     text-decoration: none;
-                    transition: all 0.3s ease;
+                    transition: color 0.3s ease,
+                                background-color 0.3s ease,
+                                padding-left 0.3s ease;
                     color: $link;
 
                     &:hover {
