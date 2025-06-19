@@ -178,6 +178,11 @@ url="https://parallel.thebookofenoch.info/#38"
 text="Then the righteous will shine like the sun in the kingdom of their Father. Let anyone with ears listen!"
 verse="Matthew 13:43"
 %}
+
+{% include verse.html
+text="Those who are wise shall shine like the brightness of the sky, and those who lead the many to righteousness, like the stars forever and ever."
+verse="Daniel 12:3"
+%}
 </div>
 
 ---
@@ -395,6 +400,60 @@ text="He shall judge between the nations and shall arbitrate for many peoples; <
 verse="Isaiah 2:4"
 %}
 </div>
+</div>
+
+### The Nations Will Panic
+
+<div class="columns">
+<div>
+{% include verse.html
+text="But the city of my righteous shall be a hindrance to their horses. And they shall begin to fight among themselves, And their right hand shall be strong against themselves, And a man shall not know his brother, Nor a son his father or his mother, Till there be no number of the corpses through their slaughter, And their punishment be not in vain."
+verse="Enoch 56:7"
+url="https://parallel.thebookofenoch.info/#56"
+%}
+
+{% include verse.html
+text="And in those days in one place the fathers together with their sons shall be smitten And brothers one with another shall fall in death Till the streams flow with their blood. For a man shall not withhold his hand from slaying his sons and his sons' sons, And the sinner shall not withhold his hand from his honoured brother: From dawn till sunset they shall slay one another."
+verse="Enoch 100:1-3"
+url="https://parallel.thebookofenoch.info/#100"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="On that day a great panic from YHWH shall fall on them, so that each will seize the hand of a neighbor, and the hand of the one will be raised against the hand of the other ..."
+verse="Zechariah 14:13"
+%}
+
+{% include verse.html
+text="I will summon the sword against Gog in all my mountains, says the Lord God; the swords of all will be against their comrades."
+verse="Ezekiel 38:21"
+%}
+
+{% include verse.html
+text="I am about to destroy the strength of the kingdoms of the nations and overthrow the chariots and their riders, and the horses and their riders shall fall, every one by the sword of a comrade."
+verse="Haggai 2:22"
+%}
+</div>
+</div>
+
+### The Jaws of Sheol
+
+<div class="columns">
+{% include verse.html
+text="In those days Sheol shall open its jaws, And they shall be swallowed up therein And their destruction shall be at an end; Sheol shall devour the sinners in the presence of the elect."
+verse="Enoch 56:8"
+%}
+
+{% include verse.html
+text="Therefore Sheol has enlarged its appetite and opened its mouth beyond measure; the nobility of Jerusalem and her multitude go down, her throng and all who exult in her."
+verse="Isaiah 5:14"
+%}
+
+{% include verse.html
+text="As soon as he finished speaking all these words, the ground under them was split apart. The earth opened its mouth and swallowed them up, along with their households—everyone who belonged to Korah and all their goods. So they with all that belonged to them went down alive into Sheol; the earth closed over them, and they perished from the midst of the assembly."
+verse="Numbers 16:31-33"
+%}
 </div>
 
 ### The Dead Making Suit
@@ -684,6 +743,10 @@ Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://pa
 The Book of Enoch is the only place in Scripture where the calendar is given. See Enoch chapters [72](https://parallel.thebookofenoch.info/#72) to [80](https://parallel.thebookofenoch.info/#80).
 
 When describing the feast days, the books of Torah assumed that the readers were already familiar with the calendar. This makes sense when we consider that the Book of Enoch had already been written a long time before Moses received the Torah.
+
+### The Law
+
+Consistent with other Scripture (and the words of Messiah), in Enoch the law is eternal. See [my study on the law](/the-law-remains/#was-the-law-temporary).
 
 ### Dan
 
