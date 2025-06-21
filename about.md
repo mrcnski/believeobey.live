@@ -11,36 +11,37 @@ The name of the site is based on my understanding that if you believe and obey,
 and endure to the end, you will live:
 
 {% include verse.html
-text="But to all who received him, **who believed in his name,** he gave power to become children of God"
+text="But as many as received him, to them he gave the right to become God’s children, to **those who believe in his name** ..."
 verse="John 1:12"
 %}
 
 {% include verse.html
-text="If you love me, you will keep my commandments."
+text="If you love me, keep my commandments."
 verse="John 14:15"
 %}
 
 {% include verse.html
-text="Here is a call for the endurance of the **saints, those who keep the commandments of God and hold fast to the faith of Jesus.**"
+text="Here is the perseverance of the **saints**, those **who keep the commandments of God and the faith of Jesus**."
 verse="Revelation 14:12"
 %}
 
+{% capture shawmah %}
+The word "listen" here is <a href="https://www.blueletterbible.org/lexicon/h8085/ylt/wlc/0-1/"><i>shawmah</i></a>, which means hear/obey.
+{% endcapture %}
 {% include verse.html
-text="Anyone who does not heed the words that The Prophet shall speak in my name, I myself will hold accountable."
+text="It shall happen, that whoever will not listen to my words which he shall speak in my name, I will require it of him."
 verse="Deuteronomy 18:19"
+caption=shawmah
 %}
 
 {% include verse.html
-text="Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit and teaching them to **obey everything that I have commanded you**."
+text="Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to **observe all things that I commanded you**."
 verse="Matthew 28:19-20"
 %}
 
 {% include verse.html
-    text="For God so loved the world that he gave his only Son, so that everyone who
-believes in him may not perish but may have eternal life. [...] Whoever believes
-in the Son has eternal life; **whoever disobeys the Son will not see life** but must
-endure God’s wrath."
-    verse="John 3:16,36"
+text="For God so loved the world, that he gave his only born Son, that whoever believes in him should not perish, but have eternal life. [...] One who believes in the Son has eternal life, but **one who disobeys the Son won’t see life**, but the wrath of God remains on him."
+verse="John 3:16,36"
 %}
 
 <h2 id="comments">Comments</h2>

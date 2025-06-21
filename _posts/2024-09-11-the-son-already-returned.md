@@ -1,49 +1,56 @@
 ---
 categories: Yeshua prophecy
-last-updated: Nov 8, 2024
 ---
 
 {% include verse.html
-text="When they persecute you in this town, flee to the next, for truly I tell you, **you will not have finished going through all the towns of Israel before the Son of Man comes.**"
+text="But when they persecute you in this city, flee into the next, for most certainly I tell you, **you will not have gone through the cities of Israel until the Son of Man has come.**"
 verse="Matthew 10:23"
 %}
 
 ---
 
+<div class="columns">
 {% include verse.html
-text="For the Son of Man is to come with his angels in the glory of his Father, and then he will repay everyone for what has been done. Truly I tell you, **there are some standing here who will not taste death** before they see the Son of Man coming in his kingdom."
+text="For the Son of Man will come in the glory of his Father with his angels, and then he will render to everyone according to his deeds. Most certainly I tell you, **there are some standing here who will in no way taste of death** until they see the Son of Man coming in his Kingdom."
 verse="Matthew 16:27-28"
 %}
 
 {% include verse.html
-text="Those who are ashamed of me and of my words in this adulterous and sinful generation, of them the Son of Man will also be ashamed when he comes in the glory of his Father with the holy angels. Truly I tell you, **there are some standing here who will not taste death** until they see that the kingdom of Elohim has come with power."
+text="For whoever will be ashamed of me and of my words in this adulterous and sinful generation, the Son of Man also will be ashamed of him when he comes in his Father's glory with the holy angels. Most certainly I tell you, **there are some standing here who will in no way taste death** until they see God's Kingdom come with power."
 verse="Mark 8:38-9:1"
 %}
+</div>
 
-All three gospels go on to talk about the Transfiguration, which is why I've included the context of what Yeshua was talking about: coming back in power and glory, with angels. That's not the Transfiguration, nor was this fulfilled at Pentecost.
+The writers of Matthew and Mark go on to talk about the Transfiguration, which is why I've included the context of what Yeshua was talking about: coming back in power and glory, with angels. That's not the Transfiguration, nor was this fulfilled at Pentecost.
 {: .note}
 
 ---
 
 {% include verse.html
-text="Yeshua said to him, “If it is my will that he remain until I come, what is that to you? Follow me!”"
+text="Jesus said to him, “If I desire that he stay until I come, what is that to you? You follow me.”"
 verse="John 21:22"
 %}
 
 ---
 
 {% include verse.html
-text="
-Look! He is coming with the clouds; every eye will see him, **even those who pierced him**..."
+text="Behold, he is coming with the clouds, and every eye will see him, **including those who pierced him**. All the tribes of the earth will mourn over him."
 verse="Revelation 1:7"
 %}
 
 ---
 
+<div class="columns">
 {% include verse.html
-text="Truly I say to you, this generation will not pass away until all these things take place."
-verse="Matthew 24:34, Mark 13:30"
+text="Most certainly I tell you, this generation will not pass away until all these things are accomplished."
+verse="Matthew 24:34"
 %}
+
+{% include verse.html
+text="Most certainly I say to you, this generation will not pass away until all these things happen."
+verse="Mark 13:30"
+%}
+</div>
 
 It is true that in the Aramaic, the word for "generation" can also mean "tribe" or "people". This verse is included in this study for completeness; and besides, we do know from the rest of this study that "this generation" really was the correct meaning here, and not "this tribe".
 {: .note}
@@ -51,60 +58,60 @@ It is true that in the Aramaic, the word for "generation" can also mean "tribe" 
 ---
 
 {% include verse.html
-text="After the sixty-two weeks, an anointed one shall be cut off and shall have nothing, and the troops of the prince who is to come shall destroy the city and the sanctuary. Its end shall come with a flood, and to the end there shall be war. Desolations are decreed. He shall make a strong covenant with many for one week, and for half of the week he shall make sacrifice and offering cease, and in their place shall be a desolating sacrilege until the decreed end is poured out upon the desolator."
+text="After the sixty-two weeks the Anointed One will be cut off, and will have nothing. The people of the prince who come will destroy the city and the sanctuary. Its end will be with a flood, and war will be even to the end. Desolations are determined. He will make a firm covenant with many for one week. In the middle of the week he will cause the sacrifice and the offering to cease. On the wing of abominations will come one who makes desolate; and even to the decreed full end, wrath will be poured out on the desolate."
 verse="Daniel 9:26-27"
 %}
 
 Here we see that the desolating sacrilege and the one-week tribulation were fulfilled at the destruction of Jerusalem ("the city and the sanctuary") after the crucifixion ("an anointed one shall be cut off"). It is interesting to cross-reference this with Revelation 12:14-15, which was another prophecy about the same time (and which also mentions a flood):
 
 {% include verse.html
-text="But the woman was given the two wings of the great eagle, so that she could fly from the serpent into the wilderness, to her place where she is nourished for a time, and times, and half a time. Then from his mouth the serpent poured water like a river after the woman, to sweep her away with the flood."
+text="Two wings of the great eagle were given to the woman, that she might fly into the wilderness to her place, so that she might be nourished for a time, times, and half a time, from the face of the serpent. The serpent spewed water out of his mouth after the woman like a river, that he might cause her to be carried away by the stream."
 verse="Revelation 12:14-15"
 %}
 
 ---
 
 {% include verse.html
-text="See, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble; the day that comes shall burn them up, says the Lord of hosts, so that it will leave them neither root nor branch. But for you who revere my name the sun of righteousness shall rise, with healing in its wings. You shall go out leaping like calves from the stall. And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts. Remember the teaching of my servant Moses, the statutes and ordinances that I commanded him at Horeb for all Israel. See, **I will send you the prophet Elijah before the great and terrible day of the Lord comes**. He will turn the hearts of parents to their children and the hearts of children to their parents, so that I will not come and strike the land with a curse."
+text="For behold, the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up, says Yahweh of Armies, so that it will leave them neither root nor branch. But to you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall. You shall tread down the wicked; for they will be ashes under the soles of your feet in the day that I make, says Yahweh of Armies. Remember the law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances. Behold, **I will send you Elijah the prophet before the great and terrible day of Yahweh comes**. He will turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse."
 verse="Malachi 4"
 %}
 
 This short chapter is an amazing fulfilled prophecy. Here we can clearly see the coming of Elijah associated with the "day of the Lord". This was fulfilled in John the Baptist. "Leaping like calves from the stall" reminds us of the disciples when Yeshua sent them out. "You shall tread down the wicked" was fulfilled in Matthew 10:1:
 
 {% include verse.html
-text="Then Jesus summoned his twelve disciples and gave them authority over unclean spirits, to cast them out, and to cure every disease and every sickness."
+text="He called to himself his twelve disciples, and gave them authority over unclean spirits, to cast them out, and to heal every disease and every sickness."
 verse="Matthew 10:1"
 %}
 
 ---
 
 {% include verse.html
-text="Repent, for the kingdom of heaven is at hand [near]."
+text="Repent, for the Kingdom of Heaven is at hand [near]!"
 verse="Matthew 3:2"
 %}
 
 {% include verse.html
-text="The end of all things is at hand [near]; therefore be serious and discipline yourselves for the sake of your prayers."
+text="But the end of all things is near. Therefore be of sound mind, self-controlled, and sober in prayer."
 verse="1 Peter 4:7"
 %}
 
 {% include verse.html
-text="I am coming soon; hold fast to what you have, so that no one takes away your crown."
+text="I am coming quickly! Hold firmly that which you have, so that no one takes your crown."
 verse="Revelation 3:11"
 %}
 
 {% include verse.html
-text="And he said to me, “These words are trustworthy and true, for the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place. See, I am coming soon! Blessed is the one who keeps the words of the prophecy of this book.”"
+text="He said to me, “These words are faithful and true, The Lord God of the spirits of the prophets sent his angel to show to his bondservants the things which must happen soon. Behold, I am coming soon! Blessed is he who keeps the words of the prophecy of this book.”"
 verse="Revelation 22:6-7"
 %}
 
 {% include verse.html
-text="See, I am coming soon; my reward is with me, to repay according to everyone’s work."
+text="Behold, I am coming soon! My reward is with me, to repay to each man according to his work."
 verse="Revelation 22:12"
 %}
 
 {% include verse.html
-text="The one who testifies to these things says, “Surely I am coming soon.” Amen. Come, Lord Jesus!"
+text="He who testifies these things says, “Yes, I am coming soon.” Amen! Yes, come, Lord Jesus!"
 verse="Revelation 22:20"
 %}
 
@@ -122,21 +129,21 @@ Note that there is no Scriptural basis for the "suddenly" definition. Confirm it
 ---
 
 {% include verse.html
-text="And he said to me, **“Do not seal up the words of the prophecy of this book, for the time is near.”**"
+text="He said to me, **“Don't seal up the words of the prophecy of this book, for the time is at hand.”**"
 verse="Revelation 22:10"
 %}
 
 Contrast this with Daniel 12:4. It seems that Revelation was written for the generation that received it.
 
 {% include verse.html
-text="But you, Daniel, keep the words secret and the book sealed until the time of the end. Many shall be running back and forth, and evil shall increase."
+text="But you, Daniel, shut up the words and seal the book, even to the time of the end. Many will run back and forth, and knowledge will be increased."
 verse="Daniel 12:4"
 %}
 
 ---
 
 {% include verse.html
-text="A little while, and you will no longer see me, and again a little while, and you will see me."
+text="A little while, and you will not see me. Again a little while, and you will see me."
 verse="John 16:16"
 %}
 
@@ -146,28 +153,30 @@ Actually, this is probably talking about the resurrection.
 ---
 
 {% include verse.html
-text="“Do you see all these things?” he asked. “Truly I tell you, not one stone here will be left on another; every one will be thrown down.” As Jesus was sitting on the Mount of Olives, the disciples came to him privately. “Tell us,” they said, **“when will this happen, and what will be the sign of your coming and of the end of the age?”**"
+text="“You see all of these things, don't you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down. As he sat on the Mount of Olives, the disciples came to him privately, saying, 'Tell us, **when will these things be? What is the sign of your coming, and of the end of the age?**”"
 verse="Matthew 24:2-3"
 %}
 
-I have heard *claims* that the disciples were asking three separate questions: when will the temple be destroyed, what will be the sign of Yeshua's coming (or presence), and what is the sign of the end of the age? After this Bible study, however, we can see that these three things were to happen around the same time.
+I have heard claims that the disciples were asking three separate questions: when will the temple be destroyed, what will be the sign of Yeshua's coming (or presence), and what is the sign of the end of the age? After this Bible study, however, we can see that these three things were to happen around the same time.
 {: .note}
 
 ---
 
+<div class="columns">
 {% include verse.html
 text="But Jesus remained silent. The high priest said to him, “I charge you under oath by the living God: Tell us if you are the Messiah, the Son of God.” “You have said so,” Jesus replied. “But <b>I say to all of you</b>: From now on <b>you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.</b>”"
 verse="Matthew 26:63-65"
 %}
 
 {% include verse.html
-text="But Jesus remained silent and gave no answer. Again the high priest asked him, “Are you the Messiah, the Son of the Blessed One?” “I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”"
+text="But he stayed quiet, and answered nothing. Again the high priest asked him, “Are you the Christ, the Son of the Blessed?” “I am,” said Jesus. “You will see the Son of Man sitting at the right hand of Power, and coming with the clouds of the sky.”"
 verse="Mark 14:61-62"
 %}
+</div>
 
 ---
 
 {% include verse.html
-text="You too, be patient and stand firm, because the Lord’s coming is near. Don’t grumble against one another, brothers and sisters, or you will be judged. The Judge is standing at the door!"
+text="You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don't grumble, brothers, against one another, so that you won't be judged. Behold, the judge stands at the door."
 verse="James 5:8-9"
 %}

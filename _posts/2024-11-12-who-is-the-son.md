@@ -5,28 +5,29 @@ toc: true
 hidden: false
 ---
 
-Let's start by asking, who is the Father? Well, there is evidence that YHWH is the Father:
+Let's start by asking, who is the Father? There is evidence that YHWH is the Father:
 
 {% include verse.html
-text="YHWH says to my lord, “Sit at my right hand until I make your enemies your footstool.”"
+text="YHWH says to my Lord, “Sit at my right hand, until I make your enemies your footstool for your feet.”"
 verse="Psalm 110:1"
 %}
 
-It seems that the Father is speaking to the Son here, evidently confirmed by Yeshua in {% include inline-verse.html verse="Matthew 22:42-45" text-after="." %} Let's look at some more verses:
+It seems that the Father is speaking to the Son here, evidently confirmed by Yeshua in {% include inline-verse.html verse="Matthew 22:42-45" text-after="." %} Here are some more verses:
 
 {% include verse.html
-text="For you are our father, though Abraham does not know us and Israel does not acknowledge us; **you, O YHWH, are our father**; our Redeemer from of old is your name."
+text="For you are our Father, though Abraham doesn’t know us, and Israel does not acknowledge us. **You, YHWH, are our Father.** Our Redeemer from everlasting is your name."
 verse="Isaiah 63:16"
 %}
 
 {% include verse.html
-text="A son honors his father and a servant his master. **If then I am a father**, where is the honor due me? And if I am a master, where is the respect due me? says YHWH of hosts to you, O priests, who despise my name."
+text="A son honors his father, and a servant his master. **If I am a father**, then where is my honor? And if I am a master, where is the respect due me?” says YHWH of Armies to you priests who despise my name."
 verse="Malachi 1:6"
 %}
 
 {% include verse.html
-text="I will tell of the decree of YHWH: He said to me, You are my son; today I have begotten you."
+text="I will surely tell of the decree of YHWH: He said to Me, ‘You are My Son, Today I have begotten You."
 verse="Psalm 2:7"
+version="NASB1995"
 %}
 
 It seems that YHWH is the one who would beget the Son. Is that the full story, though?
@@ -36,17 +37,17 @@ It seems that YHWH is the one who would beget the Son. Is that the full story, t
 ## The First and the Last?
 
 {% include verse.html
-text="**“I am the Alpha and the Omega,” says the Lord God**, who is and who was and who is to come, the Almighty."
+text="**“I am the Alpha and the Omega,” says the Lord God**, “who is and who was and who is to come, the Almighty.”"
 verse="Revelation 1:8"
 %}
 
 {% include verse.html
-text="When I saw him, I fell at his feet as though dead. But he placed his right hand on me, saying, “Do not be afraid; **I am the First and the Last** and the Living One. I was dead, and see, I am alive forever and ever, and I have the keys of Death and of Hades."
+text="When I saw him, I fell at his feet like a dead man. He laid his right hand on me, saying, “Don’t be afraid. **I am the first and the last**, and the Living one. I was dead, and behold, I am alive forever and ever."
 verse="Revelation 1:17-18"
 %}
 
 {% include verse.html
-text="See, I am coming soon; my reward is with me, to repay according to everyone’s work. **I am the Alpha and the Omega, the First and the Last, the Beginning and the End.** Blessed are those who wash their robes, so that they will have the right to the tree of life and may enter the city by the gates. Outside are the dogs and sorcerers and sexually immoral and murderers and idolaters and everyone who loves and practices falsehood. <strong>It is I, Yeshua</strong>, who sent my angel to you with this testimony for the churches. I am the root and the descendant of David, the bright morning star."
+text="“Behold, I am coming soon! My reward is with me, to repay to each man according to his work. **I am the Alpha and the Omega, the First and the Last, the Beginning and the End.** Blessed are those who do his commandments, that they may have the right to the tree of life, and may enter in by the gates into the city. Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood. **I, Jesus**, have sent my angel to testify these things to you for the assemblies. I am the root and the offspring of David, the Bright and Morning Star.”"
 verse="Revelation 22:12-16"
 %}
 
@@ -55,12 +56,12 @@ In the first passage it is perhaps not apparent who is speaking, but in the othe
 Here's where it gets interesting.
 
 {% include verse.html
-text="Listen to me, O Jacob, and Israel, whom I called: I am he; **I am the first, and I am the last**."
+text="Listen to me, O Jacob, and Israel my called: I am he. **I am the first. I am also the last.**"
 verse="Isaiah 48:12"
 %}
 
 {% include verse.html
-text="Thus says YHWH, the King of Israel, and his Redeemer, YHWH of hosts: **I am the first, and I am the last**; besides me there is no god."
+text="This is what YHWH, the King of Israel, and his Redeemer, YHWH of Armies, says: “**I am the first, and I am the last**; and besides me there is no God."
 verse="Isaiah 44:6"
 %}
 
@@ -78,7 +79,7 @@ verse="John 1:1"
 ... and this:
 
 {% include verse.html
-text="Yeshua said to them, “Very truly, I tell you, before Abraham was, **I am**.”"
+text="Jesus said to them, “Most certainly, I tell you, before Abraham came into existence, **I AM**.”"
 verse="John 8:58"
 %}
 
@@ -87,29 +88,30 @@ verse="John 8:58"
 ---
 
 {% include verse.html
-text="See now that I, even I, am he; **there is no god besides me**. I kill, and I make alive; I wound, and I heal; and no one can deliver from my hand."
+text="See now that I, I am He, And **there is no god besides Me**; It is I who put to death and give life. I have wounded and it is I who heal, And there is no one who can deliver from My hand."
 verse="Deuteronomy 32:39"
+version="NASB1995"
 %}
 
 {% include verse.html
-text="I am YHWH; that is my name; **my glory I give to no other**, nor my praise to idols."
+text="I am YHWH. That is my name. **I will not give my glory to another**, nor my praise to engraved images."
 verse="Isaiah 42:8"
 %}
 
 {% include verse.html
-text="For my own sake, for my own sake, I do it, for why should my name be profaned? **My glory I will not give to another.**"
+text="For my own sake, for my own sake, I will do it; for how would my name be profaned? **I will not give my glory to another.**"
 verse="Isaiah 48:11"
 %}
 
 ## Whose Name Are We Saved By?
 
 {% include verse.html
-text="I, I am YHWH, and besides me there is no savior."
+text="I myself am YHWH. Besides me, there is no savior."
 verse="Isaiah 43:11"
 %}
 
 {% include verse.html
-text="Declare and present your case; take counsel together! Who told this long ago? Who declared it of old? Was it not I, YHWH? **There is no other god besides me, a righteous God and a Savior; there is no one besides me.** Turn to me and be saved, all the ends of the earth! For I am God, and there is no other. By myself I have sworn; from my mouth has gone forth in righteousness a word that shall not return: <strong>“To me every knee shall bow, every tongue shall swear.”</strong>"
+text="Declare and present it. Yes, let them take counsel together. Who has shown this from ancient time? Who has declared it of old? Haven’t I, YHWH? **There is no other God besides me, a just God and a Savior.** There is no one besides me. “Look to me, and be saved, all the ends of the earth; for I am God, and there is no other. I have sworn by myself. The word has gone out of my mouth in righteousness, and will not be revoked, that **to me every knee shall bow**, every tongue shall take an oath."
 verse="Isaiah 45:21"
 %}
 
@@ -121,28 +123,28 @@ verse="Enoch 48:2,7"
 url="https://parallel.thebookofenoch.info/#48"
 %}
 
-In the above verse we see that salvation is "in the name of the Lord of Spirits".
+In the above verse we see that salvation is "in the name of the Lord of Spirits", who is separate from "that Son of Man".
 
 ## Does Yeshua Carry the Name?
 
 {% include verse.html
-text="And now I am no longer in the world, but they are in the world, and I am coming to you. Holy Father, protect them in your name that you have given me, so that they may be one, as we are one. **While I was with them, I protected them in your name that you have given me.**"
+text="I am no more in the world, but these are in the world, and I am coming to you. Holy Father, keep them through **your name which you have given me**, that they may be one, even as we are. While I was with them in the world, I kept them in your name."
 verse="John 17:11-12"
 %}
 
 {% include verse.html
-text="For I tell you, you will not see me again until you say, ‘Blessed is the one who comes in the name of the Lord.’"
+text="For I tell you, you will not see me from now on, until you say, ‘Blessed is he who comes in the name of the Lord!’”"
 verse="Matthew 23:39"
 %}
 
 ---
 
 {% include verse.html
-text="Go therefore and make disciples of all nations, baptizing them in **the name of the Father and of the Son and of the Holy Spirit** ..."
+text="Go and make disciples of all nations, baptizing them in **the name of the Father and of the Son and of the Holy Spirit** ..."
 verse="Matthew 28:19"
 %}
 
-The above verse clearly shows us that the Father, Son, and Holy Spirit all share *the* name.
+The above verse clearly shows us that the Father, Son, and Holy Spirit all share the name.
 
 Some people don't like this verse and have suggested that it's an insertion by Trinitarian Catholics, but there's no evidence to suggest that. The [Greek](https://www.blueletterbible.org/nasb95/mat/28/19/s_957019), [Aramaic](https://dukhrana.com/peshitta/index.php), and [Hebrew](https://www.hebrewgospels.com/matthew) texts all contain this verse. Actually, in this study we've seen numerous examples where the Father and Son seem to share the name of YHWH.
 {: .note }
@@ -150,24 +152,19 @@ Some people don't like this verse and have suggested that it's an insertion by T
 ---
 
 {% include verse.html
-text="The days are surely coming, says YHWH, when I will raise up for David a righteous Branch, and he shall reign as king and deal wisely and shall execute justice and righteousness in the land. In his days Judah will be saved, and Israel will live in safety. **And this is the name by which he will be called: “YHWH is our righteousness.”**"
+text="“Behold, the days come,” says YHWH, “that I will raise to David a righteous Branch; and he will reign as king and deal wisely, and will execute justice and righteousness in the land. In his days Judah will be saved, and Israel will dwell safely. **This is his name by which he will be called: YHWH our righteousness.**"
 verse="Jeremiah 23:5-6"
 %}
 
 ---
 
 {% include verse.html
-text="And he shall stand and feed his flock in the strength of YHWH, in the majesty of the name of YHWH his God. And they shall live secure, for now he shall be great to the ends of the earth,"
+text="He shall stand, and shall shepherd in the strength of YHWH, in the majesty of the name of YHWH his God."
 verse="Micah 5:4"
 %}
 
 {% include verse.html
-text="Then he showed me the high priest Joshua standing before the angel of YHWH and the accuser standing at his right hand to accuse him. **And YHWH said to the accuser, “YHWH rebuke you, O accuser!** YHWH who has chosen Jerusalem rebuke you! Is not this man a brand plucked from the fire?”"
-verse="Zechariah 3:1-2"
-%}
-
-{% include verse.html
-text="I am going to send an angel in front of you, to guard you on the way and to bring you to the place that I have prepared. Be attentive to him and listen to his voice; do not rebel against him, for **he will not pardon your transgression, for my name is in him**."
+text="Behold, I send an angel before you, to keep you by the way, and to bring you into the place which I have prepared. Pay attention to him, and listen to his voice. Don’t provoke him, for **he will not pardon your disobedience, for my name is in him.**"
 verse="Exodus 23:20-21"
 %}
 
@@ -176,18 +173,20 @@ verse="Exodus 23:20-21"
 In the previous verse we saw that the angel/messenger (Hebrew: malak) will not pardon transgressions. Scripturally, forgiving sins is associated with God (see for example {% include inline-verse.html verse="Daniel 9:9" text-after=")." %} So who is this malak?
 
 {% include verse.html
-text="There **the angel of YHWH** appeared to him in a flame of fire out of a bush; he looked, and the bush was blazing, yet it was not consumed. Then Moses said, “I must turn aside and look at this great sight and see why the bush is not burned up.” <strong>When YHWH saw that he had turned aside to see</strong>, God called to him out of the bush, “Moses, Moses!” And he said, “Here I am.” [...] Go and assemble the elders of Israel and say to them, ‘<strong>YHWH, the God of your ancestors, the God of Abraham, Isaac, and Jacob, has appeared to me</strong>, saying: I have given heed to you and to what has been done to you in Egypt."
+text="**YHWH’s angel** appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed. Moses said, “I will go now, and see this great sight, why the bush is not burned.” **When YHWH saw that he came over to see**, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.” [...] Go and gather the elders of Israel together, and tell them, ‘**YHWH, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying**, “I have surely visited you, and seen that which is done to you in Egypt."
 verse="Exodus 3:2-4,16"
 %}
 
 {% include verse.html
-text="<strong>Now the angel of YHWH came and sat under the oak at Ophrah</strong>, which belonged to Joash the Abiezrite, as his son Gideon was beating out wheat in the winepress, to hide it from the Midianites. The angel of YHWH appeared to him and said to him, “YHWH is with you, you mighty warrior.” Gideon answered him, “But sir, if YHWH is with us, why then has all this happened to us? And where are all his wonderful deeds that our ancestors recounted to us, saying, ‘Did not YHWH bring us up from Egypt?’ But now YHWH has cast us off and given us into the hand of Midian.” **Then YHWH turned to him and said**, “Go in this might of yours and deliver Israel from the hand of Midian; I hereby commission you.”"
+text="**YHWH’s angel came and sat under the oak which was in Ophrah**, that belonged to Joash the Abiezrite. His son Gideon was beating out wheat in the wine press, to hide it from the Midianites. YHWH’s angel appeared to him, and said to him, “YHWH is with you, you mighty man of valor!” Gideon said to him, “Oh, my lord, if YHWH is with us, why then has all this happened to us? Where are all his wondrous works which our fathers told us of, saying, ‘Didn’t YHWH bring us up from Egypt?’ But now YHWH has cast us off, and delivered us into the hand of Midian.” **YHWH looked at him, and said**, “Go in this your might, and save Israel from the hand of Midian. Haven’t I sent you?”"
 verse="Judges 6:11-14"
 %}
 
 {% include verse.html
 text="For he said, “Surely they are my people, children who will not act deceitfully,” and **he became their savior in all their distress. It was no messenger or angel but his presence that saved them**; in his love and pity it was he who redeemed them; he lifted them up and carried them all the days of old."
 verse="Isaiah 63:8-9"
+version="NRSVUE"
+caption="Other translations differ here, so make sure to compare, but this is really interesting."
 %}
 
 ---
@@ -195,24 +194,26 @@ verse="Isaiah 63:8-9"
 In the next passage it seems very clear that the angel of YHWH also bears His name:
 
 {% include verse.html
-text="Then he showed me the high priest Joshua standing before the **angel of YHWH** and the accuser standing at his right hand to accuse him. And <strong>YHWH said</strong> to the accuser, “<strong>YHWH rebuke you, O accuser!</strong> YHWH who has chosen Jerusalem rebuke you! Is not this man a brand plucked from the fire?”"
+text="He showed me Joshua the high priest standing before **YHWH’s angel**, and Satan standing at his right hand to be his adversary. **YHWH said to Satan, “YHWH rebuke you, Satan!** Yes, YHWH who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”"
 verse="Zechariah 3:1-2"
 %}
 
 {% include verse.html
-text="On that day YHWH will shield the inhabitants of Jerusalem so that the feeblest among them on that day shall be like David, and the house of David shall be **like God, like the angel of YHWH**, at their head."
+text="In that day YHWH will defend the inhabitants of Jerusalem. He who is feeble among them at that day will be like David, and David’s house will be **like God, like YHWH’s angel** before them."
 verse="Zechariah 12:8"
 %}
 
 ---
 
 {% include verse.html
-text="He blessed Joseph and said, “The God before whom my ancestors Abraham and Isaac walked, **the God who has been my shepherd all my life to this day, the angel who has redeemed me from all harm,** bless the boys, and in them let my name be perpetuated and the name of my ancestors Abraham and Isaac, and let them grow into a multitude on the earth.”"
+text="He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, **The God who has been my shepherd all my life to this day, The angel who has redeemed me from all evil**, Bless the lads; And may my name live on in them, And the names of my fathers Abraham and Isaac; And may they grow into a multitude in the midst of the earth.”"
 verse="Genesis 48:15-16"
+version="NASB1995"
 %}
 
 The word for God here is "Elohim", and the word for angel is "malak".
 
+{% comment %}
 ---
 
 {% include verse.html
@@ -221,35 +222,36 @@ verse="John 1:36"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
 version="Hebrew"
 %}
+{% endcomment %}
 
 {% include image.html name="who-is-the-son-2.jpeg" alt="Who is the Son?" width="500" %}
 
 ## The Right Hand of YHWH?
 
 {% include verse.html
-text="Listen to me, O Jacob, and Israel, whom I called: I am he; **I am the first, and I am the last**. My hand laid the foundation of the earth, and <strong>my right hand spread out the heavens</strong>; when I summon them, they stand at attention."
+text="Listen to me, O Jacob, and Israel my called: I am he. **I am the first. I am also the last.** Yes, my hand has laid the foundation of the earth, and **my right hand has spread out the heavens**. when I call to them, they stand up together."
 verse="Isaiah 48:12-13"
 %}
 
 {% include verse.html
-text="**YHWH has bared his holy arm** before the eyes of all the nations, and all the ends of the earth shall <strong>see the salvation [Hebrew: Yeshua] of our God</strong>."
+text="**YHWH has made his holy arm bare** in the eyes of all the nations. All the ends of the earth have **seen the salvation [Hebrew: yeshua] of our God**."
 verse="Isaiah 52:10"
 %}
 
 {% include verse.html
-text="Who has believed what we have heard? **And to whom has the arm of YHWH been revealed?** For he grew up before him like a young plant and like a root out of dry ground; he had no form or majesty that we should look at him, nothing in his appearance that we should desire him."
+text="Who has believed our message? **To whom has YHWH’s arm been revealed?** For he grew up before him as a tender plant, and as a root out of dry ground. He has no good looks or majesty. When we see him, there is no beauty that we should desire him."
 verse="Isaiah 53:1-2"
 %}
 
 {% include verse.html
-text="I will bring near my deliverance swiftly; my salvation has gone out, and **my arms will rule the peoples**; the coastlands wait for me, and <strong>for my arm they hope</strong>. Lift up your eyes to the heavens and look at the earth beneath, for the heavens will vanish like smoke, the earth will wear out like a garment, and those who live on it will die like gnats, but <strong>my salvation [Hebrew: Yeshua] will be forever</strong>, and my deliverance will never be ended."
+text="My righteousness is near. My salvation has gone out, and **my arms will judge the peoples**. The islands will wait for me, and **they will trust my arm**. Lift up your eyes to the heavens, and look at the earth beneath; for the heavens will vanish away like smoke, and the earth will wear out like a garment. Its inhabitants will die in the same way, but **my salvation [Hebrew: yeshua] will be forever**, and my righteousness will not be abolished."
 verse="Isaiah 51:5-6"
 %}
 
 ## Yeshua is Worshipped
 
 {% include verse.html
-text="Once when Joshua was by Jericho, he looked up and saw a man standing before him with a drawn sword in his hand. Joshua went to him and said to him, “Are you one of us or one of our adversaries?” He replied, “Neither, but as commander of the army of YHWH I have now come.” **And Joshua fell on his face to the earth and worshiped**, and he said to him, “What do you command your servant, my lord?”"
+text="When Joshua was by Jericho, he lifted up his eyes and looked, and behold, a man stood in front of him with his sword drawn in his hand. Joshua went to him and said to him, “Are you for us, or for our enemies?” He said, “No; but I have come now as commander of YHWH’s army.” **Joshua fell on his face to the earth, and worshiped**, and asked him, “What does my lord say to his servant?”"
 verse="Joshua 5:13-14"
 %}
 
@@ -261,22 +263,22 @@ On further investigation, "worship" is probably the wrong translation in this pa
 ---
 
 {% include verse.html
-text="And those in the boat worshiped him, saying, “Truly you are the Son of God.”"
+text="Those who were in the boat came and worshiped him, saying, “You are truly the Son of God!”"
 verse="Matthew 14:33"
 %}
 
 {% include verse.html
-text="Suddenly Yeshua met them and said, “Greetings!” And they came to him, took hold of his feet, and worshiped him."
+text="As they went to tell his disciples, behold, Jesus met them, saying, “Rejoice!” They came and took hold of his feet, and worshiped him."
 verse="Matthew 28:9"
 %}
 
 {% include verse.html
-text="He said, “Lord, I believe.” And he worshiped him."
+text="He said, “Lord, I believe!” and he worshiped him."
 verse="John 9:38"
 %}
 
 {% include verse.html
-text="On entering the house, they saw the child with Mary his mother, and they knelt down and paid him homage. Then, opening their treasure chests, they offered him gifts of gold, frankincense, and myrrh."
+text="They came into the house and saw the young child with Mary, his mother, and they fell down and worshiped him. Opening their treasures, they offered to him gifts: gold, frankincense, and myrrh."
 verse="Matthew 2:11"
 %}
 
@@ -289,44 +291,37 @@ url="https://parallel.thebookofenoch.info/#48"
 %}
 
 {% include verse.html
-text="**In the beginning was the Son of Eloah.** The Son of El
-was both with El, and the Son of El was Eloah. This one was
-in the beginning with El."
+text="**In the beginning was the Word**, and the Word was with God, and the Word was God. The same was in the beginning with God."
 verse="John 1:1-2"
-url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
-version="Hebrew"
 %}
 
 {% include verse.html
-text="So Yeshua said to them, “Truth I say to you that before Avraham existed I, I am!”"
+text="Jesus said to them, “Most certainly, I tell you, before Abraham came into existence, I AM.”"
 verse="John 8:58"
-url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
-version="Hebrew"
 %}
-
-Quote from the footnote: "[Yeshua] this time uses a verb from the root ‘היה’ (from which the Name YHWH is formed), hinting even more clearly at the fact that he is YHWH."
 
 ## Is The Son God?
 
 {% include verse.html
-text="In the beginning was the Son of Eloah. The Son of El was both with El, and **the Son of El was Eloah.** This one was in the beginning with El."
+text="In the beginning was the Word, and the Word was with God, and **the Word was God**. The same was in the beginning with God."
 verse="John 1:1-2"
-url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
-version="Hebrew"
 %}
 
+{% comment %}
 {% include verse.html
 text="In this way El will come - with [the glory of] his Father with the messengers, and then he will return to every one according to his deeds."
 verse="Matthew 16:27"
 url="https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf"
 version="Hebrew"
 %}
+{% endcomment %}
 
 ---
 
 {% include verse.html
-text="He blessed Joseph and said, “The God before whom my ancestors Abraham and Isaac walked, **the God who has been my shepherd all my life to this day, the angel who has redeemed me from all harm,** bless the boys, and in them let my name be perpetuated and the name of my ancestors Abraham and Isaac, and let them grow into a multitude on the earth.”"
+text="He blessed Joseph, and said, “The God before whom my fathers Abraham and Isaac walked, **The God who has been my shepherd all my life to this day, The angel who has redeemed me from all evil**, Bless the lads; And may my name live on in them, And the names of my fathers Abraham and Isaac; And may they grow into a multitude in the midst of the earth.”"
 verse="Genesis 48:15-16"
+version="NASB1995"
 %}
 
 The word for God here is "Elohim", and the word for angel is "malak".
@@ -334,7 +329,7 @@ The word for God here is "Elohim", and the word for angel is "malak".
 ---
 
 {% include verse.html
-text="**Your throne, O God**, endures forever and ever. Your royal scepter is a scepter of equity; you love righteousness and hate wickedness. Therefore God, your God, has anointed you with the oil of gladness beyond your companions"
+text="**Your throne, God**, is forever and ever. A scepter of equity is the scepter of your kingdom. You have loved righteousness, and hated wickedness. **Therefore God, your God, has anointed you with the oil of gladness above your fellows.**"
 verse="Psalm 45:6-7"
 %}
 
@@ -344,7 +339,7 @@ verse="Psalm 45:6-7"
 In the <a href="https://www.hebrewgospels.com/_files/ugd/c68db9_aad134a8a148455c99c979c6fe69e0b6.pdf">Hebrew Revelation</a> Yeshua is not clearly equated with God as He is here, but this is included for completeness.
 {% endcapture %}
 {% include verse.html
-text="Great and amazing are your deeds, **Lord God the Almighty!** Just and true are your ways, King of the nations! Lord, who will not fear and glorify your name? For you alone are holy. All nations will come and worship before you, for your judgments have been revealed."
+text="They sang the song of Moses, the servant of God, and **the song of the Lamb**, saying, “Great and marvelous are your works, **Lord God, the Almighty**! Righteous and true are your ways, you King of the nations. Who wouldn’t fear you, Lord, and glorify your name? For you only are holy. For all the nations will come and worship before you. For your righteous acts have been revealed.”"
 verse="Revelation 15:3-4"
 caption=revelation
 %}
@@ -352,16 +347,8 @@ caption=revelation
 ## Other Interesting Verses
 
 {% include verse.html
-text="But Yeshua said to them, “For how much of the time
-that I abode with you, did you not know me? Philip, whosoever sees
-me, sees my Father. How do you say that I should show you the
-Father? Do you not believe that I am as the Father, and the Father
-is in me? The words which I speak, I do not speak from myself; but
-the Father, abiding with me, he does the words. Do you not believe
-that I am he, and that the Father is in me? "
+text="Jesus said to him, “Have I been with you such a long time, and do you not know me, Philip? He who has seen me has seen the Father. How do you say, ‘Show us the Father’? Don’t you believe that I am in the Father, and the Father in me? The words that I tell you, I speak not from myself; but the Father who lives in me does his works. Believe me that I am in the Father, and the Father in me; or else believe me for the very works’ sake."
 verse="John 14:9-11"
-url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
-version="Hebrew"
 %}
 
 ---
@@ -375,11 +362,12 @@ version="NASB1995"
 It is interesting to look at [the Strong's for "echad"](https://biblehub.com/hebrew/259.htm). Indeed, it can refer to a unity. We see examples of this in Scripture:
 
 {% include verse.html
-text="Therefore a man leaves his father and his mother and clings to his wife, and they become one [echad] flesh."
+text="Therefore a man will leave his father and his mother, and will join with his wife, and they will be one [echad] flesh."
 verse="Genesis 2:24"
 %}
 
 {% include verse.html
-text="Then God said, “Let **us** make humans in <strong>our</strong> image, according to <strong>our</strong> likeness [...]”"
+text="Then God said, “Let **Us** make man in Our image, according to **Our** likeness; [...]”"
 verse="Genesis 1:26"
+version="NASB1995"
 %}

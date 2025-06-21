@@ -181,6 +181,10 @@ $verse-wrapper-margin: calc($spacing-unit / 2);
 
         font-size: $base-font-size;
 
+        &.noscripture {
+            border-left: $border-width solid $light-gray;
+        }
+
         p {
             margin: 0;
         }

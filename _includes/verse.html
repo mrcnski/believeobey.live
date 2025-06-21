@@ -1,8 +1,8 @@
 <div class="verse-wrapper">
-  <div class="verse">
+  <div class="verse {% if include.noscripture %}noscripture{% endif %}">
     <p>
       <i>
-        {{ include.text | replace_regex: '\*\*(.+)\*\*', '<strong>\1</strong>'}}
+        {{ include.text | replace_regex: '\*\*([^\*]+)\*\*', '<strong>\1</strong>'}}
       </i>
     </p>
     <p class="verse-verse">
@@ -15,7 +15,7 @@
         {% endif %}
       </a>
       {% else %}
-      <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version={{ include.version | default: 'NRSVUE' }}">
+      <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version={{ include.version | default: 'WEB' }}">
         {{ include.verse }}
         {% if include.version %}
         ({{ include.version }})

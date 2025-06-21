@@ -12,7 +12,7 @@ This is not an exhaustive compilation of evidence, but only what I've personally
 ## The Strongest Evidence
 
 {% include verse.html
-text="It was also about these that **Enoch**, in the seventh generation from Adam, prophesied, saying, <strong>“See, the Lord is coming with ten thousands of his holy ones, to execute judgment on all and to convict all the ungodly of all the deeds of ungodliness that they have committed in such an ungodly way and of all the harsh things that ungodly sinners have spoken against him.”</strong>"
+text="About these also **Enoch**, the seventh from Adam, **prophesied**, saying, **“Behold, the Lord came with ten thousands of his holy ones, to execute judgment on all, and to convict all the ungodly of all their works of ungodliness which they have done in an ungodly way, and of all the hard things which ungodly sinners have spoken against him.”**"
 verse="Jude 14-15"
 %}
 
@@ -29,7 +29,7 @@ url="https://parallel.thebookofenoch.info/#1"
 Yeshua also apparently referred to Enoch as authoritative, even as Scripture:
 
 {% include verse.html
-text="Jesus answered them, “You are wrong because you know neither the **scriptures** nor the power of God. For in the resurrection people neither marry nor are given in marriage but are like angels of God in heaven."
+text="But Jesus answered them, “You are mistaken, not knowing the **Scriptures**, nor the power of God. For in the resurrection they neither marry nor are given in marriage, but are like God’s angels in heaven."
 verse="Matthew 22:29-30"
 %}
 
@@ -57,12 +57,12 @@ url="https://parallel.thebookofenoch.info/#5"
 %}
 
 {% include verse.html
-text="Blessed are the meek, for they will inherit the earth."
+text="Blessed are the gentle, for they shall inherit the earth."
 verse="Matthew 5:5"
 %}
 
 {% include verse.html
-text="But the meek shall inherit the land and delight themselves in abundant prosperity."
+text="But the humble shall inherit the land, and shall delight themselves in the abundance of peace."
 verse="Psalm 37:11"
 %}
 </div>
@@ -77,7 +77,7 @@ url="https://parallel.thebookofenoch.info/#38"
 %}
 
 {% include verse.html
-text="woe to that one by whom the Son of Man is betrayed! It would have been better for that one not to have been born."
+text="woe to that man through whom the Son of Man is betrayed! It would be better for that man if he had not been born."
 verse="Matthew 26:24"
 %}
 </div>
@@ -92,7 +92,7 @@ url="https://parallel.thebookofenoch.info/#51"
 %}
 
 {% include verse.html
-text="And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and all were judged according to what they had done."
+text="The sea gave up the dead who were in it. Death and Hades gave up the dead who were in them. They were judged, each one according to his works."
 verse="Revelation 20:13"
 %}
 </div>
@@ -100,7 +100,7 @@ verse="Revelation 20:13"
 ## References in Scripture
 
 {% include verse.html
-text="When people began to multiply on the face of the ground, and daughters were born to them, the sons of God saw that they were fair, and they took wives for themselves of all that they chose. [...] The Nephilim were on the earth in those days—and also afterward—when **the sons of God went in to the daughters of humans,** who bore children to them. These were the heroes that were of old, warriors of renown."
+text="When men began to multiply on the surface of the ground, and daughters were born to them, God’s sons saw that men’s daughters were beautiful, and they took any that they wanted for themselves as wives. [...] The Nephilim were in the earth in those days, and also after that, when **God’s sons came in to men’s daughters** and had children with them. Those were the mighty men who were of old, men of renown."
 verse="Genesis 6:1-2,4"
 %}
 
@@ -115,15 +115,14 @@ url="https://parallel.thebookofenoch.info/#6"
 The sons of God being angels is consistent with other Scripture:
 
 {% include verse.html
-text="Now there was a day when the sons of God came to present themselves before YHWH, and Satan also came among them."
+text="Now on the day when God’s sons came to present themselves before YHWH, Satan also came among them."
 verse="Job 1:6"
-version="NASB1995"
 %}
 
 ---
 
 {% include verse.html
-text="And the angels who did not keep their own position but deserted their proper dwelling, he has kept in eternal chains in deepest darkness for the judgment of the great day."
+text="Angels who didn’t keep their first domain, but deserted their own dwelling place, he has kept in everlasting bonds under darkness for the judgment of the great day."
 verse="Jude 6"
 %}
 
@@ -138,7 +137,7 @@ url="https://parallel.thebookofenoch.info/#10"
 ---
 
 {% include verse.html
-text="but the goat on which the lot fell for Azazel shall be presented alive before YHWH to make atonement over it, that it may be sent away into the wilderness to Azazel."
+text="But the goat on which the lot fell for the scapegoat shall be presented alive before YHWH, to make atonement for him, to send him away as the scapegoat into the wilderness."
 verse="Leviticus 16:10"
 %}
 
@@ -160,7 +159,7 @@ url="https://parallel.thebookofenoch.info/#100"
 %}
 
 {% include verse.html
-text="The Son of Man will send his angels, and they will collect out of his kingdom all causes of sin and all evildoers, and they will throw them into the furnace of fire, where there will be weeping and gnashing of teeth."
+text="The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling and those who do iniquity, and will cast them into the furnace of fire. There will be weeping and gnashing of teeth."
 verse="Matthew 13:41-42"
 %}
 </div>
@@ -175,12 +174,12 @@ url="https://parallel.thebookofenoch.info/#38"
 %}
 
 {% include verse.html
-text="Then the righteous will shine like the sun in the kingdom of their Father. Let anyone with ears listen!"
+text="Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear."
 verse="Matthew 13:43"
 %}
 
 {% include verse.html
-text="Those who are wise shall shine like the brightness of the sky, and those who lead the many to righteousness, like the stars forever and ever."
+text="Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever."
 verse="Daniel 12:3"
 %}
 </div>
@@ -195,12 +194,8 @@ url="https://parallel.thebookofenoch.info/#48"
 %}
 
 {% include verse.html
-text="In the beginning was the Son of Eloah. The Son of El
-was both with El, and the Son of El was Eloah. This one was
-in the beginning with El."
+text="In the beginning was the Word, and the Word was with God, and the Word was God."
 verse="John 1:1"
-url="https://www.hebrewgospels.com/_files/ugd/c68db9_a93ec196f4b144948b2632acae6fefab.pdf"
-version="Hebrew"
 %}
 </div>
 
@@ -214,7 +209,7 @@ url="https://parallel.thebookofenoch.info/#49"
 %}
 
 {% include verse.html
-text="A shoot shall come out from the stump of Jesse, and a branch shall grow out of his roots. The spirit of YHWH shall rest on him, the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and the fear of YHWH."
+text="A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit. YHWH’s Spirit will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of YHWH."
 verse="Isaiah 11:1-2"
 %}
 </div>
@@ -223,13 +218,13 @@ verse="Isaiah 11:1-2"
 
 <div class="columns">
 {% include verse.html
-text="This is the son of Man who hath righteousness, With whom dwelleth righteousness, And who revealeth all the treasures of that which is hidden, Because the Lord of Spirits hath chosen him, **And whose lot hath the pre-eminence before the Lord of Spirits** in uprightness for ever."
+text="This is the <span class='hl-1'>son of Man who hath righteousness, With whom dwelleth righteousness</span>, And who revealeth all the treasures of that which is hidden, Because the Lord of Spirits hath chosen him, <span class='hl-2'>And whose lot hath the pre-eminence before the Lord of Spirits</span> in uprightness for ever."
 verse="Enoch 46:3"
 url="https://parallel.thebookofenoch.info/#46"
 %}
 
 {% include verse.html
-text="Your throne, O God, endures forever and ever. Your royal scepter is a scepter of equity; you love righteousness and hate wickedness. **Therefore God, your God, has anointed you with the oil of gladness beyond your companions**"
+text="Your throne, God, is forever and ever. A scepter of equity is the scepter of your kingdom. <span class='hl-1'>You have loved righteousness</span>, and hated wickedness. <span class='hl-2'>Therefore God, your God, has anointed you with the oil of gladness above your fellows.</span>"
 verse="Psalm 45:6-7"
 %}
 </div>
@@ -244,12 +239,12 @@ url="https://parallel.thebookofenoch.info/#46"
 %}
 
 {% include verse.html
-text="O God, break the teeth in their mouths; tear out the fangs of the young lions, O YHWH!"
+text="Break their teeth, God, in their mouth. Break out the great teeth of the young lions, YHWH."
 verse="Psalm 58:6"
 %}
 
 {% include verse.html
-text="Rise up, O YHWH! Deliver me, O my God! For you strike all my enemies on the cheek; you break the teeth of the wicked."
+text="Arise, YHWH! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked."
 verse="Psalm 3:7"
 %}
 </div>
@@ -264,12 +259,12 @@ url="https://parallel.thebookofenoch.info/#48"
 %}
 
 {% include verse.html
-text="I am YHWH; I have called you in righteousness; I have taken you by the hand and kept you; I have given you as a covenant to the people, **a light to the nations,** to open the eyes that are blind, to bring out the prisoners from the dungeon, from the prison those who sit in darkness."
+text="I, YHWH, have called you in righteousness. I will hold your hand. I will keep you, and make you a covenant for the people, as **a light for the nations**, to open the blind eyes, to bring the prisoners out of the dungeon, and those who sit in darkness out of the prison."
 verse="Isaiah 42:6-7"
 %}
 
 {% include verse.html
-text="And now YHWH says, who formed me in the womb to be his servant, [...] “It is too light a thing that you should be my servant to raise up the tribes of Jacob and to restore the survivors of Israel; I will give you as **a light to the nations, that my salvation may reach to the end of the earth.**”"
+text="Now YHWH, he who formed me from the womb to be his servant, [...] he says, “It is too light a thing that you should be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel. I will also give you as **a light to the nations, that you may be my salvation to the end of the earth**.”"
 verse="Isaiah 49:5-6"
 %}
 </div>
@@ -288,24 +283,23 @@ url="https://parallel.thebookofenoch.info/#48"
 See also {% include inline-verse.html verse="Malachi 4:1-3" text-after="." %}
 {% endcapture %}
 {% include verse.html
-text="Therefore, <span class='hl-1'>as a tongue of fire consumes stubble And dry grass collapses into the flame,</span> So their root will become like rot and their blossom blow away as dust ..."
+text="Therefore <span class='hl-1'>as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame</span>, so their root shall be as rottenness, and their blossom shall go up as dust ..."
 verse="Isaiah 5:24"
-version="NASB1995"
 caption=stubble
 %}
 
 {% include verse.html
-text="You blew with your wind; the sea covered them; <span class='hl-2'>they sank like lead in the mighty waters.</span>"
+text="You blew with your wind. The sea covered them. <span class='hl-2'>They sank like lead in the mighty waters.</span>"
 verse="Exodus 15:10"
 %}
 
 {% include verse.html
-text="There the evildoers lie prostrate; <span class='hl-3'>they are thrust down, unable to rise.</span>"
+text="There the workers of iniquity are fallen. <span class='hl-3'>They are thrust down, and shall not be able to rise.</span>"
 verse="Psalm 36:12"
 %}
 
 {% include verse.html
-text="<span class='hl-4'>The kings of the earth set themselves, and the rulers take counsel together, against YHWH and his anointed</span> ..."
+text="<span class='hl-4'>The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against his Anointed</span> ..."
 verse="Psalm 2:2"
 %}
 </div>
@@ -322,12 +316,12 @@ url="https://parallel.thebookofenoch.info/#54"
 
 <div>
 {% include verse.html
-text="On that day YHWH will punish the host of heaven in heaven and on earth the kings of the earth. They will be gathered together like prisoners in a pit; they will be shut up in a prison, and after many days they will be punished."
+text="It will happen in that day that YHWH will punish the army of the high ones on high, and the kings of the earth on the earth. They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison; and after many days they will be visited."
 verse="Isaiah 24:21-22"
 %}
 
 {% include verse.html
-text="Then he will say to those at his left hand, ‘You who are accursed, depart from me into the eternal fire prepared for the devil and his angels ..."
+text="Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels ..."
 verse="Matthew 25:41"
 %}
 </div>
@@ -343,20 +337,18 @@ url="https://parallel.thebookofenoch.info/#40"
 %}
 
 {% include verse.html
-text="Now there was a day when the sons of God came to present themselves before YHWH, and Satan also came among them."
+text="Now on the day when God’s sons came to present themselves before YHWH, Satan also came among them."
 verse="Job 1:6"
-version="NASB1995"
 %}
 
 {% include verse.html
-text="Then he showed me Joshua the high priest standing before the angel of the Lord, and Satan standing at his right hand to accuse him."
+text="He showed me Joshua the high priest standing before YHWH’s angel, and Satan standing at his right hand to be his adversary."
 verse="Zechariah 3:1"
-version="NASB1995"
 %}
 </div>
 
 {% include verse.html
-text="The great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world—he was thrown down to the earth, and his angels were thrown down with him. Then I heard a loud voice in heaven proclaiming, “Now have come the salvation and the power and the kingdom of our God and the authority of his Messiah, for the accuser of our brothers and sisters has been thrown down, who accuses them day and night before our God."
+text="The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him. I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for the accuser of our brothers has been thrown down, who accuses them before our God day and night."
 verse="Revelation 12:9-10"
 %}
 
@@ -370,7 +362,7 @@ url="https://parallel.thebookofenoch.info/#51"
 %}
 
 {% include verse.html
-text="The mountains skipped like rams, the hills like lambs. Why is it, O sea, that you flee? O Jordan, that you turn back? O mountains, that you skip like rams? O hills, like lambs?"
+text="The mountains skipped like rams, the little hills like lambs. What was it, you sea, that you fled? You Jordan, that you turned back? You mountains, that you skipped like rams? You little hills, like lambs?"
 verse="Psalm 114:4-6"
 %}
 </div>
@@ -386,17 +378,17 @@ url="https://parallel.thebookofenoch.info/#52"
 
 <div>
 {% include verse.html
-text="<span class='hl-1'>Then the mountains will melt under him, and the valleys will burst open like wax near the fire, like waters poured down a slope.</span>"
+text="<span class='hl-1'>The mountains melt under him, and the valleys split apart like wax before the fire, like waters that are poured down a steep place.</span>"
 verse="Micah 1:4"
 %}
 
 {% include verse.html
-text="<span class='hl-2'>Neither their silver nor their gold will be able to save them on the day of YHWH’s wrath</span>; in the fire of his passion the whole earth shall be consumed, for a full, a terrible end he will make of all the inhabitants of the earth."
+text="<span class='hl-2'>Neither their silver nor their gold will be able to deliver them in the day of YHWH’s wrath</span>, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land."
 verse="Zephaniah 1:18"
 %}
 
 {% include verse.html
-text="He shall judge between the nations and shall arbitrate for many peoples; <span class='hl-3'>they shall beat their swords into plowshares and their spears into pruning hooks; nation shall not lift up sword against nation; neither shall they learn war any more.</span>"
+text="He will judge between the nations, and will decide concerning many peoples. <span class='hl-3'>They shall beat their swords into plowshares, and their spears into pruning hooks. Nation shall not lift up sword against nation, neither shall they learn war any more.</span>"
 verse="Isaiah 2:4"
 %}
 </div>
@@ -421,17 +413,17 @@ url="https://parallel.thebookofenoch.info/#100"
 
 <div>
 {% include verse.html
-text="On that day a great panic from YHWH shall fall on them, so that each will seize the hand of a neighbor, and the hand of the one will be raised against the hand of the other ..."
+text="It will happen in that day that a great panic from YHWH will be among them; and they will each seize the hand of his neighbor, and his hand will rise up against the hand of his neighbor."
 verse="Zechariah 14:13"
 %}
 
 {% include verse.html
-text="I will summon the sword against Gog in all my mountains, says the Lord God; the swords of all will be against their comrades."
+text="I will call for a sword against him to all my mountains,” says the Lord YHWH. “Every man’s sword will be against his brother."
 verse="Ezekiel 38:21"
 %}
 
 {% include verse.html
-text="I am about to destroy the strength of the kingdoms of the nations and overthrow the chariots and their riders, and the horses and their riders shall fall, every one by the sword of a comrade."
+text="I will overthrow the throne of kingdoms. I will destroy the strength of the kingdoms of the nations. I will overthrow the chariots and those who ride in them. The horses and their riders will come down, everyone by the sword of his brother."
 verse="Haggai 2:22"
 %}
 </div>
@@ -446,12 +438,12 @@ verse="Enoch 56:8"
 %}
 
 {% include verse.html
-text="Therefore Sheol has enlarged its appetite and opened its mouth beyond measure; the nobility of Jerusalem and her multitude go down, her throng and all who exult in her."
+text="Therefore Sheol has enlarged its desire, and opened its mouth without measure; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it."
 verse="Isaiah 5:14"
 %}
 
 {% include verse.html
-text="As soon as he finished speaking all these words, the ground under them was split apart. The earth opened its mouth and swallowed them up, along with their households—everyone who belonged to Korah and all their goods. So they with all that belonged to them went down alive into Sheol; the earth closed over them, and they perished from the midst of the assembly."
+text="As he finished speaking all these words, the ground that was under them split apart. The earth opened its mouth and swallowed them up with their households, all of Korah’s men, and all their goods. So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the assembly."
 verse="Numbers 16:31-33"
 %}
 </div>
@@ -466,7 +458,7 @@ url="https://parallel.thebookofenoch.info/#9"
 %}
 
 {% include verse.html
-text="I saw under the altar the souls of those who had been slaughtered for the word of God and for the testimony they had given; they cried out with a loud voice, “Sovereign Lord, holy and true, how long will it be before you judge and avenge our blood on the inhabitants of the earth?”"
+text="I saw underneath the altar the souls of those who had been killed for the Word of God, and for the testimony of the Lamb which they had. They cried with a loud voice, saying, “How long, Master, the holy and true, until you judge and avenge our blood on those who dwell on the earth?”"
 verse="Revelation 6:9-10"
 %}
 </div>
@@ -479,7 +471,7 @@ url="https://parallel.thebookofenoch.info/#47"
 %}
 
 {% include verse.html
-text="And YHWH said, “What have you done? Listen, your brother’s blood is crying out to me from the ground!"
+text="YHWH said, “What have you done? The voice of your brother’s blood cries to me from the ground."
 verse="Genesis 4:10"
 %}
 </div>
@@ -495,12 +487,12 @@ url="https://parallel.thebookofenoch.info/#84"
 
 <div>
 {% include verse.html
-text="“Ah Lord God! It is you who made the heavens and the earth by your great power and by your outstretched arm! Nothing is too hard for you."
+text="Ah Lord YHWH! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. There is nothing too hard for you."
 verse="Jeremiah 32:17"
 %}
 
 {% include verse.html
-text="See, I am YHWH, the God of all flesh; is anything too hard for me?"
+text="Behold, I am YHWH, the God of all flesh. Is there anything too hard for me?"
 verse="Jeremiah 32:27"
 %}
 </div>
@@ -513,7 +505,7 @@ verse="Genesis 18:14"
 %}
 
 {% include verse.html
-text="But Jesus looked at them and said, “For mortals it is impossible, but for God all things are possible.”"
+text="Looking at them, Jesus said, “With men this is impossible, but with God all things are possible.”"
 verse="Matthew 19:26"
 %}
 </div>
@@ -534,9 +526,8 @@ url="https://parallel.thebookofenoch.info/#81"
 %}
 
 {% include verse.html
-text="He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God."
+text="He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God."
 verse="John 3:18"
-version="NASB1995"
 %}
 </div>
 
@@ -544,7 +535,7 @@ version="NASB1995"
 
 <div class="columns">
 {% include verse.html
-text="The Father judges no one but has given all judgment to the Son ...."
+text="For the Father judges no one, but he has given all judgment to the Son ..."
 verse="John 5:22"
 %}
 
@@ -557,7 +548,7 @@ url="https://parallel.thebookofenoch.info/#49"
 
 <div class="columns">
 {% include verse.html
-text="... and **he has given him authority to execute judgment because he is the Son of Man.**"
+text="**He also gave him authority to execute judgment, because he is a son of man.**"
 verse="John 5:27"
 %}
 
@@ -578,12 +569,12 @@ url="https://parallel.thebookofenoch.info/#49"
 %}
 
 {% include verse.html
-text="So have no fear of them, for nothing is covered up that will not be uncovered and nothing secret that will not become known."
+text="Therefore don’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known."
 verse="Matthew 10:26"
 %}
 
 {% include verse.html
-text="For there is nothing hidden, except to be disclosed; nor is anything secret, except to come to light."
+text="For there is nothing hidden except that it should be made known, neither was anything made secret but that it should come to light."
 verse="Mark 4:22"
 %}
 </div>
@@ -593,22 +584,22 @@ verse="Mark 4:22"
 There is a mystery that is not really answered in the canon: who or what are the seven spirits?
 
 {% include verse.html
-text="and in front of the throne burn seven flaming torches, which are the seven spirits of God ..."
+text="There were seven lamps of fire burning before his throne, which are the seven Spirits of God."
 verse="Revelation 4:5"
 %}
 
 {% include verse.html
-text="Then I saw between the throne and the four living creatures and among the elders a Lamb standing as if it had been slaughtered, with seven horns and seven eyes, which are the **seven spirits of God** sent out into all the earth."
+text="I saw in the middle of the throne and of the four living creatures, and in the middle of the elders, a Lamb standing, as though it had been slain, having seven horns and seven eyes, which are the **seven Spirits of God**, sent out into all the earth."
 verse="Revelation 5:6"
 %}
 
 {% include verse.html
-text="For on the stone that I have set before Joshua, **on a single stone with seven facets,** I will engrave its inscription, says YHWH of hosts, and I will remove the guilt of this land in a single day."
+text="For, behold, the stone that I have set before Joshua: **on one stone are seven eyes**; behold, I will engrave its inscription,’ says YHWH of Armies, ‘and I will remove the iniquity of that land in one day."
 verse="Zechariah 3:9"
 %}
 
 {% include verse.html
-text="These seven are the eyes of YHWH that range through the whole earth."
+text="**For these seven shall rejoice**, and shall see the plumb line in the hand of Zerubbabel. **These are YHWH’s eyes, which run back and forth through the whole earth.**"
 verse="Zechariah 4:10"
 %}
 
@@ -655,7 +646,7 @@ url="https://parallel.thebookofenoch.info/#41"
 %}
 
 {% include verse.html
-text="you have been weighed on the scales and found wanting"
+text="... you are weighed in the balances, and are found wanting."
 verse="Daniel 5:27"
 %}
 </div>
@@ -664,15 +655,16 @@ verse="Daniel 5:27"
 {% include verse.html
 text="All one’s ways may be pure in one’s own eyes, but YHWH weighs the spirit."
 verse="Proverbs 16:2"
+version="NRSV"
 %}
 
 {% include verse.html
-text="All deeds are right in the sight of the doer, but YHWH weighs the heart."
+text="Every way of a man is right in his own eyes, but YHWH weighs the hearts."
 verse="Proverbs 21:2"
 %}
 
 {% include verse.html
-text="if you say, “Look, we did not know this”— does not he who weighs the heart perceive it? Does not he who keeps watch over your soul know it?"
+text="If you say, “Behold, we didn’t know this,” doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it?"
 verse="Proverbs 24:12"
 %}
 </div>
@@ -688,43 +680,43 @@ url="https://parallel.thebookofenoch.info/#93"
 
 <div>
 {% include verse.html
-text="When all the people witnessed the thunder and lightning, the sound of the trumpet, and the mountain smoking, they were afraid and trembled and stood at a distance and said to Moses, <span class='hl-1'>“You speak to us, and we will listen, but do not let God speak to us, lest we die.”</span>"
+text="All the people perceived the thunderings, the lightnings, the sound of the trumpet, and the mountain smoking. When the people saw it, they trembled, and stayed at a distance. They said to Moses, <span class='hl-1'>“Speak with us yourself, and we will listen; but don’t let God speak with us, lest we die.”</span>"
 verse="Exodus 20:18-19"
 %}
 
 {% include verse.html
-text="<span class='hl-2'>For my thoughts are not your thoughts, nor are your ways my ways, says YHWH.</span> <span class='hl-6'>For as the heavens are higher than the earth,</span> so are my ways higher than your ways and my thoughts than your thoughts."
+text="<span class='hl-2'>“For my thoughts are not your thoughts, and your ways are not my ways,” says YHWH.</span> “<span class='hl-6'>For as the heavens are higher than the earth</span>, so are my ways higher than your ways, and my thoughts than your thoughts."
 verse="Isaiah 55:8-9"
 %}
 
 {% include verse.html
-text="<span class='hl-3'>Do you know the ordinances of the heavens?</span> Can you establish their rule on the earth?"
+text="<span class='hl-3'>Do you know the laws of the heavens?</span> Can you establish its dominion over the earth?"
 verse="Job 38:33"
 %}
 
 {% include verse.html
-text="<span class='hl-4'>Who has ascended to heaven and come down?</span> Who has gathered the wind in the hollow of the hand? Who has wrapped up the waters in a garment? <span class='hl-5'>Who has established all the ends of the earth?</span> What is the person’s name? And what is the name of the person’s child? Surely you know!"
+text="<span class='hl-4'>Who has ascended up into heaven, and descended?</span> Who has gathered the wind in his fists? Who has bound the waters in his garment? <span class='hl-5'>Who has established all the ends of the earth?</span> What is his name, and what is his son’s name, if you know?"
 verse="Proverbs 30:4"
 %}
 
 {% include verse.html
-text="Where were you when I laid the foundation of the earth? Tell me, if you have understanding. <span class='hl-5'>Who determined its measurements—surely you know!</span> Or who stretched the line upon it?"
+text="Where were you when I laid the foundations of the earth? Declare, if you have understanding. <span class='hl-5'>Who determined its measures, if you know?</span> Or who stretched the line on it?"
 verse="Job 38:4-5"
 %}
 
 {% include verse.html
-text="<span class='hl-6'>It is higher than heaven—what can you do?</span> Deeper than Sheol—what can you know?"
+text="<span class='hl-6'>They are high as heaven. What can you do?</span> They are deeper than Sheol. What can you know?"
 verse="Job 11:8"
 %}
 
 {% include verse.html
-text="Then the earth reeled and rocked; <span class='hl-7'>the foundations of the heavens</span> trembled and reeled because he was angry."
+text="Then the earth shook and trembled. <span class='hl-7'>The foundations of heaven</span> quaked and were shaken, because he was angry."
 verse="2 Samuel 22:8"
 %}
 
 
 {% include verse.html
-text="<span class='hl-8'>He brought him outside and said, “Look toward heaven and count the stars, if you are able to count them.”</span> Then he said to him, “So shall your descendants be.”"
+text="<span class='hl-8'>YHWH brought him outside, and said, “Look now toward the sky, and count the stars, if you are able to count them.”</span> He said to Abram, “So your offspring will be.”"
 verse="Genesis 15:5"
 %}
 </div>
@@ -751,7 +743,7 @@ Consistent with other Scripture (and the words of Messiah), in Enoch the law is 
 ### Dan
 
 {% include verse.html
-text="When Abram heard that his nephew had been taken captive, he led forth his trained men, born in his house, three hundred eighteen of them, and went in pursuit as far as **Dan**."
+text="When Abram heard that his relative was taken captive, he led out his three hundred eighteen trained men, born in his house, and pursued as far as **Dan**."
 verse="Genesis 14:14"
 %}
 

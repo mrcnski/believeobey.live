@@ -16,17 +16,17 @@ What is an obedient Christian to do? I don't have an answer, but thought I'd pre
 ## The Feasts Must Be Kept
 
 {% include verse.html
-text="But anyone who is clean and is not on a journey and yet refrains from keeping the Passover <strong>shall be cut off from the people for not presenting YHWH’s offering at its appointed time</strong>; such a one shall bear the consequences for the sin. **Any alien residing among you who wishes to keep the Passover to YHWH shall do so according to the statute of the Passover** and according to its regulation; you shall have one statute for both the resident alien and the native of the land."
+text="But the man who is clean, and is not on a journey, and fails to keep the Passover, **that soul shall be cut off from his people. Because he didn’t offer the offering of YHWH in its appointed season**, that man shall bear his sin. **If a foreigner lives among you and desires to keep the Passover to YHWH, then he shall do so according to the statute of the Passover**, and according to its ordinance. You shall have one statute, both for the foreigner and for him who is born in the land."
 verse="Numbers 9:13-14"
 %}
 
 {% include verse.html
-text="You shall observe the Festival of Weeks, the first fruits of wheat harvest, and the Festival of Ingathering at the turn of the year. **Three times in the year all your males shall appear before YHWH God,** the God of Israel."
+text="You shall observe the feast of weeks with the first fruits of wheat harvest, and the feast of harvest at the year’s end. **Three times in the year all your males shall appear before the Lord YHWH**, the God of Israel."
 verse="Exodus 34:22-23"
 %}
 
 {% include verse.html
-text="Then all who survive of the nations that have come against Jerusalem shall go up year after year to worship the King, YHWH of hosts, and to keep the Festival of Booths."
+text="It will happen that everyone who is left of all the nations that came against Jerusalem will go up from year to year to worship the King, YHWH of Armies, and to keep the feast of booths."
 verse="Zechariah 14:16"
 %}
 
@@ -35,28 +35,28 @@ verse="Zechariah 14:16"
 This Scripture says that the Passover must be kept where **He** chooses, not where we choose:
 
 {% include verse.html
-text="You are not permitted to offer the Passover sacrifice within any of your towns that YHWH your God is giving you. But **at the place that YHWH your God will choose as a dwelling for his name, only there shall you offer the Passover sacrifice**, in the evening at sunset, the time of day when you departed from Egypt."
+text="You may not sacrifice the Passover within any of your gates which YHWH your God gives you; but **at the place which YHWH your God shall choose to cause his name to dwell in, there you shall sacrifice the Passover at evening**, at the going down of the sun, at the season that you came out of Egypt."
 verse="Deuteronomy 16:5-6"
 %}
 
 The following Scripture indicates that curses come upon those who keep Passover other than as prescribed. However, it also shows that YHWH is merciful towards those who try to keep His feasts.
 
 {% include verse.html
-text="For a multitude of the people, many of them from Ephraim, Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet they ate the Passover contrary to what was prescribed. But Hezekiah prayed for them, saying, “May the good YHWH pardon all who set their hearts to seek God, YHWH the God of their ancestors, even though not in accordance with the sanctuary’s rules of cleanness.” YHWH heard Hezekiah and healed the people."
+text="For a multitude of the people, even many of Ephraim, Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet they ate the Passover other than the way it is written. For Hezekiah had prayed for them, saying, “May the good YHWH pardon everyone who sets his heart to seek God, YHWH, the God of his fathers, even if they aren’t clean according to the purification of the sanctuary.” YHWH listened to Hezekiah, and healed the people."
 verse="2 Chronicles 30:18-20"
 %}
 
 I am not aware of any Biblical record of the feasts being kept apart from the presence of YHWH. It is true that the feasts were at times kept outside Jerusalem, but only when YHWH (and the priests) were with the Israelites:
 
 {% include verse.html
-text="While the Israelites were camped in Gilgal, they kept the Passover in the evening on the fourteenth day of the month in the plains of Jericho. On the day after the Passover, on that very day, they ate the produce of the land, unleavened cakes and roasted grain."
+text="The children of Israel encamped in Gilgal. They kept the Passover on the fourteenth day of the month at evening in the plains of Jericho. They ate unleavened cakes and parched grain of the produce of the land on the next day after the Passover, in the same day."
 verse="Joshua 5:10-11"
 %}
 
 In fact, we *do* have evidence of a righteous person, residing outside of Jerusalem, **not** keeping a feast, but fasting:
 
 {% include verse.html
-text="At that time I, Daniel, had been mourning for three weeks. I had eaten no rich food, <strong>no meat or wine had entered my mouth</strong>, and I had not anointed myself at all, for the full three weeks. On the **twenty-fourth day of the first month**, as I was standing on the bank of the great river (that is, the Tigris) ..."
+text="In those days I, Daniel, was mourning three whole weeks. I ate no pleasant food. **No meat or wine came into my mouth.** I didn’t anoint myself at all, until three whole weeks were fulfilled. In the **twenty-fourth day of the first month**, as I was by the side of the great river, which is Hiddekel ..."
 verse="Daniel 10:2-4"
 %}
 
@@ -69,6 +69,8 @@ For what it's worth, in the apocrypha, Tobit does keep a feast while in exile:
 {% include verse.html
 text="In the days of Esar-haddon I returned home, and my wife Anna and my son Tobias were restored to me. **At our Festival of Pentecost**, which is the sacred Festival of Weeks, a good dinner was prepared for me, and I reclined to eat. When the table had been set for me and an abundance of food placed before me, I said to my son Tobias, “Go, my son, and bring whatever poor person you may find of our kindred among the exiles in Nineveh who is wholeheartedly mindful of God, and he shall eat together with me. I will wait for you, my son, until you come back.”"
 verse="Tobit 2:1-2"
+version="NRSV"
+noscripture="true"
 %}
 
 However, feasting may not have been the right thing for Tobit to do:
@@ -76,6 +78,8 @@ However, feasting may not have been the right thing for Tobit to do:
 {% include verse.html
 text="Then I remembered the prophecy of Amos, how he said against Bethel, “Your festivals shall be turned into mourning and all your songs into lamentation.” And I wept."
 verse="Tobit 2:6"
+version="NRSV"
+noscripture="true"
 %}
 
 He becomes blind on the same day.
@@ -85,17 +89,17 @@ He becomes blind on the same day.
 Then we have these verses. For the sake of readability, I won't be reproducing the whole context, as there is a lot of text. However, it is always important that the reader (you) studies the context.
 
 {% include verse.html
-text="You shall eat no bread or parched grain or fresh ears until that very day, until you have brought the offering of your God. **This is a statute forever throughout your generations in all your settlements.**"
+text="You must not eat bread, or roasted grain, or fresh grain, until this same day, until you have brought the offering of your God. **This is a statute forever throughout your generations in all your dwellings.**"
 verse="Leviticus 23:14"
 %}
 
 {% include verse.html
-text="On that same day you shall make proclamation; you shall hold a holy convocation; you shall not work at your occupations. **This is a statute forever in all your settlements throughout your generations.**"
+text="You shall make proclamation on the same day that there shall be a holy convocation to you. You shall do no regular work. **This is a statute forever in all your dwellings throughout your generations.**"
 verse="Leviticus 23:21"
 %}
 
 {% include verse.html
-text="And anyone who does any work during that entire day, such a one I will destroy from the midst of the people. You shall do no work. **This is a statute forever throughout your generations in all your settlements.**"
+text="Whoever does any kind of work in that same day, I will destroy that person from among his people. You shall do no kind of work: **it is a statute forever throughout your generations in all your dwellings.**"
 verse="Leviticus 23:30-31"
 %}
 
@@ -145,7 +149,7 @@ The following verse is possibly related, though I think this has to be properly
 interpreted (if the feasts were abolished, it would contradict {% include inline-verse.html verse="Zechariah 14:16" text-after=")." %}
 
 {% include verse.html
-text="I will put an end to all her mirth, her festivals, her new moons, her Sabbaths, and all her appointed festivals."
+text="I will also cause all her celebrations to cease: her feasts, her new moons, her Sabbaths, and all her solemn assemblies."
 verse="Hosea 2:11"
 %}
 
