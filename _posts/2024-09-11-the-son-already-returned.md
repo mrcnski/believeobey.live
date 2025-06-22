@@ -1,4 +1,5 @@
 ---
+title: "The Son Already Returned"
 categories: Yeshua prophecy
 ---
 
@@ -6,6 +7,8 @@ categories: Yeshua prophecy
 text="But when they persecute you in this city, flee into the next, for most certainly I tell you, **you will not have gone through the cities of Israel until the Son of Man has come.**"
 verse="Matthew 10:23"
 %}
+
+{% include image.html name="the-son-already-returned/1.jpeg" alt="The Son Already Returned" width="741" %}
 
 ---
 
