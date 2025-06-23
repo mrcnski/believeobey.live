@@ -7,6 +7,9 @@ hidden: false
 
 This is not an exhaustive compilation of evidence, but only what I've personally made a note of in my study of the Book of Enoch.
 
+While I believe that most of Enoch is Scripture, I have found what seem to be corruptions and insertions. In particular, the verses where Noah is speaking do not seem to belong to Enoch, and even contradict the rest of the book. I hope to do a separate study on this.
+{: .note}
+
 {% include image.html name="evidence-that-enoch-is-scripture/1.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
 
 ## The Strongest Evidence
@@ -151,6 +154,10 @@ url="https://parallel.thebookofenoch.info/#10"
 
 ## Similarities with other Scripture
 
+I have been collecting similarities between the Book of Enoch and the accepted, canonical Scriptures. Many statements in Enoch have one or two (or more) supporting witnesses in Scripture.
+
+### Angels Take the Sinners
+
 <div class="columns">
 {% include verse.html
 text="In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners."
@@ -164,7 +171,7 @@ verse="Matthew 13:41-42"
 %}
 </div>
 
----
+### The Righteous Shine like the Sun
 
 <div class="columns">
 {% include verse.html
@@ -184,37 +191,7 @@ verse="Daniel 12:3"
 %}
 </div>
 
----
-
-<div class="columns">
-{% include verse.html
-text="And for this reason hath he been chosen and hidden before Him, before the creation of the world and for evermore."
-verse="Enoch 48:6"
-url="https://parallel.thebookofenoch.info/#48"
-%}
-
-{% include verse.html
-text="In the beginning was the Word, and the Word was with God, and the Word was God."
-verse="John 1:1"
-%}
-</div>
-
----
-
-<div class="columns">
-{% include verse.html
-text="And in him dwells the spirit of wisdom, And the spirit which gives insight, And the spirit of understanding and of might, And the spirit of those who have fallen asleep in righteousness."
-verse="Enoch 49:3"
-url="https://parallel.thebookofenoch.info/#49"
-%}
-
-{% include verse.html
-text="A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit. YHWH’s Spirit will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of YHWH."
-verse="Isaiah 11:1-2"
-%}
-</div>
-
----
+### The Messiah Chosen
 
 <div class="columns">
 {% include verse.html
@@ -229,7 +206,37 @@ verse="Psalm 45:6-7"
 %}
 </div>
 
----
+### Messiah was From the Beginning
+
+<div class="columns">
+{% include verse.html
+text="And for this reason hath he been chosen and hidden before Him, before the creation of the world and for evermore."
+verse="Enoch 48:6"
+url="https://parallel.thebookofenoch.info/#48"
+%}
+
+{% include verse.html
+text="In the beginning was the Word, and the Word was with God, and the Word was God."
+verse="John 1:1"
+%}
+</div>
+
+### The Spirit of Messiah
+
+<div class="columns">
+{% include verse.html
+text="And in him dwells the spirit of wisdom, And the spirit which gives insight, And the spirit of understanding and of might, And the spirit of those who have fallen asleep in righteousness."
+verse="Enoch 49:3"
+url="https://parallel.thebookofenoch.info/#49"
+%}
+
+{% include verse.html
+text="A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit. YHWH’s Spirit will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of YHWH."
+verse="Isaiah 11:1-2"
+%}
+</div>
+
+### Break the Teeth of the Sinners
 
 <div class="columns">
 {% include verse.html
@@ -429,22 +436,109 @@ verse="Haggai 2:22"
 </div>
 </div>
 
+### Fountains of the Waters
+
+<div class="columns">
+<div>
+{% include verse.html
+text="And in those days shall punishment come from the Lord of Spirits, and <span class='hl-1'>he will open all the chambers of waters which are above the heavens</span>, and of <span class='hl-2'>the fountains which are beneath the earth</span>."
+verse="Enoch 54:7"
+url="https://parallel.thebookofenoch.info/#54"
+%}
+
+{% include verse.html
+text="And I saw again, and behold <span class='hl-2'>fountains were opened on the surface of that great enclosure</span>, and that water began to swell and rise upon the surface [...] And again I saw in the vision till <span class='hl-1'>those water torrents were removed from that high roof</span>, and <span class='hl-3'>the chasms of the earth were leveled up and other abysses were opened</span>. Then the water began to run down into these, till the earth became visible; but that vessel settled on the earth ..."
+verse="Enoch 89:3,6-8"
+url="https://parallel.thebookofenoch.info/#89"
+%}
+
+{% include verse.html
+text="And on that day were two monsters parted, a female monster named Leviathan, to dwell in <span class='hl-3'>the abysses of the ocean</span> <span class='hl-2'>over the fountains of the waters</span>."
+verse="Enoch 60:7-8"
+url="https://parallel.thebookofenoch.info/#59"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day <span class='hl-2'>all the fountains of the great deep burst open</span>, and <span class='hl-1'>the sky’s windows opened</span>."
+verse="Genesis 7:11"
+%}
+
+{% include verse.html
+text="<span class='hl-2'>Have you entered into the springs of the sea?</span> <span class='hl-3'>Or have you walked in the recesses of the deep?</span>"
+verse="Job 38:16"
+%}
+
+{% include verse.html
+text="<span class='hl-3'>When there were no depths</span>, I was born, when there were no springs abounding with water. Before the mountains were settled in place, before the hills, I was born; while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world. When he established the heavens, I was there. When he set a circle on the surface of the deep, when he established the clouds above, when the <span class='hl-2'>springs of the deep became strong</span> ..."
+verse="Proverbs 8:24-28"
+%}
+</div>
+</div>
+
+### The Fountain of Life
+
+<div class="columns">
+{% include verse.html
+text="Woe to you who drink water from every fountain, For suddenly shall ye be consumed and wither away, Because ye have forsaken the fountain of life."
+verse="Enoch 96:6"
+%}
+
+{% include verse.html
+text="For my people have committed two evils: they have forsaken me, the spring of living waters, and cut out cisterns for themselves: broken cisterns that can’t hold water."
+verse="Jeremiah 2:13"
+%}
+
+{% include verse.html
+text="For with you is the spring of life. In your light we will see light."
+verse="Psalm 36:9"
+%}
+</div>
+
 ### The Jaws of Sheol
 
 <div class="columns">
 {% include verse.html
-text="In those days Sheol shall open its jaws, And they shall be swallowed up therein And their destruction shall be at an end; Sheol shall devour the sinners in the presence of the elect."
+text="In those days **Sheol shall open its jaws**, And they shall be swallowed up therein And their destruction shall be at an end; Sheol shall devour the sinners in the presence of the elect."
 verse="Enoch 56:8"
 %}
 
 {% include verse.html
-text="Therefore Sheol has enlarged its desire, and opened its mouth without measure; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it."
+text="Therefore **Sheol has enlarged its desire, and opened its mouth without measure**; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it."
 verse="Isaiah 5:14"
 %}
 
 {% include verse.html
-text="As he finished speaking all these words, the ground that was under them split apart. The earth opened its mouth and swallowed them up with their households, all of Korah’s men, and all their goods. So they, and all that belonged to them went down alive into Sheol. The earth closed on them, and they perished from among the assembly."
+text="As he finished speaking all these words, the ground that was under them split apart. **The earth opened its mouth** and swallowed them up with their households, all of Korah’s men, and all their goods. So they, and all that belonged to them **went down alive into Sheol**. The earth closed on them, and they perished from among the assembly."
 verse="Numbers 16:31-33"
+%}
+</div>
+
+### The Summer and the Winter
+
+Revelations from YHWH seem to only ever mention two seasons.
+
+<div class="columns">
+{% include verse.html
+text="Behold the summer and the winter, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
+verse="Enoch 2:3"
+url="https://parallel.thebookofenoch.info/#2"
+%}
+
+{% include verse.html
+text="While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease."
+verse="Genesis 8:22"
+%}
+
+{% include verse.html
+text="The ravenous birds will eat them in the summer, and all the animals of the earth will eat them in the winter."
+verse="Isaiah 18:6"
+%}
+
+{% include verse.html
+text="It will happen in that day that living waters will go out from Jerusalem, half of them toward the eastern sea, and half of them toward the western sea. It will be so in summer and in winter."
+verse="Zechariah 14:8"
 %}
 </div>
 
@@ -473,6 +567,66 @@ url="https://parallel.thebookofenoch.info/#47"
 {% include verse.html
 text="YHWH said, “What have you done? The voice of your brother’s blood cries to me from the ground."
 verse="Genesis 4:10"
+%}
+</div>
+
+### The Darkness is Past
+
+<div class="columns">
+{% include verse.html
+text="And after this it shall be said to the holy in heaven That they should seek out the secrets of righteousness, the heritage of faith: **For it has become bright as the sun upon earth, And the darkness is past.**"
+verse="Enoch 58:5"
+url="https://parallel.thebookofenoch.info/#58"
+%}
+
+{% include verse.html
+text="Again, I write a new commandment to you, which is true in him and in you, because **the darkness is passing away and the true light already shines**."
+verse="1 John 2:8"
+%}
+
+{% include verse.html
+text="The people who walked in darkness have seen a great light. The light has shined on those who lived in the land of the shadow of death."
+verse="Isaiah 9:2"
+%}
+</div>
+
+### Everlasting Life
+
+<div class="columns">
+{% include verse.html
+text="And the righteous shall be in the light of the sun. And the elect in the light of eternal life: The days of their life shall be unending, And the days of the holy without number.[...] And there shall be a light that never endeth, And to a limit (lit. 'number') of days they shall not come ..."
+verse="Enoch 58:3,6"
+url="https://parallel.thebookofenoch.info/#58"
+%}
+
+{% include verse.html
+text="Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever."
+verse="Daniel 12:2-3"
+%}
+
+{% include verse.html
+text="Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life."
+verse="John 5:24"
+%}
+</div>
+
+### Everlasting Light
+
+<div class="columns">
+{% include verse.html
+text="... <span class='hl-1'>For the darkness shall first have been destroyed</span>, [And the light established before the Lord of Spirits] <span class='hl-2'>And the light of uprightness established for ever before the Lord of Spirits</span>."
+verse="Enoch 58:6"
+url="https://parallel.thebookofenoch.info/#58"
+%}
+
+{% include verse.html
+text="The sun will be no more your light by day, nor will the brightness of the moon give light to you, but <span class='hl-2'>YHWH will be your everlasting light, and your God will be your glory</span>. Your sun will not go down any more, nor will your moon withdraw itself; for <span class='hl-2'>YHWH will be your everlasting light</span>, and <span class='hl-1'>the days of your mourning will end</span>."
+verse="Isaiah 60:19-20"
+%}
+
+{% include verse.html
+text="The city has no need for the sun or moon to shine, for <span class='hl-2'>the very glory of God illuminated it and its lamp is the Lamb</span>. The nations will walk in its light. The kings of the earth bring the glory and honor of the nations into it. Its gates will in no way be shut by day <span class='hl-1'>(for there will be no night there)</span> ..."
+verse="Revelation 21:23-25"
 %}
 </div>
 
@@ -576,6 +730,26 @@ verse="Matthew 10:26"
 {% include verse.html
 text="For there is nothing hidden except that it should be made known, neither was anything made secret but that it should come to light."
 verse="Mark 4:22"
+%}
+</div>
+
+### Lightening and Judgment
+
+<div class="columns">
+{% include verse.html
+text="In those days mine eyes saw the secrets of the lightnings, and of the lights, and the judgements they execute (lit. 'their judgement'): and they lighten for a blessing or a curse as the Lord of Spirits willeth. And there I saw the secrets of the thunder, and how when it resounds above in the heaven, the sound thereof is heard, and he caused me to see the judgements executed on the earth, whether they be for well-being and blessing, or for a curse according to the word of the Lord of Spirits."
+verse="Enoch 59:1-2"
+url="https://parallel.thebookofenoch.info/#59"
+%}
+
+{% include verse.html
+text="Behold, he spreads his light around him. He covers the bottom of the sea. For by these he judges the people. He gives food in abundance. He covers his hands with the lightning, and commands it to strike the mark."
+verse="Job 36:30-32"
+%}
+
+{% include verse.html
+text="Yes, he loads the thick cloud with moisture. He spreads abroad the cloud of his lightning. It is turned around by his guidance, that they may do whatever he commands them on the surface of the habitable world, whether it is for correction, or for his land, or for loving kindness, that he causes it to come."
+verse="Job 37:11-13"
 %}
 </div>
 
@@ -725,6 +899,8 @@ verse="Genesis 15:5"
 {% include image.html name="evidence-that-enoch-is-scripture/2.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
 
 ## Other Points of Interest
+
+Here I present some other aspects of Enoch that agree with Scripture.
 
 ### The Animal Prophecy
 
