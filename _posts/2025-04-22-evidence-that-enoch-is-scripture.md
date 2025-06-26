@@ -236,12 +236,12 @@ verse="Enoch 46:4"
 %}
 
 {% include verse.html
-text="Break their teeth, God, in their mouth. Break out the great teeth of the young lions, YHWH."
+text="**Break their teeth**, God, in their mouth. Break out the great teeth of the young lions, YHWH."
 verse="Psalm 58:6"
 %}
 
 {% include verse.html
-text="Arise, YHWH! Save me, my God! For you have struck all of my enemies on the cheek bone. You have broken the teeth of the wicked."
+text="Arise, YHWH! Save me, my God! For you have struck all of my enemies on the cheek bone. **You have broken the teeth of the wicked.**"
 verse="Psalm 3:7"
 %}
 </div>
@@ -304,7 +304,7 @@ verse="Psalm 2:2"
 
 <div class="columns">
 {% include verse.html
-text="And I heard the fourth voice fending off the Satans and forbidding them to come before the Lord of Spirits to accuse them who dwell on the earth."
+text="And I heard the fourth voice fending off **the Satans** and forbidding them to come before the Lord of Spirits to **accuse** them who dwell on the earth."
 verse="Enoch 40:7"
 %}
 
@@ -314,13 +314,13 @@ verse="Job 1:6"
 %}
 
 {% include verse.html
-text="He showed me Joshua the high priest standing before YHWH’s angel, and Satan standing at his right hand to be his adversary."
+text="He showed me Joshua the high priest standing before YHWH’s angel, and **Satan standing at his right hand to be his adversary**."
 verse="Zechariah 3:1"
 %}
 </div>
 
 {% include verse.html
-text="The great dragon was thrown down, the old serpent, he who is called the devil and Satan, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him. I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for the accuser of our brothers has been thrown down, who accuses them before our God day and night."
+text="The great dragon was thrown down, the old serpent, he who is called the devil and **Satan**, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him. I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for **the accuser of our brothers has been thrown down, who accuses them before our God** day and night."
 verse="Revelation 12:9-10"
 %}
 
@@ -328,12 +328,12 @@ verse="Revelation 12:9-10"
 
 <div class="columns">
 {% include verse.html
-text="And in those days shall the mountains leap like rams, And the hills also shall skip like lambs satisfied with milk ..."
+text="And in those days **shall the mountains leap like rams, And the hills also shall skip like lambs** satisfied with milk ..."
 verse="Enoch 51:4"
 %}
 
 {% include verse.html
-text="The mountains skipped like rams, the little hills like lambs. What was it, you sea, that you fled? You Jordan, that you turned back? You mountains, that you skipped like rams? You little hills, like lambs?"
+text="**The mountains skipped like rams, the little hills like lambs.** What was it, you sea, that you fled? You Jordan, that you turned back? You mountains, that you skipped like rams? You little hills, like lambs?"
 verse="Psalm 114:4-6"
 %}
 </div>
@@ -600,18 +600,18 @@ verse="Revelation 21:23-25"
 
 <div class="columns">
 {% include verse.html
-text="For Thou hast made and Thou rulest all things, And nothing is too hard for Thee ..."
+text="For Thou hast made and Thou rulest all things, And **nothing is too hard for Thee** ..."
 verse="Enoch 84:3"
 %}
 
 <div>
 {% include verse.html
-text="Ah Lord YHWH! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. There is nothing too hard for you."
+text="Ah Lord YHWH! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. **There is nothing too hard for you.**"
 verse="Jeremiah 32:17"
 %}
 
 {% include verse.html
-text="Behold, I am YHWH, the God of all flesh. Is there anything too hard for me?"
+text="Behold, I am YHWH, the God of all flesh. **Is there anything too hard for me?**"
 verse="Jeremiah 32:27"
 %}
 </div>
@@ -633,17 +633,17 @@ verse="Matthew 19:26"
 
 <div class="columns">
 {% include verse.html
-text="Know ye that their souls will be made to descend into Sheol... but the souls of the righteous are in the hand of God and shall not be judged at that great judgment... they shall shine and rejoice."
+text="Know ye that their souls will be made to descend into Sheol... but **the souls of the righteous are in the hand of God and shall not be judged at that great judgment**... they shall shine and rejoice."
 verse="Enoch 104:5-6"
 %}
 
 {% include verse.html
-text="Blessed is the man who dies in righteousness and goodness, Concerning whom there is no book of unrighteousness written, And against whom no day of judgement shall be found."
+text="Blessed is the man who dies in righteousness and goodness, Concerning whom there is no book of unrighteousness written, And against whom **no day of judgement shall be found**."
 verse="Enoch 81:4"
 %}
 
 {% include verse.html
-text="He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God."
+text="**He who believes in him is not judged.** He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God."
 verse="John 3:18"
 %}
 </div>
@@ -652,25 +652,25 @@ verse="John 3:18"
 
 <div class="columns">
 {% include verse.html
-text="For the Father judges no one, but he has given all judgment to the Son ..."
-verse="John 5:22"
+text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
+verse="Enoch 49:4"
 %}
 
 {% include verse.html
-text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
-verse="Enoch 49:4"
+text="For the Father judges no one, but he has given all judgment to the Son ..."
+verse="John 5:22"
 %}
 </div>
 
 <div class="columns">
 {% include verse.html
-text="**He also gave him authority to execute judgment, because he is a son of man.**"
-verse="John 5:27"
+text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
+verse="Enoch 69:27"
 %}
 
 {% include verse.html
-text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
-verse="Enoch 69:27"
+text="**He also gave him authority to execute judgment, because he is a son of man.**"
+verse="John 5:27"
 %}
 </div>
 
@@ -766,7 +766,7 @@ verse="Psalm 75:4-5"
 There is a mystery that is not really answered in the canon: who or what are the seven spirits?
 
 {% include verse.html
-text="There were seven lamps of fire burning before his throne, which are the seven Spirits of God."
+text="There were seven lamps of fire burning before his throne, which are **the seven Spirits of God**."
 verse="Revelation 4:5"
 %}
 
@@ -811,38 +811,42 @@ version="Charles"
 ### Weighed in a Balance
 
 <div class="columns">
+<div>
 {% include verse.html
-text="And after that I saw all the secrets of the heavens, and how the kingdom is divided, and how the actions of men are weighed in the balance."
+text="And after that I saw all the secrets of the heavens, and how the kingdom is divided, and how **the actions of men are weighed in the balance**."
 verse="Enoch 41:1-2"
 %}
 
 {% include verse.html
-text="And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed."
+text="And he shall judge all the works of the holy above in the heaven, And **in the balance shall their deeds be weighed**."
 verse="Enoch 61:8"
-%}
-
-{% include verse.html
-text="... you are weighed in the balances, and are found wanting."
-verse="Daniel 5:27"
 %}
 </div>
 
-<div class="columns">
+<div>
 {% include verse.html
-text="All one’s ways may be pure in one’s own eyes, but YHWH weighs the spirit."
-verse="Proverbs 16:2"
-version="NRSV"
+text="... **you are weighed in the balances**, and are found wanting."
+verse="Daniel 5:27"
 %}
 
 {% include verse.html
-text="Every way of a man is right in his own eyes, but YHWH weighs the hearts."
+text="All one’s ways may be pure in one’s own eyes, but **YHWH weighs the spirit**."
+verse="Proverbs 16:2"
+version="NRSV"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="Every way of a man is right in his own eyes, but **YHWH weighs the hearts**."
 verse="Proverbs 21:2"
 %}
 
 {% include verse.html
-text="If you say, “Behold, we didn’t know this,” doesn’t he who weighs the hearts consider it? He who keeps your soul, doesn’t he know it?"
+text="If you say, “Behold, we didn’t know this,” doesn’t **he who weighs the hearts** consider it? He who keeps your soul, doesn’t he know it?"
 verse="Proverbs 24:12"
 %}
+</div>
 </div>
 
 ### Can a Man Compare to God?
