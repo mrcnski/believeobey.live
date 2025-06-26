@@ -88,10 +88,14 @@ verse="Matthew 26:24"
 ---
 
 <div class="columns">
+{% capture devoured %}
+See also {% include inline-verse.html verse="Enoch 61:5" text-after="." %}
+{% endcapture %}
 {% include verse.html
 text="And in those days shall the earth also give back that which has been entrusted to it, And Sheol also shall give back that which it has received, And hell shall give back that which it owes."
 verse="Enoch 51:1"
 url="https://parallel.thebookofenoch.info/#51"
+caption=devoured
 %}
 
 {% include verse.html
@@ -312,28 +316,6 @@ verse="Psalm 2:2"
 </div>
 </div>
 
-### Men and Angels Judged Together
-
-<div class="columns">
-{% include verse.html
-text="And I looked and turned to another part of the earth, and saw there a deep valley with burning fire. And they brought the kings and the mighty, and began to cast them into this deep valley. And there mine eyes saw how they made these their instruments, iron chains of immeasurable weight. [...] And he said unto me: 'These are being prepared for the hosts of Azazel, so that they may take them and cast them into the abyss of complete condemnation, and they shall cover their jaws with rough stones as the Lord of Spirits commanded. And Michael, and Gabriel, and Raphael, and Phanuel shall take hold of them on that great day, and cast them on that day into the burning furnace ..."
-verse="Enoch 54:1-6"
-url="https://parallel.thebookofenoch.info/#54"
-%}
-
-<div>
-{% include verse.html
-text="It will happen in that day that YHWH will punish the army of the high ones on high, and the kings of the earth on the earth. They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison; and after many days they will be visited."
-verse="Isaiah 24:21-22"
-%}
-
-{% include verse.html
-text="Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels ..."
-verse="Matthew 25:41"
-%}
-</div>
-</div>
-
 ### Satan as Accuser
 
 <div class="columns">
@@ -493,6 +475,21 @@ verse="Jeremiah 2:13"
 {% include verse.html
 text="For with you is the spring of life. In your light we will see light."
 verse="Psalm 36:9"
+%}
+</div>
+
+### The Throne of Glory
+
+<div class="columns">
+{% include verse.html
+text="And the Lord of Spirits placed the Elect one on **the throne of glory**."
+verse="Enoch 61:8"
+url="https://parallel.thebookofenoch.info/#61"
+%}
+
+{% include verse.html
+text="But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on **the throne of his glory**."
+verse="Matthew 25:31"
 %}
 </div>
 
@@ -716,12 +713,21 @@ url="https://parallel.thebookofenoch.info/#69"
 ---
 
 <div class="columns">
+<div>
 {% include verse.html
 text="**And he shall judge the secret things,** And none shall be able to utter a lying word before him ..."
 verse="Enoch 49:4"
 url="https://parallel.thebookofenoch.info/#49"
 %}
 
+{% include verse.html
+text="And when he shall lift up his countenance To judge their secret ways according to the word of the name of the Lord of Spirits ..."
+verse="Enoch 61:9"
+url="https://parallel.thebookofenoch.info/#61"
+%}
+</div>
+
+<div>
 {% include verse.html
 text="Therefore don’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known."
 verse="Matthew 10:26"
@@ -732,6 +738,34 @@ text="For there is nothing hidden except that it should be made known, neither w
 verse="Mark 4:22"
 %}
 </div>
+</div>
+
+### Men and Angels Judged Together
+
+<div class="columns">
+{% include verse.html
+text="And I looked and turned to another part of the earth, and saw there a deep valley with burning fire. And they brought the kings and the mighty, and began to cast them into this deep valley. And there mine eyes saw how they made these their instruments, iron chains of immeasurable weight. [...] And he said unto me: 'These are being prepared for the hosts of Azazel, so that they may take them and cast them into the abyss of complete condemnation, and they shall cover their jaws with rough stones as the Lord of Spirits commanded. And Michael, and Gabriel, and Raphael, and Phanuel shall take hold of them on that great day, and cast them on that day into the burning furnace ..."
+verse="Enoch 54:1-6"
+url="https://parallel.thebookofenoch.info/#54"
+%}
+
+<div>
+{% include verse.html
+text="It will happen in that day that YHWH will punish the army of the high ones on high, and the kings of the earth on the earth. They will be gathered together, as prisoners are gathered in the pit, and will be shut up in the prison; and after many days they will be visited."
+verse="Isaiah 24:21-22"
+%}
+
+{% include verse.html
+text="Then he will say also to those on the left hand, ‘Depart from me, you cursed, into the eternal fire which is prepared for the devil and his angels ..."
+verse="Matthew 25:41"
+%}
+</div>
+</div>
+
+{% include verse.html
+text="And the Lord of Spirits placed the Elect one on the throne of glory. And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed."
+verse="Enoch 61:8"
+%}
 
 ### Lightening and Judgment
 
@@ -750,6 +784,21 @@ verse="Job 36:30-32"
 {% include verse.html
 text="Yes, he loads the thick cloud with moisture. He spreads abroad the cloud of his lightning. It is turned around by his guidance, that they may do whatever he commands them on the surface of the habitable world, whether it is for correction, or for his land, or for loving kindness, that he causes it to come."
 verse="Job 37:11-13"
+%}
+</div>
+
+### Lift Up the Horn
+
+<div class="columns">
+{% include verse.html
+text="And thus the Lord commanded the kings and the mighty and the exalted, and those who dwell on the earth, and said: 'Open your eyes and **lift up your horns** if ye are able to recognize the Elect One.'"
+verse="Enoch 62:1"
+url="https://parallel.thebookofenoch.info/#62"
+%}
+
+{% include verse.html
+text="I said to the arrogant, “Don’t boast!” I said to the wicked, “**Don’t lift up the horn.** Don’t lift up your horn on high. Don’t speak with a stiff neck.”"
+verse="Psalm 75:4-5"
 %}
 </div>
 
