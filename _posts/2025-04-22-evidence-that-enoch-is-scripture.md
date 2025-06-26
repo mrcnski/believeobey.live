@@ -136,9 +136,14 @@ verse="Enoch 10:12-13"
 
 ---
 
+{% capture scapegoat %}
+Note: many translations, instead of keeping the name "Azazel", mistakenly translate it as "scapegoat".
+{% endcapture %}
 {% include verse.html
-text="But the goat on which the lot fell for the scapegoat shall be presented alive before YHWH, to make atonement for him, to send him away as the scapegoat into the wilderness."
+text="but the goat on which the lot fell for Azazel shall be presented alive before YHWH to make atonement over it, that it may be sent away into the wilderness to Azazel."
 verse="Leviticus 16:10"
+version="NRSV"
+caption=scapegoat
 %}
 
 Who is the Azazel mentioned in Scripture? It is never explained, because readers would have been already familiar with the Book of Enoch (written before Leviticus):
