@@ -7,21 +7,12 @@
     </p>
     <p class="verse-verse">
       ~
-      {% if include.url %}
-      <a href="{{ include.url }}">
+      <a href="{{ include.url | verse_url: include.verse, include.version }}">
         {{ include.verse }}
         {% if include.version %}
         ({{ include.version }})
         {% endif %}
       </a>
-      {% else %}
-      <a href="https://www.biblegateway.com/passage/?search={{ include.verse }}&version={{ include.version | default: 'WEB' }}">
-        {{ include.verse }}
-        {% if include.version %}
-        ({{ include.version }})
-        {% endif %}
-      </a>
-      {% endif %}
     </p>
   </div>
 

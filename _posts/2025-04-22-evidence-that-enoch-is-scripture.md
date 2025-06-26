@@ -24,7 +24,6 @@ Jude quotes not from anywhere in the canon, but from the Book of Enoch:
 {% include verse.html
 text="And behold! He cometh with ten thousands of His holy ones To execute judgement upon all, And to destroy all the ungodly: And to convict all flesh Of all the works of their ungodliness which they have ungodly committed, And of all the hard things which ungodly sinners have spoken against Him."
 verse="Enoch 1:9"
-url="https://parallel.thebookofenoch.info/#1"
 %}
 
 ---
@@ -41,7 +40,6 @@ The canonical scriptures do not speak about angels marrying. The only place I kn
 {% include verse.html
 text="And therefore I have not appointed wives for you; for as for the spiritual ones of the heaven, in heaven is their dwelling."
 verse="Enoch 15:7"
-url="https://parallel.thebookofenoch.info/#15"
 %}
 
 By saying that the Sadduccees [Zadokites] did not know the scriptures, it would seem that Messiah was implicitly affirming that Enoch is indeed scripture.
@@ -56,7 +54,6 @@ Here are some more instances where the canonical books seem to quote almost verb
 {% include verse.html
 text="But for the elect there shall be light and joy and peace, And they shall inherit the earth."
 verse="Enoch 5:7"
-url="https://parallel.thebookofenoch.info/#5"
 %}
 
 {% include verse.html
@@ -76,7 +73,6 @@ verse="Psalm 37:11"
 {% include verse.html
 text="And where the resting-place of those who have denied the Lord of Spirits? It had been good for them if they had not been born."
 verse="Enoch 38:2"
-url="https://parallel.thebookofenoch.info/#38"
 %}
 
 {% include verse.html
@@ -94,7 +90,6 @@ See also {% include inline-verse.html verse="Enoch 61:5" text-after="." %}
 {% include verse.html
 text="And in those days shall the earth also give back that which has been entrusted to it, And Sheol also shall give back that which it has received, And hell shall give back that which it owes."
 verse="Enoch 51:1"
-url="https://parallel.thebookofenoch.info/#51"
 caption=devoured
 %}
 
@@ -116,7 +111,6 @@ This account in Genesis doesn't elaborate on who the sons of God are, which has 
 {% include verse.html
 text="And it came to pass when the children of men had multiplied that in those days were born unto them beautiful and comely daughters. And **the angels, the children of the heaven,** saw and lusted after them, and said to one another: 'Come, let us choose us wives from among the children of men and beget us children.'"
 verse="Enoch 6:1-3"
-url="https://parallel.thebookofenoch.info/#6"
 %}
 
 The sons of God being angels is consistent with other Scripture:
@@ -138,7 +132,6 @@ What Jude is referring to is not found in canon, but in Enoch:
 {% include verse.html
 text="bind them [fallen Watchers] fast for seventy generations in the valleys of the earth, till the day of their judgement and of their consummation, till the judgement that is for ever and ever is consummated."
 verse="Enoch 10:12-13"
-url="https://parallel.thebookofenoch.info/#10"
 %}
 
 ---
@@ -153,7 +146,6 @@ Who is the Azazel mentioned in Scripture? It is never explained, because readers
 {% include verse.html
 text="And the whole earth has been corrupted through the works that were taught by Azazel: to him ascribe all sin."
 verse="Enoch 10:8-9"
-url="https://parallel.thebookofenoch.info/#10"
 %}
 
 ## Similarities with other Scripture
@@ -166,7 +158,6 @@ I have been collecting similarities between the Book of Enoch and the accepted, 
 {% include verse.html
 text="In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners."
 verse="Enoch 100:4"
-url="https://parallel.thebookofenoch.info/#100"
 %}
 
 {% include verse.html
@@ -181,7 +172,6 @@ verse="Matthew 13:41-42"
 {% include verse.html
 text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused His light to appear On the face of the holy, righteous, and elect."
 verse="Enoch 38:4"
-url="https://parallel.thebookofenoch.info/#38"
 %}
 
 {% include verse.html
@@ -201,7 +191,6 @@ verse="Daniel 12:3"
 {% include verse.html
 text="This is the <span class='hl-1'>son of Man who hath righteousness, With whom dwelleth righteousness</span>, And who revealeth all the treasures of that which is hidden, Because the Lord of Spirits hath chosen him, <span class='hl-2'>And whose lot hath the pre-eminence before the Lord of Spirits</span> in uprightness for ever."
 verse="Enoch 46:3"
-url="https://parallel.thebookofenoch.info/#46"
 %}
 
 {% include verse.html
@@ -216,7 +205,6 @@ verse="Psalm 45:6-7"
 {% include verse.html
 text="And for this reason hath he been chosen and hidden before Him, before the creation of the world and for evermore."
 verse="Enoch 48:6"
-url="https://parallel.thebookofenoch.info/#48"
 %}
 
 {% include verse.html
@@ -231,7 +219,6 @@ verse="John 1:1"
 {% include verse.html
 text="And in him dwells the spirit of wisdom, And the spirit which gives insight, And the spirit of understanding and of might, And the spirit of those who have fallen asleep in righteousness."
 verse="Enoch 49:3"
-url="https://parallel.thebookofenoch.info/#49"
 %}
 
 {% include verse.html
@@ -246,7 +233,6 @@ verse="Isaiah 11:1-2"
 {% include verse.html
 text="And this Son of Man whom thou hast seen Shall raise up the kings and the mighty from their seats, [...] **And break the teeth of the sinners.**"
 verse="Enoch 46:4"
-url="https://parallel.thebookofenoch.info/#46"
 %}
 
 {% include verse.html
@@ -266,7 +252,6 @@ verse="Psalm 3:7"
 {% include verse.html
 text="He shall be a staff to the righteous whereon to stay themselves and not fall, And he shall be **the light of the Gentiles,** And the hope of those who are troubled of heart."
 verse="Enoch 48:4"
-url="https://parallel.thebookofenoch.info/#48"
 %}
 
 {% include verse.html
@@ -286,7 +271,6 @@ verse="Isaiah 49:5-6"
 {% include verse.html
 text="<span class='hl-1'>As straw in the fire so shall they burn before the face of the holy</span>: <span class='hl-2'>As lead in the water shall they sink</span> before the face of the righteous, And no trace of them shall any more be found. And on the day of their affliction there shall be rest on the earth, <span class='hl-3'>And before them they shall fall and not rise again</span>: And there shall be no one to take them with his hands and raise them: <span class='hl-4'>For they have denied the Lord of Spirits and His Anointed.</span> The name of the Lord of Spirits be blessed."
 verse="Enoch 48:9-10"
-url="https://parallel.thebookofenoch.info/#48"
 %}
 
 <div>
@@ -322,7 +306,6 @@ verse="Psalm 2:2"
 {% include verse.html
 text="And I heard the fourth voice fending off the Satans and forbidding them to come before the Lord of Spirits to accuse them who dwell on the earth."
 verse="Enoch 40:7"
-url="https://parallel.thebookofenoch.info/#40"
 %}
 
 {% include verse.html
@@ -347,7 +330,6 @@ verse="Revelation 12:9-10"
 {% include verse.html
 text="And in those days shall the mountains leap like rams, And the hills also shall skip like lambs satisfied with milk ..."
 verse="Enoch 51:4"
-url="https://parallel.thebookofenoch.info/#51"
 %}
 
 {% include verse.html
@@ -362,7 +344,6 @@ verse="Psalm 114:4-6"
 {% include verse.html
 text="And these mountains which thine eyes have seen [...] <span class='hl-1'>All these shall be in the presence of the Elect One As wax before the fire, And like the water which streams down from above</span> [upon those mountains], And they shall become powerless before his feet. <span class='hl-2'>And it shall come to pass in those days that none shall be saved, Either by gold or by silver, And none be able to escape.</span> And <span class='hl-3'>there shall be no iron for war, Nor shall one clothe oneself with a breastplate</span>. Bronze shall be of no service, And tin [shall be of no service and] shall not be esteemed, And lead shall not be desired."
 verse="Enoch 52:6-8"
-url="https://parallel.thebookofenoch.info/#52"
 %}
 
 <div>
@@ -390,13 +371,11 @@ verse="Isaiah 2:4"
 {% include verse.html
 text="But the city of my righteous shall be a hindrance to their horses. And they shall begin to fight among themselves, And their right hand shall be strong against themselves, And a man shall not know his brother, Nor a son his father or his mother, Till there be no number of the corpses through their slaughter, And their punishment be not in vain."
 verse="Enoch 56:7"
-url="https://parallel.thebookofenoch.info/#56"
 %}
 
 {% include verse.html
 text="And in those days in one place the fathers together with their sons shall be smitten And brothers one with another shall fall in death Till the streams flow with their blood. For a man shall not withhold his hand from slaying his sons and his sons' sons, And the sinner shall not withhold his hand from his honoured brother: From dawn till sunset they shall slay one another."
 verse="Enoch 100:1-3"
-url="https://parallel.thebookofenoch.info/#100"
 %}
 </div>
 
@@ -425,19 +404,16 @@ verse="Haggai 2:22"
 {% include verse.html
 text="And in those days shall punishment come from the Lord of Spirits, and <span class='hl-1'>he will open all the chambers of waters which are above the heavens</span>, and of <span class='hl-2'>the fountains which are beneath the earth</span>."
 verse="Enoch 54:7"
-url="https://parallel.thebookofenoch.info/#54"
 %}
 
 {% include verse.html
 text="And I saw again, and behold <span class='hl-2'>fountains were opened on the surface of that great enclosure</span>, and that water began to swell and rise upon the surface [...] And again I saw in the vision till <span class='hl-1'>those water torrents were removed from that high roof</span>, and <span class='hl-3'>the chasms of the earth were leveled up and other abysses were opened</span>. Then the water began to run down into these, till the earth became visible; but that vessel settled on the earth ..."
 verse="Enoch 89:3,6-8"
-url="https://parallel.thebookofenoch.info/#89"
 %}
 
 {% include verse.html
 text="And on that day were two monsters parted, a female monster named Leviathan, to dwell in <span class='hl-3'>the abysses of the ocean</span> <span class='hl-2'>over the fountains of the waters</span>."
 verse="Enoch 60:7-8"
-url="https://parallel.thebookofenoch.info/#59"
 %}
 </div>
 
@@ -484,7 +460,6 @@ verse="Psalm 36:9"
 {% include verse.html
 text="And the Lord of Spirits placed the Elect one on **the throne of glory**."
 verse="Enoch 61:8"
-url="https://parallel.thebookofenoch.info/#61"
 %}
 
 {% include verse.html
@@ -520,7 +495,6 @@ Revelations from YHWH seem to only ever mention two seasons.
 {% include verse.html
 text="Behold the summer and the winter, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
 verse="Enoch 2:3"
-url="https://parallel.thebookofenoch.info/#2"
 %}
 
 {% include verse.html
@@ -545,7 +519,6 @@ verse="Zechariah 14:8"
 {% include verse.html
 text="And now, behold, the souls of those who have died are crying and making their suit to the gates of heaven, and their lamentations have ascended ..."
 verse="Enoch 9:10"
-url="https://parallel.thebookofenoch.info/#9"
 %}
 
 {% include verse.html
@@ -558,7 +531,6 @@ verse="Revelation 6:9-10"
 {% include verse.html
 text="And in those days shall have ascended the prayer of the righteous, And the blood of the righteous from the earth before the Lord of Spirits."
 verse="Enoch 47:1"
-url="https://parallel.thebookofenoch.info/#47"
 %}
 
 {% include verse.html
@@ -573,7 +545,6 @@ verse="Genesis 4:10"
 {% include verse.html
 text="And after this it shall be said to the holy in heaven That they should seek out the secrets of righteousness, the heritage of faith: **For it has become bright as the sun upon earth, And the darkness is past.**"
 verse="Enoch 58:5"
-url="https://parallel.thebookofenoch.info/#58"
 %}
 
 {% include verse.html
@@ -593,7 +564,6 @@ verse="Isaiah 9:2"
 {% include verse.html
 text="And the righteous shall be in the light of the sun. And the elect in the light of eternal life: The days of their life shall be unending, And the days of the holy without number.[...] And there shall be a light that never endeth, And to a limit (lit. 'number') of days they shall not come ..."
 verse="Enoch 58:3,6"
-url="https://parallel.thebookofenoch.info/#58"
 %}
 
 {% include verse.html
@@ -613,7 +583,6 @@ verse="John 5:24"
 {% include verse.html
 text="... <span class='hl-1'>For the darkness shall first have been destroyed</span>, [And the light established before the Lord of Spirits] <span class='hl-2'>And the light of uprightness established for ever before the Lord of Spirits</span>."
 verse="Enoch 58:6"
-url="https://parallel.thebookofenoch.info/#58"
 %}
 
 {% include verse.html
@@ -633,7 +602,6 @@ verse="Revelation 21:23-25"
 {% include verse.html
 text="For Thou hast made and Thou rulest all things, And nothing is too hard for Thee ..."
 verse="Enoch 84:3"
-url="https://parallel.thebookofenoch.info/#84"
 %}
 
 <div>
@@ -667,13 +635,11 @@ verse="Matthew 19:26"
 {% include verse.html
 text="Know ye that their souls will be made to descend into Sheol... but the souls of the righteous are in the hand of God and shall not be judged at that great judgment... they shall shine and rejoice."
 verse="Enoch 104:5-6"
-url="https://parallel.thebookofenoch.info/#104"
 %}
 
 {% include verse.html
 text="Blessed is the man who dies in righteousness and goodness, Concerning whom there is no book of unrighteousness written, And against whom no day of judgement shall be found."
 verse="Enoch 81:4"
-url="https://parallel.thebookofenoch.info/#81"
 %}
 
 {% include verse.html
@@ -693,7 +659,6 @@ verse="John 5:22"
 {% include verse.html
 text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
 verse="Enoch 49:4"
-url="https://parallel.thebookofenoch.info/#49"
 %}
 </div>
 
@@ -706,7 +671,6 @@ verse="John 5:27"
 {% include verse.html
 text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
 verse="Enoch 69:27"
-url="https://parallel.thebookofenoch.info/#69"
 %}
 </div>
 
@@ -717,13 +681,11 @@ url="https://parallel.thebookofenoch.info/#69"
 {% include verse.html
 text="**And he shall judge the secret things,** And none shall be able to utter a lying word before him ..."
 verse="Enoch 49:4"
-url="https://parallel.thebookofenoch.info/#49"
 %}
 
 {% include verse.html
 text="And when he shall lift up his countenance To judge their secret ways according to the word of the name of the Lord of Spirits ..."
 verse="Enoch 61:9"
-url="https://parallel.thebookofenoch.info/#61"
 %}
 </div>
 
@@ -746,7 +708,6 @@ verse="Mark 4:22"
 {% include verse.html
 text="And I looked and turned to another part of the earth, and saw there a deep valley with burning fire. And they brought the kings and the mighty, and began to cast them into this deep valley. And there mine eyes saw how they made these their instruments, iron chains of immeasurable weight. [...] And he said unto me: 'These are being prepared for the hosts of Azazel, so that they may take them and cast them into the abyss of complete condemnation, and they shall cover their jaws with rough stones as the Lord of Spirits commanded. And Michael, and Gabriel, and Raphael, and Phanuel shall take hold of them on that great day, and cast them on that day into the burning furnace ..."
 verse="Enoch 54:1-6"
-url="https://parallel.thebookofenoch.info/#54"
 %}
 
 <div>
@@ -773,7 +734,6 @@ verse="Enoch 61:8"
 {% include verse.html
 text="In those days mine eyes saw the secrets of the lightnings, and of the lights, and the judgements they execute (lit. 'their judgement'): and they lighten for a blessing or a curse as the Lord of Spirits willeth. And there I saw the secrets of the thunder, and how when it resounds above in the heaven, the sound thereof is heard, and he caused me to see the judgements executed on the earth, whether they be for well-being and blessing, or for a curse according to the word of the Lord of Spirits."
 verse="Enoch 59:1-2"
-url="https://parallel.thebookofenoch.info/#59"
 %}
 
 {% include verse.html
@@ -793,7 +753,6 @@ verse="Job 37:11-13"
 {% include verse.html
 text="And thus the Lord commanded the kings and the mighty and the exalted, and those who dwell on the earth, and said: 'Open your eyes and **lift up your horns** if ye are able to recognize the Elect One.'"
 verse="Enoch 62:1"
-url="https://parallel.thebookofenoch.info/#62"
 %}
 
 {% include verse.html
@@ -831,25 +790,21 @@ Interestingly, in Enoch there are seven archangels:
 {% include verse.html
 text="And these are the names of the holy angels who watch. <strong>Uriel</strong>, one of the holy angels, who is over the world and over Tartarus. <strong>Raphael</strong>, one of the holy angels, who is over the spirits of men. <strong>Raguel</strong>, one of the holy angels who takes vengeance on the world of the luminaries. <strong>Michael</strong>, one of the holy angels, to wit, he that is set over the best part of mankind and over chaos. <strong>Saraqael</strong>, one of the holy angels, who is set over the spirits, who sin in the spirit. <strong>Gabriel</strong>, one of the holy angels, who is over Paradise and the serpents and the Cherubim. <strong>Remiel</strong>, one of the holy angels, whom God set over those who rise."
 verse="Enoch 20"
-url="https://parallel.thebookofenoch.info/#20"
 %}
 
 {% include verse.html
 text="And those **seven holy ones** brought me and placed me on the earth before the door of my house ..."
 verse="Enoch 81:5"
-url="https://parallel.thebookofenoch.info/#81"
 %}
 
 {% include verse.html
 text="And I raised mine eyes again to heaven, and I saw in the vision, and behold there came forth from heaven beings who were like white men: and four went forth from that place and three with them."
 verse="Enoch 87:2-3"
-url="https://parallel.thebookofenoch.info/#87"
 %}
 
 {% include verse.html
 text="And the Lord called those men **the seven first white ones,** and commanded that they should bring before Him..."
 verse="Enoch 90:21"
-url="https://parallel.thebookofenoch.info/#90"
 version="Charles"
 %}
 
@@ -859,13 +814,11 @@ version="Charles"
 {% include verse.html
 text="And after that I saw all the secrets of the heavens, and how the kingdom is divided, and how the actions of men are weighed in the balance."
 verse="Enoch 41:1-2"
-url="https://parallel.thebookofenoch.info/#41"
 %}
 
 {% include verse.html
 text="And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed."
 verse="Enoch 61:8"
-url="https://parallel.thebookofenoch.info/#41"
 %}
 
 {% include verse.html
@@ -898,7 +851,6 @@ verse="Proverbs 24:12"
 {% include verse.html
 text="For <span class='hl-1'>who is there of all the children of men that is able to hear the voice of the Holy One without being troubled?</span> <span class='hl-2'>And who can think His thoughts?</span> and <span class='hl-3'>who is there that can behold all the works of heaven?</span> And how should there be one who could <span class='hl-3'>behold the heaven</span>, and who is there that could <span class='hl-3'>understand the things of heaven</span> and see a soul or a spirit and could tell thereof, <span class='hl-4'>or ascend and see all their ends</span> and think them or do like them? And who is there of all men that could know <span class='hl-5'>what is the breadth and the length of the earth, and to whom has been shown the measure of all of them?</span> <span class='hl-6'>Or is there any one who could discern the length of the heaven and how great is its height,</span> <span class='hl-7'>and upon what it is founded,</span> and <span class='hl-8'>how great is the number of the stars,</span> and where all the luminaries rest?"
 verse="Enoch 93:11-14"
-url="https://parallel.thebookofenoch.info/#93"
 %}
 
 <div>
@@ -979,7 +931,6 @@ It has been remarked[^dan] that the mention of "Dan" here is anachronistic, as t
 {% include verse.html
 text="And I went off and sat down at the waters of **Dan**, in the land of <strong>Dan</strong>, to the south of the west of Hermon"
 verse="Enoch 13:7"
-url="https://parallel.thebookofenoch.info/#13"
 %}
 
 ### Scriptural Geography
