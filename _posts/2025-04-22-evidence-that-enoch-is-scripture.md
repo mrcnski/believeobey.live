@@ -462,10 +462,17 @@ verse="Psalm 36:9"
 ### The Throne of Glory
 
 <div class="columns">
+<div>
 {% include verse.html
 text="And the Lord of Spirits placed the Elect one on **the throne of glory**."
 verse="Enoch 61:8"
 %}
+
+{% include verse.html
+text="... he sits on **the throne of his glory**, And righteousness is judged before him ..."
+verse="Enoch 62:3"
+%}
+</div>
 
 {% include verse.html
 text="But when the Son of Man comes in his glory, and all the holy angels with him, then he will sit on **the throne of his glory**."
@@ -763,6 +770,40 @@ verse="Enoch 62:1"
 {% include verse.html
 text="I said to the arrogant, “Don’t boast!” I said to the wicked, “**Don’t lift up the horn.** Don’t lift up your horn on high. Don’t speak with a stiff neck.”"
 verse="Psalm 75:4-5"
+%}
+</div>
+
+### The Word of His Mouth
+
+<div class="columns">
+{% include verse.html
+text="And the Lord of Spirits seated him on the throne of His glory, And <span class='hl-1'>the spirit of righteousness was poured out upon him</span>, And <span class='hl-2'>the word of his mouth slays all the sinners</span>, And all the unrighteous are destroyed from before his face."
+verse="Enoch 62:2"
+%}
+
+{% include verse.html
+text="<span class='hl-1'>but he will judge the poor with righteousness</span>, and decide with equity for the humble of the earth. <span class='hl-2'>He will strike the earth with the rod of his mouth; and with the breath of his lips he will kill the wicked.</span> <span class='hl-1'>Righteousness will be the belt around his waist</span>, and faithfulness the belt around his waist."
+verse="Isaiah 11:4-5"
+%}
+
+{% include verse.html
+text="<span class='hl-1'>In righteousness he judges and makes war.</span> [...] <span class='hl-2'>Out of his mouth proceeds a sharp, double-edged sword that with it he should strike the nations.</span> He will rule them with an iron rod."
+verse="Revelation 19:11,15"
+%}
+
+</div>
+
+### They Shall Look on the Other
+
+<div class="columns">
+{% include verse.html
+text="Then shall <span class='hl-1'>pain come upon them as on a woman in travail, [And she has pain in bringing forth] When her child enters the mouth of the womb, And she has pain in bringing forth</span>. <span class='hl-2'>And one portion of them shall look on the other</span>, And they shall be terrified, And they shall be downcast of countenance, And pain shall seize them, When they see that Son of Man Sitting on the throne of his glory."
+verse="Enoch 62:4"
+%}
+
+{% include verse.html
+text="They will be dismayed. Pangs and sorrows will seize them. <span class='hl-1'>They will be in pain like a woman in labor.</span> <span class='hl-2'>They will look in amazement one at another.</span> Their faces will be faces of flame."
+verse="Isaiah 13:8"
 %}
 </div>
 

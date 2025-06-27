@@ -3,10 +3,16 @@ module Jekyll
     def verse_url(input_url, verse, version)
       return input_url if input_url
 
-      book, numbers = verse.split(' ', 2)
-      chapter, _verse_num = numbers.split(':', 2)
-      if book == 'Enoch'
-        return "https://parallel.thebookofenoch.info/##{chapter}"
+      if verse
+        book, numbers = verse.split(' ', 2)
+
+        if numbers
+          chapter, _verse_num = numbers.split(':', 2)
+
+          if book == 'Enoch'
+            return "https://parallel.thebookofenoch.info/##{chapter}"
+          end
+        end
       end
 
       version ||= 'WEB'
