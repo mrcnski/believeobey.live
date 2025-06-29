@@ -451,7 +451,7 @@ $post-meta-padding: calc($spacing-unit / 4);
 .post-info {
     $link-hover: $blue;
 
-    padding: calc($spacing-unit * 2/4);
+    padding: calc($spacing-unit * 3/8) calc($spacing-unit * 2/4);
 
     position: relative;
     overflow: hidden;
@@ -471,31 +471,6 @@ $post-meta-padding: calc($spacing-unit / 4);
         .post-categories {
             @include media-query(520px) {
                 display: none;
-            }
-        }
-
-        /* Underline effect on hover */
-        .post-link {
-            position: relative;
-            display: inline-block;
-            text-decoration: none !important;
-
-            &::before {
-                content: '';
-                position: absolute;
-                bottom: -2px;
-                left: 0;
-                width: 0;
-                height: 2px;
-                background-color: $link;
-                transition: width 0.3s ease,
-                            background-color 0.3s ease;
-            }
-            &:hover {
-                &::before {
-                    width: 100%;
-                    background-color: $link-hover;
-                }
             }
         }
     }
