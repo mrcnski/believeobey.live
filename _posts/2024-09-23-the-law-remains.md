@@ -230,6 +230,7 @@ The Sabbath is to be observed for all generations. This shouldn't surprise us --
 text="And when the day, and the power, and the punishment, and the judgement come, which the Lord of Spirits hath prepared for those **who worship not the righteous law**, and for those who deny the righteous judgement, and for those who take His name in vain-that day is prepared, for the elect a covenant, but for sinners an inquisition."
 verse="Enoch 60:6"
 url="https://parallel.thebookofenoch.info/#60"
+caption="Note: Charles in his translation notes provides an alternative translation: 'who corrupt the righteous law'."
 %}
 
 {% include verse.html
@@ -288,3 +289,15 @@ By the way, He says here that He is lord of the Sabbath, not of Sunday. The Lord
 
 The writings of Paul and Luke may need to be properly addressed in a separate
 study.
+
+## Other Verses
+
+{% include verse.html
+text="YHWH says, “Because they have forsaken my law which I set before them, and have not obeyed my voice or walked in my ways, but have walked after the stubbornness of their own heart and after the Baals, which their fathers taught them.”"
+verse="Jeremiah 9:13-14"
+%}
+
+{% include verse.html
+text="This is the end of the matter. All has been heard. **Fear God and keep his commandments; for this is the whole duty of man.**"
+verse="Ecclesiastes 12:13"
+%}
