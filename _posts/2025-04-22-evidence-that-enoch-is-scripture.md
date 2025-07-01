@@ -44,7 +44,7 @@ verse="Enoch 15:7"
 
 By saying that the Sadduccees [Zadokites] did not know the scriptures, it would seem that Messiah was implicitly affirming that Enoch is indeed scripture.
 
-## Direct Quotes in Canon
+## Direct Quotes in the Canon
 
 Here are some more instances where the canonical books seem to quote almost verbatim from Enoch:
 
@@ -183,9 +183,16 @@ verse="Enoch 38:4"
 text="Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear."
 verse="Matthew 13:43"
 %}
+</div>
+
+<div class="columns">
+{% include verse.html
+text="... but now **ye shall shine as the lights of heaven**, ye shall shine and ye shall be seen, and the portals of heaven shall be opened to you."
+verse="Enoch 104:2-3"
+%}
 
 {% include verse.html
-text="Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever."
+text="Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness **will shine as the stars forever and ever**."
 verse="Daniel 12:3"
 %}
 </div>
@@ -644,20 +651,30 @@ verse="Matthew 19:26"
 ### Judgment
 
 <div class="columns">
-{% include verse.html
-text="Know ye that their souls will be made to descend into Sheol... but **the souls of the righteous are in the hand of God and shall not be judged at that great judgment**... they shall shine and rejoice."
-verse="Enoch 104:5-6"
-%}
-
+<div>
 {% include verse.html
 text="Blessed is the man who dies in righteousness and goodness, Concerning whom there is no book of unrighteousness written, And against whom **no day of judgement shall be found**."
 verse="Enoch 81:4"
 %}
 
 {% include verse.html
+text="Ye shall not have to hide on the day of the great judgement and ye shall not be found as sinners, and **the eternal judgement shall be far from you** for all the generations of the world."
+verse="Enoch 104:5-6"
+%}
+</div>
+
+<div>
+{% include verse.html
 text="**He who believes in him is not judged.** He who doesn’t believe has been judged already, because he has not believed in the name of the only born Son of God."
 verse="John 3:18"
 %}
+
+{% include verse.html
+text="“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and **doesn’t come into judgment**, but has passed out of death into life."
+verse="John 5:24"
+%}
+%}
+</div>
 </div>
 
 ---
