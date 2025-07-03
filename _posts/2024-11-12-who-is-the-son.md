@@ -146,7 +146,7 @@ verse="Matthew 28:19"
 
 The above verse clearly shows us that the Father, Son, and Holy Spirit all share the name.
 
-Some people don't like this verse and have suggested that it's an insertion by Trinitarian Catholics, but there's no evidence to suggest that. The [Greek](https://www.blueletterbible.org/nasb95/mat/28/19/s_957019), [Aramaic](https://dukhrana.com/peshitta/index.php), and [Hebrew](https://www.hebrewgospels.com/matthew) texts all contain this verse. Actually, in this study we've seen numerous examples where the Father and Son seem to share the name of YHWH.
+I have seen speculation that this verse is an insertion by Trinitarian Catholics, but I've not seen evidence to suggest that. The [Greek](https://www.blueletterbible.org/nasb95/mat/28/19/s_957019), [Aramaic](https://dukhrana.com/peshitta/index.php), and [Hebrew](https://www.hebrewgospels.com/matthew) texts all contain this verse. Actually, in this study we've seen numerous examples where the Father and Son seem to share the name of YHWH.
 {: .note }
 
 ---
