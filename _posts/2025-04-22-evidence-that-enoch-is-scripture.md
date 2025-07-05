@@ -220,8 +220,8 @@ verse="Enoch 48:6"
 %}
 
 {% include verse.html
-text="In the beginning was the Word, and the Word was with God, and the Word was God."
-verse="John 1:1"
+text="In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God."
+verse="John 1:1-2"
 %}
 </div>
 
@@ -670,9 +670,8 @@ verse="John 3:18"
 %}
 
 {% include verse.html
-text="“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and **doesn’t come into judgment**, but has passed out of death into life."
+text="Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and **doesn’t come into judgment**, but has passed out of death into life."
 verse="John 5:24"
-%}
 %}
 </div>
 </div>
@@ -870,6 +869,98 @@ text="And the Lord called those men **the seven first white ones,** and commande
 verse="Enoch 90:21"
 version="Charles"
 %}
+
+### The Throne of God
+
+<div class="columns">
+<div>
+{% include verse.html
+text="And I looked and saw therein a lofty throne: <span class='hl-1'>its appearance was as crystal</span>, and <span class='hl-2'>the wheels thereof as the shining sun</span>, and <span class='hl-3'>there was the vision of cherubim</span>. And <span class='hl-4'>from underneath the throne came streams of flaming fire</span> so that I could not look thereon. And the Great Glory sat thereon, and <span class='hl-5'>His raiment shone more brightly than the sun and was whiter than any snow</span>. None of the angels could enter and could behold His face by reason of the magnificence and glory and no flesh could behold Him. <span class='hl-6'>The flaming fire was round about Him</span>, and a great fire stood before Him, and none around could draw nigh Him: <span class='hl-7'>ten thousand times ten thousand (stood) before Him</span>, yet He needed no counselor. And the most holy ones who were nigh to Him did not leave by night nor depart from Him."
+verse="Enoch 14:18-24"
+%}
+
+{% include verse.html
+text="And my spirit saw the girdle which girt that house of fire, And <span class='hl-6'>on its four sides were streams full of living fire</span>, And they girt that house. And round about were Seraphin, <span class='hl-3'>Cherubic</span>, and Ophannin: And these are they who sleep not And guard the throne of His glory. <span class='hl-7'>And I saw angels who could not be counted, A thousand thousands, and ten thousand times ten thousand</span>, Encircling that house."
+verse="Enoch 71:6-8"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="Above the expanse that was over their heads was the likeness of a throne, <span class='hl-1'>as the appearance of a sapphire stone</span>. On the likeness of the throne was a likeness as the appearance of a man on it above. <span class='hl-5'>I saw as it were glowing metal, as the appearance of fire within it all around</span>, from the appearance of his waist and upward; and <span class='hl-4'>from the appearance of his waist and downward I saw as it were the appearance of fire</span>, and <span class='hl-6'>there was brightness around him. As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around</span>. This was the appearance of the likeness of YHWH’s glory."
+verse="Ezekiel 1:26-28"
+%}
+
+{% include verse.html
+text="Then I looked, and see, in the expanse that was over <span class='hl-3'>the head of the cherubim</span> <span class='hl-1'>there appeared above them as it were a sapphire stone</span>, as the appearance of the likeness of a throne."
+verse="Ezekiel 10:1"
+%}
+
+{% include verse.html
+text="I watched until thrones were placed, and one who was Ancient of Days sat. <span class='hl-5'>His clothing was white as snow</span>, and the hair of his head like pure wool. His throne was fiery flames, and <span class='hl-2'>its wheels burning fire</span>. <span class='hl-4'>A fiery stream issued and came out from before him.</span> <span class='hl-7'>Thousands of thousands ministered to him. Ten thousand times ten thousand stood before him.</span> The judgment was set. The books were opened."
+verse="Daniel 7:9-10"
+%}
+</div>
+</div>
+
+#### Sea of Glass
+
+<div class="columns">
+{% include verse.html
+text="And I went into the tongues of fire and drew nigh to a large house which was built of crystals: and the walls of the house were like a tesselated floor (made) of crystals, and **its groundwork was of crystal**."
+verse="Enoch 14:10-11"
+%}
+
+{% include verse.html
+text="They saw the God of Israel. **Under his feet was like a paved work of sapphire stone, like the skies for clearness.**"
+verse="Exodus 24:10"
+%}
+
+{% include verse.html
+text="**Before the throne was something like a sea of glass, similar to crystal.** In the middle of the throne, and around the throne were four living creatures full of eyes before and behind."
+verse="Revelation 4:6"
+%}
+</div>
+
+#### Angels around the Throne
+
+<div class="columns">
+<div>
+{% include verse.html
+text="Its ceiling was like the path of the stars and the lightnings, and between them were fiery <span class='hl-1'>cherubim</span>, and their heaven was (clear as) water."
+verse="Enoch 14:11-12"
+%}
+
+{% include verse.html
+text="And He will summon all the host of the heavens, and all the holy ones above, and the host of God, the <span class='hl-1'>Cherubic</span>, <span class='hl-2'>Seraphin</span> and <span class='hl-3'>Ophannin</span>, and all the angels of power, and all the angels of principalities, and the Elect One ..."
+verse="Enoch 61:10"
+%}
+
+{% include verse.html
+text="And round about were <span class='hl-2'>Seraphin</span>, <span class='hl-1'>Cherubic</span>, and <span class='hl-3'>Ophannin</span>: And these are they who sleep not And guard the throne of His glory."
+verse="Enoch 71:7"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="Then I looked, and see, in the expanse that was over <span class='hl-1'>the head of the cherubim</span> there appeared above them as it were a sapphire stone, as the appearance of the likeness of a throne."
+verse="Ezekiel 10:1"
+%}
+
+{% include verse.html
+text="Above him stood the <span class='hl-2'>seraphim</span>. Each one had six wings. With two he covered his face. With two he covered his feet. With two he flew."
+verse="Isaiah 6:2"
+%}
+
+{% include verse.html
+text="Now as I saw the living creatures, behold, <span class='hl-3'>there was one wheel [ophan] on the earth beside the living creatures</span>, for each of the four faces of it."
+verse="Ezekiel 1:15"
+%}
+</div>
+</div>
+
+**Note:** "Ophannim" comes from the Hebrew word "ophan", meaning wheel!
 
 ### Weighed in a Balance
 
