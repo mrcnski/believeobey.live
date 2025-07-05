@@ -8,7 +8,7 @@ toc: true
 
 Background context: [Revealed: The Land of Jesus - Strait is the Gate](https://www.youtube.com/watch?v=AFu0HqJ3lts). The premise of this video is that the [camp of the saints](https://www.biblegateway.com/passage/?search=rev%2020%3A9&version=NRSVUE) is located in the "Terre de Iesso" (Land of Jesus) that is found on old maps.
 
-My finding is that this location for the camp of the saints (and Mount Zion) is consistent with the geography in The Book of Enoch.
+My finding is that this location for the camp of the saints (and Mount Zion) is consistent with the geography in The Book of Enoch. (See [my Bible study](/evidence-that-enoch-is-scripture) for evidence that Enoch is scripture!)
 
 {% include image.html name="speculation-terre-de-iesso/terre-de-iesso.jpg" alt="Terre de Iesso" %}
 
@@ -40,6 +40,11 @@ version="NASB1995"
 text="But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on the mount of assembly In the [sides] of the north."
 verse="Isaiah 14:13"
 version="NASB1995"
+%}
+
+{% include verse.html
+text="Out of the north comes golden splendor. With God is awesome majesty."
+verse="Job 37:22"
 %}
 
 Going back to Enoch:
