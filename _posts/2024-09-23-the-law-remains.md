@@ -297,7 +297,14 @@ text="YHWH says, “Because they have forsaken my law which I set before them, a
 verse="Jeremiah 9:13-14"
 %}
 
+<div class="columns">
 {% include verse.html
-text="This is the end of the matter. All has been heard. **Fear God and keep his commandments; for this is the whole duty of man.**"
+text="This is the end of the matter. All has been heard. <span class='hl-1'>Fear God</span> and <span class='hl-2'>keep his commandments</span>; for this is the whole duty of man."
 verse="Ecclesiastes 12:13"
 %}
+
+{% include verse.html
+text="But YHWH’s loving kindness is from everlasting to everlasting with those who <span class='hl-1'>fear him</span>, his righteousness to children’s children, to those who keep his covenant, to those who <span class='hl-2'>remember to obey his precepts</span>."
+verse="Psalm 103:17-18"
+%}
+</div>
