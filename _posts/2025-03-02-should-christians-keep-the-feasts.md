@@ -39,6 +39,11 @@ text="You may not sacrifice the Passover within any of your gates which YHWH you
 verse="Deuteronomy 16:5-6"
 %}
 
+{% include verse.html
+text="then it shall happen that to **the place which YHWH your God shall choose, to cause his name to dwell there**, there you shall bring all that I command you: your burnt offerings, your sacrifices, your tithes, the wave offering of your hand, and all your choice vows which you vow to YHWH. [...] **Be careful that you don’t offer your burnt offerings in every place that you see; but in the place which YHWH chooses in one of your tribes**, there you shall offer your burnt offerings, and **there you shall do all that I command you**."
+verse="Deuteronomy 12:11-14"
+%}
+
 The following Scripture indicates that curses come upon those who keep Passover other than as prescribed. However, it also shows that YHWH is merciful towards those who try to keep His feasts.
 
 {% include verse.html
