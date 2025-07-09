@@ -35,12 +35,12 @@ caption=shawmah
 %}
 
 {% include verse.html
-text="Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to **observe all things that I commanded you**."
+text="Go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, **teaching them to observe all things that I commanded you**."
 verse="Matthew 28:19-20"
 %}
 
 {% include verse.html
-text="For God so loved the world, that he gave his only born Son, that whoever believes in him should not perish, but have eternal life. [...] One who believes in the Son has eternal life, but **one who disobeys the Son won’t see life**, but the wrath of God remains on him."
+text="For God so loved the world, that he gave his only born Son, that **whoever believes in him should not perish**, but have eternal life. [...] One who believes in the Son has eternal life, but **one who disobeys the Son won’t see life**, but the wrath of God remains on him."
 verse="John 3:16,36"
 %}
 
