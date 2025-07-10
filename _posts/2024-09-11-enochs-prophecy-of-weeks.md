@@ -9,7 +9,7 @@ categories: prophecy apocrypha
 
 <br>
 <style>canvas { width: fit-content } </style>
-<canvas id="canvas" width="8000" height="245"></canvas>
+<canvas id="canvas" width="8000" height="375"></canvas>
 
 **Week 1:** I was born the seventh in the first week, While judgement and righteousness still endured. [(Enoch 93:3)](https://parallel.thebookofenoch.info/#93)
 
@@ -45,6 +45,7 @@ categories: prophecy apocrypha
  const LABEL_COLOR = "#000000";
  const WEEK_LINE_COLOR = "#9EA3B0";
  const YEAR_2_COLOR = "#546A7B";
+ const START_X = 160;
  const BAR_HEIGHT = 15;
 
  const LABEL_FONT = "14px Verdana";
@@ -55,14 +56,28 @@ categories: prophecy apocrypha
  const canvas = document.getElementById("canvas");
  const ctx = canvas.getContext("2d");
 
+ // Handle HiDPI displays for sharp rendering
+ const dpr = window.devicePixelRatio || 1;
+ const displayWidth = canvas.width;
+ const displayHeight = canvas.height;
+
+ canvas.width = displayWidth * dpr;
+ canvas.height = displayHeight * dpr;
+
+ canvas.style.width = displayWidth + 'px';
+ canvas.style.height = displayHeight + 'px';
+
+ ctx.scale(dpr, dpr);
+
  class Timeline {
-   constructor(label, isWeeks, bars) {
-     this.currentX = 160;
+   constructor(label, isWeeks, bars, absoluteYears = false) {
+     this.currentX = START_X;
      this.currentEnd = 0;
      this.currentYear = 0;
      this.label = label;
      this.isWeeks = isWeeks;
      this.bars = bars;
+     this.absoluteYears = absoluteYears;
    }
 
    drawLabel(y) {
@@ -78,8 +93,17 @@ categories: prophecy apocrypha
 
    drawBar(years, name, i, y) {
      ctx.fillStyle = COLORS[i % COLORS.length];
-     this.currentEnd = this.currentX + years;
-     ctx.fillRect(this.currentX, y, years, BAR_HEIGHT);
+     let interval;
+     if (this.absoluteYears) {
+       interval = START_X + years - this.currentEnd;
+       this.currentEnd = START_X + years;
+       this.currentYear = years;
+     } else {
+       interval = years;
+       this.currentEnd = this.currentX + years;
+       this.currentYear += years;
+     }
+     ctx.fillRect(this.currentX, y, interval, BAR_HEIGHT);
      this.currentX = this.currentEnd;
 
      // Name label.
@@ -87,7 +111,7 @@ categories: prophecy apocrypha
        ctx.fillStyle = LABEL_COLOR;
        ctx.textAlign = 'center';
        ctx.font = DESCENT_FONT;
-       let offset = (this.isWeeks || i % 2 === 0) ? 18 : 35;
+       const offset = (this.isWeeks || i % 2 === 0) ? 18 : 35;
        ctx.fillText(name, this.currentEnd, y + BAR_HEIGHT + offset);
      }
 
@@ -121,7 +145,7 @@ categories: prophecy apocrypha
          ctx.fillStyle = YEAR_2_COLOR;
          let oldBaseline = ctx.textBaseline;
          ctx.textBaseline = "middle";
-         ctx.fillText(years, this.currentEnd - years / 2, y + BAR_HEIGHT / 2);
+         ctx.fillText(interval, this.currentEnd - interval / 2, y + BAR_HEIGHT / 2);
          ctx.textBaseline = oldBaseline;
        }
      }
@@ -132,7 +156,6 @@ categories: prophecy apocrypha
 
      for (let i = 0; i < this.bars.length; i++) {
        const [name, years] = this.bars[i];
-       this.currentYear += years;
        this.drawBar(years, name, i, y);
      }
    }
@@ -173,6 +196,13 @@ categories: prophecy apocrypha
    ["1500 AD", 960],
    ["2024 AD", 524],
  ]);
+
+ const OTHER_DATES = new Timeline("Other\ndates", false, [
+   ["", 0],
+   ["A'dam dies", 930],
+   ["Chanok translated", 622 + 365],
+ ], true);
+
  const POW_700 = new Timeline("Prophecy of Weeks\n(700-year weeks)", true, [
    ["Week 1", 0],
    ["Week 2", 700],
@@ -189,6 +219,7 @@ categories: prophecy apocrypha
 
  // Draw timelines.
  // Draw in reverse order so that the week boundaries are behind the bars.
- POW_700.drawTimeline(150);
+ POW_700.drawTimeline(280);
+ OTHER_DATES.drawTimeline(150);
  MASORETIC.drawTimeline(20);
 </script>
