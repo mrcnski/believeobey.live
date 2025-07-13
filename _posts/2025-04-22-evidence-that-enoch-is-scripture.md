@@ -712,20 +712,20 @@ verse="Enoch 49:4"
 %}
 
 {% include verse.html
-text="And when he shall lift up his countenance To judge their secret ways according to the word of the name of the Lord of Spirits ..."
+text="And when he shall lift up his countenance To **judge their secret ways** according to the word of the name of the Lord of Spirits ..."
 verse="Enoch 61:9"
 %}
 </div>
 
 <div>
 {% include verse.html
-text="Therefore don’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known."
-verse="Matthew 10:26"
+text="For there is nothing hidden except that it should be made known, **neither was anything made secret but that it should come to light**."
+verse="Mark 4:22"
 %}
 
 {% include verse.html
-text="For there is nothing hidden except that it should be made known, neither was anything made secret but that it should come to light."
-verse="Mark 4:22"
+text="Therefore don’t be afraid of them, for there is nothing covered that will not be revealed, or hidden that will not be known."
+verse="Matthew 10:26"
 %}
 </div>
 </div>
@@ -887,7 +887,7 @@ verse="Enoch 71:6-8"
 
 <div>
 {% include verse.html
-text="Above the expanse that was over their heads was the likeness of a throne, <span class='hl-1'>as the appearance of a sapphire stone</span>. On the likeness of the throne was a likeness as the appearance of a man on it above. <span class='hl-5'>I saw as it were glowing metal, as the appearance of fire within it all around</span>, from the appearance of his waist and upward; and <span class='hl-4'>from the appearance of his waist and downward I saw as it were the appearance of fire</span>, and <span class='hl-6'>there was brightness around him. As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around</span>. This was the appearance of the likeness of YHWH’s glory."
+text="Above the expanse that was over their heads was the likeness of a throne, <span class='hl-1'>as the appearance of a sapphire stone</span>. On the likeness of the throne was a likeness as the appearance of a man on it above. <span class='hl-5'>I saw as it were glowing metal, as the appearance of fire within it all around, from the appearance of his waist and upward</span>; and <span class='hl-4'>from the appearance of his waist and downward I saw as it were the appearance of fire</span>, and <span class='hl-6'>there was brightness around him. As the appearance of the rainbow that is in the cloud in the day of rain, so was the appearance of the brightness all around</span>. This was the appearance of the likeness of YHWH’s glory."
 verse="Ezekiel 1:26-28"
 %}
 
@@ -899,6 +899,11 @@ verse="Ezekiel 10:1"
 {% include verse.html
 text="I watched until thrones were placed, and one who was Ancient of Days sat. <span class='hl-5'>His clothing was white as snow</span>, and the hair of his head like pure wool. His throne was fiery flames, and <span class='hl-2'>its wheels burning fire</span>. <span class='hl-4'>A fiery stream issued and came out from before him.</span> <span class='hl-7'>Thousands of thousands ministered to him. Ten thousand times ten thousand stood before him.</span> The judgment was set. The books were opened."
 verse="Daniel 7:9-10"
+%}
+
+{% include verse.html
+text="<span class='hl-5'>He covers himself with light as with a garment.</span>"
+verse="Psalm 104:2"
 %}
 </div>
 </div>
