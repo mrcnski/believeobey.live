@@ -1,1 +1,1 @@
-{{ include.text-before }}<a href="{{ include.url | verse_url: include.verse, include.version }}">{{ include.verse }}</a>{{ include.text-after }}
+{{ include.text-before }}<a href="{{ include.url | verse_url: include.verse, include.version }}">{{ include.verse | replace: ' ', '&nbsp;' }}</a>{{ include.text-after }}

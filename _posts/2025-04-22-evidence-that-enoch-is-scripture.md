@@ -120,6 +120,11 @@ text="Now on the day when God’s sons came to present themselves before YHWH, S
 verse="Job 1:6"
 %}
 
+{% include verse.html
+text="Where were you when I laid the foundations of the earth? [...] What were its foundations fastened on? Or who laid its cornerstone, when the morning stars sang together, and all the sons of God shouted for joy?"
+verse="Job 38:4-7"
+%}
+
 ---
 
 {% include verse.html

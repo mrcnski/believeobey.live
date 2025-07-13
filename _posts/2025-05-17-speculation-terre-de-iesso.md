@@ -2,6 +2,7 @@
 title: "Speculation: Terre de Iesso"
 categories: apocrypha
 toc: true
+more: true
 ---
 
 **Note:** This study will be more speculative than my others so far. I want to share an interesting discovery, while reminding the reader, as always, to test everything and that our only teacher is Messiah.
