@@ -735,7 +735,7 @@ verse="Matthew 10:26"
 </div>
 </div>
 
-### Men and Angels Judged Together
+#### Men and Angels Judged Together
 
 <div class="columns">
 {% include verse.html
@@ -761,7 +761,7 @@ text="And the Lord of Spirits placed the Elect one on the throne of glory. And h
 verse="Enoch 61:8"
 %}
 
-### Lightening and Judgment
+#### Lightening and Judgment
 
 <div class="columns">
 {% include verse.html
@@ -777,6 +777,24 @@ verse="Job 36:30-32"
 {% include verse.html
 text="Yes, he loads the thick cloud with moisture. He spreads abroad the cloud of his lightning. It is turned around by his guidance, that they may do whatever he commands them on the surface of the habitable world, whether it is for correction, or for his land, or for loving kindness, that he causes it to come."
 verse="Job 37:11-13"
+%}
+</div>
+
+### The Rains Withheld
+
+<div class="columns">
+{% include verse.html
+text="And **in the days of the sinners** the years shall be shortened, And their seed shall be tardy on their lands and fields, And all things on the earth shall alter, And shall not appear in their time: And **the rain shall be kept back And the heaven shall withhold (it)**."
+verse="Enoch 80:2"
+%}
+
+{% capture withheld %}
+See also {% include inline-verse.html verse="Jeremiah 3:3" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="They don’t say in their heart, ‘Let’s now fear YHWH our God, who gives **rain**, both the former and the latter, in its season, who preserves to us the appointed weeks of the harvest.’ Your iniquities have turned away these things, and **your sins have withheld good from you**."
+verse="Jeremiah 5:24-25"
+caption=withheld
 %}
 </div>
 
@@ -825,6 +843,20 @@ verse="Enoch 62:4"
 {% include verse.html
 text="They will be dismayed. Pangs and sorrows will seize them. <span class='hl-1'>They will be in pain like a woman in labor.</span> <span class='hl-2'>They will look in amazement one at another.</span> Their faces will be faces of flame."
 verse="Isaiah 13:8"
+%}
+</div>
+
+### The Righteous Taken Away
+
+<div class="columns">
+{% include verse.html
+text="And those who practice righteousness shall die on account of the deeds of men, And be **taken away on account of the doings of the godless**."
+verse="Enoch 81:9"
+%}
+
+{% include verse.html
+text="The righteous perish, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is **taken away from the evil**."
+verse="Isaiah 57:1"
 %}
 </div>
 
@@ -971,6 +1003,25 @@ verse="Ezekiel 1:15"
 </div>
 
 **Note:** "Ophannim" comes from the Hebrew word "ophan", meaning wheel!
+
+### The Tree of Life
+
+<div class="columns">
+{% capture temple %}
+The Charles version states that the tree is planted in the temple, but this does not match {% include inline-verse.html verse="Revelation 22:2" text-after="." %} It also contradicts {% include inline-verse.html verse="Revelation 21:22" %} which states that New Jerusalem does not have a temple. It is probably a mistranslation.
+{% endcapture %}
+{% include verse.html
+text="From its fruits life will be given to the chosen; it will be planted towards the north, in a holy place, towards the house of the Lord, the Eternal King."
+verse="Enoch 25:5"
+version="Schodde"
+caption=temple
+%}
+
+{% include verse.html
+text="To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God."
+verse="Revelation 2:7"
+%}
+</div>
 
 ### Weighed in a Balance
 
