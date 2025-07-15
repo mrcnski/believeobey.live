@@ -21,6 +21,11 @@ verse="John 14:15"
 %}
 
 {% include verse.html
+text="... showing loving kindness to thousands of those who **love me and keep my commandments**."
+verse="Deuteronomy 5:10"
+%}
+
+{% include verse.html
 text="Here is the perseverance of the **saints**, those **who keep the commandments of God and the faith of Jesus**."
 verse="Revelation 14:12"
 %}
@@ -52,6 +57,21 @@ verse="James 1:22"
 {% include verse.html
 text="Even so **faith, if it has no works, is dead in itself**."
 verse="James 2:17"
+%}
+
+{% include verse.html
+text="... that you may **obey** Jesus Christ and be sprinkled with his blood: Grace to you and peace be multiplied."
+verse="1 Peter 1:2"
+%}
+
+{% include verse.html
+text="**This is how we know that we know him: if we keep his commandments.** One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him."
+verse="1 John 2:3-4"
+%}
+
+{% include verse.html
+text="**Blessed are those who do his commandments, that they may have the right to the tree of life**, and may enter in by the gates into the city."
+verse="Revelation 22:14"
 %}
 
 <h2 id="comments">Comments</h2>
