@@ -361,17 +361,6 @@ text="**Your throne, God**, is forever and ever. A scepter of equity is the scep
 verse="Psalm 45:6-7"
 %}
 
----
-
-{% capture revelation %}
-In the <a href="https://www.hebrewgospels.com/_files/ugd/c68db9_aad134a8a148455c99c979c6fe69e0b6.pdf">Hebrew Revelation</a> Yeshua is not clearly equated with God as He is here, but this is included for completeness.
-{% endcapture %}
-{% include verse.html
-text="They sang the song of Moses, the servant of God, and **the song of the Lamb**, saying, “Great and marvelous are your works, **Lord God, the Almighty**! Righteous and true are your ways, you King of the nations. Who wouldn’t fear you, Lord, and glorify your name? For you only are holy. For all the nations will come and worship before you. For your righteous acts have been revealed.”"
-verse="Revelation 15:3-4"
-caption=revelation
-%}
-
 ## Other Interesting Verses
 
 {% include verse.html
