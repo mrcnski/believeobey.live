@@ -5,6 +5,8 @@ toc: true
 hidden: false
 ---
 
+## Is YHWH the Father?
+
 Let's start by asking, who is the Father? There is evidence that YHWH is the Father:
 
 {% include verse.html
@@ -23,6 +25,18 @@ verse="Isaiah 63:16"
 text="A son honors his father, and a servant his master. **If I am a father**, then where is my honor? And if I am a master, where is the respect due me?” says YHWH of Armies to you priests who despise my name."
 verse="Malachi 1:6"
 %}
+
+{% include verse.html
+text="Is this the way you repay YHWH, foolish and unwise people? Isn’t he your father who has bought you?"
+verse="Deuteronomy 32:6"
+%}
+
+{% include verse.html
+text="... for I am a father to Israel. Ephraim is my firstborn."
+verse="Jeremiah 31:9"
+%}
+
+---
 
 {% include verse.html
 text="I will surely tell of the decree of YHWH: He said to Me, ‘You are My Son, Today I have begotten You."
@@ -187,6 +201,11 @@ text="For he said, “Surely they are my people, children who will not act decei
 verse="Isaiah 63:8-9"
 version="NRSVUE"
 caption="Other translations differ here, so make sure to compare, but this is really interesting."
+%}
+
+{% include verse.html
+text="He said, “**My presence** will go with you, and I will give you rest.” Moses said to him, “If your presence doesn’t go with me, don’t carry us up from here."
+verse="Exodus 33:14-15"
 %}
 
 ---
