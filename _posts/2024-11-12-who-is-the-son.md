@@ -315,8 +315,17 @@ verse="John 1:1-2"
 %}
 
 {% include verse.html
-text="Jesus said to them, “Most certainly, I tell you, before Abraham came into existence, I AM.”"
+text="Jesus said to them, “Most certainly, I tell you, **before Abraham came into existence, I AM**.”"
 verse="John 8:58"
+%}
+
+{% capture bethlehem %}
+This verse applies to Yeshua, as seen in {% include inline-verse.html verse="Matthew 2:1" %} and {% include inline-verse.html verse="John 7:42" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me who is to be ruler in Israel; **whose goings out are from of old, from ancient times**."
+verse="Micah 5:2"
+caption=bethlehem
 %}
 
 ## Is The Son God?
