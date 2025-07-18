@@ -80,8 +80,8 @@ verse="Matthew 7:1-2"
 %}
 
 {% include verse.html
-text="Only one is the lawgiver, who is able to save and to destroy. But who are you to judge another?"
-verse="James 4:12"
+text="For judgment is without mercy to him who has shown no mercy. Mercy triumphs over judgment."
+verse="James 2:13"
 %}
 
 When we judge too quickly, we become someone's accuser. I wonder, isn't it better to give someone the benefit of the doubt, for as long as possible?
@@ -135,6 +135,13 @@ Trusting obedience is how we love God (not deeming some commandments as "lesser"
 {% include verse.html
 text="**If you love me, keep my commandments.**"
 verse="John 14:15"
+%}
+
+Yeshua was not teaching something new:
+
+{% include verse.html
+text="... showing loving kindness to thousands of those who **love me and keep my commandments**."
+verse="Deuteronomy 5:10"
 %}
 
 ### Be His Witness
