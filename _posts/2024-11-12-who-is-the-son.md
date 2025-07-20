@@ -361,17 +361,10 @@ text="**Your throne, God**, is forever and ever. A scepter of equity is the scep
 verse="Psalm 45:6-7"
 %}
 
-## Other Interesting Verses
+## The Unity of God
 
 {% include verse.html
-text="Jesus said to him, “Have I been with you such a long time, and do you not know me, Philip? He who has seen me has seen the Father. How do you say, ‘Show us the Father’? Don’t you believe that I am in the Father, and the Father in me? The words that I tell you, I speak not from myself; but the Father who lives in me does his works. Believe me that I am in the Father, and the Father in me; or else believe me for the very works’ sake."
-verse="John 14:9-11"
-%}
-
----
-
-{% include verse.html
-text="Hear, O Israel! YHWH is our God, YHWH is one [echad]!"
+text="Hear, O Israel! YHWH is our God, YHWH is **one [echad]**!"
 verse="Deuteronomy 6:4"
 version="NASB1995"
 %}
@@ -379,12 +372,31 @@ version="NASB1995"
 It is interesting to look at [the Strong's for "echad"](https://biblehub.com/hebrew/259.htm). Indeed, it can refer to a unity. We see examples of this in Scripture:
 
 {% include verse.html
-text="Therefore a man will leave his father and his mother, and will join with his wife, and they will be one [echad] flesh."
+text="Therefore a man will leave his father and his mother, and will join with his wife, and they will be **one [echad]** flesh."
 verse="Genesis 2:24"
 %}
+
+---
 
 {% include verse.html
 text="Then God said, “Let **Us** make man in Our image, according to **Our** likeness; [...]”"
 verse="Genesis 1:26"
 version="NASB1995"
+%}
+
+{% include verse.html
+text="Belteshazzar [Daniel], master of the magicians, because I know that the spirit of the **holy gods** is in you and no secret troubles you, tell me the visions of my dream that I have seen, and its interpretation."
+verse="Daniel 4:9"
+%}
+
+{% include verse.html
+text="In the beginning was the Word, and the Word was **with** God, and the Word **was** God. The same was in the beginning with God."
+verse="John 1:1-2"
+%}
+
+## Other Interesting Verses
+
+{% include verse.html
+text="Jesus said to him, “Have I been with you such a long time, and do you not know me, Philip? He who has seen me has seen the Father. How do you say, ‘Show us the Father’? Don’t you believe that I am in the Father, and the Father in me? The words that I tell you, I speak not from myself; but the Father who lives in me does his works. Believe me that I am in the Father, and the Father in me; or else believe me for the very works’ sake."
+verse="John 14:9-11"
 %}
