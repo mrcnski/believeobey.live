@@ -240,13 +240,13 @@ h2 + h3 {
 }
 
 h4 {
+    @include relative-font-size(1.125);
+
     &,
     a,
     a:visited {
         color: $blue !important;
     }
-
-    @include relative-font-size(1.125);
 }
 
 /* Blockquotes */

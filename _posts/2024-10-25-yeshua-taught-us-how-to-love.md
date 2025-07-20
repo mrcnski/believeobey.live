@@ -100,6 +100,71 @@ text="But I tell you, love your enemies, bless those who curse you, do good to t
 verse="Matthew 5:44-46"
 %}
 
+{% capture revenge %}
+See {% include inline-verse.html verse="Deuteronomy 32:35" text-after="," %} {% include inline-verse.html verse="Proverbs 20:22" text-after="," %} and {% include inline-verse.html verse="Proverbs 24:29" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’ But I tell you, don’t resist him who is evil; but whoever strikes you on your right cheek, turn to him the other also."
+verse="Matthew 5:38-39"
+caption=revenge
+%}
+
+{% include verse.html
+text="... not rendering evil for evil or insult for insult; but instead blessing, knowing that you were called to this, that you may inherit a blessing."
+verse="1 Peter 3:9"
+%}
+
+{% include verse.html
+text="You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am YHWH."
+verse="Leviticus 19:18"
+%}
+
+### Do Not Slander
+
+<div class="columns">
+{% include verse.html
+text="But the things that come out of the mouth come from the heart, and those things defile the person. For out of the heart come evil thoughts, murders, acts of adultery, other immoral sexual acts, thefts, **false testimonies, and slanderous statements**."
+verse="Matthew 15:18-19"
+version="NASB"
+%}
+
+{% include verse.html
+text="For from within, out of the hearts of people, come the evil thoughts, acts of sexual immorality, thefts, murders, acts of adultery, deeds of greed, wickedness, deceit, indecent behavior, envy, **slander**, pride, and foolishness."
+verse="Mark 7:21-22"
+version="NASB"
+%}
+</div>
+
+{% capture slander %}
+See {% include inline-verse.html verse="Leviticus 19:16" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge."
+verse="James 4:11"
+caption=slander
+%}
+
+### Charity and Service
+
+{% include verse.html
+text="Then the King will tell those on his right hand, ‘Come, blessed of my Father, inherit the Kingdom prepared for you from the foundation of the world; **for I was hungry and you gave me food to eat. I was thirsty and you gave me drink. I was a stranger and you took me in. I was naked and you clothed me. I was sick and you visited me. I was in prison and you came to me.**’"
+verse="Matthew 25:34-36"
+%}
+
+{% include verse.html
+text="Give to him who asks you, and don’t turn away him who desires to borrow from you."
+verse="Matthew 5:42"
+%}
+
+{% capture giving %}
+See {% include inline-verse.html verse="Deuteronomy 16:17" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him?"
+verse="1 John 3:17"
+caption=giving
+%}
+
 {% include image.html name="yeshua-taught-us-how-to-love/2.jpeg" alt="Yeshua Taught Us How to Love" width="500" %}
 
 ## Loving God
