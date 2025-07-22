@@ -1,0 +1,151 @@
+---
+title: A Case For Morning To Morning Shabbat
+categories: torah
+toc: true
+more: true
+---
+
+What is a day according to Scripture? This topic is important to me for two reasons:
+
+1. If I want to keep the Shabbat day of rest correctly, it's important to know when it starts and ends.
+2. I see this as a prerequisite to understanding when Yeshua was really resurrected and that he truly did spend three days and nights in the grave, as He said He would. (I hope to undertake that study separately in the future.)
+
+The traditional view is that a day starts in the evening. This does not match the intuitive experience that humans have of starting a day upon waking with the sun. I'll try to make a fair case for my belief.
+
+{% include image.html name="a-case-for-morning-to-morning-shabbat/1.jpeg" alt="A Case for Morning to Morning Shabbat" width="741" %}
+
+## Genesis 1
+
+{% include verse.html
+text="God said, “Let there be light,” and there was light. God saw the light, and saw that it was good. God divided the light from the darkness. God called the light “day”, and the darkness he called “night”. **There was evening and there was morning, the first day.** God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.” God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so. God called the expanse “sky”. **There was evening and there was morning, a second day.** [...]"
+verse="Genesis 1:3-8"
+%}
+
+The way that I read this, God was working during the day, in the light. Then evening would come and then morning. When morning would come, the day was over.
+
+The traditional reading is that evening and morning are defining what a day is here. There is an issue with this: the text mentions evening and morning, but these together don't make up a full "24-hour" period. What about night, noon, and afternoon?
+
+{% include verse.html
+text="**Evening, morning, and at noon**, I will cry out in distress. He will hear my voice."
+verse="Psalm 55:17"
+%}
+
+This verse shows that evening and morning do not make up a full day.
+
+## Evidence in the Gospels
+
+{% include verse.html
+text="**When evening had now come, because it was the Preparation Day, that is, the day before the Sabbath**, Joseph of Arimathaea, a prominent council member who also himself was looking for God’s Kingdom, came. He boldly went in to Pilate, and asked for Jesus’ body."
+verse="Mark 15:42-43"
+%}
+
+Notice that the Preparation Day did not end, and the High Shabbat did not start, at evening.[^mark] Joseph probably asked for the body because of this law:
+
+[^mark]: The [Hebrew Mark](https://www.hebrewgospels.com/_files/ugd/c68db9_85502652ef8549fa93d00717e7c29a8f.pdf?index=true) does seem to support evening-to-evening, which may be due to bias on the part of the copyists or translators. The [Aramaic](https://dukhrana.com/peshitta/index.php) supports the Greek as quoted.
+
+{% include verse.html
+text="If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree, **his body shall not remain all night on the tree**, but you shall surely bury him **the same day** ...."
+verse="Deuteronomy 21:22-23"
+%}
+
+Evening came, yet it seems to have still been the same day, so Joseph was still fulfilling Torah. See also {% include inline-verse.html verse="Joshua 8:29" %} and {% include inline-verse.html verse="Joshua 10:26–27" text-after="." %}
+
+---
+
+{% include verse.html
+text="Now **on the first day of the week**, Mary Magdalene went early, while it was still dark, to the tomb, and saw that the stone had been taken away from the tomb. [...] When therefore it was **evening on that day, the first day of the week**, and when the doors were locked where the disciples were assembled, for fear of the Jews, Jesus came and stood in the middle and said to them, “Peace be to you.”"
+verse="John 20:1,19"
+%}
+
+Notice that evening came, but it was still the first day of the week.
+
+---
+
+{% include verse.html
+text="For some thought, because Judas had the money box, that Jesus said to him, **“Buy what things we need for the feast,”** or that he should give something to the poor. Therefore having received that morsel, he went out immediately. **It was night.**"
+verse="John 13:29-30"
+%}
+
+It is the night after Passover, but the disciples still thought that buying was allowed, even though the 15th of the first month should be a high Shabbat:
+
+{% include verse.html
+text="On the fifteenth day of the same month is the feast of unleavened bread to YHWH. Seven days you shall eat unleavened bread. In the first day you shall have a holy convocation. You shall do no regular work."
+verse="Leviticus 23:6-7"
+%}
+
+(On the other hand, it could be possible that buying things related to the Feast was OK and not considered *"regular work"*.)
+
+---
+
+<div class="columns">
+{% include verse.html
+text="Very early on the first day of the week, they came to the tomb when the sun had risen."
+verse="Mark 16:2"
+%}
+
+{% include verse.html
+text="Now after the Sabbath, as **it began to dawn toward the first day of the week**, Mary Magdalene and the other Mary came to look at the tomb."
+verse="Matthew 28:1"
+version="NASB"
+%}
+</div>
+
+The [original Greek of Matthew 28:1](https://www.blueletterbible.org/kjv/mat/28/1/t_conc_957001) has "εἰς", which means "into" or "toward".[^hebrew]
+
+[^hebrew]: Note again that these verses don't read this way in the Hebrew, so maybe the Greek versions are suspect. However, the [Aramaic Matthew](https://dukhrana.com/peshitta/index.php) again supports the Greek: *"And in the close of the sabbath, as the first of the week began to dawn ..."*
+
+## Evidence in Enoch
+
+{% include verse.html
+text="And on that day the night becomes longer than the day, and night becomes longer than night, and day shorter than day till the thirtieth morning ..."
+verse="Enoch 72:22"
+%}
+
+I could be reading this wrong, but it seems like days end in the morning in Enoch.[^enoch]
+
+[^enoch]: I suppose it is possible that the calendar section of Enoch is not trustworthy. I'm still trying to work out how his 364-day calendar fits with the 365-day solar year that we have.
+
+## Counter-Arguments
+
+### The Feasts
+
+{% include verse.html
+text="In the first month, on the **fourteenth day of the month at evening**, you shall eat unleavened bread, until the **twenty first day of the month at evening**."
+verse="Exodus 12:18"
+%}
+
+{% capture two %}
+Notice that this particular observance includes the <span class='hl-2'>ninth</span> day and the <span class='hl-1'>tenth</span> day.
+{% endcapture %}
+{% include verse.html
+text="However on the <span class='hl-1'>**tenth day**</span> of this seventh month is the **day of atonement**. It shall be a holy convocation to you. You shall afflict yourselves and you shall offer an offering made by fire to YHWH. It shall be a Sabbath of solemn rest for you, and you shall deny yourselves. In the **<span class='hl-2'>ninth day</span> of the month at evening, from evening to evening**, you shall keep your Sabbath."
+verse="Leviticus 23:27,32"
+caption=two
+%}
+
+These two feasts are stated to start and end in the evening, but notice that not *all* of the feasts are. It seems that Scripture is telling us that these feasts are *exceptions to the rule*:
+
+1. Passover is in the evening because that is when the Passover occurred in Egypt.
+2. The Day of Atonement starts in the evening perhaps so that observant believers would not go to bed hungry after fasting all day.
+
+I see these two passages as evidence for morning-to-morning days. If evening-to-evening was the rule, it would not have been necessary to specify that here. Plus, we saw in the Leviticus passage that Day of Atonement includes the ninth and tenth days of that month, which makes perfect sense in the morning-to-morning model.
+
+### Argument from Nehemiah
+
+{% include verse.html
+text="It came to pass that when the gates of Jerusalem **began to be dark before the Sabbath**, I commanded that the doors should be shut, and commanded that they should not be opened until after the Sabbath. I set some of my servants over the gates, so that no burden should be brought in on the Sabbath day. So the merchants and sellers of all kinds of wares camped outside of Jerusalem once or twice."
+verse="Nehemiah 13:19-20"
+%}
+
+The counter-argument here is that they closed the gate in the evening because the Shabbat was starting. I don't think that that conclusion necessarily follows from the text. It seems that the gate was simply closed when it got dark. It's not clear whether they did this every day, or only before the Shabbat so that the city could focus on preparation for the rest day.
+
+## Conclusion
+
+It seems to me that there is not really any Scriptural evidence for evening-to-evening days. I feel confident in viewing it as a tradition of men. If I missed anything, please submit a comment below!
+
+{% include verse.html
+text="They worship me in vain, teaching as doctrines the commandments of men. For you set aside the commandment of God, and hold tightly to the **tradition of men**—the washing of pitchers and cups, and you do many other such things."
+verse="Mark 7:7-8"
+%}
+
+## Footnotes
