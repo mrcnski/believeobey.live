@@ -41,7 +41,7 @@ verse="Mark 15:42-43"
 
 Notice that the Preparation Day did not end, and the High Shabbat did not start, at evening.[^mark] Joseph probably asked for the body because of this law:
 
-[^mark]: The [Hebrew Mark](https://www.hebrewgospels.com/_files/ugd/c68db9_85502652ef8549fa93d00717e7c29a8f.pdf?index=true) does seem to support evening-to-evening, which may be due to bias on the part of the copyists or translators. The [Aramaic](https://dukhrana.com/peshitta/index.php) supports the Greek as quoted.
+[^mark]: The [Hebrew Mark](https://www.hebrewgospels.com/_files/ugd/c68db9_85502652ef8549fa93d00717e7c29a8f.pdf?index=true) reads a bit differently. The [Aramaic](https://dukhrana.com/peshitta/index.php) supports the Greek as quoted.
 
 {% include verse.html
 text="If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree, **his body shall not remain all night on the tree**, but you shall surely bury him **the same day** ...."
@@ -92,7 +92,7 @@ version="NASB"
 
 The [original Greek of Matthew 28:1](https://www.blueletterbible.org/kjv/mat/28/1/t_conc_957001) has "εἰς", which means "into" or "toward".[^hebrew]
 
-[^hebrew]: Note again that these verses don't read this way in the Hebrew, so maybe the Greek versions are suspect. However, the [Aramaic Matthew](https://dukhrana.com/peshitta/index.php) again supports the Greek: *"And in the close of the sabbath, as the first of the week began to dawn ..."*
+[^hebrew]: These verses read differently in the [Hebrew](https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf) and don't provide such clear evidence. However, the [Aramaic Matthew](https://dukhrana.com/peshitta/index.php) again supports the Greek: *"And in the close of the sabbath, as the first of the week began to dawn ..."*
 
 ## Evidence in Enoch
 
