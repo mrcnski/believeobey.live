@@ -1,5 +1,5 @@
 ---
-title: A Case For Morning To Morning Shabbat
+title: "A Case For Morning To Morning Shabbat"
 categories: torah
 toc: true
 more: true
@@ -138,6 +138,29 @@ verse="Nehemiah 13:19-20"
 %}
 
 The counter-argument here is that they closed the gate in the evening because the Shabbat was starting. I don't think that that conclusion necessarily follows from the text. It seems that the gate was simply closed when it got dark. It's not clear whether they did this every day, or only before the Shabbat so that the city could focus on preparation for the rest day.
+
+### "Unclean Until The Evening"
+
+{% include verse.html
+text="But all winged creeping things which have four feet are an abomination to you. By these you will become unclean: whoever touches their carcass shall be **unclean until the evening**."
+verse="Leviticus 11:23-24"
+%}
+
+{% include verse.html
+text="Whatever the unclean person touches shall be unclean; and the soul that touches it shall be **unclean until evening**."
+verse="Leviticus 19:22"
+%}
+
+There are many other verses like this, such as {% include inline-verse.html verse="Leviticus 11:27, 28, 31, 39–40" text-after="," %} {% include inline-verse.html verse="Numbers 19:7–10" text-after="," %} {% include inline-verse.html verse="Leviticus 15:16–18" text-after="," %} and so on.
+
+As far as I can tell, a day is not mentioned in connection with any of these scriptures, and it is only an assumption that these verses are defining a day. The same logic could be applied to {% include inline-verse.html verse="Exodus 16:23" text-after="," %} which talks about keeping the manna until the *morning*. Does this define what a day is?
+
+{% include verse.html
+text="Bake that which you want to bake, and boil that which you want to boil; and all that remains over lay up for yourselves to be kept **until the morning**."
+verse="Exodus 16:23"
+%}
+
+I don't think we should make assumptions about Scripture to fit our preconceptions. A possible explanation for "unclean until the evening" could be so that people do not go to bed unclean. I see this as a mercy of YHWH, examples of which I see all over Torah!
 
 ## Conclusion
 
