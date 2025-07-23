@@ -494,6 +494,20 @@ verse="Matthew 25:31"
 %}
 </div>
 
+### His Footstool
+
+<div class="columns">
+{% include verse.html
+text="And all the heavens are Thy throne for ever, And the whole earth Thy footstool for ever and ever."
+verse="Enoch 84:2"
+%}
+
+{% include verse.html
+text="Heaven is my throne, and the earth is my footstool. What kind of house will you build to me? Where will I rest?"
+verse="Isaiah 66:1"
+%}
+</div>
+
 ### The Jaws of Sheol
 
 <div class="columns">
