@@ -267,6 +267,11 @@ text="My righteousness is near. My salvation has gone out, and **my arms will ju
 verse="Isaiah 51:5-6"
 %}
 
+{% include verse.html
+text="That your beloved may be delivered, **save with your right hand**, and answer us."
+verse="Psalm 108:6"
+%}
+
 ## Yeshua is Worshipped
 
 {% include verse.html
@@ -304,7 +309,7 @@ verse="Matthew 2:11"
 ## Did Yeshua Pre-Exist?
 
 {% include verse.html
-text="And at that hour that Son of Man was named In the presence of the Lord of Spirits, And his name before the Head of Days. Yea, before the sun and the signs were created, Before the stars of the heaven were made, His name was named before the Lord of Spirits. [...] And for this reason hath he been chosen and hidden before Him, Before the creation of the world and for evermore."
+text="And at that hour that Son of Man was named In the presence of the Lord of Spirits, And his name before the Head of Days. Yea, before the sun and the signs were created, Before the stars of the heaven were made, His name was named before the Lord of Spirits. [...] And for this reason hath he been chosen and hidden before Him, **Before the creation of the world and for evermore**."
 verse="Enoch 48:2,3,6"
 url="https://parallel.thebookofenoch.info/#48"
 %}
@@ -326,6 +331,11 @@ This verse applies to Yeshua, as seen in {% include inline-verse.html verse="Mat
 text="But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me who is to be ruler in Israel; **whose goings out are from of old, from ancient times**."
 verse="Micah 5:2"
 caption=bethlehem
+%}
+
+{% include verse.html
+text="Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me **before the foundation of the world**."
+verse="John 17:24"
 %}
 
 ## Is The Son God?
