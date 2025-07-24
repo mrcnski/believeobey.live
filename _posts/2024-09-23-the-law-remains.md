@@ -293,8 +293,8 @@ study.
 ## Other Verses
 
 {% include verse.html
-text="YHWH says, “Because they have forsaken my law which I set before them, and have not obeyed my voice or walked in my ways, but have walked after the stubbornness of their own heart and after the Baals, which their fathers taught them.”"
-verse="Jeremiah 9:13-14"
+text="He who turns away his ear from hearing the law, even his prayer is an abomination."
+verse="Proverbs 28:9"
 %}
 
 <div class="columns">
