@@ -166,23 +166,23 @@
 
 $verse-wrapper-margin: calc($spacing-unit / 2);
 
+$verse-border-width: 2.5px;
+$verse-padding-width: calc($spacing-unit / 2);
+$verse-caption-margin: calc($verse-border-width + $verse-padding-width);
+
 .verse-wrapper {
     margin-left: $verse-wrapper-margin;
     margin-right: $verse-wrapper-margin;
     margin-top: 1px;
 
     .verse {
-        $border-width: 2.5px;
-        $padding-width: calc($spacing-unit / 2);
-        $caption-margin: calc($border-width + $padding-width);
-
-        border-left: $border-width solid $lighter-blue;
-        padding-left: $padding-width;
+        border-left: $verse-border-width solid $lighter-blue;
+        padding-left: $verse-padding-width;
 
         font-size: $base-font-size;
 
         &.noscripture {
-            border-left: $border-width solid $light-gray;
+            border-left: $verse-border-width solid $light-gray;
         }
 
         p {
@@ -201,8 +201,8 @@ $verse-wrapper-margin: calc($spacing-unit / 2);
 
         + .caption {
             margin-top: calc($spacing-unit / 8);
-            margin-left: $caption-margin;
-            margin-right: $caption-margin;
+            margin-left: $verse-caption-margin;
+            margin-right: $verse-caption-margin;
             text-align: left;
         }
         + .empty-caption {
@@ -682,6 +682,8 @@ $post-meta-padding: calc($spacing-unit / 4);
 /* Columns */
 
 .columns {
+    $columns-caption-margin: calc($verse-caption-margin + $verse-wrapper-margin);
+
     display: flex;
     align-items: center;
 
@@ -696,6 +698,14 @@ $post-meta-padding: calc($spacing-unit / 4);
             margin-left: 0;
             margin-right: 0;
         }
+    }
+
+    + .caption {
+        margin-top: calc($spacing-unit * -2/8);
+        margin-bottom: calc($spacing-unit * 5/8);
+        margin-left: $columns-caption-margin;
+        margin-right: $columns-caption-margin;
+        text-align: left;
     }
 
     @include media-query($on-palm) {

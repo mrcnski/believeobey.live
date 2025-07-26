@@ -533,22 +533,22 @@ Revelations from YHWH seem to only ever mention two seasons.
 
 <div class="columns">
 {% include verse.html
-text="Behold the summer and the winter, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
+text="Behold **the summer and the winter**, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
 verse="Enoch 2:3"
 %}
 
 {% include verse.html
-text="While the earth remains, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease."
+text="While the earth remains, seed time and harvest, and cold and heat, and **summer and winter**, and day and night will not cease."
 verse="Genesis 8:22"
 %}
 
 {% include verse.html
-text="The ravenous birds will eat them in the summer, and all the animals of the earth will eat them in the winter."
+text="The ravenous birds will eat them in the **summer**, and all the animals of the earth will eat them in the **winter**."
 verse="Isaiah 18:6"
 %}
 
 {% include verse.html
-text="It will happen in that day that living waters will go out from Jerusalem, half of them toward the eastern sea, and half of them toward the western sea. It will be so in summer and in winter."
+text="It will happen in that day that living waters will go out from Jerusalem, half of them toward the eastern sea, and half of them toward the western sea. **It will be so in summer and in winter.**"
 verse="Zechariah 14:8"
 %}
 </div>
@@ -1147,6 +1147,53 @@ Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://pa
 The Book of Enoch is the only place in Scripture where the calendar is given. See Enoch chapters [72](https://parallel.thebookofenoch.info/#72) to [80](https://parallel.thebookofenoch.info/#80).
 
 When describing the feast days, the books of Torah assumed that the readers were already familiar with the calendar. This makes sense when we consider that the Book of Enoch had already been written a long time before Moses received the Torah.
+
+#### 30-Day Months
+
+In Enoch the calendar is described as being divided into 12 months of 30 days each, totaling 360 days, plus four intercalary days that divide the year:
+
+{% include verse.html
+text="... and for the **three hundred and sixty (days)** there are heads over thousands who divide the days; and for the **four intercalary days** there are the leaders which sunder the four parts of the year."
+verse="Enoch 82:11"
+%}
+
+{% include verse.html
+text="And the year is accurately completed in conformity with their world-stations and the stations of the sun, which rise from the portals through which it (the sun) rises and sets **30 days**."
+verse="Enoch 74:17"
+%}
+
+{% include verse.html
+text="... the reckoning of all their days in which the sun traverses the heaven, entering into and departing from the portals for **thirty days** with the heads of thousands of the order of the stars, together with the **four which are intercalated** which divide the four portions of the year ..."
+verse="Enoch 82:4"
+%}
+
+A month is also 30 days in the canon:
+
+<div class="columns">
+{% include verse.html
+text="In the six hundredth year of Noah’s life, in **the second month, on the seventeenth day of the month**, on that day all the fountains of the great deep burst open, and the sky’s windows opened."
+verse="Genesis 7:11"
+%}
+
+{% include verse.html
+text="The waters continually receded from the earth. **After the end of one hundred fifty days** the waters receded. The ship rested in the **seventh month, on the seventeenth day of the month**, on Ararat’s mountains."
+verse="Genesis 8:3-4"
+%}
+</div>
+<p class="caption">
+150 days passed. Two days later (accounting for intercalary days in months 3 and 6) marked the completion of 5 months. This is not possible in the lunar calendar, based on moon cycles, where each month has 29.5 days on average. Five months in that system would be 147 or 148 days.
+</p>
+
+{% capture months %}
+1260 days divided by 42 months is 30 days per month. See also {% include inline-verse.html verse="Revelation 12:6,14" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="They will tread the holy city under foot for **forty-two months**. I will give power to my two witnesses, and they will prophesy **one thousand two hundred sixty days**, clothed in sackcloth."
+verse="Revelation 11:2-3"
+caption=months
+%}
+
+It is really incredible that Scripture is so consistent with itself!
 
 ### The Law
 
