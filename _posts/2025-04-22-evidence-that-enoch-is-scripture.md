@@ -602,7 +602,7 @@ verse="Isaiah 9:2"
 
 <div class="columns">
 {% include verse.html
-text="And the righteous shall be in the light of the sun. And the elect in the light of eternal life: The days of their life shall be unending, And the days of the holy without number.[...] And there shall be a light that never endeth, And to a limit (lit. 'number') of days they shall not come ..."
+text="And the righteous shall be in the light of the sun. And the elect in the light of eternal life: The days of their life shall be unending, And the days of the holy without number. [...] And there shall be a light that never endeth, And to a limit (lit. 'number') of days they shall not come ..."
 verse="Enoch 58:3,6"
 %}
 
@@ -614,25 +614,6 @@ verse="Daniel 12:2-3"
 {% include verse.html
 text="Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life."
 verse="John 5:24"
-%}
-</div>
-
-### Everlasting Light
-
-<div class="columns">
-{% include verse.html
-text="... <span class='hl-1'>For the darkness shall first have been destroyed</span>, [And the light established before the Lord of Spirits] <span class='hl-2'>And the light of uprightness established for ever before the Lord of Spirits</span>."
-verse="Enoch 58:6"
-%}
-
-{% include verse.html
-text="The sun will be no more your light by day, nor will the brightness of the moon give light to you, but <span class='hl-2'>YHWH will be your everlasting light, and your God will be your glory</span>. Your sun will not go down any more, nor will your moon withdraw itself; for <span class='hl-2'>YHWH will be your everlasting light</span>, and <span class='hl-1'>the days of your mourning will end</span>."
-verse="Isaiah 60:19-20"
-%}
-
-{% include verse.html
-text="The city has no need for the sun or moon to shine, for <span class='hl-2'>the very glory of God illuminated it and its lamp is the Lamb</span>. The nations will walk in its light. The kings of the earth bring the glory and honor of the nations into it. Its gates will in no way be shut by day <span class='hl-1'>(for there will be no night there)</span> ..."
-verse="Revelation 21:23-25"
 %}
 </div>
 
@@ -655,18 +636,6 @@ text="Behold, I am YHWH, the God of all flesh. **Is there anything too hard for 
 verse="Jeremiah 32:27"
 %}
 </div>
-</div>
-
-<div class="columns">
-{% include verse.html
-text="Is anything too wonderful for YHWH? At the set time I will return to you, in due season, and Sarah shall have a son."
-verse="Genesis 18:14"
-%}
-
-{% include verse.html
-text="Looking at them, Jesus said, “With men this is impossible, but with God all things are possible.”"
-verse="Matthew 19:26"
-%}
 </div>
 
 ### Judgment
