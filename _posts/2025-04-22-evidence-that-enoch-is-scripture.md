@@ -1111,6 +1111,28 @@ Here I present some other aspects of Enoch that agree with Scripture.
 
 Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://parallel.thebookofenoch.info/#90) contain an epic prophecy about the history of the chosen people. As it's a long prophecy, I will not reproduce it here. But the interesting thing is that there are at least a few sections in the canon that are remarkably similar to Enoch's animal prophecy: {% include inline-verse.html verse="Isaiah 56:9-12" text-after="," %} {% include inline-verse.html verse="Ezekiel 34" text-after="," %} and {% include inline-verse.html verse="Ezekiel 39:17-18" text-after="." %} I also won't reproduce these here, but I recommend studying them and comparing them to Enoch.
 
+<div class="columns">
+{% include verse.html
+text="... and those <span class='hl-1'>wild beasts</span> began to tear in pieces those <span class='hl-2'>sheep</span>. And I saw that He forsook that their house and their tower and gave them all into the hand of the lions, to tear and <span class='hl-3'>devour</span> them, into the hand of all the <span class='hl-1'>wild beasts</span>."
+verse="Enoch 89:55-56"
+%}
+
+{% include verse.html
+text="Is my heritage to me as a speckled bird of prey? Are the birds of prey against her all around? Go, assemble all the <span class='hl-1'>animals of the field</span>. Bring them to <span class='hl-3'>devour</span>."
+verse="Jeremiah 12:9"
+%}
+
+{% include verse.html
+text="All you <span class='hl-1'>animals of the field</span>, come to <span class='hl-3'>devour</span>, all you animals in the forest."
+verse="Isaiah 56:9"
+%}
+
+{% include verse.html
+text="They were scattered, because there was no shepherd. <span class='hl-3'>They became food</span> to all the <span class='hl-1'>animals of the field</span>, and were scattered. [...] “As I live,” says the Lord YHWH, “surely because my <span class='hl-2'>sheep</span> became a prey, and my <span class='hl-2'>sheep</span> <span class='hl-3'>became food</span> to all the <span class='hl-1'>animals of the field</span> ..."
+verse="Ezekiel 34:5,8"
+%}
+</div>
+
 ### The Calendar
 
 The Book of Enoch is the only place in Scripture where the calendar is given. See Enoch chapters [72](https://parallel.thebookofenoch.info/#72) to [80](https://parallel.thebookofenoch.info/#80).
