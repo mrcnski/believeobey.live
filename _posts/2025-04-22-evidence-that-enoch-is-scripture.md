@@ -286,32 +286,42 @@ verse="Isaiah 49:5-6"
 
 <div class="columns">
 {% include verse.html
-text="<span class='hl-1'>As straw in the fire so shall they burn before the face of the holy</span>: <span class='hl-2'>As lead in the water shall they sink</span> before the face of the righteous, And no trace of them shall any more be found. And on the day of their affliction there shall be rest on the earth, <span class='hl-3'>And before them they shall fall and not rise again</span>: And there shall be no one to take them with his hands and raise them: <span class='hl-4'>For they have denied the Lord of Spirits and His Anointed.</span> The name of the Lord of Spirits be blessed."
-verse="Enoch 48:9-10"
+text="In these days downcast in countenance shall the kings of the earth have become, And the strong who possess the land because of the works of their hands, <span class='hl-2'>For on the day of their anguish and affliction they shall not (be able to) save themselves.</span> And <span class='hl-3'>I will give them over into the hands of Mine elect</span>: <span class='hl-4'>As straw in the fire so shall they burn before the face of the holy</span>: <span class='hl-5'>As lead in the water shall they sink</span> before the face of the righteous, And no trace of them shall any more be found. And on the day of their affliction there shall be rest on the earth, <span class='hl-6'>And before them they shall fall and not rise again</span>: And there shall be no one to take them with his hands and raise them: <span class='hl-7'>For they have denied the Lord of Spirits and His Anointed.</span> The name of the Lord of Spirits be blessed."
+verse="Enoch 48:8-10"
 %}
 
 <div>
+{% include verse.html
+text="Flight will perish from the swift. The strong won’t strengthen his force. <span class='hl-2'>The mighty won’t deliver himself.</span>"
+verse="Amos 2:14"
+%}
+
+{% include verse.html
+text="<span class='hl-3'>You shall tread down the wicked; for they will be ashes under the soles of your feet</span> in the day that I make ...."
+verse="Malachi 4:3"
+%}
+
 {% capture stubble %}
 See also {% include inline-verse.html verse="Malachi 4:1-3" text-after="." %}
 {% endcapture %}
 {% include verse.html
-text="Therefore <span class='hl-1'>as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame</span>, so their root shall be as rottenness, and their blossom shall go up as dust ..."
+text="Therefore <span class='hl-4'>as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame</span>, so their root shall be as rottenness, and their blossom shall go up as dust ..."
 verse="Isaiah 5:24"
 caption=stubble
 %}
 
 {% include verse.html
-text="You blew with your wind. The sea covered them. <span class='hl-2'>They sank like lead in the mighty waters.</span>"
+text="You blew with your wind. The sea covered them. <span class='hl-5'>They sank like lead in the mighty waters.</span>"
 verse="Exodus 15:10"
 %}
 
 {% include verse.html
-text="There the workers of iniquity are fallen. <span class='hl-3'>They are thrust down, and shall not be able to rise.</span>"
+text="There the workers of iniquity are fallen. <span class='hl-6'>They are thrust down, and shall not be able to rise.</span>"
 verse="Psalm 36:12"
 %}
 
 {% include verse.html
-text="<span class='hl-4'>The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against his Anointed</span> ..."
+text="<span class='hl-7'>The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against his Anointed</span> ..."
 verse="Psalm 2:2"
 %}
 </div>
