@@ -180,12 +180,12 @@ verse="Matthew 13:41-42"
 
 <div class="columns">
 {% include verse.html
-text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused His light to appear On the face of the holy, righteous, and elect."
+text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused **His light to appear On the face of the holy, righteous, and elect**."
 verse="Enoch 38:4"
 %}
 
 {% include verse.html
-text="Then the righteous will shine like the sun in the Kingdom of their Father. He who has ears to hear, let him hear."
+text="Then **the righteous will shine like the sun in the Kingdom of their Father**. He who has ears to hear, let him hear."
 verse="Matthew 13:43"
 %}
 </div>
@@ -612,17 +612,17 @@ verse="Isaiah 9:2"
 
 <div class="columns">
 {% include verse.html
-text="And the righteous shall be in the light of the sun. And the elect in the light of eternal life: The days of their life shall be unending, And the days of the holy without number. [...] And there shall be a light that never endeth, And to a limit (lit. 'number') of days they shall not come ..."
+text="And the righteous shall be in the light of the sun. And the elect in the light of **eternal life: The days of their life shall be unending**, And the days of the holy without number. [...] And there shall be a light that never endeth, And **to a limit (lit. 'number') of days they shall not come** ..."
 verse="Enoch 58:3,6"
 %}
 
 {% include verse.html
-text="Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever."
+text="Many of those who sleep in the dust of the earth will awake, some to **everlasting life**, and some to shame and everlasting contempt. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars **forever and ever**."
 verse="Daniel 12:2-3"
 %}
 
 {% include verse.html
-text="Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life."
+text="Most certainly I tell you, he who hears my word and believes him who sent me has **eternal life**, and doesn’t come into judgment, but has passed out of death into life."
 verse="John 5:24"
 %}
 </div>
@@ -680,26 +680,21 @@ verse="John 5:24"
 
 <div class="columns">
 {% include verse.html
-text="And he shall judge the secret things [...] For he is the Elect One before the Lord of Spirits according to His good pleasure."
-verse="Enoch 49:4"
-%}
-
-{% include verse.html
-text="For the Father judges no one, but he has given all judgment to the Son ..."
-verse="John 5:22"
-%}
-</div>
-
-<div class="columns">
-{% include verse.html
-text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man**"
+text="And he sat on the throne of his glory, And **the sum of judgement was given unto the Son of Man** ..."
 verse="Enoch 69:27"
 %}
 
+<div>
 {% include verse.html
 text="**He also gave him authority to execute judgment, because he is a son of man.**"
 verse="John 5:27"
 %}
+
+{% include verse.html
+text="For the Father judges no one, but **he has given all judgment to the Son** ..."
+verse="John 5:22"
+%}
+</div>
 </div>
 
 ---
@@ -1006,14 +1001,14 @@ verse="Ezekiel 1:15"
 The Charles version states that the tree is planted in the temple, but this does not match {% include inline-verse.html verse="Revelation 22:2" text-after="." %} It also contradicts {% include inline-verse.html verse="Revelation 21:22" %} which states that New Jerusalem does not have a temple. It is probably a mistranslation.
 {% endcapture %}
 {% include verse.html
-text="From its fruits life will be given to the chosen; it will be planted towards the north, in a holy place, towards the house of the Lord, the Eternal King."
+text="**From its fruits life will be given to the chosen**; it will be planted towards the north, in a holy place, towards the house of the Lord, the Eternal King."
 verse="Enoch 25:5"
 version="Schodde"
 caption=temple
 %}
 
 {% include verse.html
-text="To him who overcomes I will give to eat from the tree of life, which is in the Paradise of my God."
+text="**To him who overcomes I will give to eat from the tree of life**, which is in the Paradise of my God."
 verse="Revelation 2:7"
 %}
 </div>
