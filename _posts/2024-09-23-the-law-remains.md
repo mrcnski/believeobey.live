@@ -297,14 +297,25 @@ text="He who turns away his ear from hearing the law, even his prayer is an abom
 verse="Proverbs 28:9"
 %}
 
-<div class="columns">
 {% include verse.html
-text="This is the end of the matter. All has been heard. <span class='hl-1'>Fear God</span> and <span class='hl-2'>keep his commandments</span>; for this is the whole duty of man."
-verse="Ecclesiastes 12:13"
+text="**For this is loving God, that we keep his commandments. His commandments are not grievous.** For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith."
+verse="1 John 5:3-4"
+caption="Faith leads to overcoming the world and being born again, which leads to His commandments being easy."
 %}
 
 {% include verse.html
 text="But YHWH’s loving kindness is from everlasting to everlasting with those who <span class='hl-1'>fear him</span>, his righteousness to children’s children, to those who keep his covenant, to those who <span class='hl-2'>remember to obey his precepts</span>."
 verse="Psalm 103:17-18"
+%}
+
+{% include verse.html
+text="Praise Yah! Blessed is the man who <span class='hl-1'>fears YHWH</span>, who <span class='hl-2'>delights greatly in his commandments</span>."
+verse="Psalm 112:1"
+%}
+
+<div class="columns">
+{% include verse.html
+text="This is the end of the matter. All has been heard. **<span class='hl-1'>Fear God</span> and <span class='hl-2'>keep his commandments</span>; for this is the whole duty of man.**"
+verse="Ecclesiastes 12:13"
 %}
 </div>
