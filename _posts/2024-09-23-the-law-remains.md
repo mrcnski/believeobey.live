@@ -80,7 +80,7 @@ version="NRSVUE"
 ---
 
 {% include verse.html
-text="This is how we know that we know him: if we keep his commandments. One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him. But God’s love has most certainly been perfected in whoever keeps his word. This is how we know that we are in him: **he who says he remains in him ought himself also to walk just like he walked.**"
+text="**This is how we know that we know him: if we keep his commandments.** One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him. But God’s love has most certainly been perfected in whoever keeps his word. This is how we know that we are in him: **he who says he remains in him ought himself also to walk just like he walked.**"
 verse="1 John 2:3-6"
 %}
 
@@ -258,8 +258,26 @@ This is referring to the Law of Moses; see my study on the [Prophecy of Weeks](/
 ---
 
 {% include verse.html
-text="God said to Abraham, “As for you, you shall keep my covenant, you and your offspring after you throughout their generations. This is my covenant, which you shall keep, between me and you and your offspring after you. Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you. He who is eight days old shall be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your offspring. He who is born in your house, and he who is bought with your money, must be circumcised. My covenant shall be in your flesh for **an everlasting covenant**."
+text="God said to Abraham, “As for you, you shall keep my covenant, you and your offspring after you throughout their generations. This is my covenant, which you shall keep, between me and you and your offspring after you. Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you. He who is eight days old shall be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your offspring. He who is born in your house, and he who is bought with your money, must be circumcised. **My covenant shall be in your flesh for an everlasting covenant**."
 verse="Genesis 17:9-13"
+%}
+
+{% include verse.html
+text="... you have brought in foreigners, **uncircumcised in heart and uncircumcised in flesh**, to be in my sanctuary, to profane it, even my house, when you offer my bread, the fat and the blood; and **they have broken my covenant**, to add to all your abominations."
+verse="Ezekiel 44:7"
+%}
+
+## Is the Law Impossible to Keep?
+
+{% include verse.html
+text="**For this is loving God, that we keep his commandments. His commandments are not grievous.** For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith."
+verse="1 John 5:3-4"
+caption="Faith leads to overcoming the world and being born again, which leads to His commandments being easy."
+%}
+
+{% include verse.html
+text="... if you will obey YHWH your God’s voice, to keep his commandments and his statutes which are written in this book of the law, if you turn to YHWH your God with all your heart and with all your soul. **For this commandment which I command you today is not too hard for you or too distant.** It is not in heaven, that you should say, “Who will go up for us to heaven, bring it to us, and proclaim it to us, that we may do it?” Neither is it beyond the sea, that you should say, “Who will go over the sea for us, bring it to us, and proclaim it to us, that we may do it?” But the word is very near to you, in your mouth and in your heart, that you may do it."
+verse="Deuteronomy 30:10-14"
 %}
 
 ## Where Does the Misconception Come From?
@@ -298,10 +316,11 @@ verse="Proverbs 28:9"
 %}
 
 {% include verse.html
-text="**For this is loving God, that we keep his commandments. His commandments are not grievous.** For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith."
-verse="1 John 5:3-4"
-caption="Faith leads to overcoming the world and being born again, which leads to His commandments being easy."
+text="**Turn to the law and to the covenant!** If they don’t speak according to this word, surely there is no morning for them."
+verse="Isaiah 8:20"
 %}
+
+---
 
 {% include verse.html
 text="But YHWH’s loving kindness is from everlasting to everlasting with those who <span class='hl-1'>fear him</span>, his righteousness to children’s children, to those who keep his covenant, to those who <span class='hl-2'>remember to obey his precepts</span>."
