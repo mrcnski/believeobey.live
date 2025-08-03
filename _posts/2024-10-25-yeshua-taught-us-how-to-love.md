@@ -169,18 +169,6 @@ caption=giving
 
 ## Loving God
 
-### Believe
-
-{% include verse.html
-text="Don’t let your heart be troubled. Believe in God. Believe also in me."
-verse="John 14:1"
-%}
-
-{% include verse.html
-text="Trust in YHWH with all your heart, and don’t lean on your own understanding."
-verse="Proverbs 3:5"
-%}
-
 ### Obedience
 
 {% include verse.html
@@ -207,6 +195,13 @@ Yeshua was not teaching something new:
 {% include verse.html
 text="... showing loving kindness to thousands of those who **love me and keep my commandments**."
 verse="Deuteronomy 5:10"
+%}
+
+The beloved disciple confirmed this teaching:
+
+{% include verse.html
+text="**For this is loving God, that we keep his commandments.** His commandments are not grievous."
+verse="1 John 5:3"
 %}
 
 ### Be His Witness
