@@ -59,13 +59,13 @@ url="https://parallel.thebookofenoch.info/#24"
 This verse seems to describe the same seven mountains.
 
 {% include verse.html
-text="**'This high mountain which thou hast seen, whose summit is like the throne of God, is His throne,** where the Holy Great One, the Lord of Glory, the Eternal King, will sit, when He shall come down to visit the earth with goodness."
+text="**This high mountain which thou hast seen, whose summit is like the throne of God, is His throne,** where the Holy Great One, the Lord of Glory, the Eternal King, will sit, when He shall come down to visit the earth with goodness."
 verse="Enoch 25:3-4"
 url="https://parallel.thebookofenoch.info/#24"
 %}
 
 {% include verse.html
-text="And the fourth quarter, named the north, is divided into three parts: the first of them is for the dwelling of men: and the second contains seas of water, and the abysses and forests and rivers, and darkness and clouds; and the third part contains the garden of righteousness. I saw seven high mountains, higher than all the mountains which are on the earth"
+text="And the fourth quarter, named the north, is divided into three parts: the first of them is for the dwelling of men: and the second contains seas of water, and the abysses and forests and rivers, and darkness and clouds; and the third part contains the garden of righteousness. I saw seven high mountains, higher than all the mountains which are on the earth ..."
 verse="Enoch 77:3-4"
 url="https://parallel.thebookofenoch.info/#77"
 %}
@@ -112,7 +112,7 @@ url="https://parallel.thebookofenoch.info/#39"
 ## The Two Seas
 
 {% include verse.html
-text="And after these fragrant odours, as I looked towards the north over the mountains I saw seven mountains full of choice nard and fragrant trees and cinnamon and pepper. And thence I went over the summits of all these mountains, **far towards the east of the earth, and passed above the Erythraean sea and went far from it,** and passed over the angel Zotiel. And I came to the Garden of Righteousness,"
+text="And after these fragrant odours, as I looked towards the north over the mountains I saw seven mountains full of choice nard and fragrant trees and cinnamon and pepper. And thence I went over the summits of all these mountains, **far towards the east of the earth, and passed above the Erythraean sea and went far from it,** and passed over the angel Zotiel. And I came to the Garden of Righteousness ..."
 verse="Enoch 32:1-2"
 url="https://parallel.thebookofenoch.info/#32"
 %}
@@ -120,7 +120,7 @@ url="https://parallel.thebookofenoch.info/#32"
 It looks like the Erythraean Sea is to the east of the seven mountains.
 
 {% include verse.html
-text="I saw seven rivers on the earth larger than all the rivers: one of them coming from the west pours its waters into the Great Sea. And these two come from the north to the sea and pour their waters into the Erythraean Sea in the east. And the remaining, four come forth on the side of the north to their own sea, two of them to the Erythraean Sea, and two into the Great Sea and discharge themselves there"
+text="I saw seven rivers on the earth larger than all the rivers: one of them coming from the west pours its waters into the **Great Sea**. And these two come from the north to the sea and pour their waters into the **Erythraean Sea in the east**. And the remaining, four come forth on the side of the north to their own sea, two of them to the Erythraean Sea, and two into the Great Sea and discharge themselves there"
 verse="Enoch 77:5-7"
 url="https://parallel.thebookofenoch.info/#77"
 %}
