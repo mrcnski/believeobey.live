@@ -32,6 +32,112 @@ verse="Psalm 55:17"
 
 This verse shows that evening and morning do not make up a full day.
 
+### The Hebrew
+
+Some translations, like the KJV, do make it seem like a day is evening and morning. It may be helpful to look at the Hebrew of {% include inline-verse.html verse="Genesis 1:8" text-after=":" %}
+
+<table style="width: 400px;">
+<thead>
+<tr>
+<th>
+Hebrew
+</th>
+<th>
+literal
+English
+translation
+</th>
+<th>
+King
+James
+Version
+</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>
+<b>hāyâ</b>
+</td>
+<td>
+was / came
+</td>
+<td>
+<b>And</b>
+</td>
+</tr>
+<tr>
+<td>
+ʿereḇ
+</td>
+<td>
+evening
+</td>
+<td>
+the evening
+</td>
+</tr>
+<tr>
+<td>
+<b>hāyâ</b>
+</td>
+<td>
+was / came
+</td>
+<td>
+<b>and</b>
+</td>
+</tr>
+<tr>
+<td>
+bōqer
+</td>
+<td>
+morning
+</td>
+<td>
+the morning
+</td>
+</tr>
+<tr>
+<td>
+<b>hāyâ</b>
+</td>
+<td>
+was / came
+</td>
+<td>
+<b>were</b>
+</td>
+</tr>
+<tr>
+<td>
+šēnî
+</td>
+<td>
+second
+</td>
+<td>
+the second
+</td>
+</tr>
+<td>
+yôm
+</td>
+<td>
+day
+</td>
+<td>
+day.
+</td>
+<tr>
+</tr>
+</tbody>
+</table>
+
+It seems to me that the same word [*hāyâ*](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/) was selectively translated two different ways in the KJV.
+
 ## Evidence in the Gospels
 
 {% include verse.html
@@ -118,7 +224,7 @@ verse="Exodus 12:18"
 Notice that this particular observance includes the <span class='hl-2'>ninth</span> day and the <span class='hl-1'>tenth</span> day.
 {% endcapture %}
 {% include verse.html
-text="However on the <span class='hl-1'>**tenth day**</span> of this seventh month is the **day of atonement**. It shall be a holy convocation to you. You shall afflict yourselves and you shall offer an offering made by fire to YHWH. It shall be a Sabbath of solemn rest for you, and you shall deny yourselves. In the **<span class='hl-2'>ninth day</span> of the month at evening, from evening to evening**, you shall keep your Sabbath."
+text="However on the <span class='hl-1'>**tenth day**</span> of this seventh month is the **day of atonement**. It shall be a holy convocation to you. You shall afflict yourselves and you shall offer an offering made by fire to YHWH. [...] It shall be a Sabbath of solemn rest for you, and you shall deny yourselves. In the **<span class='hl-2'>ninth day</span> of the month at evening, from evening to evening**, you shall keep your Sabbath."
 verse="Leviticus 23:27,32"
 caption=two
 %}
@@ -159,6 +265,8 @@ As far as I can tell, a day is not mentioned in connection with any of these scr
 text="Bake that which you want to bake, and boil that which you want to boil; and all that remains over lay up for yourselves to be kept **until the morning**."
 verse="Exodus 16:23"
 %}
+
+See also {% include inline-verse.html verse="Exodus 12:10" text-after="," %} {% include inline-verse.html verse="Exodus 23:18" text-after="," %} {% include inline-verse.html verse="Exodus 29:34" text-after="," %} {% include inline-verse.html verse="Exodus 34:25" text-after="," %} {% include inline-verse.html verse="Leviticus 7:15" text-after="," %} {% include inline-verse.html verse="Leviticus 19:13" text-after="." %}
 
 I don't think we should make assumptions about Scripture to fit our preconceptions. A possible explanation for "unclean until the evening" could be so that people do not go to bed unclean. I see this as a mercy of YHWH, examples of which I see all over Torah!
 
