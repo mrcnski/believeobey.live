@@ -1,0 +1,18 @@
+<div class="simple-verse-wrapper">
+  <div class="verse noborder {% if include.noscripture %}noscripture{% endif %}">
+    <p>
+      <i>
+        {{ include.text | replace_regex: '\*\*([^\*]+)\*\*', '<strong>\1</strong>'}}
+      </i>
+    </p>
+    <p class="verse-verse">
+      ~
+      <a href="{{ include.url | verse_url: include.verse, include.version }}">
+        {{ include.verse }}
+        {% if include.version %}
+        ({{ include.version }})
+        {% endif %}
+      </a>
+    </p>
+  </div>
+</div>

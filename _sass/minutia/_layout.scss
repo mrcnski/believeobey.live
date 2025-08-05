@@ -174,45 +174,52 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
     margin-left: $verse-wrapper-margin;
     margin-right: $verse-wrapper-margin;
     margin-top: 1px;
+}
 
-    .verse {
+.verse {
+    font-size: $base-font-size;
+
+    &:not(.noborder) {
         border-left: $verse-border-width solid $lighter-blue;
         padding-left: $verse-padding-width;
+    }
 
-        font-size: $base-font-size;
+    &.noscripture {
+        border-left: $verse-border-width solid $light-gray;
+    }
 
-        &.noscripture {
-            border-left: $verse-border-width solid $light-gray;
-        }
+    p {
+        margin: 0;
+    }
 
-        p {
-            margin: 0;
-        }
+    .verse-verse {
+        font-size: $small-font-size;
+        margin-top: calc($spacing-unit / 16);
 
-        .verse-verse {
-            font-size: $small-font-size;
-            margin-top: calc($spacing-unit / 16);
-
-            font-size: $smaller-font-size;
-            @include media-query($on-palm) {
-                font-size: $smallest-font-size;
-            }
-        }
-
-        + .caption {
-            margin-top: calc($spacing-unit / 8);
-            margin-left: $verse-caption-margin;
-            margin-right: $verse-caption-margin;
-            text-align: left;
-        }
-        + .empty-caption {
-            margin-bottom: calc($spacing-unit / 2 + 1px);
-        }
-
+        font-size: $smaller-font-size;
         @include media-query($on-palm) {
-            font-size: $small-font-size;
+            font-size: $smallest-font-size;
         }
     }
+
+    + .caption {
+        margin-top: calc($spacing-unit / 8);
+        margin-left: $verse-caption-margin;
+        margin-right: $verse-caption-margin;
+        text-align: left;
+    }
+    + .empty-caption {
+        margin-bottom: calc($spacing-unit / 2 + 1px);
+    }
+
+    @include media-query($on-palm) {
+        font-size: $small-font-size;
+    }
+}
+
+table .simple-verse-wrapper {
+    margin-top: calc($spacing-unit / 4);
+    margin-bottom: calc($spacing-unit / 4);
 }
 
 /* Images */
