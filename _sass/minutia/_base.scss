@@ -319,6 +319,14 @@ table {
     th {
         background-color: $lightest-gray;
         font-weight: 500;
+
+        padding-top: 4px;
+        padding-bottom: 4px;
+    }
+
+    td {
+        padding-top: 3px;
+        padding-bottom: 3px;
     }
 
     // tr:nth-child(even) {

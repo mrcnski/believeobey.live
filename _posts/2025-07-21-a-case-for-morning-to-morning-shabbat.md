@@ -21,7 +21,9 @@ text="God said, “Let there be light,” and there was light. God saw the light
 verse="Genesis 1:3-8"
 %}
 
-The way that I read this, God was working during the day, in the light. Then evening would come and then morning. When morning would come, the day was over.
+The way that I read this, God was working during the day, in the light. Then evening would come and then morning. When morning would come, the day was over.[^cycle]
+
+[^cycle]: Some folks keep morning to evening Shabbat, since the light portion of the cycle is what God called "day". It seems to me that the full light/dark cycle can also be a day, and the Hebrew word *yom* can mean either, depending on the context. Please leave a comment if there's good evidence for morning to evening Shabbat.
 
 The traditional reading is that evening and morning are defining what a day is here. There is an issue with this: the text mentions evening and morning, but these together don't make up a full "24-hour" period. What about night, noon, and afternoon?
 
@@ -38,6 +40,12 @@ Some translations, like the KJV, do make it seem like a day is evening and morni
 
 <table style="width: 400px;">
 <thead>
+<tr>
+<th colspan="3" style="text-align: center;">
+Genesis 1:8
+</th>
+</tr>
+
 <tr>
 <th>
 Hebrew
