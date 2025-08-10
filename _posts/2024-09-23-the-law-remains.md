@@ -27,16 +27,18 @@ text="It pleased YHWH, for his righteousness’ sake, to **magnify the law** and
 verse="Isaiah 42:21"
 %}
 
-Not only do the "least" of the commandments remain relevant, but they have been *magnified*! These are not my own words or interpretation -- this is direct from Scripture.
+Not only do the "least" of the commandments remain relevant, but they have been *magnified*! In other words, rather than abolishing any laws, Yeshua taught their full meaning ({% include inline-verse.html verse="Matthew 7:12" text-after=")." %}
 
 ---
+
+Do the above verses only refer to Israel? What about Gentiles?
 
 {% include verse.html
 text="Also the **foreigners who join themselves to YHWH** to serve him, and to love YHWH’s name, to be his servants, **everyone who keeps the Sabbath from profaning it, and holds fast my covenant**, I will bring these to my holy mountain, and make them joyful in my house of prayer. Their burnt offerings and their sacrifices will be accepted on my altar; for my house will be called a house of prayer for all peoples.” The Lord YHWH, who gathers the outcasts of Israel, says, **“I will yet gather others to him, in addition to his own who are gathered.”**"
 verse="Isaiah 56:6-8"
 %}
 
-There is no support in the prophets for Torah being "replaced". Rather, there is one Law that foreigners must observe, and one covenant to be under, in order to be grafted in to Israel.
+I don't know of any support in the prophets for multiple laws. Rather, there is one Law that foreigners must observe, and one covenant to be under.
 
 {% include verse.html
 text="One law shall be to him who is born at home, and to the stranger who lives as a foreigner among you."
@@ -53,23 +55,25 @@ text="For the assembly, there shall be one statute for you and for the stranger 
 verse="Numbers 15:15-16"
 %}
 
-This refutes the notion that grafted-in Gentiles are under a different law, or no law at all, a notion which has zero scriptural support.
+This shows that converted Gentiles are not under a different law, or no law at all. I don't believe there is any support for that in the Hebrew Scriptures.
 
 ---
+
+What about the new covenant?
 
 {% include verse.html
 text="“But this is **the covenant** that I will make with the house of Israel after those days,” says YHWH: “**I will put my law in their inward parts, and I will write it in their heart**. I will be their God, and they shall be my people."
 verse="Jeremiah 31:33"
 %}
 
-You can't have the new covenant without the law. Such a notion is totally absent in the prophets.
+It seems that the Law is part of the new covenant!
 
 {% include verse.html
-text="I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh. I will put my Spirit within you, and cause you to walk in my statutes. You will keep my ordinances and do them."
+text="I will also give you a new heart, and I will put a new spirit within you. I will take away the stony heart out of your flesh, and I will give you a heart of flesh. **I will put my Spirit within you, and cause you to walk in my statutes. You will keep my ordinances and do them.**"
 verse="Ezekiel 36:26-27"
 %}
 
----
+### Some More Scriptures
 
 {% include verse.html
 text="Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but **only the one who does the will of my Father in heaven**. On that day many will say to me, ‘Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?’ Then I will declare to them, ‘I never knew you; go away from me, you who behave **lawlessly**.’"
@@ -77,16 +81,20 @@ verse="Matthew 7:21-23"
 version="NRSVUE"
 %}
 
+{% capture anomia %}
+The Greek word translated as "lawlessness" is <i>"anomia"</i>, literally meaning "without law".
+{% endcapture %}
+{% include verse.html
+text="Everyone who sins also commits lawlessness. **Sin is lawlessness.**"
+verse="1 John 3:4"
+caption=anomia
+%}
+
 ---
 
 {% include verse.html
 text="**This is how we know that we know him: if we keep his commandments.** One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him. But God’s love has most certainly been perfected in whoever keeps his word. This is how we know that we are in him: **he who says he remains in him ought himself also to walk just like he walked.**"
 verse="1 John 2:3-6"
-%}
-
-{% include verse.html
-text="Everyone who sins also commits lawlessness. Sin is lawlessness."
-verse="1 John 3:4"
 %}
 
 ---
@@ -144,18 +152,20 @@ verse="John 10:34-35"
 
 ## The "Least" of the Commandments
 
-Man has a deceitful heart ({% include inline-verse.html verse="Jeremiah 17:9" text-after=")," %} and can convince himself that he is obedient even when he is picking and choosing commandments that he likes and ignoring the ones that he doesn't like.
+Man has a deceitful heart (<a href="https://www.biblegateway.com/passage/?search=Jeremiah%2017:9&version=WEB">Jeremiah 17:9</a>),[^deceitful] and can convince himself that he is obedient, even when he is picking and choosing commandments that he likes and ignoring the ones that he doesn't like.
 
-However, even the "least" of the commandments still apply. Many Christians ignore the Sabbath law (the fourth commandment!) and the food laws -- is this a Biblical attitude?
+[^deceitful]: This verse reads differently in the <a href="https://biblehub.com/sep/jeremiah/17.htm">Septuagint</a>. Your author personally thinks that there is important truth in the Hebrew version.
+
+As Yeshua told us, even the "least" of the commandments still apply. Many Christians ignore the Sabbath law (the fourth commandment!) and the food laws -- is this a Biblical attitude?
 
 ---
 
 {% include verse.html
-text="Pray that your flight will not be in the winter nor on a Sabbath"
-verse="Matthew 24:20"
+text="Pray that your flight will not be in the winter nor on a Sabbath, for then there will be great suffering ..."
+verse="Matthew 24:20-21"
 %}
 
-The Sabbath was still in effect after Yeshua's death. Why else would he instruct the disciples to pray this way?
+The Sabbath was to be still in effect after Yeshua's death.
 
 ---
 
@@ -179,9 +189,9 @@ verse="Isaiah 66:17"
 %}
 
 
-## Torah in the Kingdom
+## Torah in the Kingdom and Beyond
 
-We've read that until heaven and earth pass away, not one stroke from Torah is done away with. We can see Torah being kept in the Kingdom, after Yeshua's death and return:
+We've read that until heaven and earth pass away, not one stroke from Torah is done away with. We can see Torah being kept after Yeshua's death and return:
 
 <div class="columns">
 {% include verse.html
@@ -211,7 +221,7 @@ text="It will happen that everyone who is left of all the nations that came agai
 verse="Zechariah 14:16-18"
 %}
 
-All the nations, not just Israel, were expected to keep the yearly pilgrimage festival to Jerusalem that's commanded in Torah. Remember, Torah was *not* just for Israel ({% include inline-verse.html verse="Isaiah 56:6-8" text-after=")." %}
+All the nations, not just Israel, were expected to keep the yearly pilgrimage festival to Jerusalem that's commanded in Torah. As we saw in {% include inline-verse.html verse="Isaiah 56:6-8" text-after="," %} Torah was *not* just for Israel.
 
 {% include image.html name="the-law-remains-2.jpeg" alt="The Law Remains" width="741" %}
 
@@ -222,27 +232,26 @@ text="YHWH spoke to Moses, saying, “Speak also to the children of Israel, sayi
 verse="Exodus 31:12-17"
 %}
 
-The Sabbath is to be observed for all generations. This shouldn't surprise us -- it goes all the way back to the creation week!
+The Sabbath is to be observed "forever". This shouldn't surprise us -- it goes all the way back to the creation week![^eternal]
+
+[^eternal]: Some might say that the Hebrew word [ʿôlām](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/) does not necessarily mean "perpetual" or "forever", and could just mean "a very long time" or "until the end of the age". This may be true in some cases, but as Yeshua told us in Matthew 5:18, the law is "until heaven and earth pass away". We see in Enoch below that the law is "for all generations"!
 
 ---
 
 {% include verse.html
-text="And when the day, and the power, and the punishment, and the judgement come, which the Lord of Spirits hath prepared for those **who worship not the righteous law**, and for those who deny the righteous judgement, and for those who take His name in vain-that day is prepared, for the elect a covenant, but for sinners an inquisition."
+text="And when the day, and the power, and the punishment, and **the judgement come**, which the Lord of Spirits hath prepared for those **who worship not the righteous law**, and for those who deny the righteous judgement, and for those who take His name in vain-that day is prepared, for the elect a covenant, but for sinners an inquisition."
 verse="Enoch 60:6"
-url="https://parallel.thebookofenoch.info/#60"
 caption="Note: Charles in his translation notes provides an alternative translation: 'who corrupt the righteous law'."
 %}
 
 {% include verse.html
 text="Woe to them who pervert the words of uprightness, And transgress the **eternal law**, And transform themselves into what they were not [into sinners]: They shall be trodden under foot upon the earth."
 verse="Enoch 99:2"
-url="https://parallel.thebookofenoch.info/#99"
 %}
 
 {% include verse.html
 text="Another book which Enoch wrote for his son Methuselah and for those who will come after him, and **keep the law in the last days**. Ye who have done good shall wait for those days till an end is made of those who work evil; and an end of the might of the transgressors."
 verse="Enoch 108:1-2"
-url="https://parallel.thebookofenoch.info/#108"
 %}
 
 Check out [my Bible study](/evidence-that-enoch-is-scripture) with evidence that Enoch is scripture!
@@ -250,7 +259,6 @@ Check out [my Bible study](/evidence-that-enoch-is-scripture) with evidence that
 {% include verse.html
 text="And after that in the fourth week, at its close, Visions of the holy and righteous shall be seen, And **a law for all generations** and an enclosure shall be made for them."
 verse="Enoch 93:6"
-url="https://parallel.thebookofenoch.info/#93"
 %}
 
 This is referring to the Law of Moses; see my study on the [Prophecy of Weeks](/enochs-prophecy-of-weeks/). In week four of this prophecy we clearly see that the Mosaic Law applies to all generations! It's not a temporary thing (an idea completely absent from the prophets).
@@ -258,7 +266,7 @@ This is referring to the Law of Moses; see my study on the [Prophecy of Weeks](/
 ---
 
 {% include verse.html
-text="God said to Abraham, “As for you, you shall keep my covenant, you and your offspring after you throughout their generations. This is my covenant, which you shall keep, between me and you and your offspring after you. Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you. He who is eight days old shall be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your offspring. He who is born in your house, and he who is bought with your money, must be circumcised. **My covenant shall be in your flesh for an everlasting covenant**."
+text="God said to Abraham, “As for you, **you shall keep my covenant, you and your offspring after you throughout their generations**. This is my covenant, which you shall keep, between me and you and your offspring after you. Every male among you shall be circumcised. You shall be circumcised in the flesh of your foreskin. It will be a token of the covenant between me and you. He who is eight days old shall be circumcised among you, every male throughout your generations, he who is born in the house, or bought with money from any foreigner who is not of your offspring. He who is born in your house, and he who is bought with your money, must be circumcised. **My covenant shall be in your flesh for an everlasting covenant**."
 verse="Genesis 17:9-13"
 %}
 
@@ -279,6 +287,8 @@ caption="Faith leads to overcoming the world and being born again, which leads t
 text="... if you will obey YHWH your God’s voice, to keep his commandments and his statutes which are written in this book of the law, if you turn to YHWH your God with all your heart and with all your soul. **For this commandment which I command you today is not too hard for you or too distant.** It is not in heaven, that you should say, “Who will go up for us to heaven, bring it to us, and proclaim it to us, that we may do it?” Neither is it beyond the sea, that you should say, “Who will go over the sea for us, bring it to us, and proclaim it to us, that we may do it?” But the word is very near to you, in your mouth and in your heart, that you may do it."
 verse="Deuteronomy 30:10-14"
 %}
+
+See my [study on the Burden of YHWH](/the-burden-of-yhwh-vs-false-religion).
 
 ## Where Does the Misconception Come From?
 
@@ -338,3 +348,5 @@ text="This is the end of the matter. All has been heard. **<span class='hl-1'>Fe
 verse="Ecclesiastes 12:13"
 %}
 </div>
+
+## Footnotes
