@@ -17,19 +17,6 @@ Take, for example, Yeshua's commandments to forgive and not to hate others. Are 
 
 ## Loving our Neighbor
 
-### Love Kindness
-
-{% include verse.html
-text="He has told you, O man, what is good; And what does YHWH require of you But to do justice, to **love kindness**, And to walk humbly with your God?"
-verse="Micah 6:8"
-version="NASB1995"
-%}
-
-{% include verse.html
-text="Thus has YHWH of Armies spoken, saying, ‘Execute true judgment, and **show kindness and compassion every man to his brother**. Don’t oppress the widow, the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’"
-verse="Zechariah 7:9-10"
-%}
-
 ### You Shall Not Murder
 
 {% include verse.html
@@ -135,13 +122,14 @@ version="NASB"
 %}
 </div>
 
-{% capture slander %}
-See {% include inline-verse.html verse="Leviticus 19:16" text-after="." %}
-{% endcapture %}
 {% include verse.html
 text="Don’t speak against one another, brothers. He who speaks against a brother and judges his brother, speaks against the law and judges the law. But if you judge the law, you are not a doer of the law but a judge."
 verse="James 4:11"
-caption=slander
+%}
+
+{% include verse.html
+text="You shall not go around as a slanderer among your people."
+verse="Leviticus 19:16"
 %}
 
 ### Charity and Service
@@ -156,13 +144,14 @@ text="Give to him who asks you, and don’t turn away him who desires to borrow 
 verse="Matthew 5:42"
 %}
 
-{% capture giving %}
-See {% include inline-verse.html verse="Deuteronomy 16:17" text-after="." %}
-{% endcapture %}
 {% include verse.html
 text="But whoever has the world’s goods and sees his brother in need, then closes his heart of compassion against him, how does God’s love remain in him?"
 verse="1 John 3:17"
-caption=giving
+%}
+
+{% include verse.html
+text="Every man shall give as he is able, according to YHWH your God’s blessing which he has given you."
+verse="Deuteronomy 16:17"
 %}
 
 {% include image.html name="yeshua-taught-us-how-to-love/2.jpeg" alt="Yeshua Taught Us How to Love" width="500" %}
@@ -204,15 +193,6 @@ text="**For this is loving God, that we keep his commandments.** His commandment
 verse="1 John 5:3"
 %}
 
-### Be His Witness
-
-{% include verse.html
-text="Everyone therefore who confesses me before men, I will also confess him before my Father who is in heaven. But whoever denies me before men, I will also deny him before my Father who is in heaven."
-verse="Matthew 10:32-33"
-%}
-
-This is a sobering warning to those who are ashamed of God and His Son. If we really loved Them, would we not confess Them?
-
 ### Seek The Kingdom First
 
 {% include verse.html
@@ -246,6 +226,19 @@ verse="Genesis 1:27"
 {% include verse.html
 text="If a man says, “I love God,” and hates his brother, he is a liar; **for he who doesn’t love his brother whom he has seen, how can he love God whom he has not seen?**"
 verse="1 John 4:20"
+%}
+
+## Bonus: Love Kindness
+
+{% include verse.html
+text="He has told you, O man, what is good; And what does YHWH require of you But to do justice, to **love kindness**, And to walk humbly with your God?"
+verse="Micah 6:8"
+version="NASB1995"
+%}
+
+{% include verse.html
+text="Thus has YHWH of Armies spoken, saying, ‘Execute true judgment, and **show kindness and compassion every man to his brother**. Don’t oppress the widow, the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’"
+verse="Zechariah 7:9-10"
 %}
 
 ## Summary
