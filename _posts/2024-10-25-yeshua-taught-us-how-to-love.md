@@ -17,22 +17,6 @@ Take, for example, Yeshua's commandments to forgive and not to hate others. Are 
 
 ## Loving our Neighbor
 
-### You Shall Not Murder
-
-{% include verse.html
-text="“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’ **But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.** If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
-verse="Matthew 5:21-24"
-%}
-
-These are all examples of unloving attitudes. Anger with a brother or sister violates the sixth commandment (not to murder). Moreover, it violates the commandment to love our neighbor.
-
-We also see that love seeks reconciliation, so that our brethren do not harbor angry, unforgiving thoughts in their hearts and thus stray from the Way.
-
-{% include verse.html
-text="**Whoever hates his brother is a murderer**, and you know that no murderer has eternal life remaining in him."
-verse="1 John 3:15"
-%}
-
 ### Forgive
 
 <div class="columns">
@@ -71,7 +55,7 @@ text="For judgment is without mercy to him who has shown no mercy. Mercy triumph
 verse="James 2:13"
 %}
 
-When we judge too quickly, we become someone's accuser. I wonder, isn't it better to give someone the benefit of the doubt, for as long as possible?
+When we judge too quickly, we risk becoming someone's accuser.
 
 {% include verse.html
 text="If your brother sins against you, go, show him his fault between you and him alone. If he listens to you, you have gained back your brother. But if he doesn’t listen, take one or two more with you, that at the mouth of two or three witnesses every word may be established. If he refuses to listen to them, tell it to the assembly. If he refuses to hear the assembly also, let him be to you as a Gentile or a tax collector."
@@ -79,6 +63,22 @@ verse="Matthew 18:15-17"
 %}
 
 This sounds to me like the proper and loving way to deal with our brethren trapped in sin.
+
+### You Shall Not Murder
+
+{% include verse.html
+text="“You have heard that it was said to the ancient ones, ‘You shall not murder;’ and ‘Whoever murders will be in danger of the judgment.’ **But I tell you that everyone who is angry with his brother without a cause will be in danger of the judgment. Whoever says to his brother, ‘Raca!’ will be in danger of the council. Whoever says, ‘You fool!’ will be in danger of the fire of Gehenna.** If therefore you are offering your gift at the altar, and there remember that your brother has anything against you, leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+verse="Matthew 5:21-24"
+%}
+
+These are all examples of unloving attitudes. Anger with a brother or sister violates the sixth commandment (not to murder). Moreover, it violates the commandment to love our neighbor.
+
+We also see that love seeks reconciliation, so that our brethren do not harbor angry, unforgiving thoughts in their hearts and thus stray from the Way.
+
+{% include verse.html
+text="**Whoever hates his brother is a murderer**, and you know that no murderer has eternal life remaining in him."
+verse="1 John 3:15"
+%}
 
 ### Love Your Enemies
 
@@ -216,7 +216,7 @@ text="Then the King will tell those on his right hand, ‘Come, blessed of my Fa
 verse="Matthew 25:34-40"
 %}
 
-At the end of the day, by loving our neighbor (through actions) we also love our Creator.
+By loving our neighbor (through actions) we also love our Creator.
 
 {% include verse.html
 text="God created man in his own image. In God’s image he created him; male and female he created them."
