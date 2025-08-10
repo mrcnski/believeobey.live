@@ -5,8 +5,6 @@ toc: true
 hidden: false
 ---
 
-This is not an exhaustive compilation of evidence, but only what I've personally made a note of in my study of the Book of Enoch.
-
 While I believe that most of Enoch is Scripture, I have found what seem to be corruptions and insertions. In particular, the verses where Noah is speaking do not seem to belong to Enoch, and even contradict the rest of the book. I hope to do a separate study on this.
 {: .note}
 
@@ -52,17 +50,17 @@ Here are some more instances where the canonical books seem to quote almost verb
 
 <div class="columns">
 {% include verse.html
-text="But for the elect there shall be light and joy and peace, And they shall inherit the earth."
+text="But for the elect there shall be light and joy and peace, **And they shall inherit the earth**."
 verse="Enoch 5:7"
 %}
 
 {% include verse.html
-text="Blessed are the gentle, for they shall inherit the earth."
+text="**Blessed are the gentle, for they shall inherit the earth.**"
 verse="Matthew 5:5"
 %}
 
 {% include verse.html
-text="But the humble shall inherit the land, and shall delight themselves in the abundance of peace."
+text="But **the humble shall inherit the land**, and shall delight themselves in the abundance of peace."
 verse="Psalm 37:11"
 %}
 </div>
@@ -241,6 +239,11 @@ verse="Enoch 49:3"
 {% include verse.html
 text="A shoot will come out of the stock of Jesse, and a branch out of his roots will bear fruit. YHWH’s Spirit will rest on him: the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of YHWH."
 verse="Isaiah 11:1-2"
+%}
+
+{% include verse.html
+text="With God is wisdom and might. He has counsel and understanding. [...] With him is strength and wisdom."
+verse="Job 12:13,16"
 %}
 </div>
 
@@ -840,12 +843,12 @@ verse="Isaiah 13:8"
 
 <div class="columns">
 {% include verse.html
-text="And those who practice righteousness shall die on account of the deeds of men, And be **taken away on account of the doings of the godless**."
+text="And <span class='hl-1'>those who practice righteousness shall die</span> on account of the deeds of men, And be <span class='hl-2'>taken away on account of the doings of the godless</span>."
 verse="Enoch 81:9"
 %}
 
 {% include verse.html
-text="The righteous perish, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is **taken away from the evil**."
+text="<span class='hl-1'>The righteous perish</span>, and no one lays it to heart. Merciful men are taken away, and no one considers that the righteous is <span class='hl-2'>taken away from the evil</span>."
 verse="Isaiah 57:1"
 %}
 </div>
@@ -1054,6 +1057,43 @@ verse="Proverbs 24:12"
 </div>
 </div>
 
+### Trusting in Riches
+
+<div class="columns">
+{% include verse.html
+text="Woe to you, ye rich, for ye have **trusted in your riches**, And from your riches shall ye depart, Because ye have not remembered the Most High in the days of your riches. "
+verse="Enoch 94:8"
+%}
+
+{% include verse.html
+text="He who **trusts in his riches** will fall, but the righteous shall flourish as the green leaf."
+verse="Proverbs 11:28"
+%}
+
+{% capture riches %}
+See also {% include inline-verse.html verse="Psalm 49:6" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="Behold, this is the man who didn’t make God his strength, but **trusted in the abundance of his riches**, and strengthened himself in his wickedness.”"
+verse="Psalm 52:7"
+caption=riches
+%}
+</div>
+
+### United with God
+
+<div class="columns">
+{% include verse.html
+text="For **I and My son will be united with them** for ever in the paths of uprightness in their lives; and ye shall have peace: rejoice, ye children of uprightness."
+verse="Enoch 105:2"
+%}
+
+{% include verse.html
+text="Jesus answered him, “If a man loves me, he will keep my word. My Father will love him, and **we will come to him and make our home with him**."
+verse="John 14:23"
+%}
+</div>
+
 ### Can a Man Compare to God?
 
 <div class="columns">
@@ -1114,7 +1154,7 @@ Here I present some other aspects of Enoch that agree with Scripture.
 
 ### The Animal Prophecy
 
-Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://parallel.thebookofenoch.info/#90) contain an epic prophecy about the history of the chosen people. As it's a long prophecy, I will not reproduce it here. But the interesting thing is that there are at least a few sections in the canon that are remarkably similar to Enoch's animal prophecy: {% include inline-verse.html verse="Isaiah 56:9-12" text-after="," %} {% include inline-verse.html verse="Ezekiel 34" text-after="," %} and {% include inline-verse.html verse="Ezekiel 39:17-18" text-after="." %} I also won't reproduce these here, but I recommend studying them and comparing them to Enoch.
+Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://parallel.thebookofenoch.info/#90) contain an epic prophecy about the history of the chosen people. As it's a long prophecy, I will not reproduce it here. But the interesting thing is that there are at least a few sections in the canon that are remarkably similar to Enoch's animal prophecy: {% include inline-verse.html verse="Isaiah 56:9-12" text-after="," %} {% include inline-verse.html verse="Ezekiel 34" text-after="," %} and {% include inline-verse.html verse="Ezekiel 39:17-18" text-after="." %} I also won't reproduce these here in full, but I recommend studying them and comparing them to Enoch.
 
 <div class="columns">
 {% include verse.html
