@@ -995,7 +995,7 @@ verse="Ezekiel 1:15"
 </div>
 </div>
 
-**Note:** "Ophannim" comes from the Hebrew word "[ophan](https://biblehub.com/hebrew/212.htm)", meaning wheel!
+**Note:** "Ophannin" comes from the Hebrew word [*ophan*](https://biblehub.com/hebrew/212.htm), meaning wheel!
 
 ### The Tree of Life
 
@@ -1077,6 +1077,20 @@ See also {% include inline-verse.html verse="Psalm 49:6" text-after="." %}
 text="Behold, this is the man who didn’t make God his strength, but **trusted in the abundance of his riches**, and strengthened himself in his wickedness.”"
 verse="Psalm 52:7"
 caption=riches
+%}
+</div>
+
+### Where Does Sin Come From?
+
+<div class="columns">
+{% include verse.html
+text="Even so sin has not been sent upon the earth, But man of himself has created it, And under a great curse shall they fall who commit it."
+verse="Enoch 98:4"
+%}
+
+{% include verse.html
+text="Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
+verse="James 1:13-15"
 %}
 </div>
 
