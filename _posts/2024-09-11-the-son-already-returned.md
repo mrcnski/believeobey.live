@@ -147,16 +147,6 @@ verse="Daniel 12:4"
 ---
 
 {% include verse.html
-text="A little while, and you will not see me. Again a little while, and you will see me."
-verse="John 16:16"
-%}
-
-Actually, this is probably talking about the resurrection.
-{: .update}
-
----
-
-{% include verse.html
 text="“You see all of these things, don't you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down. As he sat on the Mount of Olives, the disciples came to him privately, saying, 'Tell us, **when will these things be? What is the sign of your coming, and of the end of the age?**”"
 verse="Matthew 24:2-3"
 %}
