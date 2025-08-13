@@ -295,6 +295,29 @@ verse="Deuteronomy 6:25"
 
 See my [study on the Burden of YHWH](/the-burden-of-yhwh-vs-false-religion).
 
+## The Delusion of Lawlessness
+
+{% include verse.html
+text="**But be doers of the word, and not only hearers, deluding your own selves.** [...] But he who looks into the **perfect law of freedom** and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does."
+verse="James 1:22,25"
+%}
+
+{% include verse.html
+text="One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him."
+verse="1 John 2:4"
+%}
+
+{% include verse.html
+text="Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name cast out demons, and in Your name perform many miracles?’ And then I will declare to them, ‘I never knew you; leave Me, you who practice lawlessness.’"
+verse="Matthew 7:22-23"
+version="NASB"
+%}
+
+{% include verse.html
+text="The heart is deceitful above all things and it is exceedingly corrupt. Who can know it?"
+verse="Jeremiah 17:9"
+%}
+
 ## Where Does the Misconception Come From?
 
 {% include verse.html
@@ -323,7 +346,7 @@ By the way, He says here that He is lord of the Sabbath, not of Sunday. The Lord
 The writings of Paul and Luke may need to be properly addressed in a separate
 study.
 
-## Other Verses
+## Final Verses
 
 {% include verse.html
 text="He who turns away his ear from hearing the law, even his prayer is an abomination."
