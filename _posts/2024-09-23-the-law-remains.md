@@ -122,7 +122,7 @@ verse="James 1:24-25"
 caption=joy
 %}
 
-Torah is perfect and the law of freedom/joy. This passage teaches the same thing as Deuteronomy -- that obedience leads to blessings:
+Torah is perfect (*"YHWH’s law is perfect, restoring the soul"* - {% include inline-verse.html verse="Psalm 19:7" text-after=")" %} and the law of freedom/joy. This passage teaches the same thing as Deuteronomy -- that obedience leads to blessings:
 
 {% include verse.html
 text="It shall happen, if you shall listen diligently to YHWH your God’s voice, to observe to do all his commandments which I command you today, that YHWH your God will set you high above all the nations of the earth. All these blessings will come upon you, and overtake you, if you listen to YHWH your God’s voice."
