@@ -41,7 +41,7 @@ Some translations, like the KJV, do make it seem like a day is evening and morni
 <table style="width: 400px;">
 <thead>
 <tr>
-<th colspan="3" style="text-align: center;">
+<th colspan="3" style="text-align: center; position: unset;">
 Genesis 1:8
 </th>
 </tr>

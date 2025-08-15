@@ -15,4 +15,12 @@
       </a>
     </p>
   </div>
+
+  {% if include.caption %}
+  <span class="caption">
+    {{ include.caption }}
+  </span>
+  {% else %}
+  <div class="empty-caption"></div>
+  {% endif %}
 </div>

@@ -170,6 +170,8 @@ $verse-border-width: 2.5px;
 $verse-padding-width: calc($spacing-unit / 2);
 $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
 
+$simple-verse-margin: calc($spacing-unit * 3 / 16);
+
 .verse-wrapper {
     margin-left: $verse-wrapper-margin;
     margin-right: $verse-wrapper-margin;
@@ -218,8 +220,16 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
 }
 
 table .simple-verse-wrapper {
-    margin-top: calc($spacing-unit * 3 / 16);
-    margin-bottom: calc($spacing-unit * 3 / 16);
+    margin-top: $simple-verse-margin;
+
+    .caption {
+        margin-bottom: $simple-verse-margin;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .empty-caption {
+        margin-bottom: $simple-verse-margin;
+    }
 }
 
 /* Images */
