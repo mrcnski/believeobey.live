@@ -228,6 +228,13 @@ All the nations, not just Israel, were expected to keep the yearly pilgrimage fe
 ## Was the Law Temporary?
 
 {% include verse.html
+text="All of your words are truth. Every one of your righteous ordinances endures **forever**."
+verse="Psalm 119:160"
+%}
+
+---
+
+{% include verse.html
 text="YHWH spoke to Moses, saying, “Speak also to the children of Israel, saying, ‘Most certainly you shall keep my Sabbaths; for it is a sign between me and you **throughout your generations**, that you may know that I am YHWH who sanctifies you. You shall keep the Sabbath therefore, for it is holy to you. Everyone who profanes it shall surely be put to death; for whoever does any work therein, that soul shall be cut off from among his people. Six days shall work be done, but on the seventh day is a Sabbath of solemn rest, holy to YHWH. Whoever does any work on the Sabbath day shall surely be put to death. Therefore the children of Israel shall keep the Sabbath, to observe the Sabbath **throughout their generations, for a perpetual covenant**. It is a **sign between me and the children of Israel forever**; for in six days YHWH made heaven and earth, and on the seventh day he rested, and was refreshed.’”"
 verse="Exodus 31:12-17"
 %}
@@ -316,6 +323,11 @@ version="NASB"
 {% include verse.html
 text="The heart is deceitful above all things and it is exceedingly corrupt. Who can know it?"
 verse="Jeremiah 17:9"
+%}
+
+{% include verse.html
+text="You reject all those who stray from your statutes, for their deceit is in vain."
+verse="Psalm 119:118"
 %}
 
 ## Where Does the Misconception Come From?
