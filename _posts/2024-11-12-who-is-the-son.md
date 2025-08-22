@@ -36,7 +36,10 @@ text="... for I am a father to Israel. Ephraim is my firstborn."
 verse="Jeremiah 31:9"
 %}
 
----
+{% include verse.html
+text="Who has ascended up into heaven, and descended? Who has gathered the wind in his fists? Who has bound the waters in his garment? Who has established all the ends of the earth? **What is his name, and what is his son’s name, if you know?**"
+verse="Proverbs 30:4"
+%}
 
 {% include verse.html
 text="I will surely tell of the decree of YHWH: He said to Me, ‘You are My Son, Today I have begotten You."
@@ -44,7 +47,7 @@ verse="Psalm 2:7"
 version="NASB1995"
 %}
 
-It seems that YHWH is the one who would beget the Son. Is that the full story, though?
+In the last verse we see that YHWH is the one who would beget the Son. Is that the full story, though?
 
 {% include image.html name="who-is-the-son-1.jpeg" alt="Who is the Son?" width="741" %}
 
