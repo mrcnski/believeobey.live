@@ -131,11 +131,30 @@ text="“What are the multitude of your sacrifices to me?”, says YHWH. “I ha
 verse="Isaiah 1:11,17"
 %}
 
-## Final Notes
+See also my [study on love](/yeshua-taught-us-how-to-love).
+
+## Humility
+
+{% include verse.html
+text="YHWH, my heart isn’t arrogant, nor my eyes lofty; **nor do I concern myself with great matters, or things too wonderful for me**. Surely I have stilled and quieted my soul, **like a weaned child with his mother**, like a weaned child is my soul within me."
+verse="Psalm 131:1-2"
+%}
+
+{% include verse.html
+text="Most certainly I tell you, unless you turn and become as little children, you will in no way enter into the Kingdom of Heaven. **Whoever therefore humbles himself as this little child** is the greatest in the Kingdom of Heaven."
+verse="Matthew 18:3-4"
+%}
 
 {% include verse.html
 text="He has shown you, O man, what is good. **What does YHWH require of you, but to act justly, to love mercy, and to walk humbly with your God?**"
 verse="Micah 6:8"
+%}
+
+## Final Notes
+
+{% include verse.html
+text="For thus said the Lord YHWH, the Holy One of Israel, “You will be saved in returning and rest. Your strength will be in quietness and in confidence.” You refused ..."
+verse="Isaiah 30:15"
 %}
 
 {% include verse.html
