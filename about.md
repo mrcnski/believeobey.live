@@ -50,6 +50,11 @@ verse="John 3:16,36"
 %}
 
 {% include verse.html
+text="You shall therefore **keep my statutes and my ordinances**, which if a man does, **he shall live in them**. I am YHWH."
+verse="Leviticus 18:5"
+%}
+
+{% include verse.html
 text="But be doers of the word, and not only hearers, deluding your own selves."
 verse="James 1:22"
 %}
