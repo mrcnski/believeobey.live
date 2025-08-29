@@ -853,6 +853,20 @@ verse="Isaiah 57:1"
 %}
 </div>
 
+### Grace to the Righteous
+
+<div class="columns">
+{% include verse.html
+text="<span class='hl-1'>He will be gracious to the righteous</span> and give him eternal uprightness, And He will give him power so that <span class='hl-2'>he shall be (endowed) with goodness and righteousness.</span> <span class='hl-3'>And he shall walk in eternal light.</span>"
+verse="Enoch 92:4"
+%}
+
+{% include verse.html
+text="If there is beside him an angel, an interpreter, one among a thousand, to show to man what is right for him, <span class='hl-1'>then God is gracious to him</span>, and says, ‘Deliver him from going down to the pit, I have found a ransom.’ His flesh will be fresher than a child’s. He returns to the days of his youth. He prays to God, and he is favorable to him, so that he sees his face with joy. <span class='hl-2'>He restores to man his righteousness.</span> He sings before men, and says, ‘I have sinned, and perverted that which was right, and it didn’t profit me. He has redeemed my soul from going into the pit. <span class='hl-3'>My life will see the light.</span>’"
+verse="Job 33:23-28"
+%}
+</div>
+
 ### The Seven Spirits
 
 There is a mystery that is not really answered in the canon: who or what are the seven spirits?
