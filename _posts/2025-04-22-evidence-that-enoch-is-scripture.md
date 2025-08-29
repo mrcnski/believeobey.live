@@ -339,8 +339,8 @@ verse="Enoch 40:7"
 %}
 
 {% include verse.html
-text="Now on the day when God’s sons came to present themselves before YHWH, Satan also came among them."
-verse="Job 1:6"
+text="The great dragon was thrown down, the old serpent, he who is called the devil and **Satan**, the deceiver of the whole world. He was thrown down to the earth, **and his angels** were thrown down with him. [...] **the accuser of our brothers has been thrown down, who accuses them before our God** day and night."
+verse="Revelation 12:9-10"
 %}
 
 {% include verse.html
@@ -348,11 +348,6 @@ text="He showed me Joshua the high priest standing before YHWH’s angel, and **
 verse="Zechariah 3:1"
 %}
 </div>
-
-{% include verse.html
-text="The great dragon was thrown down, the old serpent, he who is called the devil and **Satan**, the deceiver of the whole world. He was thrown down to the earth, and his angels were thrown down with him. I heard a loud voice in heaven, saying, “Now the salvation, the power, and the Kingdom of our God, and the authority of his Christ has come; for **the accuser of our brothers has been thrown down, who accuses them before our God** day and night."
-verse="Revelation 12:9-10"
-%}
 
 ### The Mountains Leap
 
