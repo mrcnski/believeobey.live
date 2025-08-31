@@ -11,7 +11,7 @@ text="“Teacher, which is the greatest commandment in the law?” Jesus said to
 verse="Matthew 22:36-40"
 %}
 
-Take, for example, Yeshua's commandments to forgive and not to hate others. Are these really new commandments, or are they teaching us how to keep the above commandments from Torah? (See [The Law Remains](/the-law-remains).)
+Consider Yeshua's commandments to forgive and not to hate others. Are these really new commandments, or are they teaching us how to keep the above commandments from Torah? (See [The Law Remains](/the-law-remains).)
 
 {% include image.html name="yeshua-taught-us-how-to-love/1.jpeg" alt="Yeshua Taught Us How to Love" %}
 
@@ -102,8 +102,8 @@ verse="1 Peter 3:9"
 %}
 
 {% include verse.html
-text="You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am YHWH."
-verse="Leviticus 19:18"
+text="You shall not hate your brother in your heart. You shall surely rebuke your neighbor, and not bear sin because of him. You shall not take vengeance, nor bear any grudge against the children of your people; but you shall love your neighbor as yourself. I am YHWH."
+verse="Leviticus 19:17-18"
 %}
 
 ### Do Not Slander
