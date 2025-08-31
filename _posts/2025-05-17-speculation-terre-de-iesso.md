@@ -25,26 +25,26 @@ Is the middle mountain, Mount Zion in the north?
 
 <div class="columns">
 {% include verse.html
-text="Beautiful in elevation, the joy of the whole earth, is Mount Zion, on the north sides, the city of the great King."
+text="Beautiful in elevation, the joy of the whole earth, is **Mount Zion, on the north sides**, the city of the great King."
 verse="Psalm 48:2"
 version="WEB"
 %}
 
 {% include verse.html
-text="Beautiful in elevation, the joy of the whole earth, Is Mount Zion in the far north, The city of the great King."
+text="Beautiful in elevation, the joy of the whole earth, Is **Mount Zion in the far north**, The city of the great King."
 verse="Psalm 48:2"
 version="NASB1995"
 %}
 </div>
 
 {% include verse.html
-text="But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on the mount of assembly In the [sides] of the north."
+text="But you said in your heart, ‘I will ascend to heaven; I will raise my throne above the stars of God, And I will sit on **the mount of assembly In the [sides] of the north**."
 verse="Isaiah 14:13"
 version="NASB1995"
 %}
 
 {% include verse.html
-text="Out of the north comes golden splendor. With God is awesome majesty."
+text="Out of the **north** comes golden splendor. With God is awesome majesty."
 verse="Job 37:22"
 %}
 
@@ -56,7 +56,7 @@ verse="Enoch 24:1-4"
 url="https://parallel.thebookofenoch.info/#24"
 %}
 
-This verse seems to describe the same seven mountains.
+This passage seems to describe the same seven mountains.
 
 {% include verse.html
 text="**This high mountain which thou hast seen, whose summit is like the throne of God, is His throne,** where the Holy Great One, the Lord of Glory, the Eternal King, will sit, when He shall come down to visit the earth with goodness."
@@ -65,7 +65,7 @@ url="https://parallel.thebookofenoch.info/#24"
 %}
 
 {% include verse.html
-text="And the fourth quarter, named the north, is divided into three parts: the first of them is for the dwelling of men: and the second contains seas of water, and the abysses and forests and rivers, and darkness and clouds; and the third part contains the garden of righteousness. I saw seven high mountains, higher than all the mountains which are on the earth ..."
+text="And the fourth quarter, **named the north**, is divided into three parts: the first of them is for the dwelling of men: and the second contains seas of water, and the abysses and forests and rivers, and darkness and clouds; and the third part contains the garden of righteousness. **I saw seven high mountains, higher than all the mountains which are on the earth** ..."
 verse="Enoch 77:3-4"
 url="https://parallel.thebookofenoch.info/#77"
 %}
@@ -85,7 +85,7 @@ extreme north.
 ## The Camp of the Saints
 
 {% include verse.html
-text="And from that day I was no longer numbered amongst them: and he set me between the two winds, between the North and the West, where the angels took the cords to measure for me **the place for the elect and righteous.** And there I saw the first fathers and the righteous who from the beginning dwell in that place."
+text="And from that day I was no longer numbered amongst them: and he set me between the two winds, **between the North and the West**, where the angels took the cords to measure for me **the place for the elect and righteous.** And there I saw the first fathers and the righteous who from the beginning dwell in that place."
 verse="Enoch 70:3-4"
 url="https://parallel.thebookofenoch.info/#70"
 %}
