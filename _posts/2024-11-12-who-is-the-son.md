@@ -275,6 +275,11 @@ text="That your beloved may be delivered, **save with your right hand**, and ans
 verse="Psalm 108:6"
 %}
 
+{% include verse.html
+text="Though I walk in the middle of trouble, you will revive me. You will stretch out your hand against the wrath of my enemies. **Your right hand will save me.**"
+verse="Psalm 138:7"
+%}
+
 ## Yeshua is Worshipped
 
 {% include verse.html
@@ -406,6 +411,8 @@ verse="Daniel 4:9"
 text="In the beginning was the Word, and the Word was **with** God, and the Word **was** God. The same was in the beginning with God."
 verse="John 1:1-2"
 %}
+
+Did you know that "Elohim" and "Adonai" are both plural words?
 
 ## Other Interesting Verses
 
