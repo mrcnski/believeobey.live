@@ -98,7 +98,24 @@ text="... How is it that you don’t perceive that I didn’t speak to you conce
 verse="Matthew 16:11-12"
 %}
 
-## Unauthorized Sacrifice
+{% include verse.html
+text="If you **take away from among you the yoke**, finger pointing, and speaking wickedly; and if you pour out your soul to the hungry, and satisfy the afflicted soul, then your light will rise in darkness, and your obscurity will be as the noonday ..."
+verse="Isaiah 58:9-10"
+%}
+
+### Traditions of Men
+
+{% include verse.html
+text="Because this people draws near with their mouth and honors me with their lips, but they have removed their heart far from me, and **their fear of me is a commandment of men which has been taught** ..."
+verse="Isaiah 29:13"
+%}
+
+{% include verse.html
+text="They worship me in vain, teaching as doctrines the commandments of men. For you set aside the commandment of God, and hold tightly to the **tradition of men**—the washing of pitchers and cups, and you do many other such things."
+verse="Mark 7:7-8"
+%}
+
+### Unauthorized Sacrifice
 
 {% include verse.html
 text="As time passed, Cain brought an offering to YHWH from the fruit of the ground. Abel also brought some of the firstborn of his flock and of its fat. YHWH respected Abel and his offering, but he didn’t respect Cain and his offering."
@@ -133,7 +150,12 @@ verse="Isaiah 1:11,17"
 
 See also my [study on love](/yeshua-taught-us-how-to-love).
 
-## Humility
+{% include verse.html
+text="Guard your steps when you go to God’s house; for **to draw near to listen is better than to give the sacrifice of fools**, for they don’t know that they do evil."
+verse="Ecclesiastes 5:1"
+%}
+
+### Humility
 
 {% include verse.html
 text="YHWH, my heart isn’t arrogant, nor my eyes lofty; **nor do I concern myself with great matters, or things too wonderful for me**. Surely I have stilled and quieted my soul, **like a weaned child with his mother**, like a weaned child is my soul within me."
@@ -153,8 +175,13 @@ verse="Micah 6:8"
 ## Final Notes
 
 {% include verse.html
-text="For thus said the Lord YHWH, the Holy One of Israel, “You will be saved in returning and rest. Your strength will be in quietness and in confidence.” You refused ..."
+text="For thus said the Lord YHWH, the Holy One of Israel, “**You will be saved in returning and rest.** Your strength will be in quietness and in confidence.” You refused ..."
 verse="Isaiah 30:15"
+%}
+
+{% include verse.html
+text="**There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor.** This also I saw, that it is from the hand of God. [...] For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God."
+verse="Ecclesiastes 2:24,26"
 %}
 
 {% include verse.html
