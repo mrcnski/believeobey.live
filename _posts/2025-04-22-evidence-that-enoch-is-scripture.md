@@ -440,6 +440,11 @@ verse="Enoch 89:3,6-8"
 text="And on that day were two monsters parted, a female monster named Leviathan, to dwell in <span class='hl-3'>the abysses of the ocean</span> <span class='hl-2'>over the fountains of the waters</span>."
 verse="Enoch 60:7-8"
 %}
+
+{% include verse.html
+text="If He closes the <span class='hl-1'>windows of heaven</span> ..."
+verse="Enoch 101:2"
+%}
 </div>
 
 <div>
@@ -771,18 +776,42 @@ verse="Job 37:11-13"
 ### The Rains Withheld
 
 <div class="columns">
+<div>
 {% include verse.html
 text="And **in the days of the sinners** the years shall be shortened, And their seed shall be tardy on their lands and fields, And all things on the earth shall alter, And shall not appear in their time: And **the rain shall be kept back And the heaven shall withhold (it)**."
 verse="Enoch 80:2"
 %}
 
-{% capture withheld %}
-See also {% include inline-verse.html verse="Jeremiah 3:3" text-after="." %}
-{% endcapture %}
+{% include verse.html
+text="And He will summon to testify against you every cloud and mist and dew and rain; for **they shall all be withheld because of you from descending upon you**, and they shall be mindful of your **sins**."
+verse="Enoch 100:11"
+%}
+</div>
+
+<div>
 {% include verse.html
 text="They don’t say in their heart, ‘Let’s now fear YHWH our God, who gives **rain**, both the former and the latter, in its season, who preserves to us the appointed weeks of the harvest.’ Your iniquities have turned away these things, and **your sins have withheld good from you**."
 verse="Jeremiah 5:24-25"
-caption=withheld
+%}
+
+{% include verse.html
+text="**Therefore the showers have been withheld and there has been no latter rain**; yet you have had a prostitute’s forehead and you refused to be ashamed."
+verse="Jeremiah 3:3"
+%}
+</div>
+</div>
+
+### He Dries Up the Sea
+
+<div class="columns">
+{% include verse.html
+text="Are not the entire sea and all its waters, and all its movements, the work of the Most High, and has He not set limits to its doings, and confined it throughout by the sand? **And at His reproof it is afraid and dries up, and all its fish die and all that is in it** ..."
+verse="Enoch 101:6-7"
+%}
+
+{% include verse.html
+text="Behold, at my rebuke **I dry up the sea**. I make the rivers a wilderness. **Their fish stink because there is no water, and die of thirst.**"
+verse="Isaiah 50:2"
 %}
 </div>
 
