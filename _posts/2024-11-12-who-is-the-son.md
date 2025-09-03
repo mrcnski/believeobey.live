@@ -328,6 +328,11 @@ verse="John 1:1-2"
 %}
 
 {% include verse.html
+text="This is he of whom I said, ‘After me comes a man who is preferred before me, for **he was before me**.’"
+verse="John 1:30"
+%}
+
+{% include verse.html
 text="Jesus said to them, “Most certainly, I tell you, **before Abraham came into existence, I AM**.”"
 verse="John 8:58"
 %}
@@ -344,6 +349,11 @@ caption=bethlehem
 {% include verse.html
 text="Father, I desire that they also whom you have given me be with me where I am, that they may see my glory which you have given me, for you loved me **before the foundation of the world**."
 verse="John 17:24"
+%}
+
+{% include verse.html
+text="... who was **foreknown indeed before the foundation of the world**, but was revealed in this last age for your sake ..."
+verse="1 Peter 1:20"
 %}
 
 ## Is The Son God?
