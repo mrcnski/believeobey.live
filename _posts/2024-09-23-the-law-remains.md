@@ -310,7 +310,7 @@ verse="James 1:22,25"
 %}
 
 {% include verse.html
-text="One who says, “I know him,” and doesn’t keep his commandments, is a liar, and the truth isn’t in him."
+text="One who says, “I know him,” and doesn’t keep his commandments, is a **liar**, and the truth isn’t in him."
 verse="1 John 2:4"
 %}
 
@@ -321,14 +321,43 @@ version="NASB"
 %}
 
 {% include verse.html
-text="The heart is deceitful above all things and it is exceedingly corrupt. Who can know it?"
+text="The heart is **deceitful** above all things and it is exceedingly corrupt. Who can know it?"
 verse="Jeremiah 17:9"
 %}
 
 {% include verse.html
-text="You reject all those who stray from your statutes, for their deceit is in vain."
+text="You reject all those who stray from your statutes, for their **deceit** is in vain."
 verse="Psalm 119:118"
 %}
+
+{% include verse.html
+text="... and it happen, when he hears the words of this curse, that **he bless himself in his heart**, saying, “I shall have peace, though **I walk in the stubbornness of my heart**,” [...] YHWH will not pardon him, but then YHWH’s anger and his jealousy will smoke against that man, and all the curse that is written in this book will fall on him, and YHWH will blot out his name from under the sky."
+verse="Deuteronomy 29:19-20"
+%}
+
+## Fear and Obedience
+
+{% include verse.html
+text="But YHWH’s loving kindness is from everlasting to everlasting with those who <span class='hl-1'>fear him</span>, his righteousness to children’s children, to those who keep his covenant, to those who <span class='hl-2'>remember to obey his precepts</span>."
+verse="Psalm 103:17-18"
+%}
+
+{% include verse.html
+text="Praise Yah! Blessed is the man who <span class='hl-1'>fears YHWH</span>, who <span class='hl-2'>delights greatly in his commandments</span>."
+verse="Psalm 112:1"
+%}
+
+{% include verse.html
+text="If you will not <span class='hl-2'>observe to do all the words of this law</span> that are written in this book, that you may <span class='hl-1'>fear this glorious and fearful name</span>, YHWH your God ..."
+verse="Deuteronomy 28:58"
+%}
+
+<div class="columns">
+{% include verse.html
+text="This is the end of the matter. All has been heard. <span class='hl-1'>Fear God</span> and <span class='hl-2'>keep his commandments</span>; for this is the whole duty of man."
+verse="Ecclesiastes 12:13"
+%}
+</div>
 
 ## Where Does the Misconception Come From?
 
@@ -370,23 +399,9 @@ text="**Turn to the law and to the covenant!** If they don’t speak according t
 verse="Isaiah 8:20"
 %}
 
----
-
 {% include verse.html
-text="But YHWH’s loving kindness is from everlasting to everlasting with those who <span class='hl-1'>fear him</span>, his righteousness to children’s children, to those who keep his covenant, to those who <span class='hl-2'>remember to obey his precepts</span>."
-verse="Psalm 103:17-18"
-%}
-
-{% include verse.html
-text="Praise Yah! Blessed is the man who <span class='hl-1'>fears YHWH</span>, who <span class='hl-2'>delights greatly in his commandments</span>."
-verse="Psalm 112:1"
-%}
-
-<div class="columns">
-{% include verse.html
-text="This is the end of the matter. All has been heard. **<span class='hl-1'>Fear God</span> and <span class='hl-2'>keep his commandments</span>; for this is the whole duty of man.**"
+text="This is the end of the matter. All has been heard. **Fear God and keep his commandments; for this is the whole duty of man.**"
 verse="Ecclesiastes 12:13"
 %}
-</div>
 
 ## Footnotes
