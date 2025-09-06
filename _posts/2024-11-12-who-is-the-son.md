@@ -235,6 +235,19 @@ version="NASB1995"
 
 The word for God here is "Elohim", and the word for angel is "malak".
 
+---
+
+{% include verse.html
+text="But the angel of YHWH said to him, “Why do you ask my name, for it is wonderful?”"
+verse="Judges 13:18"
+version="NASB"
+%}
+
+{% include verse.html
+text="But YHWH’s angel didn’t appear to Manoah or to his wife any more. Then Manoah knew that he was YHWH’s angel. Manoah said to his wife, “We shall surely die, because **we have seen God**.”"
+verse="Judges 13:21-22"
+%}
+
 {% comment %}
 ---
 
