@@ -95,7 +95,7 @@ verse="Genesis 22:8"
 A few verses later, it is a ram that is sacrificed, and not a lamb. Notice the name of the mountain, indicating that the fulfillment of the providing is still future:
 
 {% include verse.html
-text="Abraham lifted up his eyes, and looked, and saw that behind him was a **ram** caught in the thicket by his horns. Abraham went and took the ram, and offered him up for a burnt offering instead of his son. Abraham called the name of that place **“Yahweh Will Provide”**. As it is said to this day, **“On Yahweh’s mountain, it will be provided.”**"
+text="Abraham lifted up his eyes, and looked, and saw that behind him was a **ram** caught in the thicket by his horns. Abraham went and took the ram, and offered him up for a burnt offering instead of his son. Abraham called the name of that place **“YHWH Will Provide”**. As it is said to this day, **“On YHWH’s mountain, it will be provided.”**"
 verse="Genesis 22:13-14"
 %}
 
