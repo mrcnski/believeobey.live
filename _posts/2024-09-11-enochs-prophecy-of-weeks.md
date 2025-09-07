@@ -14,6 +14,8 @@ more: true
     <canvas id="canvas" width="8000" height="320"></canvas>
 </div>
 
+(Scroll right to view more.)
+
 {% include weeks.html %}
 
 <script>
