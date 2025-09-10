@@ -94,11 +94,6 @@ caption=massa
 %}
 
 {% include verse.html
-text="... How is it that you don’t perceive that I didn’t speak to you concerning bread? **But beware of the yeast of the Pharisees and Sadducees.**” Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees."
-verse="Matthew 16:11-12"
-%}
-
-{% include verse.html
 text="If you **take away from among you the yoke**, finger pointing, and speaking wickedly; and if you pour out your soul to the hungry, and satisfy the afflicted soul, then your light will rise in darkness, and your obscurity will be as the noonday ..."
 verse="Isaiah 58:9-10"
 %}
@@ -113,6 +108,11 @@ verse="Isaiah 29:13"
 {% include verse.html
 text="They worship me in vain, teaching as doctrines the commandments of men. For you set aside the commandment of God, and hold tightly to the **tradition of men**—the washing of pitchers and cups, and you do many other such things."
 verse="Mark 7:7-8"
+%}
+
+{% include verse.html
+text="... How is it that you don’t perceive that I didn’t speak to you concerning bread? **But beware of the yeast of the Pharisees and Sadducees.**” Then they understood that he didn’t tell them to beware of the yeast of bread, but of the teaching of the Pharisees and Sadducees."
+verse="Matthew 16:11-12"
 %}
 
 ### Unauthorized Sacrifice
