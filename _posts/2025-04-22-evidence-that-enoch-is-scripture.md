@@ -705,7 +705,7 @@ verse="John 5:22"
 <div class="columns">
 <div>
 {% include verse.html
-text="**And he shall judge the secret things,** And none shall be able to utter a lying word before him ..."
+text="**And he shall judge the secret things,** And none shall be able to utter a lying word before him; For he is the Elect One before the Lord of Spirits according to His good pleasure."
 verse="Enoch 49:4"
 %}
 
@@ -713,9 +713,23 @@ verse="Enoch 49:4"
 text="And when he shall lift up his countenance To **judge their secret ways** according to the word of the name of the Lord of Spirits ..."
 verse="Enoch 61:9"
 %}
+
+{% include verse.html
+text="This is the son of Man who hath righteousness, With whom dwelleth righteousness, And **who revealeth all the treasures of that which is hidden** ..."
+verse="Enoch 46:3"
+%}
 </div>
 
 <div>
+{% capture god %}
+See <a href="/who-is-the-son/#is-the-son-god">Who is the Son: Is the Son God?</a>.
+{% endcapture %}
+{% include verse.html
+text="For **God will bring every work into judgment, with every hidden thing**, whether it is good, or whether it is evil."
+verse="Ecclesiastes 12:14"
+caption=god
+%}
+
 {% include verse.html
 text="For there is nothing hidden except that it should be made known, **neither was anything made secret but that it should come to light**."
 verse="Mark 4:22"
@@ -800,6 +814,13 @@ verse="Jeremiah 3:3"
 %}
 </div>
 </div>
+
+Contrast with the law:
+
+{% include verse.html
+text="**If you walk in my statutes and keep my commandments, and do them**, then **I will give you your rains in their season**, and the land shall yield its increase, and the trees of the field shall yield their fruit."
+verse="Leviticus 26:3-4"
+%}
 
 ### He Dries Up the Sea
 
