@@ -187,7 +187,7 @@ verse="Exodus 23:20-21"
 
 ## Who is the Angel of YHWH?
 
-In the previous verse we saw that the angel/messenger (Hebrew: malak) will not pardon transgressions. Scripturally, forgiving sins is associated with God (see for example {% include inline-verse.html verse="Daniel 9:9" text-after=")." %} So who is this malak?
+In the previous verse we saw that the angel/messenger (Hebrew: [*malak*](https://biblehub.com/hebrew/430.htm)) will not pardon transgressions. Scripturally, forgiving sins is associated with God (see for example {% include inline-verse.html verse="Daniel 9:9" text-after=")." %} So who is this *malak*?
 
 {% include verse.html
 text="**YHWH’s angel** appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed. Moses said, “I will go now, and see this great sight, why the bush is not burned.” **When YHWH saw that he came over to see**, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.” [...] Go and gather the elders of Israel together, and tell them, ‘**YHWH, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying**, “I have surely visited you, and seen that which is done to you in Egypt."
@@ -213,7 +213,7 @@ verse="Exodus 33:14-15"
 
 ---
 
-In the next passage it seems very clear that the angel of YHWH also bears His name:
+In the next passage it seems that the angel of YHWH also bears His name:
 
 {% include verse.html
 text="He showed me Joshua the high priest standing before **YHWH’s angel**, and Satan standing at his right hand to be his adversary. **YHWH said to Satan, “YHWH rebuke you, Satan!** Yes, YHWH who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”"
@@ -232,8 +232,6 @@ text="He blessed Joseph, and said, “The God before whom my fathers Abraham and
 verse="Genesis 48:15-16"
 version="NASB1995"
 %}
-
-The word for God here is "Elohim", and the word for angel is "malak".
 
 ---
 
@@ -376,6 +374,16 @@ text="In the beginning was the Word, and the Word was with God, and **the Word w
 verse="John 1:1-2"
 %}
 
+{% include verse.html
+text="Then he said to Thomas, “Reach here your finger, and see my hands. Reach here your hand, and put it into my side. Don’t be unbelieving, but believing.” Thomas answered him, **“My Lord and my God!”**"
+verse="John 20:27-28"
+%}
+
+{% include verse.html
+text="“Behold, the virgin shall be with child, and shall give birth to a son. They shall call his name Immanuel,” which is, being interpreted, **“God with us.”**"
+verse="Matthew 1:23"
+%}
+
 {% comment %}
 {% include verse.html
 text="In this way El will come - with [the glory of] his Father with the messengers, and then he will return to every one according to his deeds."
@@ -393,7 +401,10 @@ verse="Genesis 48:15-16"
 version="NASB1995"
 %}
 
-The word for God here is "Elohim", and the word for angel is "malak".
+The word for God here is [*elohim*](https://biblehub.com/hebrew/430.htm), and the word for angel is [*malak*](https://biblehub.com/hebrew/430.htm).
+
+It should be noted that the word "Elohim" is also applied for beings other than YHWH, as seen in <a href="https://www.biblegateway.com/passage/?search=Exodus%207:1&version=WEB">Exodus 7:1</a>, <a href="https://www.biblegateway.com/passage/?search=Psalm%2082:6-7&version=WEB">Psalm 82:6-7</a>, and <a href="https://www.biblegateway.com/passage/?search=John%2010:34-35&version=WEB">John 10:34-35</a>.
+{: .note}
 
 ---
 
