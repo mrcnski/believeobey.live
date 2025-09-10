@@ -60,7 +60,7 @@ verse="Leviticus 18:5"
 %}
 
 {% include verse.html
-text="But be doers of the word, and not only hearers, deluding your own selves."
+text="But **be doers of the word, and not only hearers**, deluding your own selves."
 verse="James 1:22"
 %}
 
@@ -82,6 +82,11 @@ verse="1 John 2:3-4"
 {% include verse.html
 text="**Blessed are those who do his commandments, that they may have the right to the tree of life**, and may enter in by the gates into the city."
 verse="Revelation 22:14"
+%}
+
+{% include verse.html
+text="Therefore **choose life, that you may live**, you and your descendants, to **love YHWH your God, to obey his voice**, and to cling to him; for he is your life, and the length of your days ..."
+verse="Deuteronomy 30:19-20"
 %}
 
 <h2 id="comments">Comments</h2>
