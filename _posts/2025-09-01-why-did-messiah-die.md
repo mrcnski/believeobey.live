@@ -99,6 +99,13 @@ text="Abraham lifted up his eyes, and looked, and saw that behind him was a **ra
 verse="Genesis 22:13-14"
 %}
 
+---
+
+{% include verse.html
+text="By this God’s love was revealed in us, that God has sent his only born Son into the world that we might live through him. In this is love, not that we loved God, but that he loved us, and **sent his Son as the atoning sacrifice for our sins**."
+verse="1 John 4:9-10"
+%}
+
 ## The Covenant
 
 {% include verse.html
