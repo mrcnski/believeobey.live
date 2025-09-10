@@ -171,13 +171,21 @@ verse="Mark 14:61-62"
 ---
 
 {% include verse.html
-text="You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don't grumble, brothers, against one another, so that you won't be judged. Behold, the judge stands at the door."
+text="Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” He said to him, **“Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”**"
+verse="John 1:50-51"
+%}
+
+---
+
+{% include verse.html
+text="You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don't grumble, brothers, against one another, so that you won't be judged. **Behold, the judge stands at the door.**"
 verse="James 5:8-9"
 %}
 
 ---
 
 {% include verse.html
-text="Jesus answered him, “Because I told you, ‘I saw you underneath the fig tree,’ do you believe? You will see greater things than these!” He said to him, **“Most certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.”**"
-verse="John 1:50-51"
+text="Children, **it is the last hour**; and just as you heard that antichrist is coming, even now many antichrists have appeared; from this we know that **it is the last hour**."
+verse="1 John 2:18"
+version="NASB"
 %}
