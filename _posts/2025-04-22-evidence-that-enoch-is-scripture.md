@@ -1056,6 +1056,46 @@ verse="Ezekiel 1:15"
 
 **Note:** "Ophannin" comes from the Hebrew word [*ophan*](https://biblehub.com/hebrew/212.htm), meaning wheel!
 
+### The Book of Life
+
+<div class="columns">
+<div>
+{% include verse.html
+text="In those days I saw the Head of Days when He seated himself upon the throne of His glory, And **the books of the living** were opened before Him ..."
+verse="Enoch 47:3"
+%}
+
+{% include verse.html
+text="And wait ye indeed till sin has passed aay, for their names shall be **blotted out of the book of life** and out of the holy books ..."
+verse="Enoch 108:3"
+%}
+
+<p>See also:</p>
+
+{% include verse.html
+text="... your names are written before the glory of the Great One."
+verse="Enoch 104:1"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="Let them be **blotted out of the book of life**, and not be written with the righteous."
+verse="Psalm 69:28"
+%}
+
+{% include verse.html
+text="Yet now, if you will, forgive their sin—and if not, please **blot me out of your book** which you have written.”"
+verse="Exodus 32:32"
+%}
+
+{% include verse.html
+text="He who overcomes will be arrayed in white garments, and I will in no way **blot his name out of the book of life** ..."
+verse="Revelation 3:5"
+%}
+</div>
+</div>
+
 ### The Tree of Life
 
 <div class="columns">
