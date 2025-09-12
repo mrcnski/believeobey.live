@@ -27,13 +27,18 @@ verse="Malachi 1:6"
 %}
 
 {% include verse.html
-text="Is this the way you repay YHWH, foolish and unwise people? Isn’t he your father who has bought you?"
+text="**Don’t we all have one father?** Hasn’t one God created us?"
+verse="Malachi 2:10"
+%}
+
+{% include verse.html
+text="Is this the way you repay YHWH, foolish and unwise people? **Isn’t he your father who has bought you?**"
 verse="Deuteronomy 32:6"
 %}
 
 {% include verse.html
-text="... for I am a father to Israel. Ephraim is my firstborn."
-verse="Jeremiah 31:9"
+text="For YHWH says, [...] **I am a father to Israel.** Ephraim is my firstborn."
+verse="Jeremiah 31:7,9"
 %}
 
 {% include verse.html
