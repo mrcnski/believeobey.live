@@ -6,11 +6,6 @@ hidden: false
 ---
 
 {% include verse.html
-text="Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. **For my yoke is easy, and my burden is light.**"
-verse="Matthew 11:28-30"
-%}
-
-{% include verse.html
 text="For this is the love of God, that we keep His commandments; and **His commandments are not burdensome.**"
 verse="1 John 5:3"
 version="NASB"
@@ -22,6 +17,23 @@ verse="Deuteronomy 30:11-14"
 %}
 
 {% include image.html name="the-burden-of-yhwh/1.jpeg" alt="The Burden of YHWH" width="741" %}
+
+## The Yoke
+
+{% include verse.html
+text="Come to me, all you who labor and are heavily burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. **For my yoke is easy, and my burden is light.**"
+verse="Matthew 11:28-30"
+%}
+
+{% include verse.html
+text="I drew them with cords of a man, with ties of love; and **I was to them like those who lift up the yoke on their necks**; and I bent down to him and I fed him."
+verse="Hosea 11:4"
+%}
+
+{% include verse.html
+text="I am YHWH your God, who brought you out of the land of Egypt, that you should not be their slaves. **I have broken the bars of your yoke**, and made you walk upright."
+verse="Leviticus 26:13"
+%}
 
 ## Do Not Add or Remove
 
