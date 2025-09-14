@@ -1193,6 +1193,20 @@ verse="James 1:13-15"
 %}
 </div>
 
+### Curses in Deuteronomy
+
+<div class="columns">
+{% include verse.html
+text="In our troubled days we have toiled laboriously and experienced every trouble, And met with much evil and been consumed, <span class='hl-1'>And have become few and our spirit small</span>. <span class='hl-2'>And we have been destroyed and have not found any to help us even with a word</span>: We have been tortured [and destroyed], and <span class='hl-3'>not hoped to see life from day to day</span>. <span class='hl-4'>We hoped to be the head and have become the tail</span>: <span class='hl-5'>We have toiled laboriously and had no satisfaction in our toil</span>; <span class='hl-6'>And we have become the food of the sinners and the unrighteous</span>, <span class='hl-7'>And they have laid their yoke heavily upon us</span>."
+verse="Enoch 103:9-11"
+%}
+
+{% include verse.html
+text="<span class='hl-4'>YHWH will make you the head, and not the tail.</span> [...] You will grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways. <span class='hl-2'>You will only be oppressed and robbed always, and there will be no one to save you.</span> [...] <span class='hl-6'>A nation which you don’t know will eat the fruit of your ground and all of your work.</span> You will only be oppressed and crushed always [...] He will lend to you, and you won’t lend to him. <span class='hl-4'>He will be the head, and you will be the tail.</span> [...] therefore <span class='hl-5'>you will serve your enemies whom YHWH sends against you, in hunger, in thirst, in nakedness, and in lack of all things</span>. <span class='hl-7'>He will put an iron yoke on your neck until he has destroyed you.</span> [...] <span class='hl-1'>You will be left few in number</span>, even though you were as the stars of the sky for multitude, because you didn’t listen to YHWH your God’s voice. [...] <span class='hl-3'>Your life will hang in doubt before you. You will be afraid night and day, and will have no assurance of your life.</span> In the morning you will say, “I wish it were evening!” and at evening you will say, “I wish it were morning!” for the fear of your heart which you will fear, and for the sights which your eyes will see."
+verse="Deuteronomy 28:13,29,33,44,48,62,66-67"
+%}
+</div>
+
 ### United with God
 
 <div class="columns">
