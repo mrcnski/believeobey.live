@@ -1,3 +1,7 @@
+.print-qr {
+    display: none;
+}
+
 @page {
   size: A4;
   margin: 2.5em;
@@ -8,9 +12,15 @@
         zoom: 0.75;
     }
 
+    .print-qr {
+        display: block !important;
+        width: 100%;
+    }
+
     .verse-wrapper,
+    .img-wrapper,
     .columns,
-    .img-wrapper
+    tr
     {
         break-inside: avoid;
     }
@@ -33,8 +43,16 @@
         break-after: avoid;
     }
 
-    p {
+    p, li {
         orphans: 2;
         widows: 2;
+
+        // Only display links for <a> elements in normal body text (no special
+        // class present).
+        &:not([class]) > a[href]:after {
+            content: " (" attr(href) ")";
+            font-size: $smaller-font-size;
+            color: $gray;
+        }
     }
 }

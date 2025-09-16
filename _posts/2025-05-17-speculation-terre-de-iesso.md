@@ -7,9 +7,9 @@ more: true
 
 **Note:** This study will be more speculative than my others so far. I want to share an interesting discovery, while reminding the reader, as always, to test everything and that our only teacher is Messiah.
 
-Background context: [Revealed: The Land of Jesus - Strait is the Gate](https://www.youtube.com/watch?v=AFu0HqJ3lts). The premise of this video is that the [camp of the saints](https://www.biblegateway.com/passage/?search=rev%2020%3A9&version=NRSVUE) is located in the "Terre de Iesso" (Land of Jesus) that is found on old maps.
+Background context: [Revealed: The Land of Jesus - Strait is the Gate](https://www.youtube.com/watch?v=AFu0HqJ3lts). The premise of this video is that the camp of the saints in {% include inline-verse.html verse="Revelation 20:9" %} is located in the "Terre de Iesso" (Land of Jesus) that is found on old maps.
 
-My finding is that this location for the camp of the saints (and Mount Zion) is consistent with the geography in The Book of Enoch. (See [my Bible study](/evidence-that-enoch-is-scripture) for evidence that Enoch is scripture!)
+My finding is that this location for the camp of the saints (and Mount Zion) is consistent with the geography in The Book of Enoch. (See {% include study-link.html url="/evidence-that-enoch-is-scripture" text="my study" %} for evidence that Enoch is scripture!)
 
 {% include image.html name="speculation-terre-de-iesso/terre-de-iesso.jpg" alt="Terre de Iesso" %}
 

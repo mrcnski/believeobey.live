@@ -160,7 +160,7 @@ text="“What are the multitude of your sacrifices to me?”, says YHWH. “I ha
 verse="Isaiah 1:11,17"
 %}
 
-See also my [study on love](/yeshua-taught-us-how-to-love).
+See also my {% include study-link.html url="/yeshua-taught-us-how-to-love" text="study on love" %}.
 
 {% include verse.html
 text="Guard your steps when you go to God’s house; for **to draw near to listen is better than to give the sacrifice of fools**, for they don’t know that they do evil."
@@ -201,4 +201,4 @@ text="This is the end of the matter. All has been heard. **Fear God and keep his
 verse="Ecclesiastes 12:13"
 %}
 
-See also my [study on God's law](/the-law-remains).
+See also my {% include study-link.html url="/the-law-remains" text="study on God's law" %}.

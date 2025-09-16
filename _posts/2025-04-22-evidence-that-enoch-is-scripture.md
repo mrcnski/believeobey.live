@@ -1307,7 +1307,7 @@ verse="Ezekiel 34:5,8"
 
 ### The Calendar
 
-The Book of Enoch is the only place in Scripture where the calendar is given. See Enoch chapters [72](https://parallel.thebookofenoch.info/#72) to [80](https://parallel.thebookofenoch.info/#80).
+The Book of Enoch is the only place in Scripture where the calendar is given. See {% include inline-verse.html verse="Enoch 72" %} to {% include inline-verse.html verse="Enoch 80" text-after="." %}
 
 When describing the feast days, the books of Torah assumed that the readers were already familiar with the calendar. This makes sense when we consider that the Book of Enoch had already been written a long time before Moses received the Torah.
 
@@ -1360,7 +1360,7 @@ It is really incredible that Scripture is so consistent with itself!
 
 ### The Law
 
-Consistent with other Scripture (and the words of Messiah), in Enoch the law is eternal. See [my study on the law](/the-law-remains/#was-the-law-temporary).
+Consistent with other Scripture (and the words of Messiah), in Enoch the law is eternal. See {% include study-link.html url="/the-law-remains/#was-the-law-temporary" text="my study on the law" %}.
 
 ### Dan
 
@@ -1380,6 +1380,6 @@ verse="Enoch 13:7"
 
 ### Scriptural Geography
 
-There are other geographical descriptions in Enoch that are very consistent with Scripture. I've explored this aspect as part of my study on [Terre de Iesso](/speculation-terre-de-iesso).
+There are other geographical descriptions in Enoch that are very consistent with Scripture. I've explored this aspect as part of my study on {% include study-link.html url="/speculation-terre-de-iesso" text="Terre de Iesso" %}.
 
 ## Footnotes

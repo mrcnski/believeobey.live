@@ -11,7 +11,7 @@ text="“Teacher, which is the greatest commandment in the law?” Jesus said to
 verse="Matthew 22:36-40"
 %}
 
-Consider Yeshua's commandments to forgive and not to hate others. Are these really new commandments, or are they teaching us how to keep the above commandments from Torah? (See [The Law Remains](/the-law-remains).)
+Consider Yeshua's commandments to forgive and not to hate others. Are these really new commandments, or are they teaching us how to keep the above commandments from Torah? (See {% include study-link.html url="/the-law-remains" text="The Law Remains" %}.)
 
 {% include image.html name="yeshua-taught-us-how-to-love/1.jpeg" alt="Yeshua Taught Us How to Love" %}
 
@@ -165,7 +165,7 @@ text="You have made the commandment of God void because of your tradition. You h
 verse="Matthew 15:6-9"
 %}
 
-We must obey God not on human terms, but on His terms, which He clearly laid out for us. (See [The Law Remains](/the-law-remains).)
+We must obey God not on human terms, but on His terms, which He clearly laid out for us. (See {% include study-link.html url="/the-law-remains" text="The Law Remains" %}.)
 
 {% include verse.html
 text="Don’t think that I came to destroy the law or the prophets. I didn’t come to destroy, but to fulfill. For most certainly, I tell you, until heaven and earth pass away, not even one smallest letter or one tiny pen stroke shall in any way pass away from the law, until all things are accomplished. Therefore, whoever shall break one of these least commandments and teach others to do so, shall be called least in the Kingdom of Heaven; but whoever shall do and teach them shall be called great in the Kingdom of Heaven. For I tell you that unless your righteousness exceeds that of the scribes and Pharisees, there is no way you will enter into the Kingdom of Heaven."

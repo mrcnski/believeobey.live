@@ -125,4 +125,4 @@ verse="Mark 14:24"
 %}
 </div>
 
-What is the new covenant? See my [study on the law](/the-law-remains), and {% include inline-verse.html verse="Jeremiah 31:33" %} in particular.
+What is the new covenant? See my {% include study-link.html url="/the-law-remains" text="study on the law" %}, and {% include inline-verse.html verse="Jeremiah 31:33" %} in particular.

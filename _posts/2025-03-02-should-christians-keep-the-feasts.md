@@ -6,7 +6,7 @@ hidden: false
 more: true
 ---
 
-Based purely on Scripture (not man's private interpretations), we can be confident that [the Law remains](/the-law-remains) for Christians to keep. However, there is a conundrum around the feasts.
+Based purely on Scripture (not man's private interpretations), we can be confident that {% include study-link.html url="/the-law-remains" text="the Law remains" %} for Christians to keep. However, there is a conundrum around the feasts.
 
 On the one hand, there are verses that clearly indicate that feasts like Passover are not optional (see below). On the other hand, other verses suggest that the feasts must be kept in a specific fashion, which involves a pilgrimage to Jerusalem.
 

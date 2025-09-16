@@ -6,7 +6,7 @@ more: true
 
 - 1 pixel = 1 year.
 - Viewing this on mobile is probably not a good idea.
-- See also [this page](/pow) for a comparison of the PoW with the Septuagint timeline.
+- See also {% include study-link.html url="/pow" text="this page" %} for a comparison of the PoW with the Septuagint timeline.
 
 ## Timelines
 

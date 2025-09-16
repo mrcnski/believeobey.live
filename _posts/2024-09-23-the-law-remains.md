@@ -261,14 +261,14 @@ text="Another book which Enoch wrote for his son Methuselah and for those who wi
 verse="Enoch 108:1-2"
 %}
 
-Check out [my Bible study](/evidence-that-enoch-is-scripture) with evidence that Enoch is scripture!
+Check out {% include study-link.html url="/evidence-that-enoch-is-scripture" text="my Bible study" %} with evidence that Enoch is scripture!
 
 {% include verse.html
 text="And after that in the fourth week, at its close, Visions of the holy and righteous shall be seen, And **a law for all generations** and an enclosure shall be made for them."
 verse="Enoch 93:6"
 %}
 
-This is referring to the Law of Moses; see my study on the [Prophecy of Weeks](/enochs-prophecy-of-weeks/). In week four of this prophecy we clearly see that the Mosaic Law applies to all generations! It's not a temporary thing (an idea completely absent from the prophets).
+This is referring to the Law of Moses; see my study on the {% include study-link.html url="/enochs-prophecy-of-weeks/" text="Prophecy of Weeks" %}. In week four of this prophecy we clearly see that the Mosaic Law applies to all generations! It's not a temporary thing (an idea completely absent from the prophets).
 
 ---
 
@@ -300,7 +300,7 @@ text="It shall be righteousness to us, if we observe to do all these commandment
 verse="Deuteronomy 6:25"
 %}
 
-See my [study on the Burden of YHWH](/the-burden-of-yhwh-vs-false-religion).
+See my {% include study-link.html url="/the-burden-of-yhwh-vs-false-religion" text="study on the Burden of YHWH" %}.
 
 ## The Delusion of Lawlessness
 
@@ -367,7 +367,7 @@ verse="Mark 7:18-19"
 version="NRSVUE"
 %}
 
-The bolded part is found in Greek manuscripts (though not all of them), but is absent in the Aramaic and Hebrew. See my study on [whether the NT was written in Greek](/was-the-new-testament-really-written-in-greek/).
+The bolded part is found in Greek manuscripts (though not all of them), but is absent in the Aramaic and Hebrew. See my study on {% include study-link.html url="/was-the-new-testament-really-written-in-greek/" text="whether the NT was written in Greek" %}.
 
 ---
 
