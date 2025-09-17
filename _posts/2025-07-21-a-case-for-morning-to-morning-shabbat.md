@@ -12,7 +12,12 @@ What is a day according to Scripture? This topic is important to me for two reas
 
 The traditional view is that a day starts in the evening. This does not match the intuitive experience that humans have of starting a day upon waking with the sun. I'll try to make a fair case for my belief.
 
-{% include image.html name="a-case-for-morning-to-morning-shabbat/1.jpeg" alt="A Case for Morning to Morning Shabbat" width="741" %}
+{% include image.html
+name="a-case-for-morning-to-morning-shabbat/1.jpeg"
+class="print-nodisplay"
+alt="A Case for Morning to Morning Shabbat"
+width="741"
+%}
 
 ## Genesis 1
 
@@ -38,7 +43,7 @@ This verse shows that evening and morning do not make up a full day.
 
 Some translations, like the KJV, do make it seem like a day is evening and morning. It may be helpful to look at the Hebrew of {% include inline-verse.html verse="Genesis 1:8" text-after=":" %}
 
-<table style="width: 400px;">
+<table style="width: 400px;" class="print-nobreak">
 <thead>
 <tr>
 <th colspan="3" style="text-align: center; position: unset;">
@@ -155,7 +160,7 @@ verse="Mark 15:42-43"
 
 Notice that the Preparation Day did not end, and the High Shabbat did not start, at evening.[^mark] Joseph probably asked for the body because of this law:
 
-[^mark]: The [Hebrew Mark](https://www.hebrewgospels.com/_files/ugd/c68db9_85502652ef8549fa93d00717e7c29a8f.pdf?index=true) reads a bit differently. The [Aramaic](https://dukhrana.com/peshitta/index.php) supports the Greek as quoted.
+[^mark]: The [Hebrew Mark](https://www.hebrewgospels.com/_files/ugd/c68db9_85502652ef8549fa93d00717e7c29a8f.pdf) reads a bit differently. The [Aramaic](https://dukhrana.com/peshitta/index.php) supports the Greek as quoted.
 
 {% include verse.html
 text="If a man has committed a sin worthy of death, and he is put to death, and you hang him on a tree, **his body shall not remain all night on the tree**, but you shall surely bury him **the same day** ...."
