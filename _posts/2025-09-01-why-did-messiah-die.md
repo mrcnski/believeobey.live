@@ -15,6 +15,13 @@ caption=belief
 %}
 
 {% include verse.html
+text="Most certainly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. **But if it dies, it bears much fruit.**"
+verse="John 12:24"
+%}
+
+## Mercy
+
+{% include verse.html
 text="**He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds.**"
 verse="1 Peter 2:24"
 %}
@@ -30,8 +37,8 @@ verse="Isaiah 53:4-6,8,10-12"
 %}
 
 {% include verse.html
-text="Most certainly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. **But if it dies, it bears much fruit.**"
-verse="John 12:24"
+text="I will pour on David’s house and on the inhabitants of Jerusalem the **spirit of grace** and of supplication. They will look to me whom they have pierced; and they shall mourn for him as one mourns for his only son, and will grieve bitterly for him as one grieves for his firstborn."
+verse="Zechariah 12:10"
 %}
 
 ## The Ransom
