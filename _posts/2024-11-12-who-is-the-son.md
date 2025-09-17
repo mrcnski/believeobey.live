@@ -305,7 +305,7 @@ verse="Joshua 5:13-14"
 
 We know this isn't an angel because it is forbidden to worship angels ({% include inline-verse.html verse="Revelation 22:8-9" text-after="," %} {% include inline-verse.html verse="Matthew 4:9-10" text-after=")." %}
 
-On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word "shâchâh" used in {% include inline-verse.html verse="Genesis 19:1" text-after="," %} where Lot "bows" to two angels. I have kept this section for the sake of completeness.
+On further investigation, "worship" is probably the wrong translation in this passage from Joshua. We see the same word [*shâchâh*](https://www.blueletterbible.org/lexicon/h7812/nasb20/wlc/0-1/) used in {% include inline-verse.html verse="Genesis 19:1" text-after="," %} where Lot "bows" to two angels. I have kept this section for the sake of completeness.
 {: .update}
 
 ---
@@ -408,7 +408,7 @@ version="NASB1995"
 
 The word for God here is [*elohim*](https://biblehub.com/hebrew/430.htm), and the word for angel is [*malak*](https://biblehub.com/hebrew/430.htm).
 
-It should be noted that the word "Elohim" is also applied for beings other than YHWH, as seen in <a href="https://www.biblegateway.com/passage/?search=Exodus%207:1&version=WEB">Exodus 7:1</a>, <a href="https://www.biblegateway.com/passage/?search=Psalm%2082:6-7&version=WEB">Psalm 82:6-7</a>, and <a href="https://www.biblegateway.com/passage/?search=John%2010:34-35&version=WEB">John 10:34-35</a>.
+It should be noted that the word "Elohim" is also applied for beings other than YHWH, as seen in {% include inline-verse.html verse="Exodus 7:1" %}, {% include inline-verse.html verse="Psalm 82:6-7" %}, and {% include inline-verse.html verse="John 10:34-35" %}.
 {: .note}
 
 ---
