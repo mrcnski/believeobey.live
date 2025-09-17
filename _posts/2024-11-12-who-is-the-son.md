@@ -456,6 +456,11 @@ Did you know that "Elohim" and "Adonai" are both plural words?
 ## Other Interesting Verses
 
 {% include verse.html
+text="I will pour on David’s house and on the inhabitants of Jerusalem the spirit of grace and of supplication. They will look to me whom they have pierced; and they shall mourn for him as one mourns for **his only son**, and will grieve bitterly for him as one grieves for **his firstborn**."
+verse="Zechariah 12:10"
+%}
+
+{% include verse.html
 text="Jesus said to him, “Have I been with you such a long time, and do you not know me, Philip? He who has seen me has seen the Father. How do you say, ‘Show us the Father’? Don’t you believe that I am in the Father, and the Father in me? The words that I tell you, I speak not from myself; but the Father who lives in me does his works. Believe me that I am in the Father, and the Father in me; or else believe me for the very works’ sake."
 verse="John 14:9-11"
 %}
