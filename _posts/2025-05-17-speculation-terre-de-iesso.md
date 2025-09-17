@@ -135,6 +135,11 @@ verse="Numbers 34:6"
 %}
 
 {% include verse.html
+text="From the wilderness and this Lebanon even to the great river, the river Euphrates, all the land of the Hittites, and to **the great sea toward the going down of the sun**, shall be your border."
+verse="Joshua 1:4"
+%}
+
+{% include verse.html
 text="The **west border was to the shore of the great sea**. This is the border of the children of Judah according to their families."
 verse="Joshua 15:12"
 %}
