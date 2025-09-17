@@ -6,7 +6,7 @@ hidden: false
 ---
 
 {% capture belief %}
-Belief goes hand-in-hand with obedience – see the <a href="/about">about page</a> of this site.
+Belief goes hand-in-hand with obedience – see the {% include study-link.html url="/about" text="about page" %} of this site.
 {% endcapture %}
 {% include verse.html
 text="As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, that whoever believes in him should not perish, but have eternal life. **For God so loved the world, that he gave his only born Son, that whoever believes in him should not perish, but have eternal life.**"

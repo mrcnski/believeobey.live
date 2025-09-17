@@ -1281,7 +1281,7 @@ Here I present some other aspects of Enoch that agree with Scripture.
 
 ### The Animal Prophecy
 
-Enoch chapters [85](https://parallel.thebookofenoch.info/#85) to [90](https://parallel.thebookofenoch.info/#90) contain an epic prophecy about the history of the chosen people. As it's a long prophecy, I will not reproduce it here. But the interesting thing is that there are at least a few sections in the canon that are remarkably similar to Enoch's animal prophecy: {% include inline-verse.html verse="Isaiah 56:9-12" text-after="," %} {% include inline-verse.html verse="Ezekiel 34" text-after="," %} and {% include inline-verse.html verse="Ezekiel 39:17-18" text-after="." %} I also won't reproduce these here in full, but I recommend studying them and comparing them to Enoch.
+{% include inline-verse.html verse="Enoch 85" %} to {% include inline-verse.html verse="Enoch 90" %} contain an epic prophecy about the history of the chosen people. As it's a long prophecy, I will not reproduce it here. But the interesting thing is that there are at least a few sections in the canon that are remarkably similar to Enoch's animal prophecy: {% include inline-verse.html verse="Isaiah 56:9-12" text-after="," %} {% include inline-verse.html verse="Ezekiel 34" text-after="," %} and {% include inline-verse.html verse="Ezekiel 39:17-18" text-after="." %} I also won't reproduce these here in full, but I recommend studying them and comparing them to Enoch.
 
 <div class="columns">
 {% include verse.html

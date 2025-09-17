@@ -49,7 +49,9 @@
 
         // Only display links for <a> elements in normal body text (no special
         // class present).
-        &:not([class]) > a[href]:after {
+        &:not([class]) > a[href]:not(.reversefootnote):after,
+        &.caption > a[href]:not(.reversefootnote):after
+        {
             content: " (" attr(href) ")";
             font-size: $smaller-font-size;
             color: $gray;
