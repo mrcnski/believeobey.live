@@ -148,7 +148,7 @@ verse="Enoch 10:12-13"
 Note: many translations, instead of keeping the name "Azazel", mistakenly translate it as "scapegoat".
 {% endcapture %}
 {% include verse.html
-text="but the goat on which the lot fell for Azazel shall be presented alive before YHWH to make atonement over it, that it may be sent away into the wilderness to Azazel."
+text="... but the goat on which the lot fell for Azazel shall be presented alive before YHWH to make atonement over it, that it may be sent away into the wilderness to Azazel."
 verse="Leviticus 16:10"
 version="NRSV"
 caption=scapegoat
@@ -1195,6 +1195,20 @@ verse="Enoch 98:4"
 {% include verse.html
 text="Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
 verse="James 1:13-15"
+%}
+</div>
+
+### Limits to the Sea
+
+<div class="columns">
+{% include verse.html
+text="Are not the entire sea and all its waters, and all its movements, the work of the Most High, and has He not set **limits to its doings**, and **confined it throughout by the sand?**"
+verse="Enoch 101:6"
+%}
+
+{% include verse.html
+text="Won’t you tremble at my presence, who have placed the **sand for the bound of the sea** by a perpetual decree, that it can’t pass it?"
+verse="Jeremiah 5:22"
 %}
 </div>
 
