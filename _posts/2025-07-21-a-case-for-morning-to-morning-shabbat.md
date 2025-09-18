@@ -213,6 +213,39 @@ The [original Greek of Matthew 28:1](https://www.blueletterbible.org/kjv/mat/28/
 
 [^hebrew]: These verses read differently in the [Hebrew](https://www.hebrewgospels.com/_files/ugd/c68db9_71c9a9c22a2646ec93694a17128ef55f.pdf) and don't provide such clear evidence. However, the [Aramaic Matthew](https://dukhrana.com/peshitta/index.php) again supports the Greek: *"And in the close of the sabbath, as the first of the week began to dawn ..."*
 
+## Days and Nights
+
+As we saw in the Hebrew of Genesis 1:8, the day seems to come before the night. This pattern seems to be reflected in the expression "days and nights":
+
+{% include verse.html
+text="In seven days, I will cause it to rain on the earth for **forty days and forty nights**."
+verse="Genesis 7:4"
+%}
+
+{% include verse.html
+text="... and Moses was on the mountain **forty days and forty nights**."
+verse="Exodus 24:18"
+%}
+
+{% include verse.html
+text="When he had fasted **forty days and forty nights**, he was hungry afterward."
+verse="Matthew 4:2"
+%}
+
+(See also {% include inline-verse.html verse="Exodus 34:28" %} and {% include inline-verse.html verse="Deuteronomy 9:9" %}.)
+
+We also see the expression "evenings and mornings", again reflecting the pattern in Genesis 1:
+
+{% include verse.html
+text="To two thousand and three hundred **evenings and mornings**. Then the sanctuary will be cleansed."
+verse="Daniel 8:14"
+%}
+
+{% include verse.html
+text="The vision of the **evenings and mornings** which has been told is true; but seal up the vision, for it belongs to many days to come."
+verse="Daniel 8:26"
+%}
+
 ## Evidence in Enoch
 
 {% include verse.html
