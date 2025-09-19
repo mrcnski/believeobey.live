@@ -147,7 +147,7 @@ verse="Daniel 12:4"
 ---
 
 {% include verse.html
-text="“You see all of these things, don't you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down. As he sat on the Mount of Olives, the disciples came to him privately, saying, 'Tell us, **when will these things be? What is the sign of your coming, and of the end of the age?**”"
+text="“You see all of these things, don’t you? Most certainly I tell you, there will not be left here one stone on another, that will not be thrown down.” As he sat on the Mount of Olives, the disciples came to him privately, saying, “Tell us, **when will these things be? What is the sign of your coming, and of the end of the age?**”"
 verse="Matthew 24:2-3"
 %}
 
@@ -178,7 +178,7 @@ verse="John 1:50-51"
 ---
 
 {% include verse.html
-text="You also be patient. Establish your hearts, for the coming of the Lord is at hand. Don't grumble, brothers, against one another, so that you won't be judged. **Behold, the judge stands at the door.**"
+text="You also be patient. Establish your hearts, for **the coming of the Lord is at hand**. Don't grumble, brothers, against one another, so that you won't be judged. **Behold, the judge stands at the door.**"
 verse="James 5:8-9"
 %}
 
