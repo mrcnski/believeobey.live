@@ -192,7 +192,7 @@ verse="Exodus 23:20-21"
 
 ## Who is the Angel of YHWH?
 
-In the previous verse we saw that the angel/messenger (Hebrew: [*malak*](https://biblehub.com/hebrew/430.htm)) will not pardon transgressions. Scripturally, forgiving sins is associated with God (see for example {% include inline-verse.html verse="Daniel 9:9" text-after=")." %} So who is this *malak*?
+In the previous verse we saw that the angel/messenger (Hebrew: [*malak*](https://biblehub.com/hebrew/4398.htm)) will not pardon transgressions. Scripturally, forgiving sins is associated with God (see for example {% include inline-verse.html verse="Daniel 9:9" text-after=")." %} So who is this *malak*?
 
 {% include verse.html
 text="**YHWH’s angel** appeared to him in a flame of fire out of the middle of a bush. He looked, and behold, the bush burned with fire, and the bush was not consumed. Moses said, “I will go now, and see this great sight, why the bush is not burned.” **When YHWH saw that he came over to see**, God called to him out of the middle of the bush, and said, “Moses! Moses!” He said, “Here I am.” [...] Go and gather the elders of Israel together, and tell them, ‘**YHWH, the God of your fathers, the God of Abraham, of Isaac, and of Jacob, has appeared to me, saying**, “I have surely visited you, and seen that which is done to you in Egypt."
@@ -406,7 +406,7 @@ verse="Genesis 48:15-16"
 version="NASB1995"
 %}
 
-The word for God here is [*elohim*](https://biblehub.com/hebrew/430.htm), and the word for angel is [*malak*](https://biblehub.com/hebrew/430.htm).
+The word for God here is [*elohim*](https://biblehub.com/hebrew/430.htm), and the word for angel is [*malak*](https://biblehub.com/hebrew/4398.htm).
 
 It should be noted that the word "Elohim" is also applied for beings other than YHWH, as seen in {% include inline-verse.html verse="Exodus 7:1" %}, {% include inline-verse.html verse="Psalm 82:6-7" %}, and {% include inline-verse.html verse="John 10:34-35" %}.
 {: .note}
@@ -426,7 +426,7 @@ verse="Deuteronomy 6:4"
 version="NASB1995"
 %}
 
-It is interesting to look at [the Strong's for "echad"](https://biblehub.com/hebrew/259.htm). Indeed, it can refer to a unity. We see examples of this in Scripture:
+It is interesting to look at [the Strong's for *echad*](https://biblehub.com/hebrew/259.htm). Indeed, it can refer to a unity. We see examples of this in Scripture:
 
 {% include verse.html
 text="Therefore a man will leave his father and his mother, and will join with his wife, and they will be **one [echad]** flesh."
