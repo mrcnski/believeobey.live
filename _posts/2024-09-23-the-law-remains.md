@@ -302,7 +302,7 @@ verse="Deuteronomy 6:25"
 
 See my {% include study-link.html url="/the-burden-of-yhwh-vs-false-religion" text="study on the Burden of YHWH" %}.
 
-## The Delusion of Lawlessness
+## The Deceit of Lawlessness
 
 {% include verse.html
 text="**But be doers of the word, and not only hearers, deluding your own selves.** [...] But he who looks into the **perfect law of freedom** and continues, not being a hearer who forgets but a doer of the work, this man will be blessed in what he does."
