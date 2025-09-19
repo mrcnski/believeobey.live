@@ -1,11 +1,14 @@
 ---
-layout: page
+layout: post
 title: About
+date: 11-09-2024
 ---
 
 Welcome to *Believe, Obey, Live*. This is a site where I gather and share my
 personal Bible studies. My goal is to present Scripture with a minimum of
 "private interpretation", letting God's word speak for itself.
+
+## About the Name
 
 The name of the site is based on my understanding that if you believe and obey,
 and endure to the end, you will live:
@@ -89,10 +92,6 @@ text="Therefore **choose life, that you may live**, you and your descendants, to
 verse="Deuteronomy 30:19-20"
 %}
 
-<h2 id="comments">Comments</h2>
+## Printing
 
-<div class="comments">
-{% include comments.html %}
-</div>
-
-{% include post-scripts.html %}
+These studies can be color-printed and/or saved to PDF. For best results, it is recommended to do this in a Chromium-based browser, such as Brave or Chrome.
