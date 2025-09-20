@@ -52,7 +52,7 @@ verse="Job 33:23-28"
 caption=grace
 %}
 
-The word "ransom" in Hebrew is [*kōp̄er*](https://www.blueletterbible.org/lexicon/h3724/kjv/wlc/0-1/), which can mean a covering. It's closely related to the Hebrew word [*kāp̄ar*](https://www.blueletterbible.org/lexicon/h3722/kjv/wlc/0-1/) which means "to cover".
+The word "ransom" in Hebrew is {% include concordance-hebrew.html number="3724" text="*kopher*" %}, which can mean a covering. It's closely related to the Hebrew word {% include concordance-hebrew.html number="3722" text="*kaphar*" %} which means "to cover".
 
 {% include verse.html
 text="... none of them can by any means redeem his brother, nor give God a ransom for him. **For the redemption of their life is costly**, no payment is ever enough, that he should live on forever, that he should not see corruption."

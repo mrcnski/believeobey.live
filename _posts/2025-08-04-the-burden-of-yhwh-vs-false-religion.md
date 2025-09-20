@@ -96,7 +96,7 @@ verse="Matthew 23:4"
 %}
 
 {% capture massa %}
-Some other translations do not translate <i>maśśā'</i> as "burden". It may be interesting to compare translations and check a <a href="https://www.blueletterbible.org/lexicon/h4853/kjv/wlc/0-1/">concordance</a>.
+Some other translations do not translate <i>massa'</i> as "burden". It may be interesting to compare translations and check a {% include concordance-hebrew.html number="4853" text="concordance" %}.
 {% endcapture %}
 {% include verse.html
 text="**When this people or a prophet or a priest asks you, “What is the burden of YHWH?” you shall say to them, “You are the burden.** I will cast you off, says YHWH.” And as for the prophet, priest, or the people who say, “The burden of YHWH,” I will punish them and their households. Thus shall you say to one another, among yourselves, “What has YHWH answered?” or “What has YHWH spoken?” But “the burden of YHWH” you shall mention no more, for the burden is everyone’s own word, and so you pervert the words of the living God, YHWH of hosts, our God."

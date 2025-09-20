@@ -128,7 +128,7 @@ takh-oo'
 
 > Neuter singular of G5036 (as adverb); shortly, that is, **without delay**, soon, or (by surprise) suddenly, or (by implication of ease) readily: - lightly, quickly.
 
-Note that there is no Scriptural basis for the "suddenly" definition. Confirm it for yourself with a [concordance](https://www.blueletterbible.org/lexicon/g5035/kjv/tr/0-1/)!
+Note that there is no Scriptural basis for the "suddenly" definition. Confirm it for yourself with a {% include concordance-greek.html number="5035" text="concordance" %}!
 
 ---
 

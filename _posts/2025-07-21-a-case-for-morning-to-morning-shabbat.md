@@ -149,7 +149,7 @@ day.
 </tbody>
 </table>
 
-It seems to me that the same word [*hāyâ*](https://www.blueletterbible.org/lexicon/h1961/kjv/wlc/0-1/) was selectively translated two different ways in the KJV.
+It seems to me that the same word {% include concordance-hebrew.html number="1961" text="*hayah*" %} was selectively translated two different ways in the KJV.
 
 ## Evidence in the Gospels
 

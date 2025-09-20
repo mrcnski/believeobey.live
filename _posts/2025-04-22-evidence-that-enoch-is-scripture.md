@@ -1059,7 +1059,7 @@ verse="Ezekiel 1:15"
 </div>
 </div>
 
-**Note:** "Ophannin" comes from the Hebrew word [*ophan*](https://biblehub.com/hebrew/212.htm), meaning wheel!
+**Note:** "Ophannin" comes from the Hebrew word {% include concordance-hebrew.html number="212" text="*ophan*" %}, meaning wheel!
 
 ### The Book of Life
 

@@ -241,7 +241,7 @@ verse="Exodus 31:12-17"
 
 The Sabbath is to be observed "forever". This shouldn't surprise us -- it goes all the way back to the creation week![^eternal]
 
-[^eternal]: Some might say that the Hebrew word [ʿôlām](https://www.blueletterbible.org/lexicon/h5769/kjv/wlc/0-1/) does not necessarily mean "perpetual" or "forever", and could just mean "a very long time" or "until the end of the age". This may be true in some cases, but as Yeshua told us in Matthew 5:18, the law is "until heaven and earth pass away". We see in Enoch below that the law is "for all generations"!
+[^eternal]: Some might say that the Hebrew word {% include concordance-hebrew.html number="5769" text="*olam*" %} does not necessarily mean "perpetual" or "forever", and could just mean "a very long time" or "until the end of the age". This may be true in some cases, but as Yeshua told us in Matthew 5:18, the law is "until heaven and earth pass away". We see in Enoch below that the law is "for all generations"!
 
 ---
 
