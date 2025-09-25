@@ -105,8 +105,8 @@ verse="Leviticus 23:21"
 %}
 
 {% include verse.html
-text="Whoever does any kind of work in that same day, I will destroy that person from among his people. You shall do no kind of work: **it is a statute forever throughout your generations in all your dwellings.**"
-verse="Leviticus 23:30-31"
+text="You shall do no kind of work in that same day, for it is a day of atonement, to make atonement for you before YHWH your God. For whoever it is who shall not deny himself in that same day **shall be cut off from his people**. Whoever does any kind of work in that same day, I will destroy that person from among his people. You shall do no kind of work: **it is a statute forever throughout your generations in all your dwellings.**"
+verse="Leviticus 23:28-31"
 %}
 
 ## But When are the Feasts?
