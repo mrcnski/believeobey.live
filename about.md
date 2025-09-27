@@ -92,6 +92,11 @@ text="Therefore **choose life, that you may live**, you and your descendants, to
 verse="Deuteronomy 30:19-20"
 %}
 
+{% include verse.html
+text="... the righteous will **live by his faith**."
+verse="Habakkuk 2:4"
+%}
+
 ## Printing
 
 These studies can be color-printed and/or saved to PDF. For best results, it is recommended to do this in a Chromium-based browser, such as Brave or Chrome.
