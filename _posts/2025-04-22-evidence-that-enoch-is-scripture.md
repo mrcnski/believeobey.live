@@ -1104,14 +1104,10 @@ verse="Revelation 3:5"
 ### The Tree of Life
 
 <div class="columns">
-{% capture temple %}
-The Charles version states that the tree is planted in the temple, but this does not match {% include inline-verse.html verse="Revelation 22:2" text-after="." %} It also contradicts {% include inline-verse.html verse="Revelation 21:22" %} which states that New Jerusalem does not have a temple. It is probably a mistranslation.
-{% endcapture %}
 {% include verse.html
 text="**From its fruits life will be given to the chosen**; it will be planted towards the north, in a holy place, towards the house of the Lord, the Eternal King."
 verse="Enoch 25:5"
 version="Schodde"
-caption=temple
 %}
 
 {% include verse.html
@@ -1119,6 +1115,9 @@ text="**To him who overcomes I will give to eat from the tree of life**, which i
 verse="Revelation 2:7"
 %}
 </div>
+
+The Charles version of Enoch 25:5 states that the tree is planted in the temple, but this does not match {% include inline-verse.html verse="Revelation 22:2" text-after="." %} It also contradicts {% include inline-verse.html verse="Revelation 21:22" %}, which states that New Jerusalem does not have a temple. It is probably a mistranslation.
+{: .note}
 
 ### Weighed in a Balance
 
