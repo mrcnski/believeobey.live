@@ -295,9 +295,13 @@ text="... if you will obey YHWH your God’s voice, to keep his commandments and
 verse="Deuteronomy 30:10-14"
 %}
 
+{% capture righteousness %}
+See also {% include inline-verse.html verse="2 Samuel 22:25" %}.
+{% endcapture %}
 {% include verse.html
 text="It shall be righteousness to us, if we observe to do all these commandments before YHWH our God, as he has commanded us."
 verse="Deuteronomy 6:25"
+caption=righteousness
 %}
 
 See my {% include study-link.html url="/the-burden-of-yhwh-vs-false-religion" text="study on the Burden of YHWH" %}.
