@@ -218,7 +218,12 @@ verse="Exodus 33:14-15"
 
 ---
 
-In the next passage it seems that the angel of YHWH also bears His name:
+I was thinking that the angel of YHWH was Yeshua, who, as we shall see later, already existed in "Old Testament" times, before His birth. However, it occurred to me that the angel of YHWH could be the Holy Spirit, who also bears the name of YHWH ({% include inline-verse.html verse="Matthew 28:19" %}). In {% include inline-verse.html verse="Exodus 23:20-21" %} the angel of YHWH is associated with forgiveness, while in {% include inline-verse.html verse="Mark 3:29" %} and {% include inline-verse.html verse="John 20:22-23" %} the *Holy Spirit* is associated with forgiveness. See [this study I found](https://www.topicsinbiblicalstudies.com/is-the-holy-spirit-an-angel/) which explores this interesting possibility in more depth.
+{: .update}
+
+---
+
+In the next passages it seems that the angel of YHWH also bears His name:
 
 {% include verse.html
 text="He showed me Joshua the high priest standing before **YHWH’s angel**, and Satan standing at his right hand to be his adversary. **YHWH said to Satan, “YHWH rebuke you, Satan!** Yes, YHWH who has chosen Jerusalem rebuke you! Isn’t this a burning stick plucked out of the fire?”"
@@ -226,8 +231,8 @@ verse="Zechariah 3:1-2"
 %}
 
 {% include verse.html
-text="In that day YHWH will defend the inhabitants of Jerusalem. He who is feeble among them at that day will be like David, and David’s house will be **like God, like YHWH’s angel** before them."
-verse="Zechariah 12:8"
+text="In the womb he took his brother by the heel, and in his manhood he contended with **God**. Indeed, he struggled with the **angel**, and prevailed; he wept, and made supplication to him. He found him at Bethel, and there he spoke with us— even **YHWH, the God of Armies. YHWH is his name of renown!**"
+verse="Hosea 12:3-5"
 %}
 
 ---
@@ -249,6 +254,11 @@ version="NASB"
 {% include verse.html
 text="But YHWH’s angel didn’t appear to Manoah or to his wife any more. Then Manoah knew that he was YHWH’s angel. Manoah said to his wife, “We shall surely die, because **we have seen God**.”"
 verse="Judges 13:21-22"
+%}
+
+{% include verse.html
+text="In that day YHWH will defend the inhabitants of Jerusalem. He who is feeble among them at that day will be like David, and David’s house will be **like God, like YHWH’s angel** before them."
+verse="Zechariah 12:8"
 %}
 
 {% comment %}
@@ -360,6 +370,11 @@ This verse applies to Yeshua, as seen in {% include inline-verse.html verse="Mat
 text="But you, Bethlehem Ephrathah, being small among the clans of Judah, out of you one will come out to me who is to be ruler in Israel; **whose goings out are from of old, from ancient times**."
 verse="Micah 5:2"
 caption=bethlehem
+%}
+
+{% include verse.html
+text="Now, Father, glorify me with your own self with the glory which I had with you **before the world existed**."
+verse="John 17:5"
 %}
 
 {% include verse.html
