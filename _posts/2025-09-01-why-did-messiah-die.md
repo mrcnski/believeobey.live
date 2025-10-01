@@ -83,7 +83,7 @@ caption=lamb
 %}
 
 {% include verse.html
-text="knowing that **you were redeemed**, not with corruptible things like silver or gold, from the useless way of life handed down from your fathers, but **with precious blood, as of a lamb without blemish or spot, the blood of Christ** ..."
+text="... knowing that **you were redeemed**, not with corruptible things like silver or gold, from the useless way of life handed down from your fathers, but **with precious blood, as of a lamb without blemish or spot, the blood of Christ** ..."
 verse="1 Peter 1:18-19"
 %}
 
@@ -118,6 +118,11 @@ verse="1 John 4:9-10"
 {% include verse.html
 text="As for you also, **because of the blood of your covenant, I have set free your prisoners from the pit in which is no water**. Turn to the stronghold, you prisoners of hope! Even today I declare that I will restore double to you."
 verse="Zechariah 9:11-12"
+%}
+
+{% include verse.html
+text="I, YHWH, have called you in righteousness. I will hold your hand. I will keep you, and make you a **covenant** for the people, as a light for the nations, to open the blind eyes, to bring the prisoners out of the dungeon, and those who sit in darkness out of the prison."
+verse="Isaiah 42:6-7"
 %}
 
 <div class="columns">
