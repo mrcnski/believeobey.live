@@ -52,18 +52,30 @@ verse="Deuteronomy 12:32"
 ---
 
 {% include verse.html
-text="You shall observe to do therefore as YHWH your God has commanded you. You shall not turn away to the right hand or to the left."
+text="You shall observe to do therefore as YHWH your God has commanded you. **You shall not turn away to the right hand or to the left.**"
 verse="Deuteronomy 5:32"
 %}
 
 {% include verse.html
-text="Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go."
+text="Be careful to observe to do according to all the law which Moses my servant commanded you. **Don’t turn from it to the right hand or to the left**, that you may have good success wherever you go."
 verse="Joshua 1:7"
 %}
 
+## Focus on the Kingdom
+
 {% include verse.html
-text="Enter in by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it. How narrow is the gate and the way is restricted that leads to life! There are few who find it."
+text="But **seek first God’s Kingdom and his righteousness; and all these things will be given to you as well**."
+verse="Matthew 6:33"
+%}
+
+{% include verse.html
+text="Enter in by the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter in by it. **How narrow is the gate and the way is restricted that leads to life!** There are few who find it."
 verse="Matthew 7:13-14"
+%}
+
+{% include verse.html
+text="Let your eyes look straight ahead. Fix your gaze directly before you. Make the path of your feet level. Let all of your ways be established. **Don’t turn to the right hand nor to the left.** Remove your foot from evil."
+verse="Proverbs 4:25-27"
 %}
 
 ## Our Works Come From God
@@ -85,6 +97,11 @@ verse="John 15:5"
 
 Please don't take these verses the wrong way. We are commanded to do good works such as helping the needy.
 {: .note}
+
+{% include verse.html
+text="Looking at them, Jesus said, “With men this is impossible, but **with God all things are possible**.”"
+verse="Matthew 19:26"
+%}
 
 ## The Burden of False Religion
 
