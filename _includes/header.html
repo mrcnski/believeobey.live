@@ -71,6 +71,18 @@
            hamburger.classList.toggle('is-active');
            toggleNavbarMenu(null);
        });
+
+       // Close dropdown when clicking outside
+       document.addEventListener('click', (event) => {
+           const navLinks = document.querySelector('.nav-links');
+           if (!navLinks || !navbarVisible) return;
+
+           // Check if click is outside both hamburger and nav-links
+           if (!hamburger.contains(event.target) && !navLinks.contains(event.target)) {
+               hamburger.classList.remove('is-active');
+               toggleNavbarMenu();
+           }
+       });
    }
 
    // Run when the DOM is loaded
