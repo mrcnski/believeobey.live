@@ -433,6 +433,11 @@ text="**Your throne, God**, is forever and ever. A scepter of equity is the scep
 verse="Psalm 45:6-7"
 %}
 
+{% include verse.html
+text="For a child is born to us. A son is given to us; and the government will be on his shoulders. **His name will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.**"
+verse="Isaiah 9:6"
+%}
+
 ## The Unity of God
 
 {% include verse.html
@@ -469,6 +474,8 @@ verse="John 1:1-2"
 Did you know that "Elohim" and "Adonai" are both plural words?
 
 ## Other Interesting Verses
+
+Here are some verses that I didn't know how to fit in the above sections:
 
 {% include verse.html
 text="I will pour on David’s house and on the inhabitants of Jerusalem the spirit of grace and of supplication. They will look to me whom they have pierced; and they shall mourn for him as one mourns for **his only son**, and will grieve bitterly for him as one grieves for **his firstborn**."
