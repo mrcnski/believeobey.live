@@ -1,6 +1,6 @@
 ---
 title: "Evidence that Enoch is Scripture"
-categories: apocrypha
+categories: apocrypha canon
 toc: true
 hidden: false
 ---
@@ -270,6 +270,53 @@ text="Arise, YHWH! Save me, my God! For you have struck all of my enemies on the
 verse="Psalm 3:7"
 %}
 </div>
+
+### The Plant of Righteousness
+
+<div class="columns">
+{% include verse.html
+text="Destroy all wrong from the face of the earth and let every evil work come to an end: and let **the plant of righteousness and truth** appear: and it shall prove a blessing: the works of righteousness and truth shall be planted in truth and joy for evermore."
+verse="Enoch 10:16"
+%}
+
+{% include verse.html
+text="Every plant which my heavenly Father didn’t plant will be uprooted."
+verse="Matthew 15:13"
+%}
+</div>
+
+<div class="columns">
+{% include verse.html
+text="Concerning the children of righteousness and concerning the elect of the world, And concerning the **plant of uprightness**, I will speak these things [...] And after that in the third week at its close A man shall be elected as the **plant of righteous judgement**, And his posterity shall become the **plant of righteousness** for evermore. [...] And at its close shall be elected The elect righteous of the eternal **plant of righteousness**, To receive sevenfold instruction concerning all His creation."
+verse="Enoch 93:2,5,10"
+%}
+
+{% include verse.html
+text="For the vineyard of YHWH of Armies is the house of Israel, and the men of Judah his **pleasant plant**. He looked for justice, but behold, oppression, for righteousness, but behold, a cry of distress."
+verse="Isaiah 5:7"
+%}
+</div>
+
+### Sevenfold Light
+
+<div class="columns">
+{% include verse.html
+text="And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels. And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give **sevenfold light**."
+verse="Enoch 91:15-16"
+%}
+
+{% include verse.html
+text="Moreover **the light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter**, like the light of seven days, in the day that YHWH binds up the fracture of his people, and heals the wound they were struck with."
+verse="Isaiah 30:26"
+%}
+</div>
+
+It is interesting that the luminaries will give sevenfold light, and also that the light of the moon will be like the light of the sun. This is consistent with Enoch saying that the sun is seven times brighter than the moon:
+
+{% include verse.html
+text="... the great luminary which is named the sun [...] his light is sevenfold brighter than that of the moon; but as regards size they are both equal."
+verse="Enoch 72:35,37"
+%}
 
 ### The Light of the Gentiles
 

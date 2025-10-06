@@ -67,6 +67,7 @@ defaults:
 
 category_descriptions:
   - { name: "apocrypha", description: "" }
+  - { name: "canon", description: "" }
   - { name: "language", description: "" }
   - { name: "prophecy", description: "" }
   - { name: "torah", description: "" }
