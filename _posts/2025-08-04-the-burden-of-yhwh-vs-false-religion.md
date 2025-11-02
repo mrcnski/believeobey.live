@@ -201,7 +201,17 @@ text="He has shown you, O man, what is good. **What does YHWH require of you, bu
 verse="Micah 6:8"
 %}
 
-## Final Notes
+## Rest
+
+{% include verse.html
+text="Come to me, all you who labor and are heavily burdened, and **I will give you rest**. Take my yoke upon you and learn from me, for I am gentle and humble in heart; and you will find rest for your souls. For my yoke is easy, and my burden is light."
+verse="Matthew 11:28-30"
+%}
+
+{% include verse.html
+text="But he will speak to this nation with stammering lips and in another language, to whom he said, **“This is the resting place. Give rest to the weary,” and “This is the refreshing;”** yet they would not hear. Therefore YHWH’s word will be to them precept on precept, precept on precept; line on line, line on line; here a little, there a little; that they may go, fall backward, be broken, be snared, and be taken."
+verse="Isaiah 28:11-13"
+%}
 
 {% include verse.html
 text="For thus said the Lord YHWH, the Holy One of Israel, “**You will be saved in returning and rest.** Your strength will be in quietness and in confidence.” You refused ..."
@@ -212,6 +222,8 @@ verse="Isaiah 30:15"
 text="**There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor.** This also I saw, that it is from the hand of God. [...] For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God."
 verse="Ecclesiastes 2:24,26"
 %}
+
+## Final Notes
 
 {% include verse.html
 text="This is the end of the matter. All has been heard. **Fear God and keep his commandments; for this is the whole duty of man.**"
