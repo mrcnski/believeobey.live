@@ -306,6 +306,11 @@ text="Though I walk in the middle of trouble, you will revive me. You will stret
 verse="Psalm 138:7"
 %}
 
+{% include verse.html
+text="Behold, the Lord YHWH will come as a mighty one, and **his arm will rule for him**. Behold, his reward is with him, and his recompense before him."
+verse="Isaiah 40:10"
+%}
+
 ## Yeshua is Worshipped
 
 {% include verse.html
@@ -434,8 +439,17 @@ verse="Psalm 45:6-7"
 %}
 
 {% include verse.html
-text="For a child is born to us. A son is given to us; and the government will be on his shoulders. **His name will be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.**"
+text="For a child is born to us. A son is given to us; and the government will be on his shoulders. **His name will be called Wonderful Counselor, Mighty God [El], Everlasting Father, Prince of Peace.**"
 verse="Isaiah 9:6"
+%}
+
+---
+
+For completeness I have included the following the verse. Note that the word for "God" in this case is *El* and not *Elohim*.
+
+{% include verse.html
+text="God [El] is not a man, that he should lie, nor a son of man, that he should repent. Has he said, and he won’t do it? Or has he spoken, and he won’t make it good?"
+verse="Numbers 23:19"
 %}
 
 ## The Unity of God
