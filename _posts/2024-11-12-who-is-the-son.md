@@ -311,6 +311,11 @@ text="Behold, the Lord YHWH will come as a mighty one, and **his arm will rule f
 verse="Isaiah 40:10"
 %}
 
+{% include verse.html
+text="YHWH will cause his glorious voice to be heard, and will show **the descent of his arm**, with the indignation of his anger and the flame of a devouring fire, with a blast, storm, and hailstones."
+verse="Isaiah 30:30"
+%}
+
 ## Yeshua is Worshipped
 
 {% include verse.html
