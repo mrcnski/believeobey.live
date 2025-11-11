@@ -170,3 +170,10 @@ verse="Zechariah 9:10"
 Here is my latest understanding of the true geography, based on the scriptural evidence:
 
 {% include image.html name="speculation-terre-de-iesso/nw.jpg" alt="Terre de Iesso" width="741" caption="Relative sizes of features on this map and my annotations are approximate and may not be to scale." %}
+
+---
+
+{% include verse.html
+text="Your eyes will see the king in his beauty. They will see a distant land."
+verse="Isaiah 33:17"
+%}
