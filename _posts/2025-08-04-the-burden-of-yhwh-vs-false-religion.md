@@ -52,8 +52,8 @@ verse="Deuteronomy 12:32"
 ---
 
 {% include verse.html
-text="You shall observe to do therefore as YHWH your God has commanded you. **You shall not turn away to the right hand or to the left.**"
-verse="Deuteronomy 5:32"
+text="You shall observe to do therefore as YHWH your God has commanded you. **You shall not turn away to the right hand or to the left.** You shall walk in **all** the way which YHWH your God has commanded you, that you may live and that it may be well with you, and that you may prolong your days in the land which you shall possess."
+verse="Deuteronomy 5:32-33"
 %}
 
 {% include verse.html
@@ -213,9 +213,13 @@ text="But he will speak to this nation with stammering lips and in another langu
 verse="Isaiah 28:11-13"
 %}
 
+{% capture confidence %}
+See also {% include inline-verse.html verse="Isaiah 32:17-18" %}.
+{% endcapture %}
 {% include verse.html
 text="For thus said the Lord YHWH, the Holy One of Israel, “**You will be saved in returning and rest.** Your strength will be in quietness and in confidence.” You refused ..."
 verse="Isaiah 30:15"
+caption=confidence
 %}
 
 {% include verse.html
