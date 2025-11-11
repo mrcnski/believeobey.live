@@ -221,6 +221,9 @@ verse="Exodus 33:14-15"
 I was thinking that the angel of YHWH was Yeshua, who, as we shall see later, already existed in "Old Testament" times, before His birth. However, it occurred to me that the angel of YHWH could be the Holy Spirit, who also bears the name of YHWH ({% include inline-verse.html verse="Matthew 28:19" %}). In {% include inline-verse.html verse="Exodus 23:20-21" %} the angel of YHWH is associated with forgiveness, while in {% include inline-verse.html verse="Mark 3:29" %} and {% include inline-verse.html verse="John 20:22-23" %} the *Holy Spirit* is associated with forgiveness. See [this study I found](https://www.topicsinbiblicalstudies.com/is-the-holy-spirit-an-angel/) which explores this interesting possibility in more depth.
 {: .update}
 
+Second update: in {% include inline-verse.html verse="Matthew 1:20" %}, the angel of the Lord appears to Joseph while Yeshua is in the womb -- possibly confirming that they are different entities.
+{: .update}
+
 ---
 
 In the next passages it seems that the angel of YHWH also bears His name:
