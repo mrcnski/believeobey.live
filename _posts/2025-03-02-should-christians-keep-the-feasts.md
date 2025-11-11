@@ -45,6 +45,16 @@ text="then it shall happen that to **the place which YHWH your God shall choose,
 verse="Deuteronomy 12:11-14"
 %}
 
+{% include verse.html
+text="It will happen that everyone who is left of all the nations that came against Jerusalem will go up from year to year to worship the King, YHWH of Armies, and to keep the **feast of booths**. It will be that whoever of all the families of the earth doesn’t go up to **Jerusalem** to worship the King, YHWH of Armies, on them there will be no rain."
+verse="Zechariah 14:16-17"
+%}
+
+{% include verse.html
+text="**Look at Zion, the city of our appointed festivals.**"
+verse="Isaiah 33:20"
+%}
+
 The following Scripture indicates that curses come upon those who keep Passover other than as prescribed. However, it also shows that YHWH is merciful towards those who try to keep His feasts.
 
 {% include verse.html
