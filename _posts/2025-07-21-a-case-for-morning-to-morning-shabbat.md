@@ -3,6 +3,7 @@ title: "A Case For Morning To Morning Shabbat"
 categories: torah
 toc: true
 more: true
+image: a-case-for-morning-to-morning-shabbat/1.jpeg
 ---
 
 What is a day according to Scripture? This topic is important to me for two reasons:

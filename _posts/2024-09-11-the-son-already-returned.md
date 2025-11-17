@@ -2,6 +2,7 @@
 title: "The Son Already Returned"
 categories: Yeshua prophecy
 more: true
+image: the-son-already-returned/1.jpeg
 ---
 
 {% include verse.html

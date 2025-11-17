@@ -3,6 +3,7 @@ title: "Was the New Testament Really Written in Greek?"
 categories: language
 toc: true
 more: true
+image: aramaic-hate.png
 ---
 
 I think it is worth investigating whether Greek was really the original language of the New Testament. I believe the Greek texts were a *translation* from either Hebrew or Aramaic, because the Greek contains many errors that were introduced in the translation process. A great illustration of why this is important is {% include inline-verse.html verse="Mark 7:19" %} where some Greek manuscripts have Yeshua declaring all foods clean, contradicting verses like {% include inline-verse.html verse="Matthew 5:17-19" text-after="," %} {% include inline-verse.html verse="Isaiah 66:3" text-after="," %} {% include inline-verse.html verse="Revelation 18:2" version="NASB1995" text-after="," %} etc. See {% include study-link.html url="/the-law-remains" text="The Law Remains" %}.

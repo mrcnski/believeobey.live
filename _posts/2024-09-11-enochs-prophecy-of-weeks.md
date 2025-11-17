@@ -2,6 +2,7 @@
 title: "Enoch's Prophecy Of Weeks!"
 categories: prophecy apocrypha
 more: true
+image: enochs-prophecy-of-weeks/1.png
 ---
 
 - 1 pixel = 1 year.

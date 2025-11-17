@@ -4,6 +4,7 @@ categories: torah
 toc: true
 hidden: false
 more: true
+image: should-christians-keep-the-feasts/1.jpeg
 ---
 
 Based purely on Scripture (not man's private interpretations), we can be confident that {% include study-link.html url="/the-law-remains" text="the Law remains" %} for Christians to keep. However, there is a conundrum around the feasts.
@@ -13,6 +14,8 @@ On the one hand, there are verses that clearly indicate that feasts like Passove
 However, even if one journeyed to present-day Jerusalem, and even if that were the real historical Jerusalem, it seems clear that YHWH does not dwell there. There is no temple or priesthood.
 
 What is an obedient Christian to do? I don't have an answer, but thought I'd present the relevant Scriptures for consideration.
+
+{% include image.html name="should-christians-keep-the-feasts/1.jpeg" alt="Should Christians keep the feasts?" width=400 %}
 
 ## The Feasts Must Be Kept
 
