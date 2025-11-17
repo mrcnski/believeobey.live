@@ -1,20 +1,20 @@
-<div class="post-info">
-
-  <div class="post-header-container">
-    <div>
-      <h3 class="post-header"><a class="post-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h3>
-
-      <p class="post-meta post-meta-home">
-        {% include post-meta.html %}
-      </p>
-    </div>
-
-    {% include post-categories.html %}
-  </div>
-
-  {% if page.description and include.description == 1 %}
-  <span class="post-description">{{ page.description }}</span>
-  <span class="read-more"><a href="{{ page.url | relative_url }}">[&nbsp;Read&nbsp;more&nbsp;]</a></span>
+<div class="card">
+  {% if page.image %}
+  <img src="/assets/img/{{ page.image }}" alt="{{ page.title | escape }}" class="card-image">
   {% endif %}
 
+  <div class="card-content">
+    <h3 class="card-title"><a href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></h3>
+
+    <p class="card-meta">
+      {% include post-meta.html %}
+    </p>
+
+    {% include post-categories.html %}
+
+    {% if page.description and include.description == 1 %}
+    <div class="card-description">{{ page.description }}</div>
+    <span class="card-read-more"><a href="{{ page.url | relative_url }}">[&nbsp;Read&nbsp;more&nbsp;]</a></span>
+    {% endif %}
+  </div>
 </div>

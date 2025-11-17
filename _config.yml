@@ -23,6 +23,7 @@ category_dir: category
 copyright_year: 2025
 
 repository: "mrcnski/believeobey.live"
+updates: https://github.com/mrcnski/believeobey.live/commits/master/
 
 # Outputting
 permalink: /:title/

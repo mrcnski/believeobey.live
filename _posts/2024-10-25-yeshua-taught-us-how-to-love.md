@@ -2,6 +2,7 @@
 title: "Yeshua Taught Us How To Love"
 categories: Yeshua torah
 toc: true
+image: yeshua-taught-us-how-to-love/1.jpeg
 ---
 
 Much of Yeshua's ministry was focused on these two commandments:

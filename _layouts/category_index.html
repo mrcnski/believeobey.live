@@ -6,8 +6,10 @@ layout: page
 {{ site.category_descriptions[page.category] }}
 {% endcomment %}
 
+<div class="card-grid">
 {% for page in site.categories[page.category] %}
 {% unless page.hidden %}
-{% include post-info.html %}
+{% include post-info.html description=1 %}
 {% endunless %}
 {% endfor %}
+</div>

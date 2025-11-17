@@ -3,6 +3,7 @@ title: "Why Did Messiah Die?"
 categories: Yeshua prophecy
 toc: false
 hidden: false
+image: why-did-messiah-die//1.jpeg
 ---
 
 {% capture belief %}
@@ -18,6 +19,8 @@ caption=belief
 text="Most certainly I tell you, unless a grain of wheat falls into the earth and dies, it remains by itself alone. **But if it dies, it bears much fruit.**"
 verse="John 12:24"
 %}
+
+{% include image.html name="why-did-messiah-die//1.jpeg" alt="Why Did Messiah Die?" width="741" %}
 
 ## Mercy
 

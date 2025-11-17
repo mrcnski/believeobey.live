@@ -11,6 +11,7 @@ I'm genuinely open to correction, and I would also remind readers that our only 
 
 ## Studies
 
+<div class="card-grid">
 {% for page in site.posts %}
 {% unless page.hidden %}
 {% if page.more %}
@@ -18,6 +19,7 @@ I'm genuinely open to correction, and I would also remind readers that our only 
 {% endif %}
 {% endunless %}
 {% endfor %}
+</div>
 
 <br>
 

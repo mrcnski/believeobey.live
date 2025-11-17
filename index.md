@@ -8,19 +8,35 @@ title: "Home"
 
 # Home
 
-Welcome to *Believe, Obey, Live*!
+<!-- {% include image.html name="index-header.jpeg" alt="Believe, Live, Obey." %} -->
 
-Please see the [about page](/about) for more about belief (faith in God and His Son) and obedience (acting and doing according to His words).
+<div class="card-grid">
+  <div class="card">
+    <div class="card-content">
+      <h3 class="card-title"><a href="/about">What is this site about?</a></h3>
+      <div class="card-description">Find out about Scriptural belief and obedience.</div>
+    </div>
+  </div>
 
-{% include image.html name="index-header.jpeg" alt="Believe, Live, Obey." %}
+  <div class="card">
+    <div class="card-content">
+      <h3 class="card-title"><a href="{{ site.updates }}">Recent updates</a></h3>
+      <div class="card-description">See the latest changes and additions to the site.</div>
+    </div>
+  </div>
+</div>
+
+<br>
 
 ## Studies
 
+<div class="card-grid">
 {% for page in site.posts %}
 {% unless page.hidden or page.more %}
 {% include post-info.html description=1 %}
 {% endunless %}
 {% endfor %}
+</div>
 
 <br>
 

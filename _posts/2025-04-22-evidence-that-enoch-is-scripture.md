@@ -3,6 +3,7 @@ title: "Evidence that Enoch is Scripture"
 categories: apocrypha canon
 toc: true
 hidden: false
+image: evidence-that-enoch-is-scripture/1.jpeg
 ---
 
 While I believe that most of Enoch is Scripture, I have found what seem to be corruptions and insertions. In particular, the verses where Noah is speaking do not seem to belong to Enoch, and even contradict the rest of the book. I hope to do a separate study on this.

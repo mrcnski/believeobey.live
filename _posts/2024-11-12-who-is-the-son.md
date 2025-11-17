@@ -3,6 +3,7 @@ title: "Who is the Son?"
 categories: Yeshua
 toc: true
 hidden: false
+image: who-is-the-son-1.jpeg
 ---
 
 ## Is YHWH the Father?

@@ -3,6 +3,7 @@ title: "The Burden of YHWH vs. False Religion"
 categories: torah
 toc: true
 hidden: false
+image: the-burden-of-yhwh/1.jpeg
 ---
 
 {% include verse.html
