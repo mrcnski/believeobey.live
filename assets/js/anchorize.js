@@ -2,6 +2,10 @@
 $('h2,h3,h4,h5,h6').filter('[id]').each(function () {
     const el = $(this);
 
+    if (el.hasClass('no-anchor')) {
+        return;
+    }
+
     const id = el.attr('id');
     el.html('<a href="#'+id+'">' + el.text() + '</a>');
 
