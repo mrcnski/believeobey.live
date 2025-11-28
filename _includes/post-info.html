@@ -1,6 +1,8 @@
 <div class="card">
   {% if page.image %}
-  <img src="/assets/img/{{ page.image }}" alt="{{ page.title | escape }}" class="card-image">
+  <a href="{{ page.url | relative_url }}">
+    <img src="/assets/img/{{ page.image }}" alt="{{ page.title | escape }}" class="card-image">
+  </a>
   {% endif %}
 
   <div class="card-content">
