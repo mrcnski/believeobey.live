@@ -58,6 +58,11 @@ verse="Deuteronomy 5:32-33"
 %}
 
 {% include verse.html
+text="You will be above only, and you will not be beneath, if you listen to the commandments of YHWH your God which I command you today, to observe and to do, and **shall not turn away from any of the words which I command you today, to the right hand or to the left**, to go after other gods to serve them."
+verse="Deuteronomy 28:13-14"
+%}
+
+{% include verse.html
 text="Be careful to observe to do according to all the law which Moses my servant commanded you. **Don’t turn from it to the right hand or to the left**, that you may have good success wherever you go."
 verse="Joshua 1:7"
 %}
