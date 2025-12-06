@@ -122,6 +122,16 @@ verse="Isaiah 42:8"
 %}
 
 {% include verse.html
+text="You are my witnesses. **Is there a God besides me? Indeed, there is not.** I don’t know any other Rock."
+verse="Isaiah 44:8"
+%}
+
+{% include verse.html
+text="**There is no other God besides me**, a just God and a Savior. There is no one besides me. Look to me, and be saved, all the ends of the earth; for I am God, and there is no other."
+verse="Isaiah 45:21-22"
+%}
+
+{% include verse.html
 text="For my own sake, for my own sake, I will do it; for how would my name be profaned? **I will not give my glory to another.**"
 verse="Isaiah 48:11"
 %}
