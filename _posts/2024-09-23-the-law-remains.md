@@ -320,7 +320,7 @@ verse="1 John 2:4"
 %}
 
 {% include verse.html
-text="Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name cast out demons, and in Your name perform many miracles?’ And then I will declare to them, ‘I never knew you; leave Me, you who practice lawlessness.’"
+text="Many will say to Me on that day, ‘Lord, Lord, did we not prophesy in Your name, and in Your name cast out demons, and in Your name perform many miracles?’ And then I will declare to them, **‘I never knew you; leave Me, you who practice lawlessness.’**"
 verse="Matthew 7:22-23"
 version="NASB"
 %}
@@ -328,6 +328,11 @@ version="NASB"
 {% include verse.html
 text="The heart is **deceitful** above all things and it is exceedingly corrupt. Who can know it?"
 verse="Jeremiah 17:9"
+%}
+
+{% include verse.html
+text="Keep me from the way of **deceit**. Grant me your **law** graciously!"
+verse="Psalm 119:29"
 %}
 
 {% include verse.html
