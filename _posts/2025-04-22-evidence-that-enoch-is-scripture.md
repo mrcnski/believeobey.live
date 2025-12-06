@@ -224,13 +224,27 @@ verse="Psalm 45:6-7"
 
 <div class="columns">
 {% include verse.html
-text="And for this reason hath he been chosen and hidden before Him, before the creation of the world and for evermore."
+text="And for this reason hath he been chosen and hidden before Him, **before the creation of the world** and for evermore."
 verse="Enoch 48:6"
 %}
 
 {% include verse.html
-text="In the beginning was the Word, and the Word was with God, and the Word was God. The same was in the beginning with God."
+text="In the beginning was the Word, and the Word was with God, and the Word was God. **The same was in the beginning with God.**"
 verse="John 1:1-2"
+%}
+</div>
+
+### Messiah was Hidden
+
+<div class="columns">
+{% include verse.html
+text="And for this reason hath he been chosen and **hidden** before Him, before the creation of the world and for evermore."
+verse="Enoch 48:6"
+%}
+
+{% include verse.html
+text="He has made my mouth like a sharp sword. He has **hidden** me in the shadow of his hand. He has made me a polished shaft. He has kept me close in his quiver."
+verse="Isaiah 49:2"
 %}
 </div>
 
