@@ -206,7 +206,7 @@ verse="Micah 4:1-2"
 %}
 </div>
 
-Two things go forth: Torah, and the word of the Lord. This reminds us of the two prerequisites of a saint that we saw above in Revelation 12:17 and Revelation 14:12.
+Two things go out of Zion and Jerusalem: Torah, and the word of the Lord. This reminds us of the two prerequisites of a saint that we saw above in Revelation 12:17 and Revelation 14:12. See also {% include inline-verse.html verse="Isaiah 8:20" version="NASB" %}.
 
 ---
 
@@ -405,8 +405,10 @@ verse="Proverbs 28:9"
 %}
 
 {% include verse.html
-text="**Turn to the law and to the covenant!** If they don’t speak according to this word, surely there is no morning for them."
+text="**To the Law and to the testimony!** If they do not speak in accordance with this word, it is because they have no dawn."
 verse="Isaiah 8:20"
+version="NASB"
+caption="Remember the two prerequisites of a saint, and the two things that go out of Zion and Jerusalem?"
 %}
 
 {% include verse.html
