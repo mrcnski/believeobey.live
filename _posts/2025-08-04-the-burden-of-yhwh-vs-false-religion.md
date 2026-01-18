@@ -229,6 +229,11 @@ caption=confidence
 %}
 
 {% include verse.html
+text="YHWH says, “Stand in the ways and see, and ask for the old paths, ‘Where is the good way?’ and walk in it, and you will find **rest for your souls**. But they said, ‘We will not walk in it.’"
+verse="Jeremiah 6:16"
+%}
+
+{% include verse.html
 text="**There is nothing better for a man than that he should eat and drink, and make his soul enjoy good in his labor.** This also I saw, that it is from the hand of God. [...] For to the man who pleases him, God gives wisdom, knowledge, and joy; but to the sinner he gives travail, to gather and to heap up, that he may give to him who pleases God."
 verse="Ecclesiastes 2:24,26"
 %}
