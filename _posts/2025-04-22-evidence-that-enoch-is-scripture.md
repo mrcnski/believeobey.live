@@ -540,9 +540,13 @@ text="Woe to you who drink water from every fountain, For suddenly shall ye be c
 verse="Enoch 96:6"
 %}
 
+{% capture spring %}
+See also {% include inline-verse.html verse="Jeremiah 17:13" %}.
+{% endcapture %}
 {% include verse.html
 text="For my people have committed two evils: they have forsaken me, the spring of living waters, and cut out cisterns for themselves: broken cisterns that can’t hold water."
 verse="Jeremiah 2:13"
+caption=spring
 %}
 
 {% include verse.html
