@@ -190,6 +190,11 @@ text="Guard your steps when you go to God’s house; for **to draw near to liste
 verse="Ecclesiastes 5:1"
 %}
 
+{% include verse.html
+text="Has YHWH as great delight in burnt offerings and sacrifices, as in obeying YHWH’s voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams. For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim."
+verse="1 Samuel 15:22-23"
+%}
+
 ### Humility
 
 {% include verse.html
