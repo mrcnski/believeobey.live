@@ -100,3 +100,10 @@ verse="Habakkuk 2:4"
 ## Printing
 
 These studies can be color-printed and/or saved to PDF. For best results, it is recommended to do this in a Chromium-based browser, such as Brave or Chrome.
+
+## Other Projects
+
+Some other projects by the author:
+
+- [scroll-search.com](https://scroll-search.com) — Search a database of ancient Biblical and apocryphal texts.
+- [smallcues.com](https://smallcues.com) — Daily prompts for self-improvement, delivered to your inbox.
