@@ -7,11 +7,17 @@ module Jekyll
       git_cmd = "git log -1 --format=\"%ad\" --date=iso -- #{path}"
       stdout, stderr, status = Open3.capture3(git_cmd)
 
-      if status.success?
-        Date.parse(stdout.strip)
-      else
+      unless status.success?
         Jekyll.logger.warn "Git error for #{path}:", stderr
-        nil
+        return nil
+      end
+
+      output = stdout.strip
+      if output.empty?
+        # File is not yet committed; fall back to the filesystem mtime.
+        File.exist?(path) ? File.mtime(path).to_date : nil
+      else
+        Date.parse(output)
       end
     rescue => e
       Jekyll.logger.error "Error in last_modified_at plugin:", e.message
