@@ -47,7 +47,7 @@ verse="Zechariah 12:10"
 ## The Ransom
 
 {% capture grace %}
-See <a href="http://localhost:4000/evidence-that-enoch-is-scripture/#grace-to-the-righteous">Evidence that Enoch is Scripture: Grace to the Righteous</a>.
+See {% include study-link.html url="/evidence-that-enoch-is-scripture/#grace-to-the-righteous" text="Evidence that Enoch is Scripture: Grace to the Righteous" %}.
 {% endcapture %}
 {% include verse.html
 text="If there is beside him an angel, an interpreter, one among a thousand, to show to man what is right for him, then **God is gracious to him, and says, ‘Deliver him from going down to the pit, I have found a ransom.’** His flesh will be fresher than a child’s. He returns to the days of his youth. He prays to God, and he is favorable to him, so that he sees his face with joy. **He restores to man his righteousness.** He sings before men, and says, ‘I have sinned, and perverted that which was right, and it didn’t profit me. He has redeemed my soul from going into the pit. My life will see the light.’"
