@@ -10,6 +10,8 @@ layout: default
     <div class="post-header-container">
       <p class="post-meta">
         {% include post-meta.html %}
+        {% assign commits = page.path | commit_count %}
+        {% if commits > 1 %}
         <br>
         <span class="post-meta-last-updated">
           <i>
@@ -21,6 +23,7 @@ layout: default
             </a>
           </i>
         </span>
+        {% endif %}
       </p>
       {% include post-categories.html %}
     </div>
