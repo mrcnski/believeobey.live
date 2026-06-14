@@ -6,7 +6,8 @@ layout: page
 
   {{ content }}
 
-  {% for category in site.category_descriptions %}
+  {% assign sorted_descriptions = site.category_descriptions | sort_natural: 'name' %}
+  {% for category in sorted_descriptions %}
   {% assign category_posts = 0 %}
 
   {% for site_category in site.categories %}

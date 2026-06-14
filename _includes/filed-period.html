@@ -1,4 +1,5 @@
-{% for category in page.categories %}
+{% assign sorted_categories = page.categories | sort_natural %}
+{% for category in sorted_categories %}
 <a class="category-link" href="/{{ site.category_dir }}/{{ category }}/" rel="category">
   {{ category }}
 </a>

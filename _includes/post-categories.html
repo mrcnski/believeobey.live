@@ -1,6 +1,7 @@
 {% if page.categories.size > 0 %}
 <div class="post-categories">
-  {% for category in page.categories %}
+  {% assign sorted_categories = page.categories | sort_natural %}
+  {% for category in sorted_categories %}
   <a class="category-link" href="/{{ site.category_dir }}/{{ category || downcase }}/" rel="category">
     {{ category }}
   </a>
