@@ -48,6 +48,11 @@ compress_html:
   blanklines: true
   clippings: all
   comments: all
+  # Skip HTML compression during local dev (the default env for `jekyll serve`)
+  # to speed up rebuilds. Production builds must run with JEKYLL_ENV=production
+  # so the deployed HTML is still minified (see the `build` target in the Makefile).
+  ignore:
+    envs: [development]
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

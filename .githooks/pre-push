@@ -1,0 +1,14 @@
+#!/bin/sh
+#
+# Pre-push hook: run the site's checks before allowing a push.
+# Runs the full `make test` (Jekyll prod build + htmlproofer, including
+# external link checks).
+#
+# Bypass for a single push (e.g. when a flaky third-party host is down, or
+# you're offline):  git push --no-verify
+#
+# This hook is tracked in the repo. To activate it in a fresh clone, run once:
+#   git config core.hooksPath .githooks
+
+echo "pre-push: running 'make test' (use 'git push --no-verify' to skip)..."
+make test

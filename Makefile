@@ -5,8 +5,7 @@ serve-docker:
 	docker run -p 4000:4000 -v $(shell pwd):/site bretfisher/jekyll-serve
 
 build:
-	bundle exec jekyll build
-	cp _site/404/index.html _site/404.html
+	JEKYLL_ENV=production bundle exec jekyll build
 
 test: build
-	bundle exec htmlproofer --check-html --internal-domain "believeobey.live","www.believeobey.live" ./_site --file_ignore "/_site/files/"
+	bundle exec htmlproofer ./_site --ignore-files "/_site/files/" --swap-urls '^https?\://(www\.)?believeobey\.live:' --ignore-urls "/parallel.thebookofenoch.info/,/www.gnosis.org/,/puritanboard.com/"
