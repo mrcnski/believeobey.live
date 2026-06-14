@@ -72,4 +72,5 @@ category_descriptions:
   - { name: "language", description: "" }
   - { name: "prophecy", description: "" }
   - { name: "torah", description: "" }
+  - { name: "uncategorized", description: "" }
   - { name: "Yeshua", description: "" }

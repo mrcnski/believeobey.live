@@ -1,5 +1,6 @@
 ---
 title: "Peace in the Scriptures"
+categories: uncategorized
 toc: true
 hidden: false
 image: peace-in-the-scriptures/1.jpeg
