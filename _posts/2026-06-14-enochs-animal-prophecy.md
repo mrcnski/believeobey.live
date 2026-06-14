@@ -169,7 +169,7 @@ verse="John 7:30"
 <tr>
 <td>
 {% include simple-verse.html
-text="And I saw till the shepherds and eagles and those vultures and kites came, and they cried to the ravens that they should break the horn of that ram, and they battled and fought with it, and it battled with them and cried that its help might come."
+text="And I saw till the shepherds and eagles and those vultures and kites came, and they cried to the ravens that they should break the horn of that ram, and they battled and fought with it, and it battled with them and **cried that its help might come**."
 verse="Enoch 90:13"
 %}
 </td>
@@ -180,17 +180,7 @@ verse="Deuteronomy 33:7"
 %}
 
 {% include simple-verse.html
-text="Strike the shepherd, and the sheep will be scattered; and I will turn my hand against the little ones."
-verse="Zechariah 13:7"
-%}
-
-{% include simple-verse.html
-text="Then Jesus said to them, “All of you will be made to stumble because of me tonight, for it is written, ‘I will strike the shepherd, and the sheep of the flock will be scattered.’"
-verse="Matthew 26:31"
-%}
-
-{% include simple-verse.html
-text="About the ninth hour Jesus cried with a loud voice, saying, “Eli, Eli, lima sabachthani?” That is, “My God, my God, why have you forsaken me?”"
+text="About the ninth hour Jesus **cried with a loud voice**, saying, “Eli, Eli, lima sabachthani?” That is, “My God, my God, why have you forsaken me?”"
 verse="Matthew 27:46"
 %}
 </td>
@@ -640,7 +630,7 @@ verse="Isaiah 30:21,26"
 Note the reference to sevenfold light, which alerts us that this prophecy in Isaiah is about the new heaven and new earth:
 
 {% include simple-verse.html
-text="And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute **vengeance amongst the angels**. And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give sevenfold light."
+text="And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels. And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give sevenfold light."
 verse="Enoch 91:15-16"
 %}
 </td>
