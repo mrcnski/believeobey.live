@@ -148,6 +148,11 @@ text="Declare and present it. Yes, let them take counsel together. Who has shown
 verse="Isaiah 45:21"
 %}
 
+{% include verse.html
+text="It will happen that whoever will call on YHWH’s name shall be saved; for in Mount Zion and in Jerusalem there will be those who escape, as YHWH has said, and among the remnant, those whom YHWH calls."
+verse="Joel 2:32"
+%}
+
 ---
 
 {% include verse.html
@@ -249,6 +254,13 @@ text="In the womb he took his brother by the heel, and in his manhood he contend
 verse="Hosea 12:3-5"
 %}
 
+Hosea is recalling the night Jacob wrestled with the *malak*, after which Jacob said:
+
+{% include verse.html
+text="Jacob called the name of the place Peniel; for he said, “**I have seen God face to face, and my life is preserved**.”"
+verse="Genesis 32:30"
+%}
+
 ---
 
 {% include verse.html
@@ -294,6 +306,15 @@ version="Hebrew"
 text="Listen to me, O Jacob, and Israel my called: I am he. **I am the first. I am also the last.** Yes, my hand has laid the foundation of the earth, and **my right hand has spread out the heavens**. when I call to them, they stand up together."
 verse="Isaiah 48:12-13"
 %}
+
+Compare "my right hand has spread out the heavens" with the role of the Word in creation:
+
+{% include verse.html
+text="All things were made through him. Without him, nothing was made that has been made."
+verse="John 1:3"
+%}
+
+---
 
 {% include verse.html
 text="**YHWH has made his holy arm bare** in the eyes of all the nations. All the ends of the earth have **seen the salvation [Hebrew: yeshua] of our God**."
@@ -364,6 +385,18 @@ text="They came into the house and saw the young child with Mary, his mother, an
 verse="Matthew 2:11"
 %}
 
+Recall that YHWH declared, "**to me every knee shall bow**" ({% include inline-verse.html verse="Isaiah 45:23" %}). In Enoch, that same homage is given to the Son of Man:
+
+{% include verse.html
+text="**All who dwell on the earth shall fall down and worship before him**, and will praise and bless and celebrate with song the Lord of Spirits."
+verse="Enoch 48:5"
+%}
+
+{% include verse.html
+text="And all the kings and the mighty and the exalted and those who rule the earth **shall fall down before him on their faces, and worship and set their hope upon that Son of Man**, and petition him and supplicate for mercy at his hands."
+verse="Enoch 62:9"
+%}
+
 ## Did Yeshua Pre-Exist?
 
 {% include verse.html
@@ -409,6 +442,13 @@ verse="John 17:24"
 {% include verse.html
 text="... who was **foreknown indeed before the foundation of the world**, but was revealed in this last age for your sake ..."
 verse="1 Peter 1:20"
+%}
+
+Wisdom, too, is described as existing before creation and present at YHWH's side:
+
+{% include verse.html
+text="**YHWH possessed me in the beginning of his work, before his deeds of old.** I was set up from everlasting, from the beginning, before the earth existed. [...] When he established the heavens, I was there, when he set a circle on the surface of the deep, [...] then **I was the craftsman by his side. I was a delight day by day, rejoicing always before him.**"
+verse="Proverbs 8:22-23,27,30"
 %}
 
 ## Is The Son God?
@@ -462,6 +502,9 @@ text="For a child is born to us. A son is given to us; and the government will b
 verse="Isaiah 9:6"
 %}
 
+It's worth comparing the Son being called "Everlasting Father" here with {% include inline-verse.html verse="John 14:9" %} — "He who has seen me has seen the Father."
+{: .note}
+
 ---
 
 For completeness I have included the following the verse. Note that the word for "God" in this case is *El* and not *Elohim*.
@@ -486,6 +529,13 @@ text="Therefore a man will leave his father and his mother, and will join with h
 verse="Genesis 2:24"
 %}
 
+The oneness and the name appear together here:
+
+{% include verse.html
+text="YHWH will be King over all the earth. In that day YHWH will be **one [echad], and his name one**."
+verse="Zechariah 14:9"
+%}
+
 ---
 
 {% include verse.html
@@ -505,6 +555,13 @@ verse="John 1:1-2"
 %}
 
 Did you know that "Elohim" and "Adonai" are both plural words?
+
+---
+
+{% include verse.html
+text="**I and the Father are one.**"
+verse="John 10:30"
+%}
 
 ## Other Interesting Verses
 
