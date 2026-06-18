@@ -70,13 +70,16 @@ module Jekyll
       @git_log_cache ||= {}
       return @git_log_cache[path] if @git_log_cache.key?(path)
 
-      cmd = "git log --format=\"%H%x1f%ad%x1f%s\" --date=short -- #{path}"
+      # %at (author UNIX timestamp) is carried alongside the short display date
+      # so we can sort precisely — %ad --date=short ties same-day commits.
+      cmd = "git log --format=\"%H%x1f%ad%x1f%s%x1f%at\" --date=short -- #{path}"
       stdout, stderr, status = Open3.capture3(cmd)
       entries =
         if status.success?
           stdout.split("\n").reject { |l| l.strip.empty? }.map do |line|
-            sha, date, subject = line.split("\x1f", 3)
-            { "sha" => sha, "date" => date, "subject" => subject, "file" => path }
+            sha, date, subject, ts = line.split("\x1f", 4)
+            { "sha" => sha, "date" => date, "subject" => subject,
+              "ts" => ts.to_i, "file" => path }
           end
         else
           Jekyll.logger.warn "Git error for #{path}:", stderr
@@ -95,7 +98,8 @@ module Jekyll
       dependency_paths(page).each do |path|
         git_log_entries(path).each { |c| seen[c["sha"]] ||= c }
       end
-      seen.values.sort_by { |c| c["date"] }.reverse
+      # Newest first, by precise timestamp (not the day-only display date).
+      seen.values.sort_by { |c| -c["ts"] }
     end
   end
 end
