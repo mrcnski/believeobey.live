@@ -3,6 +3,8 @@ title: "Enoch's Prophecy Of Weeks!"
 categories: prophecy apocrypha
 more: true
 image: enochs-prophecy-of-weeks/1.png
+dependencies:
+  - _includes/weeks.html
 ---
 
 - 1 pixel = 1 year.
@@ -170,8 +172,13 @@ image: enochs-prophecy-of-weeks/1.png
    // "Jacob lived in the land of Egypt seventeen years; so the days of Jacob, the years of his life, were 147 years." Genesis 47:28
    ["Ya'aqov in Egypt¹", 130],
    // "Now the duration of the Israelites' stay in Egypt was 430 years."- Exodus 12:40
-   ["Exodus²", 430],
-   ["crucifixion³", 1332],
+   ["Exodus", 430],
+   // 1 Kings 6:1: Solomon's temple founded 480 years after the Exodus.
+   ["1st temple", 480],
+   // Second Temple completed ~516 BC (AM 3454). Its "glory" (Haggai 2:9)
+   // lands at the close of week 5.
+   ["2nd temple", 306],
+   ["crucifixion²", 546],
    ["temple destroyed", 40],
    ["540 AD", 470],
    ["700 AD", 160],
