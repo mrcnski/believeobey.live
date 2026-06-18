@@ -1,0 +1,5 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "JEKYLL_ENV=production bundle exec jekyll build",
+  "outputDirectory": "_site"
+}
