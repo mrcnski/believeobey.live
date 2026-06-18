@@ -152,3 +152,68 @@ $toc-arrow-padding: 2px;
         }
     }
 }
+
+/* "Last Updated" reuses the TOC accordion: full-width, smaller, link-blue,
+   with no disclosure arrow (the blue text signals it's clickable). */
+.toc-wrapper.last-updated {
+    margin-top: 0;
+    margin-bottom: calc(3 * $spacing-unit / 4);
+    padding-left: $post-meta-padding;
+
+    .toc-label {
+        /* block (not the base inline-flex): keeps the space before the date,
+           and makes the label's measured height equal the space it occupies,
+           so the open/close animation lands without an end snap. */
+        display: block;
+        width: fit-content;
+        padding-left: 0;
+        font-size: $smaller-font-size;
+        font-style: italic;
+
+        /* No disclosure arrow. */
+        &:before {
+            display: none;
+        }
+    }
+
+    .toc-table {
+        padding-top: 4px;
+
+        ul.commit-history {
+            width: auto;
+
+            padding-left: 1.4em;
+            margin: 0;
+
+            font-size: $smaller-font-size;
+            line-height: 1.6;
+
+            li {
+                margin-bottom: 2px;
+
+                /* Vertically center the caret on the line (the TOC's top: 3px
+                   is tuned for its larger font/line-height). */
+                &::before {
+                    top: 50%;
+                    line-height: 1;
+                    transform: translateY(-50%);
+                }
+
+                a {
+                    /* Undo the TOC's block-style links, but keep a fixed-width
+                       date column so the em-dashes and commit messages align. */
+                    display: inline-block;
+                    min-width: 6.5em;
+                    padding: 0;
+                    border-radius: 0;
+                    white-space: nowrap;
+
+                    &:hover {
+                        background: none;
+                        padding-left: 0;
+                    }
+                }
+            }
+        }
+    }
+}

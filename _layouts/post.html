@@ -10,23 +10,11 @@ layout: default
     <div class="post-header-container">
       <p class="post-meta">
         {% include post-meta.html %}
-        {% assign commits = page.path | commit_count %}
-        {% if commits > 1 %}
-        <br>
-        <span class="post-meta-last-updated">
-          <i>
-            <a href="https://github.com/mrcnski/believeobey.live/commits/master/_posts/{{ page.date | date: "%Y-%m-%d" }}-{{ page.slug }}.md">
-              Last Updated:
-              <time datetime="{{ page.path | last_modified_at | date_to_xmlschema }}" itemprop="dateModified">
-                {{ page.path | last_modified_at | date: date_format }}
-              </time>
-            </a>
-          </i>
-        </span>
-        {% endif %}
       </p>
       {% include post-categories.html %}
     </div>
+    {% assign commits = page | commit_count_with_deps %}
+    {% if commits > 1 %}{% include last-updated.html %}{% endif %}
   </header>
 
   <div class="post-content" itemprop="articleBody">
@@ -49,4 +37,5 @@ layout: default
 
 </article>
 
+{% if page.toc or commits > 1 %}{% include accordion.html %}{% endif %}
 {% include post-scripts.html %}

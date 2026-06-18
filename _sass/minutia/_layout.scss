@@ -447,11 +447,8 @@ $post-meta-padding: calc($spacing-unit / 4);
 
     padding-left: $post-meta-padding;
     margin-bottom: 0;
-
-    .post-meta-last-updated {
-        font-size: $smaller-font-size;
-    }
 }
+
 
 .post-meta-home {
     margin-bottom: calc($spacing-unit / 8);
@@ -575,8 +572,14 @@ $post-meta-padding: calc($spacing-unit / 4);
 .post-header-container {
     display: flex;
     justify-content: space-between;
+    align-items: flex-start; /* keep categories pinned top-right as the accordion grows */
     gap: 1rem;
     margin-bottom: calc(3 * $spacing-unit / 4);
+
+    /* Tuck "Last Updated" right under the meta row when it follows. */
+    &:has(+ .last-updated) {
+        margin-bottom: 0;
+    }
 
     .post-categories {
         display: flex;

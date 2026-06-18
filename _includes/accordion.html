@@ -1,0 +1,118 @@
+<script>
+ // Animated <details>-style accordion for `.toc-wrapper` elements
+ // (Table of Contents and "Last Updated"). Each wrapper is self-contained,
+ // so multiple accordions can coexist on one page.
+ // Based on https://css-tricks.com/how-to-animate-the-details-element/, with
+ // fill:'forwards' + an ordered commit on finish to avoid an end-of-animation
+ // snap, and sub-pixel heights to avoid a 1px rounding jump.
+ class Accordion {
+     constructor(el) {
+         // Store the elements (scoped to this wrapper).
+         this.el = el;
+         let check = el.querySelector('.toc-check');
+         if (!check) {
+             throw ".toc-check not found";
+         }
+         this.check = check;
+         let label = el.querySelector('.toc-label');
+         if (!label) {
+             throw ".toc-label not found";
+         }
+         this.label = label;
+         let table = el.querySelector('.toc-table');
+         if (!table) {
+             throw ".toc-table not found";
+         }
+         this.table = table;
+
+         // Store the animation object (so we can cancel it if needed)
+         this.animation = null;
+         this.isClosing = false;
+         this.isExpanding = false;
+
+         this.label.addEventListener('click', (e) => this.onClick(e));
+     }
+
+     height(el) {
+         // Sub-pixel height, so the animation's end value matches the natural
+         // (auto) height exactly and doesn't jump by a rounded pixel.
+         return el.getBoundingClientRect().height;
+     }
+
+     onClick(e) {
+         // Stop default behaviour from the browser
+         e.preventDefault();
+
+         this.el.style.overflow = 'hidden';
+
+         // Check if the element is being closed or is already closed
+         if (this.isClosing || !this.check.checked) {
+             this.open();
+             // Check if the element is being opened or is already open
+         } else if (this.isExpanding || this.check.checked) {
+             this.shrink();
+         }
+     }
+
+     open() {
+         // Apply a fixed height on the element
+         this.el.style.height = `${this.height(this.el)}px`;
+         // Force the [checked] attribute on the details element
+         this.check.checked = true;
+         // Wait for the next frame to call the expand function
+         window.requestAnimationFrame(() => this.expand());
+     }
+
+     animateHeight(startHeight, endHeight, open) {
+         if (this.animation) {
+             this.animation.cancel();
+         }
+         // fill: 'forwards' keeps the end height after the animation finishes,
+         // so the element never reverts to its (collapsed) inline height for a
+         // frame before onfinish runs.
+         this.animation = this.el.animate(
+             { height: [`${startHeight}px`, `${endHeight}px`] },
+             { duration: 400, easing: 'ease-out', fill: 'forwards' }
+         );
+         this.animation.onfinish = () => this.onAnimationFinish(open);
+         this.animation.oncancel = () => {
+             this.isExpanding = false;
+             this.isClosing = false;
+         };
+     }
+
+     expand() {
+         this.isExpanding = true;
+         this.animateHeight(this.height(this.el), this.height(this.label) + this.height(this.table), true);
+     }
+
+     shrink() {
+         this.isClosing = true;
+         this.animateHeight(this.height(this.el), this.height(this.label), false);
+     }
+
+     onAnimationFinish(open) {
+         // 1) Set the open/closed state so the element's natural (auto) height
+         //    equals the height we just animated to.
+         this.check.checked = open;
+         // 2) Drop the fixed height/overflow so the element is auto-height again.
+         this.el.style.height = this.el.style.overflow = '';
+         // 3) Release the fill:'forwards' hold; it reverts to the now-matching
+         //    auto height, so there is no visible snap in either direction.
+         if (this.animation) {
+             this.animation.cancel();
+         }
+         this.animation = null;
+         this.isClosing = false;
+         this.isExpanding = false;
+     }
+ }
+
+ function addAccordions() {
+     document.querySelectorAll('.toc-wrapper').forEach((el) => {
+         new Accordion(el);
+     });
+ }
+
+ document.addEventListener('DOMContentLoaded', addAccordions);
+</script>
