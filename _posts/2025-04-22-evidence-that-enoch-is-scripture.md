@@ -170,47 +170,9 @@ verse="Enoch 10:8-9"
 
 I have been collecting similarities between the Book of Enoch and the accepted, canonical Scriptures. Many statements in Enoch have one or two (or more) supporting witnesses in Scripture.
 
-### Angels Take the Sinners
+### The Messiah, the Son of Man
 
-<div class="columns">
-{% include verse.html
-text="In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners."
-verse="Enoch 100:4"
-%}
-
-{% include verse.html
-text="The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling and those who do iniquity, and will cast them into the furnace of fire. There will be weeping and gnashing of teeth."
-verse="Matthew 13:41-42"
-%}
-</div>
-
-### The Righteous Shine like the Sun
-
-<div class="columns">
-{% include verse.html
-text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused **His light to appear On the face of the holy, righteous, and elect**."
-verse="Enoch 38:4"
-%}
-
-{% include verse.html
-text="Then **the righteous will shine like the sun in the Kingdom of their Father**. He who has ears to hear, let him hear."
-verse="Matthew 13:43"
-%}
-</div>
-
-<div class="columns">
-{% include verse.html
-text="... but now **ye shall shine as the lights of heaven**, ye shall shine and ye shall be seen, and the portals of heaven shall be opened to you."
-verse="Enoch 104:2-3"
-%}
-
-{% include verse.html
-text="Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness **will shine as the stars forever and ever**."
-verse="Daniel 12:3"
-%}
-</div>
-
-### The Messiah Chosen
+#### The Messiah Chosen
 
 <div class="columns">
 {% include verse.html
@@ -224,7 +186,7 @@ verse="Psalm 45:6-7"
 %}
 </div>
 
-### Messiah was From the Beginning
+#### Messiah was From the Beginning
 
 <div class="columns">
 {% include verse.html
@@ -238,7 +200,7 @@ verse="John 1:1-2"
 %}
 </div>
 
-### Messiah was Hidden
+#### Messiah was Hidden
 
 <div class="columns">
 {% include verse.html
@@ -252,7 +214,7 @@ verse="Isaiah 49:2"
 %}
 </div>
 
-### The Spirit of Messiah
+#### The Spirit of Messiah
 
 <div class="columns">
 {% include verse.html
@@ -271,73 +233,7 @@ verse="Job 12:13,16"
 %}
 </div>
 
-### Break the Teeth of the Sinners
-
-<div class="columns">
-{% include verse.html
-text="And this Son of Man whom thou hast seen Shall raise up the kings and the mighty from their seats, [...] **And break the teeth of the sinners.**"
-verse="Enoch 46:4"
-%}
-
-{% include verse.html
-text="**Break their teeth**, God, in their mouth. Break out the great teeth of the young lions, YHWH."
-verse="Psalm 58:6"
-%}
-
-{% include verse.html
-text="Arise, YHWH! Save me, my God! For you have struck all of my enemies on the cheek bone. **You have broken the teeth of the wicked.**"
-verse="Psalm 3:7"
-%}
-</div>
-
-### The Plant of Righteousness
-
-<div class="columns">
-{% include verse.html
-text="Destroy all wrong from the face of the earth and let every evil work come to an end: and let **the plant of righteousness and truth** appear: and it shall prove a blessing: the works of righteousness and truth shall be planted in truth and joy for evermore."
-verse="Enoch 10:16"
-%}
-
-{% include verse.html
-text="Every plant which my heavenly Father didn’t plant will be uprooted."
-verse="Matthew 15:13"
-%}
-</div>
-
-<div class="columns">
-{% include verse.html
-text="Concerning the children of righteousness and concerning the elect of the world, And concerning the **plant of uprightness**, I will speak these things [...] And after that in the third week at its close A man shall be elected as the **plant of righteous judgement**, And his posterity shall become the **plant of righteousness** for evermore. [...] And at its close shall be elected The elect righteous of the eternal **plant of righteousness**, To receive sevenfold instruction concerning all His creation."
-verse="Enoch 93:2,5,10"
-%}
-
-{% include verse.html
-text="For the vineyard of YHWH of Armies is the house of Israel, and the men of Judah his **pleasant plant**. He looked for justice, but behold, oppression, for righteousness, but behold, a cry of distress."
-verse="Isaiah 5:7"
-%}
-</div>
-
-### Sevenfold Light
-
-<div class="columns">
-{% include verse.html
-text="And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels. And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give **sevenfold light**."
-verse="Enoch 91:15-16"
-%}
-
-{% include verse.html
-text="Moreover **the light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter**, like the light of seven days, in the day that YHWH binds up the fracture of his people, and heals the wound they were struck with."
-verse="Isaiah 30:26"
-%}
-</div>
-
-It is interesting that the luminaries will give sevenfold light, and also that the light of the moon will be like the light of the sun. This is consistent with Enoch saying that the sun is seven times brighter than the moon:
-
-{% include verse.html
-text="... the great luminary which is named the sun [...] his light is sevenfold brighter than that of the moon; but as regards size they are both equal."
-verse="Enoch 72:35,37"
-%}
-
-### The Light of the Gentiles
+#### The Light of the Gentiles
 
 <div class="columns">
 {% include verse.html
@@ -356,212 +252,7 @@ verse="Isaiah 49:5-6"
 %}
 </div>
 
-### Straw in the Fire
-
-<div class="columns">
-{% include verse.html
-text="In these days downcast in countenance shall the kings of the earth have become, And the strong who possess the land because of the works of their hands, <span class='hl-2'>For on the day of their anguish and affliction they shall not (be able to) save themselves.</span> And <span class='hl-3'>I will give them over into the hands of Mine elect</span>: <span class='hl-4'>As straw in the fire so shall they burn before the face of the holy</span>: <span class='hl-5'>As lead in the water shall they sink</span> before the face of the righteous, And no trace of them shall any more be found. And on the day of their affliction there shall be rest on the earth, <span class='hl-6'>And before them they shall fall and not rise again</span>: And there shall be no one to take them with his hands and raise them: <span class='hl-7'>For they have denied the Lord of Spirits and His Anointed.</span> The name of the Lord of Spirits be blessed."
-verse="Enoch 48:8-10"
-%}
-
-<div>
-{% include verse.html
-text="Flight will perish from the swift. The strong won’t strengthen his force. <span class='hl-2'>The mighty won’t deliver himself.</span>"
-verse="Amos 2:14"
-%}
-
-{% include verse.html
-text="<span class='hl-3'>You shall tread down the wicked; for they will be ashes under the soles of your feet</span> in the day that I make ...."
-verse="Malachi 4:3"
-%}
-
-{% capture stubble %}
-See also {% include inline-verse.html verse="Malachi 4:1-3" text-after="." %}
-{% endcapture %}
-{% include verse.html
-text="Therefore <span class='hl-4'>as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame</span>, so their root shall be as rottenness, and their blossom shall go up as dust ..."
-verse="Isaiah 5:24"
-caption=stubble
-%}
-
-{% include verse.html
-text="You blew with your wind. The sea covered them. <span class='hl-5'>They sank like lead in the mighty waters.</span>"
-verse="Exodus 15:10"
-%}
-
-{% include verse.html
-text="There the workers of iniquity are fallen. <span class='hl-6'>They are thrust down, and shall not be able to rise.</span>"
-verse="Psalm 36:12"
-%}
-
-{% include verse.html
-text="<span class='hl-7'>The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against his Anointed</span> ..."
-verse="Psalm 2:2"
-%}
-</div>
-</div>
-
-### Satan as Accuser
-
-<div class="columns">
-{% include verse.html
-text="And I heard the fourth voice fending off **the Satans** and forbidding them to come before the Lord of Spirits to **accuse** them who dwell on the earth."
-verse="Enoch 40:7"
-%}
-
-{% include verse.html
-text="The great dragon was thrown down, the old serpent, he who is called the devil and **Satan**, the deceiver of the whole world. He was thrown down to the earth, **and his angels** were thrown down with him. [...] **the accuser of our brothers has been thrown down, who accuses them before our God** day and night."
-verse="Revelation 12:9-10"
-%}
-
-{% include verse.html
-text="He showed me Joshua the high priest standing before YHWH’s angel, and **Satan standing at his right hand to be his adversary**."
-verse="Zechariah 3:1"
-%}
-</div>
-
-### The Mountains Leap
-
-<div class="columns">
-{% include verse.html
-text="And in those days **shall the mountains leap like rams, And the hills also shall skip like lambs** satisfied with milk ..."
-verse="Enoch 51:4"
-%}
-
-{% include verse.html
-text="**The mountains skipped like rams, the little hills like lambs.** What was it, you sea, that you fled? You Jordan, that you turned back? You mountains, that you skipped like rams? You little hills, like lambs?"
-verse="Psalm 114:4-6"
-%}
-</div>
-
-### The Mountains Will Melt
-
-<div class="columns">
-{% include verse.html
-text="And these mountains which thine eyes have seen [...] <span class='hl-1'>All these shall be in the presence of the Elect One As wax before the fire, And like the water which streams down from above</span> [upon those mountains], And they shall become powerless before his feet. <span class='hl-2'>And it shall come to pass in those days that none shall be saved, Either by gold or by silver, And none be able to escape.</span> And <span class='hl-3'>there shall be no iron for war, Nor shall one clothe oneself with a breastplate</span>. Bronze shall be of no service, And tin [shall be of no service and] shall not be esteemed, And lead shall not be desired."
-verse="Enoch 52:6-8"
-%}
-
-<div>
-{% include verse.html
-text="<span class='hl-1'>The mountains melt under him, and the valleys split apart like wax before the fire, like waters that are poured down a steep place.</span>"
-verse="Micah 1:4"
-%}
-
-{% include verse.html
-text="<span class='hl-2'>Neither their silver nor their gold will be able to deliver them in the day of YHWH’s wrath</span>, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land."
-verse="Zephaniah 1:18"
-%}
-
-{% include verse.html
-text="He will judge between the nations, and will decide concerning many peoples. <span class='hl-3'>They shall beat their swords into plowshares, and their spears into pruning hooks. Nation shall not lift up sword against nation, neither shall they learn war any more.</span>"
-verse="Isaiah 2:4"
-%}
-</div>
-</div>
-
-### The Nations Will Panic
-
-<div class="columns">
-<div>
-{% include verse.html
-text="But the city of my righteous shall be a hindrance to their horses. And they shall begin to fight among themselves, And their right hand shall be strong against themselves, And a man shall not know his brother, Nor a son his father or his mother, Till there be no number of the corpses through their slaughter, And their punishment be not in vain."
-verse="Enoch 56:7"
-%}
-
-{% include verse.html
-text="And in those days in one place the fathers together with their sons shall be smitten And brothers one with another shall fall in death Till the streams flow with their blood. For a man shall not withhold his hand from slaying his sons and his sons' sons, And the sinner shall not withhold his hand from his honoured brother: From dawn till sunset they shall slay one another."
-verse="Enoch 100:1-3"
-%}
-</div>
-
-<div>
-{% include verse.html
-text="It will happen in that day that a great panic from YHWH will be among them; and they will each seize the hand of his neighbor, and his hand will rise up against the hand of his neighbor."
-verse="Zechariah 14:13"
-%}
-
-{% include verse.html
-text="I will call for a sword against him to all my mountains,” says the Lord YHWH. “Every man’s sword will be against his brother."
-verse="Ezekiel 38:21"
-%}
-
-{% include verse.html
-text="I will overthrow the throne of kingdoms. I will destroy the strength of the kingdoms of the nations. I will overthrow the chariots and those who ride in them. The horses and their riders will come down, everyone by the sword of his brother."
-verse="Haggai 2:22"
-%}
-</div>
-</div>
-
-### Fountains of the Waters
-
-<div class="columns">
-<div>
-{% include verse.html
-text="And in those days shall punishment come from the Lord of Spirits, and <span class='hl-1'>he will open all the chambers of waters which are above the heavens</span>, and of <span class='hl-2'>the fountains which are beneath the earth</span>."
-verse="Enoch 54:7"
-%}
-
-{% include verse.html
-text="And I saw again, and behold <span class='hl-2'>fountains were opened on the surface of that great enclosure</span>, and that water began to swell and rise upon the surface [...] And again I saw in the vision till <span class='hl-1'>those water torrents were removed from that high roof</span>, and <span class='hl-3'>the chasms of the earth were leveled up and other abysses were opened</span>. Then the water began to run down into these, till the earth became visible; but that vessel settled on the earth ..."
-verse="Enoch 89:3,6-8"
-%}
-
-{% include verse.html
-text="And on that day were two monsters parted, a female monster named Leviathan, to dwell in <span class='hl-3'>the abysses of the ocean</span> <span class='hl-2'>over the fountains of the waters</span>."
-verse="Enoch 60:7-8"
-%}
-
-{% include verse.html
-text="If He closes the <span class='hl-1'>windows of heaven</span> ..."
-verse="Enoch 101:2"
-%}
-</div>
-
-<div>
-{% include verse.html
-text="In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day <span class='hl-2'>all the fountains of the great deep burst open</span>, and <span class='hl-1'>the sky’s windows opened</span>."
-verse="Genesis 7:11"
-%}
-
-{% include verse.html
-text="<span class='hl-2'>Have you entered into the springs of the sea?</span> <span class='hl-3'>Or have you walked in the recesses of the deep?</span>"
-verse="Job 38:16"
-%}
-
-{% include verse.html
-text="<span class='hl-3'>When there were no depths</span>, I was born, when there were no springs abounding with water. Before the mountains were settled in place, before the hills, I was born; while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world. When he established the heavens, I was there. When he set a circle on the surface of the deep, when he established the clouds above, when the <span class='hl-2'>springs of the deep became strong</span> ..."
-verse="Proverbs 8:24-28"
-%}
-</div>
-</div>
-
-### The Fountain of Life
-
-<div class="columns">
-{% include verse.html
-text="Woe to you who drink water from every fountain, For suddenly shall ye be consumed and wither away, Because ye have forsaken the fountain of life."
-verse="Enoch 96:6"
-%}
-
-{% capture spring %}
-See also {% include inline-verse.html verse="Jeremiah 17:13" %}.
-{% endcapture %}
-{% include verse.html
-text="For my people have committed two evils: they have forsaken me, the spring of living waters, and cut out cisterns for themselves: broken cisterns that can’t hold water."
-verse="Jeremiah 2:13"
-caption=spring
-%}
-
-{% include verse.html
-text="For with you is the spring of life. In your light we will see light."
-verse="Psalm 36:9"
-%}
-</div>
-
-See also {% include inline-verse.html verse="Baruch 3:12-14" version="NRSV" %} in the apocrypha.
-
-### The Throne of Glory
+#### The Throne of Glory
 
 <div class="columns">
 <div>
@@ -582,66 +273,76 @@ verse="Matthew 25:31"
 %}
 </div>
 
-### His Footstool
+#### Lift Up the Horn
 
 <div class="columns">
 {% include verse.html
-text="And all the heavens are Thy throne for ever, And the whole earth Thy footstool for ever and ever."
-verse="Enoch 84:2"
+text="And thus the Lord commanded the kings and the mighty and the exalted, and those who dwell on the earth, and said: 'Open your eyes and **lift up your horns** if ye are able to recognize the Elect One.'"
+verse="Enoch 62:1"
 %}
 
 {% include verse.html
-text="Heaven is my throne, and the earth is my footstool. What kind of house will you build to me? Where will I rest?"
-verse="Isaiah 66:1"
+text="I said to the arrogant, “Don’t boast!” I said to the wicked, “**Don’t lift up the horn.** Don’t lift up your horn on high. Don’t speak with a stiff neck.”"
+verse="Psalm 75:4-5"
 %}
 </div>
 
-### The Jaws of Sheol
+#### The Word of His Mouth
 
 <div class="columns">
 {% include verse.html
-text="In those days **Sheol shall open its jaws**, And they shall be swallowed up therein And their destruction shall be at an end; Sheol shall devour the sinners in the presence of the elect."
-verse="Enoch 56:8"
+text="And the Lord of Spirits seated him on the throne of His glory, And <span class='hl-1'>the spirit of righteousness was poured out upon him</span>, And <span class='hl-2'>the word of his mouth slays all the sinners</span>, And all the unrighteous are destroyed from before his face."
+verse="Enoch 62:2"
 %}
 
 {% include verse.html
-text="Therefore **Sheol has enlarged its desire, and opened its mouth without measure**; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it."
-verse="Isaiah 5:14"
+text="<span class='hl-1'>but he will judge the poor with righteousness</span>, and decide with equity for the humble of the earth. <span class='hl-2'>He will strike the earth with the rod of his mouth; and with the breath of his lips he will kill the wicked.</span> <span class='hl-1'>Righteousness will be the belt around his waist</span>, and faithfulness the belt around his waist."
+verse="Isaiah 11:4-5"
 %}
 
 {% include verse.html
-text="As he finished speaking all these words, the ground that was under them split apart. **The earth opened its mouth** and swallowed them up with their households, all of Korah’s men, and all their goods. So they, and all that belonged to them **went down alive into Sheol**. The earth closed on them, and they perished from among the assembly."
-verse="Numbers 16:31-33"
+text="<span class='hl-1'>In righteousness he judges and makes war.</span> [...] <span class='hl-2'>Out of his mouth proceeds a sharp, double-edged sword that with it he should strike the nations.</span> He will rule them with an iron rod."
+verse="Revelation 19:11,15"
 %}
+
 </div>
 
-### The Summer and the Winter
-
-Revelations from YHWH seem to only ever mention two seasons.
+#### They Shall Look on the Other
 
 <div class="columns">
 {% include verse.html
-text="Behold **the summer and the winter**, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
-verse="Enoch 2:3"
+text="Then shall <span class='hl-1'>pain come upon them as on a woman in travail, [And she has pain in bringing forth] When her child enters the mouth of the womb, And she has pain in bringing forth</span>. <span class='hl-2'>And one portion of them shall look on the other</span>, And they shall be terrified, And they shall be downcast of countenance, And pain shall seize them, When they see that Son of Man Sitting on the throne of his glory."
+verse="Enoch 62:4"
 %}
 
 {% include verse.html
-text="While the earth remains, seed time and harvest, and cold and heat, and **summer and winter**, and day and night will not cease."
-verse="Genesis 8:22"
-%}
-
-{% include verse.html
-text="The ravenous birds will eat them in the **summer**, and all the animals of the earth will eat them in the **winter**."
-verse="Isaiah 18:6"
-%}
-
-{% include verse.html
-text="It will happen in that day that living waters will go out from Jerusalem, half of them toward the eastern sea, and half of them toward the western sea. **It will be so in summer and in winter.**"
-verse="Zechariah 14:8"
+text="They will be dismayed. Pangs and sorrows will seize them. <span class='hl-1'>They will be in pain like a woman in labor.</span> <span class='hl-2'>They will look in amazement one at another.</span> Their faces will be faces of flame."
+verse="Isaiah 13:8"
 %}
 </div>
 
-### The Dead Making Suit
+#### Break the Teeth of the Sinners
+
+<div class="columns">
+{% include verse.html
+text="And this Son of Man whom thou hast seen Shall raise up the kings and the mighty from their seats, [...] **And break the teeth of the sinners.**"
+verse="Enoch 46:4"
+%}
+
+{% include verse.html
+text="**Break their teeth**, God, in their mouth. Break out the great teeth of the young lions, YHWH."
+verse="Psalm 58:6"
+%}
+
+{% include verse.html
+text="Arise, YHWH! Save me, my God! For you have struck all of my enemies on the cheek bone. **You have broken the teeth of the wicked.**"
+verse="Psalm 3:7"
+%}
+</div>
+
+### Judgment
+
+#### The Dead Making Suit
 
 <div class="columns">
 {% include verse.html
@@ -667,66 +368,26 @@ verse="Genesis 4:10"
 %}
 </div>
 
-### The Darkness is Past
+#### Satan as Accuser
 
 <div class="columns">
 {% include verse.html
-text="And after this it shall be said to the holy in heaven That they should seek out the secrets of righteousness, the heritage of faith: **For it has become bright as the sun upon earth, And the darkness is past.**"
-verse="Enoch 58:5"
+text="And I heard the fourth voice fending off **the Satans** and forbidding them to come before the Lord of Spirits to **accuse** them who dwell on the earth."
+verse="Enoch 40:7"
 %}
 
 {% include verse.html
-text="Again, I write a new commandment to you, which is true in him and in you, because **the darkness is passing away and the true light already shines**."
-verse="1 John 2:8"
+text="The great dragon was thrown down, the old serpent, he who is called the devil and **Satan**, the deceiver of the whole world. He was thrown down to the earth, **and his angels** were thrown down with him. [...] **the accuser of our brothers has been thrown down, who accuses them before our God** day and night."
+verse="Revelation 12:9-10"
 %}
 
 {% include verse.html
-text="The people who walked in darkness have seen a great light. The light has shined on those who lived in the land of the shadow of death."
-verse="Isaiah 9:2"
+text="He showed me Joshua the high priest standing before YHWH’s angel, and **Satan standing at his right hand to be his adversary**."
+verse="Zechariah 3:1"
 %}
 </div>
 
-### Everlasting Life
-
-<div class="columns">
-{% include verse.html
-text="And the righteous shall be in the light of the sun. And the elect in the light of **eternal life: The days of their life shall be unending**, And the days of the holy without number. [...] And there shall be a light that never endeth, And **to a limit (lit. 'number') of days they shall not come** ..."
-verse="Enoch 58:3,6"
-%}
-
-{% include verse.html
-text="Many of those who sleep in the dust of the earth will awake, some to **everlasting life**, and some to shame and everlasting contempt. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars **forever and ever**."
-verse="Daniel 12:2-3"
-%}
-
-{% include verse.html
-text="Most certainly I tell you, he who hears my word and believes him who sent me has **eternal life**, and doesn’t come into judgment, but has passed out of death into life."
-verse="John 5:24"
-%}
-</div>
-
-### Nothing Too Hard for God
-
-<div class="columns">
-{% include verse.html
-text="For Thou hast made and Thou rulest all things, And **nothing is too hard for Thee** ..."
-verse="Enoch 84:3"
-%}
-
-<div>
-{% include verse.html
-text="Ah Lord YHWH! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. **There is nothing too hard for you.**"
-verse="Jeremiah 32:17"
-%}
-
-{% include verse.html
-text="Behold, I am YHWH, the God of all flesh. **Is there anything too hard for me?**"
-verse="Jeremiah 32:27"
-%}
-</div>
-</div>
-
-### Judgment
+#### Judgment Given to the Son of Man
 
 <div class="columns">
 <div>
@@ -862,104 +523,335 @@ verse="Job 37:11-13"
 %}
 </div>
 
-### The Rains Withheld
+#### Weighed in a Balance
 
 <div class="columns">
 <div>
 {% include verse.html
-text="And **in the days of the sinners** the years shall be shortened, And their seed shall be tardy on their lands and fields, And all things on the earth shall alter, And shall not appear in their time: And **the rain shall be kept back And the heaven shall withhold (it)**."
-verse="Enoch 80:2"
+text="And after that I saw all the secrets of the heavens, and how the kingdom is divided, and how **the actions of men are weighed in the balance**."
+verse="Enoch 41:1-2"
 %}
 
 {% include verse.html
-text="And He will summon to testify against you every cloud and mist and dew and rain; for **they shall all be withheld because of you from descending upon you**, and they shall be mindful of your **sins**."
-verse="Enoch 100:11"
+text="And he shall judge all the works of the holy above in the heaven, And **in the balance shall their deeds be weighed**."
+verse="Enoch 61:8"
 %}
 </div>
 
 <div>
 {% include verse.html
-text="They don’t say in their heart, ‘Let’s now fear YHWH our God, who gives **rain**, both the former and the latter, in its season, who preserves to us the appointed weeks of the harvest.’ Your iniquities have turned away these things, and **your sins have withheld good from you**."
-verse="Jeremiah 5:24-25"
+text="... **you are weighed in the balances**, and are found wanting."
+verse="Daniel 5:27"
 %}
 
 {% include verse.html
-text="**Therefore the showers have been withheld and there has been no latter rain**; yet you have had a prostitute’s forehead and you refused to be ashamed."
-verse="Jeremiah 3:3"
+text="All one’s ways may be pure in one’s own eyes, but **YHWH weighs the spirit**."
+verse="Proverbs 16:2"
+version="NRSV"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="Every way of a man is right in his own eyes, but **YHWH weighs the hearts**."
+verse="Proverbs 21:2"
+%}
+
+{% include verse.html
+text="If you say, “Behold, we didn’t know this,” doesn’t **he who weighs the hearts** consider it? He who keeps your soul, doesn’t he know it?"
+verse="Proverbs 24:12"
 %}
 </div>
 </div>
 
-Contrast with the law:
+#### The Book of Life
 
+<div class="columns">
+<div>
 {% include verse.html
-text="**If you walk in my statutes and keep my commandments, and do them**, then **I will give you your rains in their season**, and the land shall yield its increase, and the trees of the field shall yield their fruit."
-verse="Leviticus 26:3-4"
+text="In those days I saw the Head of Days when He seated himself upon the throne of His glory, And **the books of the living** were opened before Him ..."
+verse="Enoch 47:3"
 %}
 
-### He Dries Up the Sea
+{% include verse.html
+text="And wait ye indeed till sin has passed aay, for their names shall be **blotted out of the book of life** and out of the holy books ..."
+verse="Enoch 108:3"
+%}
+
+<p>See also:</p>
+
+{% include verse.html
+text="... your names are written before the glory of the Great One."
+verse="Enoch 104:1"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="Let them be **blotted out of the book of life**, and not be written with the righteous."
+verse="Psalm 69:28"
+%}
+
+{% include verse.html
+text="Yet now, if you will, forgive their sin—and if not, please **blot me out of your book** which you have written.”"
+verse="Exodus 32:32"
+%}
+
+{% include verse.html
+text="He who overcomes will be arrayed in white garments, and I will in no way **blot his name out of the book of life** ..."
+verse="Revelation 3:5"
+%}
+</div>
+</div>
+
+#### Angels Take the Sinners
 
 <div class="columns">
 {% include verse.html
-text="Are not the entire sea and all its waters, and all its movements, the work of the Most High, and has He not set limits to its doings, and confined it throughout by the sand? **And at His reproof it is afraid and dries up, and all its fish die and all that is in it** ..."
-verse="Enoch 101:6-7"
+text="In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners."
+verse="Enoch 100:4"
 %}
 
 {% include verse.html
-text="Behold, at my rebuke **I dry up the sea**. I make the rivers a wilderness. **Their fish stink because there is no water, and die of thirst.**"
-verse="Isaiah 50:2"
+text="The Son of Man will send out his angels, and they will gather out of his Kingdom all things that cause stumbling and those who do iniquity, and will cast them into the furnace of fire. There will be weeping and gnashing of teeth."
+verse="Matthew 13:41-42"
 %}
 </div>
 
-### Lift Up the Horn
+#### The Jaws of Sheol
 
 <div class="columns">
 {% include verse.html
-text="And thus the Lord commanded the kings and the mighty and the exalted, and those who dwell on the earth, and said: 'Open your eyes and **lift up your horns** if ye are able to recognize the Elect One.'"
-verse="Enoch 62:1"
+text="In those days **Sheol shall open its jaws**, And they shall be swallowed up therein And their destruction shall be at an end; Sheol shall devour the sinners in the presence of the elect."
+verse="Enoch 56:8"
 %}
 
 {% include verse.html
-text="I said to the arrogant, “Don’t boast!” I said to the wicked, “**Don’t lift up the horn.** Don’t lift up your horn on high. Don’t speak with a stiff neck.”"
-verse="Psalm 75:4-5"
+text="Therefore **Sheol has enlarged its desire, and opened its mouth without measure**; and their glory, their multitude, their pomp, and he who rejoices among them, descend into it."
+verse="Isaiah 5:14"
+%}
+
+{% include verse.html
+text="As he finished speaking all these words, the ground that was under them split apart. **The earth opened its mouth** and swallowed them up with their households, all of Korah’s men, and all their goods. So they, and all that belonged to them **went down alive into Sheol**. The earth closed on them, and they perished from among the assembly."
+verse="Numbers 16:31-33"
 %}
 </div>
 
-### The Word of His Mouth
+### The Day of the Lord
+
+#### Straw in the Fire
 
 <div class="columns">
 {% include verse.html
-text="And the Lord of Spirits seated him on the throne of His glory, And <span class='hl-1'>the spirit of righteousness was poured out upon him</span>, And <span class='hl-2'>the word of his mouth slays all the sinners</span>, And all the unrighteous are destroyed from before his face."
-verse="Enoch 62:2"
+text="In these days downcast in countenance shall the kings of the earth have become, And the strong who possess the land because of the works of their hands, <span class='hl-2'>For on the day of their anguish and affliction they shall not (be able to) save themselves.</span> And <span class='hl-3'>I will give them over into the hands of Mine elect</span>: <span class='hl-4'>As straw in the fire so shall they burn before the face of the holy</span>: <span class='hl-5'>As lead in the water shall they sink</span> before the face of the righteous, And no trace of them shall any more be found. And on the day of their affliction there shall be rest on the earth, <span class='hl-6'>And before them they shall fall and not rise again</span>: And there shall be no one to take them with his hands and raise them: <span class='hl-7'>For they have denied the Lord of Spirits and His Anointed.</span> The name of the Lord of Spirits be blessed."
+verse="Enoch 48:8-10"
+%}
+
+<div>
+{% include verse.html
+text="Flight will perish from the swift. The strong won’t strengthen his force. <span class='hl-2'>The mighty won’t deliver himself.</span>"
+verse="Amos 2:14"
 %}
 
 {% include verse.html
-text="<span class='hl-1'>but he will judge the poor with righteousness</span>, and decide with equity for the humble of the earth. <span class='hl-2'>He will strike the earth with the rod of his mouth; and with the breath of his lips he will kill the wicked.</span> <span class='hl-1'>Righteousness will be the belt around his waist</span>, and faithfulness the belt around his waist."
-verse="Isaiah 11:4-5"
+text="<span class='hl-3'>You shall tread down the wicked; for they will be ashes under the soles of your feet</span> in the day that I make ...."
+verse="Malachi 4:3"
+%}
+
+{% capture stubble %}
+See also {% include inline-verse.html verse="Malachi 4:1-3" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="Therefore <span class='hl-4'>as the tongue of fire devours the stubble, and as the dry grass sinks down in the flame</span>, so their root shall be as rottenness, and their blossom shall go up as dust ..."
+verse="Isaiah 5:24"
+caption=stubble
 %}
 
 {% include verse.html
-text="<span class='hl-1'>In righteousness he judges and makes war.</span> [...] <span class='hl-2'>Out of his mouth proceeds a sharp, double-edged sword that with it he should strike the nations.</span> He will rule them with an iron rod."
-verse="Revelation 19:11,15"
+text="You blew with your wind. The sea covered them. <span class='hl-5'>They sank like lead in the mighty waters.</span>"
+verse="Exodus 15:10"
 %}
 
+{% include verse.html
+text="There the workers of iniquity are fallen. <span class='hl-6'>They are thrust down, and shall not be able to rise.</span>"
+verse="Psalm 36:12"
+%}
+
+{% include verse.html
+text="<span class='hl-7'>The kings of the earth take a stand, and the rulers take counsel together, against YHWH, and against his Anointed</span> ..."
+verse="Psalm 2:2"
+%}
+</div>
 </div>
 
-### They Shall Look on the Other
+#### The Mountains Will Melt
 
 <div class="columns">
 {% include verse.html
-text="Then shall <span class='hl-1'>pain come upon them as on a woman in travail, [And she has pain in bringing forth] When her child enters the mouth of the womb, And she has pain in bringing forth</span>. <span class='hl-2'>And one portion of them shall look on the other</span>, And they shall be terrified, And they shall be downcast of countenance, And pain shall seize them, When they see that Son of Man Sitting on the throne of his glory."
-verse="Enoch 62:4"
+text="And these mountains which thine eyes have seen [...] <span class='hl-1'>All these shall be in the presence of the Elect One As wax before the fire, And like the water which streams down from above</span> [upon those mountains], And they shall become powerless before his feet. <span class='hl-2'>And it shall come to pass in those days that none shall be saved, Either by gold or by silver, And none be able to escape.</span> And <span class='hl-3'>there shall be no iron for war, Nor shall one clothe oneself with a breastplate</span>. Bronze shall be of no service, And tin [shall be of no service and] shall not be esteemed, And lead shall not be desired."
+verse="Enoch 52:6-8"
+%}
+
+<div>
+{% include verse.html
+text="<span class='hl-1'>The mountains melt under him, and the valleys split apart like wax before the fire, like waters that are poured down a steep place.</span>"
+verse="Micah 1:4"
 %}
 
 {% include verse.html
-text="They will be dismayed. Pangs and sorrows will seize them. <span class='hl-1'>They will be in pain like a woman in labor.</span> <span class='hl-2'>They will look in amazement one at another.</span> Their faces will be faces of flame."
-verse="Isaiah 13:8"
+text="<span class='hl-2'>Neither their silver nor their gold will be able to deliver them in the day of YHWH’s wrath</span>, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land."
+verse="Zephaniah 1:18"
+%}
+
+{% include verse.html
+text="He will judge between the nations, and will decide concerning many peoples. <span class='hl-3'>They shall beat their swords into plowshares, and their spears into pruning hooks. Nation shall not lift up sword against nation, neither shall they learn war any more.</span>"
+verse="Isaiah 2:4"
+%}
+</div>
+</div>
+
+#### The Mountains Leap
+
+<div class="columns">
+{% include verse.html
+text="And in those days **shall the mountains leap like rams, And the hills also shall skip like lambs** satisfied with milk ..."
+verse="Enoch 51:4"
+%}
+
+{% include verse.html
+text="**The mountains skipped like rams, the little hills like lambs.** What was it, you sea, that you fled? You Jordan, that you turned back? You mountains, that you skipped like rams? You little hills, like lambs?"
+verse="Psalm 114:4-6"
 %}
 </div>
 
-### The Righteous Taken Away
+#### The Nations Will Panic
+
+<div class="columns">
+<div>
+{% include verse.html
+text="But the city of my righteous shall be a hindrance to their horses. And they shall begin to fight among themselves, And their right hand shall be strong against themselves, And a man shall not know his brother, Nor a son his father or his mother, Till there be no number of the corpses through their slaughter, And their punishment be not in vain."
+verse="Enoch 56:7"
+%}
+
+{% include verse.html
+text="And in those days in one place the fathers together with their sons shall be smitten And brothers one with another shall fall in death Till the streams flow with their blood. For a man shall not withhold his hand from slaying his sons and his sons' sons, And the sinner shall not withhold his hand from his honoured brother: From dawn till sunset they shall slay one another."
+verse="Enoch 100:1-3"
+%}
+</div>
+
+<div>
+{% include verse.html
+text="It will happen in that day that a great panic from YHWH will be among them; and they will each seize the hand of his neighbor, and his hand will rise up against the hand of his neighbor."
+verse="Zechariah 14:13"
+%}
+
+{% include verse.html
+text="I will call for a sword against him to all my mountains,” says the Lord YHWH. “Every man’s sword will be against his brother."
+verse="Ezekiel 38:21"
+%}
+
+{% include verse.html
+text="I will overthrow the throne of kingdoms. I will destroy the strength of the kingdoms of the nations. I will overthrow the chariots and those who ride in them. The horses and their riders will come down, everyone by the sword of his brother."
+verse="Haggai 2:22"
+%}
+</div>
+</div>
+
+#### Sevenfold Light
+
+<div class="columns">
+{% include verse.html
+text="And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels. And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give **sevenfold light**."
+verse="Enoch 91:15-16"
+%}
+
+{% include verse.html
+text="Moreover **the light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter**, like the light of seven days, in the day that YHWH binds up the fracture of his people, and heals the wound they were struck with."
+verse="Isaiah 30:26"
+%}
+</div>
+
+It is interesting that the luminaries will give sevenfold light, and also that the light of the moon will be like the light of the sun. This is consistent with Enoch saying that the sun is seven times brighter than the moon:
+
+{% include verse.html
+text="... the great luminary which is named the sun [...] his light is sevenfold brighter than that of the moon; but as regards size they are both equal."
+verse="Enoch 72:35,37"
+%}
+
+#### The Darkness is Past
+
+<div class="columns">
+{% include verse.html
+text="And after this it shall be said to the holy in heaven That they should seek out the secrets of righteousness, the heritage of faith: **For it has become bright as the sun upon earth, And the darkness is past.**"
+verse="Enoch 58:5"
+%}
+
+{% include verse.html
+text="Again, I write a new commandment to you, which is true in him and in you, because **the darkness is passing away and the true light already shines**."
+verse="1 John 2:8"
+%}
+
+{% include verse.html
+text="The people who walked in darkness have seen a great light. The light has shined on those who lived in the land of the shadow of death."
+verse="Isaiah 9:2"
+%}
+</div>
+
+### The Righteous and Eternal Life
+
+#### The Plant of Righteousness
+
+<div class="columns">
+{% include verse.html
+text="Destroy all wrong from the face of the earth and let every evil work come to an end: and let **the plant of righteousness and truth** appear: and it shall prove a blessing: the works of righteousness and truth shall be planted in truth and joy for evermore."
+verse="Enoch 10:16"
+%}
+
+{% include verse.html
+text="Every plant which my heavenly Father didn’t plant will be uprooted."
+verse="Matthew 15:13"
+%}
+</div>
+
+<div class="columns">
+{% include verse.html
+text="Concerning the children of righteousness and concerning the elect of the world, And concerning the **plant of uprightness**, I will speak these things [...] And after that in the third week at its close A man shall be elected as the **plant of righteous judgement**, And his posterity shall become the **plant of righteousness** for evermore. [...] And at its close shall be elected The elect righteous of the eternal **plant of righteousness**, To receive sevenfold instruction concerning all His creation."
+verse="Enoch 93:2,5,10"
+%}
+
+{% include verse.html
+text="For the vineyard of YHWH of Armies is the house of Israel, and the men of Judah his **pleasant plant**. He looked for justice, but behold, oppression, for righteousness, but behold, a cry of distress."
+verse="Isaiah 5:7"
+%}
+</div>
+
+#### The Righteous Shine like the Sun
+
+<div class="columns">
+{% include verse.html
+text="And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused **His light to appear On the face of the holy, righteous, and elect**."
+verse="Enoch 38:4"
+%}
+
+{% include verse.html
+text="Then **the righteous will shine like the sun in the Kingdom of their Father**. He who has ears to hear, let him hear."
+verse="Matthew 13:43"
+%}
+</div>
+
+<div class="columns">
+{% include verse.html
+text="... but now **ye shall shine as the lights of heaven**, ye shall shine and ye shall be seen, and the portals of heaven shall be opened to you."
+verse="Enoch 104:2-3"
+%}
+
+{% include verse.html
+text="Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness **will shine as the stars forever and ever**."
+verse="Daniel 12:3"
+%}
+</div>
+
+#### The Righteous Taken Away
 
 <div class="columns">
 {% include verse.html
@@ -973,7 +865,7 @@ verse="Isaiah 57:1"
 %}
 </div>
 
-### Grace to the Righteous
+#### Grace to the Righteous
 
 <div class="columns">
 {% include verse.html
@@ -987,54 +879,85 @@ verse="Job 33:23-28"
 %}
 </div>
 
-### The Seven Spirits
+#### Everlasting Life
 
-There is a mystery that is not really answered in the canon: who or what are the seven spirits?
-
+<div class="columns">
 {% include verse.html
-text="There were seven lamps of fire burning before his throne, which are **the seven Spirits of God**."
-verse="Revelation 4:5"
+text="And the righteous shall be in the light of the sun. And the elect in the light of **eternal life: The days of their life shall be unending**, And the days of the holy without number. [...] And there shall be a light that never endeth, And **to a limit (lit. 'number') of days they shall not come** ..."
+verse="Enoch 58:3,6"
 %}
 
 {% include verse.html
-text="I saw in the middle of the throne and of the four living creatures, and in the middle of the elders, a Lamb standing, as though it had been slain, having seven horns and seven eyes, which are the **seven Spirits of God**, sent out into all the earth."
-verse="Revelation 5:6"
+text="Many of those who sleep in the dust of the earth will awake, some to **everlasting life**, and some to shame and everlasting contempt. Those who are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars **forever and ever**."
+verse="Daniel 12:2-3"
 %}
 
 {% include verse.html
-text="For, behold, the stone that I have set before Joshua: **on one stone are seven eyes**; behold, I will engrave its inscription,’ says YHWH of Armies, ‘and I will remove the iniquity of that land in one day."
-verse="Zechariah 3:9"
+text="Most certainly I tell you, he who hears my word and believes him who sent me has **eternal life**, and doesn’t come into judgment, but has passed out of death into life."
+verse="John 5:24"
+%}
+</div>
+
+#### The Fountain of Life
+
+<div class="columns">
+{% include verse.html
+text="Woe to you who drink water from every fountain, For suddenly shall ye be consumed and wither away, Because ye have forsaken the fountain of life."
+verse="Enoch 96:6"
+%}
+
+{% capture spring %}
+See also {% include inline-verse.html verse="Jeremiah 17:13" %}.
+{% endcapture %}
+{% include verse.html
+text="For my people have committed two evils: they have forsaken me, the spring of living waters, and cut out cisterns for themselves: broken cisterns that can’t hold water."
+verse="Jeremiah 2:13"
+caption=spring
 %}
 
 {% include verse.html
-text="**For these seven shall rejoice**, and shall see the plumb line in the hand of Zerubbabel. **These are YHWH’s eyes, which run back and forth through the whole earth.**"
-verse="Zechariah 4:10"
+text="For with you is the spring of life. In your light we will see light."
+verse="Psalm 36:9"
 %}
+</div>
 
-Interestingly, in Enoch there are seven archangels:
+See also {% include inline-verse.html verse="Baruch 3:12-14" version="NRSV" %} in the apocrypha.
 
+#### The Tree of Life
+
+<div class="columns">
 {% include verse.html
-text="And these are the names of the holy angels who watch. <strong>Uriel</strong>, one of the holy angels, who is over the world and over Tartarus. <strong>Raphael</strong>, one of the holy angels, who is over the spirits of men. <strong>Raguel</strong>, one of the holy angels who takes vengeance on the world of the luminaries. <strong>Michael</strong>, one of the holy angels, to wit, he that is set over the best part of mankind and over chaos. <strong>Saraqael</strong>, one of the holy angels, who is set over the spirits, who sin in the spirit. <strong>Gabriel</strong>, one of the holy angels, who is over Paradise and the serpents and the Cherubim. <strong>Remiel</strong>, one of the holy angels, whom God set over those who rise."
-verse="Enoch 20"
-%}
-
-{% include verse.html
-text="And those **seven holy ones** brought me and placed me on the earth before the door of my house ..."
-verse="Enoch 81:5"
-%}
-
-{% include verse.html
-text="And I raised mine eyes again to heaven, and I saw in the vision, and behold there came forth from heaven beings who were like white men: and four went forth from that place and three with them."
-verse="Enoch 87:2-3"
+text="**From its fruits life will be given to the chosen**; it will be planted towards the north, in a holy place, towards the house of the Lord, the Eternal King."
+verse="Enoch 25:5"
+version="Schodde"
 %}
 
 {% include verse.html
-text="And the Lord called those men **the seven first white ones,** and commanded that they should bring before Him..."
-verse="Enoch 90:21"
-version="Charles"
+text="**To him who overcomes I will give to eat from the tree of life**, which is in the Paradise of my God."
+verse="Revelation 2:7"
+%}
+</div>
+
+The Charles version of Enoch 25:5 states that the tree is planted in the temple, but this does not match {% include inline-verse.html verse="Revelation 22:2" text-after="." %} It also contradicts {% include inline-verse.html verse="Revelation 21:22" %}, which states that New Jerusalem does not have a temple. It is probably a mistranslation.
+{: .note}
+
+#### United with God
+
+<div class="columns">
+{% include verse.html
+text="For **I and My son will be united with them** for ever in the paths of uprightness in their lives; and ye shall have peace: rejoice, ye children of uprightness."
+verse="Enoch 105:2"
 %}
 
-### The Throne of God
+{% include verse.html
+text="Jesus answered him, “If a man loves me, he will keep my word. My Father will love him, and **we will come to him and make our home with him**."
+verse="John 14:23"
+%}
+</div>
+
+### The Heavenly Throne and the Angels
+
+#### The Throne of God
 
 <div class="columns">
 <div>
@@ -1132,143 +1055,209 @@ verse="Ezekiel 1:15"
 "Ophannin" comes from the Hebrew word {% include concordance-hebrew.html number="212" text="*ophan*" %}, meaning wheel!
 {: .note}
 
-### The Book of Life
+#### His Footstool
+
+<div class="columns">
+{% include verse.html
+text="And all the heavens are Thy throne for ever, And the whole earth Thy footstool for ever and ever."
+verse="Enoch 84:2"
+%}
+
+{% include verse.html
+text="Heaven is my throne, and the earth is my footstool. What kind of house will you build to me? Where will I rest?"
+verse="Isaiah 66:1"
+%}
+</div>
+
+#### The Seven Spirits
+
+There is a mystery that is not really answered in the canon: who or what are the seven spirits?
+
+{% include verse.html
+text="There were seven lamps of fire burning before his throne, which are **the seven Spirits of God**."
+verse="Revelation 4:5"
+%}
+
+{% include verse.html
+text="I saw in the middle of the throne and of the four living creatures, and in the middle of the elders, a Lamb standing, as though it had been slain, having seven horns and seven eyes, which are the **seven Spirits of God**, sent out into all the earth."
+verse="Revelation 5:6"
+%}
+
+{% include verse.html
+text="For, behold, the stone that I have set before Joshua: **on one stone are seven eyes**; behold, I will engrave its inscription,’ says YHWH of Armies, ‘and I will remove the iniquity of that land in one day."
+verse="Zechariah 3:9"
+%}
+
+{% include verse.html
+text="**For these seven shall rejoice**, and shall see the plumb line in the hand of Zerubbabel. **These are YHWH’s eyes, which run back and forth through the whole earth.**"
+verse="Zechariah 4:10"
+%}
+
+Interestingly, in Enoch there are seven archangels:
+
+{% include verse.html
+text="And these are the names of the holy angels who watch. <strong>Uriel</strong>, one of the holy angels, who is over the world and over Tartarus. <strong>Raphael</strong>, one of the holy angels, who is over the spirits of men. <strong>Raguel</strong>, one of the holy angels who takes vengeance on the world of the luminaries. <strong>Michael</strong>, one of the holy angels, to wit, he that is set over the best part of mankind and over chaos. <strong>Saraqael</strong>, one of the holy angels, who is set over the spirits, who sin in the spirit. <strong>Gabriel</strong>, one of the holy angels, who is over Paradise and the serpents and the Cherubim. <strong>Remiel</strong>, one of the holy angels, whom God set over those who rise."
+verse="Enoch 20"
+%}
+
+{% include verse.html
+text="And those **seven holy ones** brought me and placed me on the earth before the door of my house ..."
+verse="Enoch 81:5"
+%}
+
+{% include verse.html
+text="And I raised mine eyes again to heaven, and I saw in the vision, and behold there came forth from heaven beings who were like white men: and four went forth from that place and three with them."
+verse="Enoch 87:2-3"
+%}
+
+{% include verse.html
+text="And the Lord called those men **the seven first white ones,** and commanded that they should bring before Him..."
+verse="Enoch 90:21"
+version="Charles"
+%}
+
+### God's Power over Creation
+
+#### Nothing Too Hard for God
+
+<div class="columns">
+{% include verse.html
+text="For Thou hast made and Thou rulest all things, And **nothing is too hard for Thee** ..."
+verse="Enoch 84:3"
+%}
+
+<div>
+{% include verse.html
+text="Ah Lord YHWH! Behold, you have made the heavens and the earth by your great power and by your outstretched arm. **There is nothing too hard for you.**"
+verse="Jeremiah 32:17"
+%}
+
+{% include verse.html
+text="Behold, I am YHWH, the God of all flesh. **Is there anything too hard for me?**"
+verse="Jeremiah 32:27"
+%}
+</div>
+</div>
+
+#### The Summer and the Winter
+
+Revelations from YHWH seem to only ever mention two seasons.
+
+<div class="columns">
+{% include verse.html
+text="Behold **the summer and the winter**, how the whole earth is filled with water, and clouds and dew and rain lie upon it."
+verse="Enoch 2:3"
+%}
+
+{% include verse.html
+text="While the earth remains, seed time and harvest, and cold and heat, and **summer and winter**, and day and night will not cease."
+verse="Genesis 8:22"
+%}
+
+{% include verse.html
+text="The ravenous birds will eat them in the **summer**, and all the animals of the earth will eat them in the **winter**."
+verse="Isaiah 18:6"
+%}
+
+{% include verse.html
+text="It will happen in that day that living waters will go out from Jerusalem, half of them toward the eastern sea, and half of them toward the western sea. **It will be so in summer and in winter.**"
+verse="Zechariah 14:8"
+%}
+</div>
+
+#### Fountains of the Waters
 
 <div class="columns">
 <div>
 {% include verse.html
-text="In those days I saw the Head of Days when He seated himself upon the throne of His glory, And **the books of the living** were opened before Him ..."
-verse="Enoch 47:3"
+text="And in those days shall punishment come from the Lord of Spirits, and <span class='hl-1'>he will open all the chambers of waters which are above the heavens</span>, and of <span class='hl-2'>the fountains which are beneath the earth</span>."
+verse="Enoch 54:7"
 %}
 
 {% include verse.html
-text="And wait ye indeed till sin has passed aay, for their names shall be **blotted out of the book of life** and out of the holy books ..."
-verse="Enoch 108:3"
+text="And I saw again, and behold <span class='hl-2'>fountains were opened on the surface of that great enclosure</span>, and that water began to swell and rise upon the surface [...] And again I saw in the vision till <span class='hl-1'>those water torrents were removed from that high roof</span>, and <span class='hl-3'>the chasms of the earth were leveled up and other abysses were opened</span>. Then the water began to run down into these, till the earth became visible; but that vessel settled on the earth ..."
+verse="Enoch 89:3,6-8"
 %}
 
-<p>See also:</p>
+{% include verse.html
+text="And on that day were two monsters parted, a female monster named Leviathan, to dwell in <span class='hl-3'>the abysses of the ocean</span> <span class='hl-2'>over the fountains of the waters</span>."
+verse="Enoch 60:7-8"
+%}
 
 {% include verse.html
-text="... your names are written before the glory of the Great One."
-verse="Enoch 104:1"
+text="If He closes the <span class='hl-1'>windows of heaven</span> ..."
+verse="Enoch 101:2"
 %}
 </div>
 
 <div>
 {% include verse.html
-text="Let them be **blotted out of the book of life**, and not be written with the righteous."
-verse="Psalm 69:28"
+text="In the six hundredth year of Noah’s life, in the second month, on the seventeenth day of the month, on that day <span class='hl-2'>all the fountains of the great deep burst open</span>, and <span class='hl-1'>the sky’s windows opened</span>."
+verse="Genesis 7:11"
 %}
 
 {% include verse.html
-text="Yet now, if you will, forgive their sin—and if not, please **blot me out of your book** which you have written.”"
-verse="Exodus 32:32"
+text="<span class='hl-2'>Have you entered into the springs of the sea?</span> <span class='hl-3'>Or have you walked in the recesses of the deep?</span>"
+verse="Job 38:16"
 %}
 
 {% include verse.html
-text="He who overcomes will be arrayed in white garments, and I will in no way **blot his name out of the book of life** ..."
-verse="Revelation 3:5"
+text="<span class='hl-3'>When there were no depths</span>, I was born, when there were no springs abounding with water. Before the mountains were settled in place, before the hills, I was born; while as yet he had not made the earth, nor the fields, nor the beginning of the dust of the world. When he established the heavens, I was there. When he set a circle on the surface of the deep, when he established the clouds above, when the <span class='hl-2'>springs of the deep became strong</span> ..."
+verse="Proverbs 8:24-28"
 %}
 </div>
 </div>
 
-### The Tree of Life
-
-<div class="columns">
-{% include verse.html
-text="**From its fruits life will be given to the chosen**; it will be planted towards the north, in a holy place, towards the house of the Lord, the Eternal King."
-verse="Enoch 25:5"
-version="Schodde"
-%}
-
-{% include verse.html
-text="**To him who overcomes I will give to eat from the tree of life**, which is in the Paradise of my God."
-verse="Revelation 2:7"
-%}
-</div>
-
-The Charles version of Enoch 25:5 states that the tree is planted in the temple, but this does not match {% include inline-verse.html verse="Revelation 22:2" text-after="." %} It also contradicts {% include inline-verse.html verse="Revelation 21:22" %}, which states that New Jerusalem does not have a temple. It is probably a mistranslation.
-{: .note}
-
-### Weighed in a Balance
+#### The Rains Withheld
 
 <div class="columns">
 <div>
 {% include verse.html
-text="And after that I saw all the secrets of the heavens, and how the kingdom is divided, and how **the actions of men are weighed in the balance**."
-verse="Enoch 41:1-2"
+text="And **in the days of the sinners** the years shall be shortened, And their seed shall be tardy on their lands and fields, And all things on the earth shall alter, And shall not appear in their time: And **the rain shall be kept back And the heaven shall withhold (it)**."
+verse="Enoch 80:2"
 %}
 
 {% include verse.html
-text="And he shall judge all the works of the holy above in the heaven, And **in the balance shall their deeds be weighed**."
-verse="Enoch 61:8"
+text="And He will summon to testify against you every cloud and mist and dew and rain; for **they shall all be withheld because of you from descending upon you**, and they shall be mindful of your **sins**."
+verse="Enoch 100:11"
 %}
 </div>
 
 <div>
 {% include verse.html
-text="... **you are weighed in the balances**, and are found wanting."
-verse="Daniel 5:27"
+text="They don’t say in their heart, ‘Let’s now fear YHWH our God, who gives **rain**, both the former and the latter, in its season, who preserves to us the appointed weeks of the harvest.’ Your iniquities have turned away these things, and **your sins have withheld good from you**."
+verse="Jeremiah 5:24-25"
 %}
 
 {% include verse.html
-text="All one’s ways may be pure in one’s own eyes, but **YHWH weighs the spirit**."
-verse="Proverbs 16:2"
-version="NRSV"
-%}
-</div>
-
-<div>
-{% include verse.html
-text="Every way of a man is right in his own eyes, but **YHWH weighs the hearts**."
-verse="Proverbs 21:2"
-%}
-
-{% include verse.html
-text="If you say, “Behold, we didn’t know this,” doesn’t **he who weighs the hearts** consider it? He who keeps your soul, doesn’t he know it?"
-verse="Proverbs 24:12"
+text="**Therefore the showers have been withheld and there has been no latter rain**; yet you have had a prostitute’s forehead and you refused to be ashamed."
+verse="Jeremiah 3:3"
 %}
 </div>
 </div>
 
-### Trusting in Riches
+Contrast with the law:
+
+{% include verse.html
+text="**If you walk in my statutes and keep my commandments, and do them**, then **I will give you your rains in their season**, and the land shall yield its increase, and the trees of the field shall yield their fruit."
+verse="Leviticus 26:3-4"
+%}
+
+#### He Dries Up the Sea
 
 <div class="columns">
 {% include verse.html
-text="Woe to you, ye rich, for ye have **trusted in your riches**, And from your riches shall ye depart, Because ye have not remembered the Most High in the days of your riches. "
-verse="Enoch 94:8"
+text="Are not the entire sea and all its waters, and all its movements, the work of the Most High, and has He not set limits to its doings, and confined it throughout by the sand? **And at His reproof it is afraid and dries up, and all its fish die and all that is in it** ..."
+verse="Enoch 101:6-7"
 %}
 
 {% include verse.html
-text="He who **trusts in his riches** will fall, but the righteous shall flourish as the green leaf."
-verse="Proverbs 11:28"
-%}
-
-{% capture riches %}
-See also {% include inline-verse.html verse="Psalm 49:6" text-after="." %}
-{% endcapture %}
-{% include verse.html
-text="Behold, this is the man who didn’t make God his strength, but **trusted in the abundance of his riches**, and strengthened himself in his wickedness.”"
-verse="Psalm 52:7"
-caption=riches
+text="Behold, at my rebuke **I dry up the sea**. I make the rivers a wilderness. **Their fish stink because there is no water, and die of thirst.**"
+verse="Isaiah 50:2"
 %}
 </div>
 
-### Where Does Sin Come From?
-
-<div class="columns">
-{% include verse.html
-text="Even so sin has not been sent upon the earth, But man of himself has created it, And under a great curse shall they fall who commit it."
-verse="Enoch 98:4"
-%}
-
-{% include verse.html
-text="Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
-verse="James 1:13-15"
-%}
-</div>
-
-### Limits to the Sea
+#### Limits to the Sea
 
 <div class="columns">
 {% include verse.html
@@ -1282,35 +1271,7 @@ verse="Jeremiah 5:22"
 %}
 </div>
 
-### Curses in Deuteronomy
-
-<div class="columns">
-{% include verse.html
-text="In our troubled days we have toiled laboriously and experienced every trouble, And met with much evil and been consumed, <span class='hl-1'>And have become few and our spirit small</span>. <span class='hl-2'>And we have been destroyed and have not found any to help us even with a word</span>: We have been tortured [and destroyed], and <span class='hl-3'>not hoped to see life from day to day</span>. <span class='hl-4'>We hoped to be the head and have become the tail</span>: <span class='hl-5'>We have toiled laboriously and had no satisfaction in our toil</span>; <span class='hl-6'>And we have become the food of the sinners and the unrighteous</span>, <span class='hl-7'>And they have laid their yoke heavily upon us</span>."
-verse="Enoch 103:9-11"
-%}
-
-{% include verse.html
-text="<span class='hl-4'>YHWH will make you the head, and not the tail.</span> [...] You will grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways. <span class='hl-2'>You will only be oppressed and robbed always, and there will be no one to save you.</span> [...] <span class='hl-6'>A nation which you don’t know will eat the fruit of your ground and all of your work.</span> You will only be oppressed and crushed always [...] He will lend to you, and you won’t lend to him. <span class='hl-4'>He will be the head, and you will be the tail.</span> [...] therefore <span class='hl-5'>you will serve your enemies whom YHWH sends against you, in hunger, in thirst, in nakedness, and in lack of all things</span>. <span class='hl-7'>He will put an iron yoke on your neck until he has destroyed you.</span> [...] <span class='hl-1'>You will be left few in number</span>, even though you were as the stars of the sky for multitude, because you didn’t listen to YHWH your God’s voice. [...] <span class='hl-3'>Your life will hang in doubt before you. You will be afraid night and day, and will have no assurance of your life.</span> In the morning you will say, “I wish it were evening!” and at evening you will say, “I wish it were morning!” for the fear of your heart which you will fear, and for the sights which your eyes will see."
-verse="Deuteronomy 28:13,29,33,44,48,62,66-67"
-%}
-</div>
-
-### United with God
-
-<div class="columns">
-{% include verse.html
-text="For **I and My son will be united with them** for ever in the paths of uprightness in their lives; and ye shall have peace: rejoice, ye children of uprightness."
-verse="Enoch 105:2"
-%}
-
-{% include verse.html
-text="Jesus answered him, “If a man loves me, he will keep my word. My Father will love him, and **we will come to him and make our home with him**."
-verse="John 14:23"
-%}
-</div>
-
-### Can a Man Compare to God?
+#### Can a Man Compare to God?
 
 <div class="columns">
 {% include verse.html
@@ -1360,6 +1321,59 @@ text="<span class='hl-8'>YHWH brought him outside, and said, “Look now toward 
 verse="Genesis 15:5"
 %}
 </div>
+</div>
+
+### Sin and the Human Condition
+
+#### Where Does Sin Come From?
+
+<div class="columns">
+{% include verse.html
+text="Even so sin has not been sent upon the earth, But man of himself has created it, And under a great curse shall they fall who commit it."
+verse="Enoch 98:4"
+%}
+
+{% include verse.html
+text="Let no man say when he is tempted, “I am tempted by God,” for God can’t be tempted by evil, and he himself tempts no one. But each one is tempted when he is drawn away by his own lust and enticed. Then the lust, when it has conceived, bears sin. The sin, when it is full grown, produces death."
+verse="James 1:13-15"
+%}
+</div>
+
+#### Trusting in Riches
+
+<div class="columns">
+{% include verse.html
+text="Woe to you, ye rich, for ye have **trusted in your riches**, And from your riches shall ye depart, Because ye have not remembered the Most High in the days of your riches. "
+verse="Enoch 94:8"
+%}
+
+{% include verse.html
+text="He who **trusts in his riches** will fall, but the righteous shall flourish as the green leaf."
+verse="Proverbs 11:28"
+%}
+
+{% capture riches %}
+See also {% include inline-verse.html verse="Psalm 49:6" text-after="." %}
+{% endcapture %}
+{% include verse.html
+text="Behold, this is the man who didn’t make God his strength, but **trusted in the abundance of his riches**, and strengthened himself in his wickedness.”"
+verse="Psalm 52:7"
+caption=riches
+%}
+</div>
+
+#### Curses in Deuteronomy
+
+<div class="columns">
+{% include verse.html
+text="In our troubled days we have toiled laboriously and experienced every trouble, And met with much evil and been consumed, <span class='hl-1'>And have become few and our spirit small</span>. <span class='hl-2'>And we have been destroyed and have not found any to help us even with a word</span>: We have been tortured [and destroyed], and <span class='hl-3'>not hoped to see life from day to day</span>. <span class='hl-4'>We hoped to be the head and have become the tail</span>: <span class='hl-5'>We have toiled laboriously and had no satisfaction in our toil</span>; <span class='hl-6'>And we have become the food of the sinners and the unrighteous</span>, <span class='hl-7'>And they have laid their yoke heavily upon us</span>."
+verse="Enoch 103:9-11"
+%}
+
+{% include verse.html
+text="<span class='hl-4'>YHWH will make you the head, and not the tail.</span> [...] You will grope at noonday, as the blind gropes in darkness, and you shall not prosper in your ways. <span class='hl-2'>You will only be oppressed and robbed always, and there will be no one to save you.</span> [...] <span class='hl-6'>A nation which you don’t know will eat the fruit of your ground and all of your work.</span> You will only be oppressed and crushed always [...] He will lend to you, and you won’t lend to him. <span class='hl-4'>He will be the head, and you will be the tail.</span> [...] therefore <span class='hl-5'>you will serve your enemies whom YHWH sends against you, in hunger, in thirst, in nakedness, and in lack of all things</span>. <span class='hl-7'>He will put an iron yoke on your neck until he has destroyed you.</span> [...] <span class='hl-1'>You will be left few in number</span>, even though you were as the stars of the sky for multitude, because you didn’t listen to YHWH your God’s voice. [...] <span class='hl-3'>Your life will hang in doubt before you. You will be afraid night and day, and will have no assurance of your life.</span> In the morning you will say, “I wish it were evening!” and at evening you will say, “I wish it were morning!” for the fear of your heart which you will fear, and for the sights which your eyes will see."
+verse="Deuteronomy 28:13,29,33,44,48,62,66-67"
+%}
 </div>
 
 {% include image.html name="evidence-that-enoch-is-scripture/2.jpeg" alt="Evidence that Enoch is Scripture" width="741" %}
