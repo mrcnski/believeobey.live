@@ -170,8 +170,6 @@ $verse-border-width: 2.5px;
 $verse-padding-width: calc($spacing-unit / 2);
 $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
 
-$simple-verse-margin: calc($spacing-unit * 3 / 16);
-
 .verse-wrapper {
     margin-left: $verse-wrapper-margin;
     margin-right: $verse-wrapper-margin;
@@ -209,6 +207,14 @@ $simple-verse-margin: calc($spacing-unit * 3 / 16);
         margin-left: $verse-caption-margin;
         margin-right: $verse-caption-margin;
         text-align: left;
+        // `balance` (inherited from .caption) is for centered text;
+        // left-aligned reads better filling the line naturally. `wrap` is the
+        // default wrapping keyword accepted in all browsers where `balance` is,
+        // so it reliably overrides the inherited balance. `pretty` is a
+        // progressive enhancement (avoids a lone short last word) for browsers
+        // that support it - otherwise keep `wrap`.
+        text-wrap: wrap;
+        text-wrap: pretty;
     }
     + .empty-caption {
         margin-bottom: calc($spacing-unit / 2 + 1px);
@@ -219,16 +225,38 @@ $simple-verse-margin: calc($spacing-unit * 3 / 16);
     }
 }
 
-table .simple-verse-wrapper {
-    margin-top: $simple-verse-margin;
+table {
+    $table-base-margin: calc($spacing-unit * 3 / 16);
+    $table-caption-margin: calc($spacing-unit / 2);
 
-    .caption {
-        margin-bottom: $simple-verse-margin;
-        margin-left: 0;
-        margin-right: 0;
+    .caption, .note {
+        margin-top: $table-base-margin;
+        margin-bottom: $table-base-margin;
+
+        + .simple-verse-wrapper {
+            margin-top: $table-caption-margin;
+        }
     }
-    .empty-caption {
-        margin-bottom: $simple-verse-margin;
+
+    .simple-verse-wrapper {
+        margin-top: $table-base-margin;
+        margin-bottom: $table-base-margin;
+
+        .caption {
+            margin-bottom: $table-base-margin;
+            margin-left: 0;
+            margin-right: 0;
+        }
+        .empty-caption {
+            margin-bottom: $table-base-margin;
+        }
+
+        + .simple-verse-wrapper {
+            margin-top: calc(3 * $spacing-unit / 8);
+        }
+        + .caption, + .note {
+            margin-top: $table-caption-margin;
+        }
     }
 }
 
@@ -263,6 +291,7 @@ table .simple-verse-wrapper {
     margin-bottom: calc($spacing-unit / 2);
     display: block;
     text-align: center;
+    text-wrap: balance;
     font-size: $small-font-size;
     color: $dark-gray;
 
@@ -279,9 +308,9 @@ img {
     }
 }
 
-/* Todo, Notes, Update */
+/* Todo */
 
-.todo, .note, .update {
+.todo {
     padding: calc($spacing-unit / 4) calc($spacing-unit / 2);
     margin-top: calc($spacing-unit / 4);
     margin-bottom: calc($spacing-unit * 3/4);
@@ -290,32 +319,39 @@ img {
 
     overflow: auto;
 
+    border: 2px dashed $red;
+
     &::before {
         display: block;
         margin-bottom: calc($spacing-unit / 8);
         font-weight: $bold-font-weight;
-    }
-}
-.todo {
-    border: 2px dashed $red;
-
-    &::before {
         content: "TODO:";
     }
 }
-.note {
-    border: 1px solid $green;
+
+/* Notes, Update — caption-style, with an inline label prepended */
+
+.note, .update {
+    margin-bottom: calc($spacing-unit / 2);
+    display: block;
+    text-align: center;
+    text-wrap: balance;
+    font-size: $small-font-size;
+    color: $dark-gray;
+
+    @include media-query($on-palm) {
+        font-size: $smaller-font-size;
+    }
 
     &::before {
-        content: "Note:";
+        font-weight: $bold-font-weight;
     }
 }
-.update {
-    border: 1px solid $red;
-
-    &::before {
-        content: "Update:";
-    }
+.note::before {
+    content: "Note: ";
+}
+.update::before {
+    content: "Update: ";
 }
 
 /* Footnotes */
@@ -799,6 +835,9 @@ $post-meta-padding: calc($spacing-unit / 4);
         margin-left: $columns-caption-margin;
         margin-right: $columns-caption-margin;
         text-align: left;
+        // Override the `balance` inherited from .caption. See `.verse + .caption`.
+        text-wrap: wrap;
+        text-wrap: pretty;
     }
 
     @include media-query($on-palm) {
