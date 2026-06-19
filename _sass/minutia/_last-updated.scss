@@ -1,0 +1,78 @@
+/* "Last Updated": an inline, collapsible commit history shown under the post
+   meta. It uses the shared disclosure mechanism (_disclosure.scss +
+   disclosure.html) but is styled independently of the Table of Contents — full
+   width, small, italic, link-blue, with no disclosure arrow (the blue text
+   signals it's clickable). */
+
+.last-updated {
+    margin-top: 0;
+    margin-bottom: calc(3 * $spacing-unit / 4);
+    padding-left: $post-meta-padding;
+
+    .disclosure-label {
+        cursor: pointer;
+
+        /* block (not inline): keeps the space before the date, and makes the
+           label's measured height equal the space it occupies, so the
+           open/close animation lands without an end snap. */
+        display: block;
+        width: fit-content;
+
+        color: $link;
+        font-size: $smaller-font-size;
+        font-style: italic;
+
+        -webkit-user-select: none;
+        user-select: none;
+
+        &:hover {
+            opacity: $hover-opacity;
+        }
+    }
+
+    .disclosure-panel {
+        padding-top: 4px;
+
+        /* Cap the height for long histories. This is the element the disclosure
+           JS measures, so the animation's end height reflects the cap.
+           overflow-y: auto avoids a scrollbar being reserved when content fits. */
+        max-height: 16em;
+        overflow-y: auto;
+
+        ul.commit-history {
+            width: auto;
+
+            padding-left: 1.4em;
+            margin: 0;
+
+            font-size: $smaller-font-size;
+            line-height: 1.6;
+
+            li {
+                margin-bottom: 2px;
+
+                /* Vertically center the caret on the line. */
+                &::before {
+                    top: 50%;
+                    line-height: 1;
+                    transform: translateY(-50%);
+                }
+
+                a {
+                    /* Keep a fixed-width date column so the em-dashes and commit
+                       messages align. */
+                    display: inline-block;
+                    min-width: 6.5em;
+                    padding: 0;
+                    border-radius: 0;
+                    white-space: nowrap;
+
+                    &:hover {
+                        background: none;
+                        padding-left: 0;
+                    }
+                }
+            }
+        }
+    }
+}

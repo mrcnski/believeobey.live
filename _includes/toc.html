@@ -1,8 +1,13 @@
-<div class="toc-wrapper">
-  <input class="toc-check" type="checkbox">
-  <label class="toc-label" for="toc-check">{{ include.text }}</label>
+<div class="disclosure disclosure--overlay toc">
+  <input class="disclosure-check" type="checkbox">
+  <label class="disclosure-label">
+    <svg class="toc-icon" viewBox="0 0 16 16" width="16" height="16" aria-hidden="true">
+      <path d="M2 4a1 1 0 100-2 1 1 0 000 2zm3.75-1.5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zm0 5a.75.75 0 000 1.5h8.5a.75.75 0 000-1.5h-8.5zM3 8a1 1 0 11-2 0 1 1 0 012 0zm-1 6a1 1 0 100-2 1 1 0 000 2z"></path>
+    </svg>
+    {{ include.text }}
+  </label>
 
-  <div class="toc-table">
+  <div class="disclosure-panel">
     {{ content | toc_only }}
   </div>
 </div>

@@ -1,0 +1,155 @@
+<script>
+ // Disclosure for `.disclosure` elements. Two modes:
+ //  - overlay (`.disclosure--overlay`, the floating Table of Contents): just
+ //    toggles the checkbox; the open/close is a compositor-friendly CSS
+ //    opacity/transform transition (see _toc.scss), so it stays smooth. Also
+ //    closes on link-pick, outside-click and Escape.
+ //  - inline (default, "Last Updated"): animates the WRAPPER height between the
+ //    label and label+panel so the content below reflows. Based on
+ //    https://css-tricks.com/how-to-animate-the-details-element/, with
+ //    fill:'forwards' + an ordered commit on finish to avoid an end-of-animation
+ //    snap, and sub-pixel heights to avoid a 1px rounding jump.
+ class Disclosure {
+     constructor(el) {
+         // Store the elements (scoped to this wrapper).
+         this.el = el;
+         this.check = el.querySelector('.disclosure-check');
+         this.label = el.querySelector('.disclosure-label');
+         this.panel = el.querySelector('.disclosure-panel');
+         if (!this.check || !this.label || !this.panel) {
+             throw 'disclosure: missing .disclosure-check / .disclosure-label / .disclosure-panel';
+         }
+
+         this.overlay = el.classList.contains('disclosure--overlay');
+
+         // Store the animation object (so we can cancel it if needed)
+         this.animation = null;
+         this.isClosing = false;
+         this.isExpanding = false;
+
+         this.label.addEventListener('click', (e) => this.onClick(e));
+         this.setExpanded(this.check.checked);
+
+         if (this.overlay) {
+             // Collapse after picking a destination, and on outside-click / Esc,
+             // so the floating panel never lingers over the page.
+             this.panel.addEventListener('click', (e) => {
+                 if (e.target.closest('a')) this.close();
+             });
+             document.addEventListener('click', (e) => {
+                 if (this.check.checked && !this.el.contains(e.target)) this.close();
+             });
+             document.addEventListener('keydown', (e) => {
+                 if (e.key === 'Escape' && this.check.checked) this.close();
+             });
+         }
+     }
+
+     setExpanded(open) {
+         this.label.setAttribute('aria-expanded', open ? 'true' : 'false');
+     }
+
+     setOpen(open) {
+         this.check.checked = open;
+         this.setExpanded(open);
+     }
+
+     close() {
+         if (this.check.checked) {
+             this.setOpen(false);
+         }
+     }
+
+     onClick(e) {
+         // Stop default behaviour from the browser
+         e.preventDefault();
+
+         // Overlay: CSS transitions the panel; just flip the state.
+         if (this.overlay) {
+             this.setOpen(!this.check.checked);
+             return;
+         }
+
+         // Inline: animate the wrapper height.
+         this.el.style.overflow = 'hidden';
+         if (this.isClosing || !this.check.checked) {
+             this.open();
+         } else if (this.isExpanding || this.check.checked) {
+             this.shrink();
+         }
+     }
+
+     /* --- Inline (height) animation, used by "Last Updated". --- */
+
+     height(el) {
+         // Sub-pixel height, so the animation's end value matches the natural
+         // (auto) height exactly and doesn't jump by a rounded pixel.
+         return el.getBoundingClientRect().height;
+     }
+
+     open() {
+         // Fix the current (collapsed) height, then reveal the panel so the
+         // wrapper can animate from collapsed to label+panel.
+         this.el.style.height = `${this.height(this.el)}px`;
+         this.check.checked = true;
+         this.setExpanded(true);
+         window.requestAnimationFrame(() => this.expand());
+     }
+
+     animateHeight(startHeight, endHeight, open) {
+         if (this.animation) {
+             this.animation.cancel();
+         }
+
+         const duration = 200 + 0.5 * Math.abs(endHeight - startHeight);
+
+         // fill: 'forwards' keeps the end height after the animation finishes,
+         // so the element never reverts to its (collapsed) inline height for a
+         // frame before onfinish runs.
+         this.animation = this.el.animate(
+             { height: [`${startHeight}px`, `${endHeight}px`] },
+             { duration, easing: 'ease-out', fill: 'forwards' }
+         );
+         this.animation.onfinish = () => this.onAnimationFinish(open);
+         this.animation.oncancel = () => {
+             this.isExpanding = false;
+             this.isClosing = false;
+         };
+     }
+
+     expand() {
+         this.isExpanding = true;
+         this.animateHeight(this.height(this.el), this.height(this.label) + this.height(this.panel), true);
+     }
+
+     shrink() {
+         this.isClosing = true;
+         this.animateHeight(this.height(this.el), this.height(this.label), false);
+     }
+
+     onAnimationFinish(open) {
+         // 1) Set the open/closed state so the element's natural (auto) height
+         //    equals the height we just animated to.
+         this.check.checked = open;
+         this.setExpanded(open);
+         // 2) Drop the fixed height/overflow so the element is auto-height again.
+         this.el.style.height = this.el.style.overflow = '';
+         // 3) Release the fill:'forwards' hold; it reverts to the now-matching
+         //    auto height, so there is no visible snap in either direction.
+         if (this.animation) {
+             this.animation.cancel();
+         }
+         this.animation = null;
+         this.isClosing = false;
+         this.isExpanding = false;
+     }
+ }
+
+ function addDisclosures() {
+     document.querySelectorAll('.disclosure').forEach((el) => {
+         new Disclosure(el);
+     });
+ }
+
+ document.addEventListener('DOMContentLoaded', addDisclosures);
+</script>

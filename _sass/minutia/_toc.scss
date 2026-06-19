@@ -1,99 +1,162 @@
-$toc-margin-bottom: calc(3 * $spacing-unit / 4);
-$toc-arrow-padding: 2px;
+/* Floating page controls: the Table of Contents and the "back to top" button,
+   pinned bottom-left. The TOC panel overlays the page (it opens upward) instead
+   of shifting content down, and reveals with a compositor-friendly
+   opacity/transform transition so it stays smooth. The shared open/close
+   mechanism lives in _disclosure.scss and disclosure.html; "Last Updated" is
+   styled separately in _last-updated.scss. */
 
-.toc-wrapper {
-    margin-bottom: $toc-margin-bottom;
+@mixin floating-pill {
+    margin: 0;
+    padding: 7px 14px;
+    border: 1px solid $mild-gray;
+    border-radius: 999px;
+    background-color: $background-color;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
 
-    /* The checkbox */
-    input.toc-check {
-        display: none; /* hide the checkbox */
+    color: $link;
+    font-size: $small-font-size;
+    line-height: 1.2;
+    white-space: nowrap;
 
-        /* Collapsed state (TOC hidden) */
-        & ~ .toc-label {
-            ~ .toc-table {
-                display: none;
-            }
-        }
+    transition: background-color 0.25s ease, box-shadow 0.25s ease;
+}
 
-        /* Expanded state (TOC visible) */
-        &:checked ~ .toc-label {
-            &:before {
-                transform: rotate(90deg);
-            }
+.page-controls {
+    position: fixed;
+    /* Hug the viewport edge while the content column fills the screen; once
+       margins open up on wide screens, ride the column's left edge so the
+       control stays tethered to the article instead of drifting out into the
+       empty left margin. */
+    left: max(calc($spacing-unit / 2), calc(50vw - ($content-width + $spacing-unit * 4) / 2));
+    bottom: calc($spacing-unit / 2 + env(safe-area-inset-bottom, 0px));
+    z-index: 50;
 
-            ~ .toc-table {
-                display: block;
-            }
-        }
+    display: flex;
+    align-items: flex-end;
+    gap: calc($spacing-unit / 4);
+
+    /* Let clicks pass through the empty corner; keep the controls clickable. */
+    pointer-events: none;
+    > * {
+        pointer-events: auto;
     }
 
-    /* The button */
-    .toc-label {
-        cursor: pointer;
+    @include media-query($on-palm) {
+        left: calc($spacing-unit / 4);
+        bottom: calc($spacing-unit / 4 + env(safe-area-inset-bottom, 0px));
+    }
+}
+
+/* "Back to top": secondary, hidden until the page is scrolled (toggled by
+   to-top.js). */
+.to-top {
+    @include floating-pill;
+
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(6px);
+    transition: opacity 0.25s ease, transform 0.25s ease, visibility 0.25s ease,
+                background-color 0.25s ease, box-shadow 0.25s ease;
+
+    &.is-visible {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+
+    &:hover {
+        background-color: $hover-background;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.16);
+    }
+}
+
+/* The floating Table of Contents: a prominent, accent-coloured pill. */
+.toc {
+    position: relative; /* anchor for the overlay panel */
+
+    .disclosure-label {
         display: inline-flex;
-        position: relative;
-        width: fit-content;
+        align-items: center;
+        gap: 8px;
 
-        padding-left: calc($spacing-unit * 1/2 + $toc-arrow-padding);
+        margin: 0;
+        padding: 9px 16px;
+        border-radius: 999px;
 
-        color: $link;
-        font-size: $content-font-size;
+        /* A hair lighter than $blue ($light-blue at +10% was too light). */
+        background-color: lighten($blue, 5%);
+        color: #fff;
+        box-shadow: 0 3px 14px rgba($blue, 0.4);
 
-        /* Prevent text selection */
-        -webkit-touch-callout: none;
+        font-size: $small-font-size;
+        font-weight: $bold-font-weight;
+        line-height: 1.2;
+        white-space: nowrap;
+        cursor: pointer;
+
         -webkit-user-select: none;
-        -khtml-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
         user-select: none;
 
-        &:hover {
-            opacity: $hover-opacity;
+        transition: background-color 0.2s ease, box-shadow 0.2s ease,
+                    transform 0.1s ease;
+
+        .toc-icon {
+            flex: none;
+            fill: currentColor;
         }
 
-        /* Animated arrow */
-        &:before {
-            position: absolute;
-
-            content: '';
-
-            border-width: .4rem;
-            border-style: solid;
-            border-color: transparent transparent transparent $link;
-            top: 7px;
-            left: $toc-arrow-padding;
-
-            transform: rotate(0);
-            transform-origin: .2rem 50%;
-
-            transition: .25s transform ease;
+        &:hover {
+            background-color: $blue;
+            box-shadow: 0 4px 18px rgba($blue, 0.5);
+        }
+        &:active {
+            transform: translateY(1px);
         }
     }
 
-    /* The table */
-    .toc-table {
-        padding-top: calc($toc-margin-bottom / 2);
+    /* The overlay panel: floats above the pill, over the page, anchored to the
+       left so it opens up-and-rightward into the page. */
+    .disclosure-panel {
+        position: absolute;
+        left: 0;
+        bottom: calc(100% + 10px);
+
+        width: max-content;
+        max-width: min(82vw, 22rem);
+        max-height: min(60vh, 30rem);
+        overflow: hidden auto; /* vertical scroll for long contents */
+
+        padding: calc($spacing-unit / 4) calc($spacing-unit / 3);
+
+        background-color: $background-color;
+        border: 1px solid $mild-gray;
+        border-radius: $border-radius;
+        box-shadow: 0 8px 28px rgba(0, 0, 0, 0.22);
+
+        text-align: left;
+
+        /* Closed: hidden, ready to fade + scale in from the bottom-left corner.
+           (Compositor-driven, so opening is smooth.) */
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px) scale(0.96);
+        transform-origin: bottom left;
+        pointer-events: none;
+        transition: opacity 0.18s ease, transform 0.18s ease, visibility 0.18s ease;
 
         ul {
             padding-left: calc($spacing-unit * 3/4);
-            margin-left: calc($spacing-unit / 2);
-            margin-bottom: 0;
-            width: fit-content;
+            margin: 0;
 
             font-size: $base-font-size;
             text-align: left;
 
             position: relative;
-            overflow: hidden;
-
-            @include media-query($on-palm) {
-                width: auto;
-            }
 
             li {
                 padding: 0;
                 margin: 0;
-                // margin-bottom: calc($spacing-unit / 4);
                 position: relative;
 
                 a {
@@ -102,18 +165,20 @@ $toc-arrow-padding: 2px;
                     display: block;
                     border-radius: 4px;
 
-                    padding: 4px 4px;
-                    padding-right: 12px;
+                    padding: 4px 12px 4px 4px;
                     text-decoration: none;
+                    /* Slide on hover with transform (not padding) so it never
+                       changes the link's width. Otherwise, `width: max-content`
+                       would re-measure and the whole panel would expand. */
                     transition: color 0.3s ease,
                                 background-color 0.3s ease,
-                                padding-left 0.3s ease;
+                                transform 0.2s ease;
                     color: $link;
 
                     &:hover {
                         color: $link;
                         background-color: $hover-background;
-                        padding-left: 12px;
+                        transform: translateX(6px);
                     }
                 }
             }
@@ -122,7 +187,7 @@ $toc-arrow-padding: 2px;
                 top: 3px;
             }
 
-            /* Nested list styling */
+            /* Nested levels */
             ul {
                 margin-top: 4px;
                 margin-bottom: 4px;
@@ -141,7 +206,7 @@ $toc-arrow-padding: 2px;
                 }
 
                 ul {
-                    margin-left: calc($spacing-unit * 0.8);
+                    margin-left: calc($spacing-unit * 0.5);
 
                     li a {
                         font-size: 0.9em;
@@ -151,75 +216,12 @@ $toc-arrow-padding: 2px;
             }
         }
     }
-}
 
-/* "Last Updated" reuses the TOC accordion: full-width, smaller, link-blue,
-   with no disclosure arrow (the blue text signals it's clickable). */
-.toc-wrapper.last-updated {
-    margin-top: 0;
-    margin-bottom: calc(3 * $spacing-unit / 4);
-    padding-left: $post-meta-padding;
-
-    .toc-label {
-        /* block (not the base inline-flex): keeps the space before the date,
-           and makes the label's measured height equal the space it occupies,
-           so the open/close animation lands without an end snap. */
-        display: block;
-        width: fit-content;
-        padding-left: 0;
-        font-size: $smaller-font-size;
-        font-style: italic;
-
-        /* No disclosure arrow. */
-        &:before {
-            display: none;
-        }
-    }
-
-    .toc-table {
-        padding-top: 4px;
-
-        /* Cap the height for long histories. This is the element the accordion JS
-           measures, so the animation's end height reflects the cap. overflow-y:
-           auto here avoids a scrollbar reserved when content fits. */
-        max-height: 16em;
-        overflow-y: auto;
-
-        ul.commit-history {
-            width: auto;
-
-            padding-left: 1.4em;
-            margin: 0;
-
-            font-size: $smaller-font-size;
-            line-height: 1.6;
-
-            li {
-                margin-bottom: 2px;
-
-                /* Vertically center the caret on the line (the TOC's top: 3px
-                   is tuned for its larger font/line-height). */
-                &::before {
-                    top: 50%;
-                    line-height: 1;
-                    transform: translateY(-50%);
-                }
-
-                a {
-                    /* Undo the TOC's block-style links, but keep a fixed-width
-                       date column so the em-dashes and commit messages align. */
-                    display: inline-block;
-                    min-width: 6.5em;
-                    padding: 0;
-                    border-radius: 0;
-                    white-space: nowrap;
-
-                    &:hover {
-                        background: none;
-                        padding-left: 0;
-                    }
-                }
-            }
-        }
+    /* Open: fade + scale in. */
+    .disclosure-check:checked ~ .disclosure-panel {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0) scale(1);
+        pointer-events: auto;
     }
 }

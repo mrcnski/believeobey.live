@@ -1,8 +1,8 @@
 {% assign date_format = site.minutia.date_format | default: "%b %-d, %Y" %}
-<div class="toc-wrapper last-updated">
-  <input class="toc-check" type="checkbox">
-  <label class="toc-label">Last Updated: <time datetime="{{ page | last_modified_at_with_deps | date_to_xmlschema }}" itemprop="dateModified">{{ page | last_modified_at_with_deps | date: date_format }}</time></label>
-  <div class="toc-table">
+<div class="disclosure last-updated">
+  <input class="disclosure-check" type="checkbox">
+  <label class="disclosure-label">Last Updated: <time datetime="{{ page | last_modified_at_with_deps | date_to_xmlschema }}" itemprop="dateModified">{{ page | last_modified_at_with_deps | date: date_format }}</time></label>
+  <div class="disclosure-panel">
     <ul class="commit-history">
       {% assign history = page | merged_commits %}
       {% for c in history %}

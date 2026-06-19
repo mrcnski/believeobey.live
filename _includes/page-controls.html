@@ -1,0 +1,7 @@
+<!-- Fixed bottom-left cluster: (when present) the floating Table of Contents +
+     "back to top". The TOC's panel overlays the page instead of shifting it;
+     the to-top button appears once you scroll down (see to-top.js). -->
+<div class="page-controls">
+  {% if page.toc %}{% include toc.html text="Contents" %}{% endif %}
+  <button type="button" class="to-top" aria-label="Back to top">&#8593;&nbsp;Top</button>
+</div>

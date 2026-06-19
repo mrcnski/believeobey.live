@@ -1,0 +1,25 @@
+/* Shared disclosure mechanism.
+   Used by the floating Table of Contents (`.toc`) and "Last Updated"
+   (`.last-updated`). A hidden checkbox holds the open/closed state; the JS in
+   `_includes/disclosure.html` drives the open/close. Type-specific looks live in
+   `_toc.scss` and `_last-updated.scss`. */
+
+.disclosure {
+    /* Hide the checkbox itself (it is only a state holder, toggled by JS). */
+    .disclosure-check {
+        display: none;
+    }
+
+    /* Inline disclosures (e.g. "Last Updated") show/hide the panel with display,
+       and the JS animates the wrapper height. Overlay disclosures (the TOC) keep
+       the panel in the layout and transition it with opacity/transform instead
+       (see _toc.scss), so they are excluded here. */
+    &:not(.disclosure--overlay) {
+        .disclosure-check ~ .disclosure-panel {
+            display: none;
+        }
+        .disclosure-check:checked ~ .disclosure-panel {
+            display: block;
+        }
+    }
+}
