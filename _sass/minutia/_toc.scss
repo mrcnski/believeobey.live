@@ -179,6 +179,12 @@ $toc-arrow-padding: 2px;
     .toc-table {
         padding-top: 4px;
 
+        /* Cap the height for long histories. This is the element the accordion JS
+           measures, so the animation's end height reflects the cap. overflow-y:
+           auto here avoids a scrollbar reserved when content fits. */
+        max-height: 16em;
+        overflow-y: auto;
+
         ul.commit-history {
             width: auto;
 

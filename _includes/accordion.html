@@ -67,12 +67,15 @@
          if (this.animation) {
              this.animation.cancel();
          }
+
+         const duration = 200 + 0.5 * Math.abs(endHeight - startHeight);
+
          // fill: 'forwards' keeps the end height after the animation finishes,
          // so the element never reverts to its (collapsed) inline height for a
          // frame before onfinish runs.
          this.animation = this.el.animate(
              { height: [`${startHeight}px`, `${endHeight}px`] },
-             { duration: 400, easing: 'ease-out', fill: 'forwards' }
+             { duration, easing: 'ease-out', fill: 'forwards' }
          );
          this.animation.onfinish = () => this.onAnimationFinish(open);
          this.animation.oncancel = () => {
