@@ -6,6 +6,10 @@ hidden: false
 image: evidence-that-enoch-is-scripture/1.jpeg
 ---
 
+Quotations from the Book of Enoch are taken from the translation of R.H. Charles.
+{: .caption}
+
+
 While I believe that most of Enoch is Scripture, I have found what seem to be corruptions and insertions. In particular, the verses where Noah is speaking do not seem to belong to Enoch, and even contradict the rest of the book. I hope to do a separate study on this.
 {: .note}
 
@@ -1125,7 +1129,8 @@ verse="Ezekiel 1:15"
 </div>
 </div>
 
-**Note:** "Ophannin" comes from the Hebrew word {% include concordance-hebrew.html number="212" text="*ophan*" %}, meaning wheel!
+"Ophannin" comes from the Hebrew word {% include concordance-hebrew.html number="212" text="*ophan*" %}, meaning wheel!
+{: .note}
 
 ### The Book of Life
 
@@ -1427,9 +1432,9 @@ text="The waters continually receded from the earth. **After the end of one hund
 verse="Genesis 8:3-4"
 %}
 </div>
-<p class="caption">
+
 150 days passed. Two days later (accounting for intercalary days in months 3 and 6) marked the completion of 5 months. This is not possible in the lunar calendar, based on moon cycles, where each month has 29.5 days on average. Five months in that system would be 147 or 148 days.
-</p>
+{: .caption}
 
 {% capture months %}
 1260 days divided by 42 months is 30 days per month. See also {% include inline-verse.html verse="Revelation 12:6,14" text-after="." %}
