@@ -608,13 +608,27 @@ $post-meta-padding: calc($spacing-unit / 4);
 .post-header-container {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start; /* keep categories pinned top-right as the accordion grows */
+    align-items: flex-start; /* keep categories aligned to the top of the meta row */
     gap: 1rem;
     margin-bottom: calc(3 * $spacing-unit / 4);
 
     /* Tuck "Last Updated" right under the meta row when it follows. */
     &:has(+ .last-updated) {
         margin-bottom: 0;
+    }
+
+    /* On narrow screens, drop the categories onto their own line below the
+       meta, left-aligned (rather than stacking them up the right edge). */
+    @include media-query(430px) {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: calc($spacing-unit / 4);
+
+        /* Categories are now the last line, so restore a gap before
+           "Last Updated" (the desktop rule above collapses it to 0). */
+        &:has(+ .last-updated) {
+            margin-bottom: calc($spacing-unit / 4);
+        }
     }
 
     .post-categories {
@@ -627,10 +641,8 @@ $post-meta-padding: calc($spacing-unit / 4);
         padding-right: $post-meta-padding;
 
         @include media-query(430px) {
-            flex-direction: column;
-            align-items: flex-end;
-            justify-content: center;
-            gap: 0.25rem;
+            padding-left: $post-meta-padding;
+            padding-right: 0;
         }
     }
 }
@@ -834,12 +846,14 @@ $post-meta-padding: calc($spacing-unit / 4);
     @include media-query($on-palm) {
         &[data-columns="3"] {
             flex-direction: column;
+            align-items: stretch; /* left-align the stacked verses */
         }
     }
 
     @include media-query($on-laptop) {
         &[data-columns="4"] {
             flex-direction: column;
+            align-items: stretch; /* left-align the stacked verses */
         }
     }
 }
