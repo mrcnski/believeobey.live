@@ -11,7 +11,6 @@ On this page I test the final portion of Enoch's epic animal prophecy, found in 
 
 Also check out {% include study-link.html url="/evidence-that-enoch-is-scripture" text="my study on whether the book of Enoch is Scripture" %}!
 
-
 {% include image.html
 name="enochs-animal-prophecy/1.jpeg"
 class="print-nodisplay"
@@ -214,7 +213,9 @@ text="For the Son of Man will come in the glory of his Father with his angels, a
 verse="Matthew 16:27-28"
 %}
 
+<div class="caption">
 See my study <a href="/the-son-already-returned">The Son Already Returned</a>.
+</div>
 </td>
 </tr>
 
@@ -296,7 +297,9 @@ text="And after that there shall be another, the eighth week, that of righteousn
 verse="Enoch 91:12-14"
 %}
 
+<div class="note">
 The judgment of this week is distinct from the devil's judgment later ({% include inline-verse.html verse="Enoch 90:24" %}).
+</div>
 </td>
 </tr>
 
@@ -333,7 +336,9 @@ text="These are being prepared for the hosts of Azazel, so that they may take th
 verse="Enoch 54:5-6"
 %}
 
+<div class="note">
 The binding of the Watchers here seems to take place before the flood, but "<i>that great day</i>" is referring to their final, future punishment.
+</div>
 </td>
 </tr>
 
@@ -405,7 +410,9 @@ verse="Enoch 90:25"
 %}
 </td>
 <td>
+<div class="caption">
 The shepherds are cast into that same fiery abyss as the stars in the verse above. This is the visiting of the host of heaven foretold above in {% include inline-verse.html verse="Isaiah 24:22" %}, "<em>after many days they will be visited.</em>"
+</div>
 </td>
 </tr>
 
@@ -555,7 +562,9 @@ text="Then your people will all be righteous. They will inherit the land forever
 verse="Isaiah 60:21"
 %}
 
+<div class="caption">
 See also {% include inline-verse.html verse="Revelation 6:11" %} and {% include inline-verse.html verse="Revelation 7:9,13-14" text-after="." %}
+</div>
 </td>
 </tr>
 
@@ -627,7 +636,9 @@ text="... and when you turn to the right hand, and when you turn to the left, yo
 verse="Isaiah 30:21,26"
 %}
 
+<div class="caption">
 Note the reference to sevenfold light, which alerts us that this prophecy in Isaiah is about the new heaven and new earth:
+</div>
 
 {% include simple-verse.html
 text="And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels. And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give sevenfold light."
@@ -673,7 +684,9 @@ text="And I saw till all their generations were transformed, and they all became
 verse="Enoch 90:38"
 %}
 
+<div class="caption">
 Charles renders this "lamb," but that is a conjectural emendation. The manuscripts read the Ethiopic <i>nagar</i> ("word"), most likely a garbling of the Aramaic <i>re'em</i> (the wild ox, or aurochs). A Greek translator rendered <i>rhēma</i> ("word"), which then passed into Ethiopic as <i>nagar</i>. The most probable reading is "wild ox," whose great black horns match the description here and echo {% include inline-verse.html verse="Deuteronomy 33:17" %} above: the firstborn bull whose "horns are the horns of the wild ox."
+</div>
 </td>
 <td>
 </td>
