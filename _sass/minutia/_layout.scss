@@ -207,14 +207,7 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
         margin-left: $verse-caption-margin;
         margin-right: $verse-caption-margin;
         text-align: left;
-        // `balance` (inherited from .caption) is for centered text;
-        // left-aligned reads better filling the line naturally. `wrap` is the
-        // default wrapping keyword accepted in all browsers where `balance` is,
-        // so it reliably overrides the inherited balance. `pretty` is a
-        // progressive enhancement (avoids a lone short last word) for browsers
-        // that support it - otherwise keep `wrap`.
         text-wrap: wrap;
-        text-wrap: pretty;
     }
     + .empty-caption {
         margin-bottom: calc($spacing-unit / 2 + 1px);
@@ -838,9 +831,7 @@ $post-meta-padding: calc($spacing-unit / 4);
         margin-left: $columns-caption-margin;
         margin-right: $columns-caption-margin;
         text-align: left;
-        // Override the `balance` inherited from .caption. See `.verse + .caption`.
         text-wrap: wrap;
-        text-wrap: pretty;
     }
 
     @include media-query($on-palm) {
