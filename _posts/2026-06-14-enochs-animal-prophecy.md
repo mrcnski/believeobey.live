@@ -538,7 +538,13 @@ text="And thereafter those three who were clothed in white and had seized me by 
 verse="Enoch 90:31"
 %}
 
-Is "that ram" the same one from {% include inline-verse.html verse="Enoch 90:13" %} above? The three in white are the angels who lifted Enoch up at the start of the vision {% include inline-verse.html verse="Enoch 87:3" %}. The closing phrase, "<i>before the judgement took place</i>," is textually uncertain. R.H. Charles marked it as corrupt, and it most likely points back to the great judgment already described above ({% include inline-verse.html verse="Enoch 90:20-27" %}), rather than to a separate, later one. On that reading, Enoch is being returned to the flock to witness that judgment.
+<div class="caption">
+Is "that ram" the same one from {% include inline-verse.html verse="Enoch 90:13" %} above? The three in white are the angels who lifted Enoch up at the start of the vision {% include inline-verse.html verse="Enoch 87:3" %}.
+</div>
+
+<div class="note">
+The closing phrase, "<i>before the judgement took place</i>," is textually uncertain. R.H. Charles marked it as corrupt, and it most likely points back to the great judgment already described above ({% include inline-verse.html verse="Enoch 90:20-27" %}), rather than to a separate, later one. On that reading, Enoch is being returned to the flock to witness that judgment.
+</div>
 </td>
 <td>
 </td>
