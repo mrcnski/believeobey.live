@@ -171,7 +171,7 @@ dependencies:
    ["Ya'aqov", 60],
    // "Jacob lived in the land of Egypt seventeen years; so the days of Jacob, the years of his life, were 147 years." Genesis 47:28
    ["Ya'aqov in Egypt¹", 130],
-   // "Now the duration of the Israelites' stay in Egypt was 430 years."- Exodus 12:40
+   // "Now the time that the children of Israel lived in Egypt was four hundred thirty years."- Exodus 12:40
    ["Exodus", 430],
    // 1 Kings 6:1: Solomon's temple founded 480 years after the Exodus.
    ["1st temple", 480],
