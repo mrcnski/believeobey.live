@@ -184,8 +184,9 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
         padding-left: $verse-padding-width;
     }
 
-    &.noscripture {
+    &.noscripture:not(.noborder) {
         border-left: $verse-border-width solid $light-gray;
+        padding-left: $verse-padding-width;
     }
 
     p {

@@ -12,6 +12,10 @@ module Jekyll
           if book == 'Enoch'
             return "https://parallel.thebookofenoch.info/##{chapter}"
           end
+
+          if book == 'Thomas'
+            return "https://www.earlychristianwritings.com/thomas/gospelthomas#{chapter}.html"
+          end
         end
       end
 
