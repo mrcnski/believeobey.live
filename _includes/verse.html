@@ -9,8 +9,13 @@
       ~
       <a href="{{ include.url | verse_url: include.verse, include.version }}">
         {{ include.verse }}
+
         {% if include.version %}
         ({{ include.version }})
+        {% endif %}
+
+        {% if include.literal %}
+        (literal)
         {% endif %}
       </a>
     </p>
