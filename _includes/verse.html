@@ -1,31 +1,3 @@
 <div class="verse-wrapper">
-  <div class="verse {% if include.noscripture %}noscripture{% endif %}">
-    <p>
-      <i>
-        {{ include.text | replace_regex: '\*\*([^\*]+)\*\*', '<strong>\1</strong>' | smartify }}
-      </i>
-    </p>
-    <p class="verse-verse">
-      ~
-      <a href="{{ include.url | verse_url: include.verse, include.version }}">
-        {{ include.verse }}
-
-        {% if include.version %}
-        ({{ include.version }})
-        {% endif %}
-
-        {% if include.literal %}
-        (literal)
-        {% endif %}
-      </a>
-    </p>
-  </div>
-
-  {% if include.caption %}
-  <p class="caption">
-    {{ include.caption | smartify }}
-  </p>
-  {% else %}
-  <div class="empty-caption"></div>
-  {% endif %}
+  {% include verse-body.html text=include.text verse=include.verse version=include.version url=include.url literal=include.literal noscripture=include.noscripture caption=include.caption %}
 </div>
