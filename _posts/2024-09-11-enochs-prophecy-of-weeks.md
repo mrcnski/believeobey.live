@@ -4,7 +4,7 @@ categories: prophecy apocrypha
 more: true
 image: enochs-prophecy-of-weeks/1.png
 dependencies:
-  - _includes/weeks.html
+  - _includes/study-fragments/weeks.html
 ---
 
 - 1 pixel = 1 year.
@@ -19,7 +19,7 @@ dependencies:
 
 (Scroll right to view more.)
 
-{% include weeks.html %}
+{% include study-fragments/weeks.html %}
 
 <script>
  const COLORS = [
