@@ -105,3 +105,17 @@ module Jekyll
 end
 
 Liquid::Template.register_filter(Jekyll::LastModifiedAt)
+
+# Fail the build if a page declares a dependency that doesn't exist — a typo
+# here would silently skew the page's "last updated" date and commit history.
+Jekyll::Hooks.register :site, :post_read do |site|
+  (site.posts.docs + site.pages).each do |doc|
+    deps = doc.data['dependencies'] || []
+    deps = [deps] unless deps.is_a?(Array)
+    missing = deps.reject { |p| File.exist?(File.join(site.source, p)) }
+    unless missing.empty?
+      raise Jekyll::Errors::FatalException,
+            "#{doc.relative_path}: dependencies not found: #{missing.join(', ')}"
+    end
+  end
+end
