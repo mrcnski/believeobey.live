@@ -53,15 +53,15 @@ Genesis 1:8
 </tr>
 
 <tr>
-<th>
+<th style="text-align: left;">
 Hebrew
 </th>
-<th>
+<th style="text-align: left;">
 literal
 English
 translation
 </th>
-<th>
+<th style="text-align: left;">
 King
 James
 Version
