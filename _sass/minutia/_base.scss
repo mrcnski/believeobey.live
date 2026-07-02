@@ -345,6 +345,55 @@ table {
     tr:hover {
         background-color: $hover-background;
     }
+
+    $th-hover-background: mix($hover-background, $lightest-gray, 65%);
+
+    tbody {
+        // Sub-header rows inside the body.
+        th {
+            text-align: center;
+            text-wrap: balance;
+            font-size: $small-font-size;
+            color: $dark-gray;
+
+            @include media-query($on-palm) {
+                font-size: $smaller-font-size;
+            }
+
+            // Float sub-headers as inset bars with a gap above and below.
+            // (Colspan headers must stay table cells, or the span breaks.)
+            &:not([colspan]) {
+                display: block;
+                margin-top: calc($spacing-unit * 3 / 16);
+                margin-bottom: calc($spacing-unit * 3 / 16);
+            }
+        }
+
+        // No gap above when the sub-header opens a row-spanned block.
+        td[rowspan] + th {
+            margin-top: 0;
+        }
+
+        // Sub-headers tint along with the hovered row.
+        tr:hover th {
+            background-color: $th-hover-background;
+        }
+
+        // A row-spanned group sits in its own tbody and highlights as one unit.
+        &:has(td[rowspan]) {
+            &:hover {
+                background-color: $hover-background;
+
+                th {
+                    background-color: $th-hover-background;
+                }
+            }
+
+            tr:hover {
+                background-color: transparent;
+            }
+        }
+    }
 }
 
 /* Misc */
