@@ -346,6 +346,8 @@ img {
 
     &::before {
         font-weight: $bold-font-weight;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
     }
 }
 .note::before {
@@ -484,6 +486,14 @@ $post-meta-padding: calc($spacing-unit / 4);
 
     padding-left: $post-meta-padding;
     margin-bottom: 0;
+}
+
+// The date gets caps, one size down from the rest of the meta line — caps
+// read larger. The comment-count link stays lowercase.
+.post-meta time, .card-meta time {
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    font-size: $smaller-font-size;
 }
 
 

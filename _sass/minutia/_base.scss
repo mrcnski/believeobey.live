@@ -314,6 +314,14 @@ table {
         th {
             position: sticky;
             top: 0;
+
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-size: $small-font-size;
+
+            @include media-query($on-palm) {
+                font-size: $smaller-font-size;
+            }
         }
     }
 
@@ -359,11 +367,15 @@ table {
         // Sub-header rows inside the body.
         th {
             text-wrap: balance;
-            font-size: $small-font-size;
+            // One size down from the surrounding text: caps read larger than
+            // lowercase at the same size.
+            font-size: $smaller-font-size;
             color: $dark-gray;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
 
             @include media-query($on-palm) {
-                font-size: $smaller-font-size;
+                font-size: $smallest-font-size;
             }
 
             // Float sub-headers as inset bars with a gap above and below.
