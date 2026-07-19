@@ -4,6 +4,8 @@
 
 $base-font-family: 'IBM Plex Sans', Helvetica, sans-serif !default;
 $logo-font-family: 'Ubuntu', Helvetica, sans-serif !default;
+$heading-font-family: $logo-font-family !default;
+$verse-font-family: 'Source Sans 3', Helvetica, sans-serif !default;
 $code-font-family: 'Hack', monospace !default;
 
 $base-font-size:   16px !default;
@@ -18,6 +20,8 @@ $content-font-size: 17px !default;
 $base-font-weight: 300 !default;
 $strong-font-weight: 400 !default;
 $bold-font-weight: 500 !default;
+$verse-font-weight: 300 !default;
+$verse-bold-font-weight: 500 !default;
 $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
@@ -63,6 +67,7 @@ $hl-8:             lighten(#b1b1b1, 15%) !default;
 
 $link:             $dark-blue !default;
 $link-visited:     $light-blue !default;
+$selection-background: lighten($blue, 30%) !default;
 $hover-background: #f3f7fc !default;
 $hover-opacity:    0.75 !default;
 

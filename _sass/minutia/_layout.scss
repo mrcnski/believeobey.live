@@ -177,7 +177,13 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
 }
 
 .verse {
-    font-size: $base-font-size;
+    font-family: $verse-font-family;
+    font-size: $content-font-size;
+    font-weight: $verse-font-weight;
+
+    strong {
+        font-weight: $verse-bold-font-weight;
+    }
 
     &:not(.noborder) {
         border-left: $verse-border-width solid $lighter-blue;
@@ -194,7 +200,8 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
     }
 
     .verse-verse {
-        font-size: $small-font-size;
+        font-family: $base-font-family;
+        font-weight: $base-font-weight;
         margin-top: calc($spacing-unit / 16);
 
         font-size: $smaller-font-size;
@@ -215,7 +222,7 @@ $verse-caption-margin: calc($verse-border-width + $verse-padding-width);
     }
 
     @include media-query($on-palm) {
-        font-size: $small-font-size;
+        font-size: $base-font-size;
     }
 }
 
