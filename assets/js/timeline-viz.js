@@ -18,6 +18,8 @@
   var BAR_H = 18;
   var AXIS_GAP = 6;       // gap between last row and the axis line
   var AXIS_AREA = 34;     // space under the axis line for ticks + labels
+  var TILE_W = 2000;      // CSS px per canvas tile; one full-width canvas is a
+                          // single huge GPU texture that janks page scrolling
 
   var FONT_STACK = "'IBM Plex Sans', Helvetica, sans-serif";
   var FONTS = {
@@ -47,7 +49,7 @@
     ".tvz-scroll { overflow-x: auto; border: 1px solid #e2e5e9; border-radius: 5px;" +
     "  background: #fdfdfd; margin-bottom: 15px; }" +
     ".tvz-inner { position: relative; }" +
-    ".tvz-canvas { display: block; }" +
+    ".tvz-canvas { position: absolute; top: 0; }" +
     ".tvz-labels { position: sticky; left: 0; width: 0; height: 0; z-index: 3; }" +
     ".tvz-gutter { position: absolute; left: 0; top: 0; width: 160px;" +
     "  background: linear-gradient(90deg, #fdfdfd 72%, rgba(253,253,253,0));" +
@@ -348,40 +350,57 @@
     inner.style.width = width + "px";
     var labelHost = document.createElement("div");
     labelHost.className = "tvz-labels";
-    var canvas = document.createElement("canvas");
-    canvas.className = "tvz-canvas";
     var cross = document.createElement("div");
     cross.className = "tvz-cross";
     var tip = document.createElement("div");
     tip.className = "tvz-tip";
     inner.appendChild(labelHost);
-    inner.appendChild(canvas);
     inner.appendChild(cross);
     inner.appendChild(tip);
     scroll.appendChild(inner);
     container.appendChild(scroll);
 
-    // HiDPI-sharp canvas at a fixed CSS size (1 CSS pixel = 1 year).
+    // Skip rendering the chart entirely while it is scrolled out of view.
+    scroll.style.contentVisibility = "auto";
+    scroll.style.containIntrinsicSize = "auto " + height + "px";
+
+    // HiDPI-sharp canvas tiles at a fixed CSS size (1 CSS pixel = 1 year).
+    // The tiles are absolutely positioned, so the inner element carries the
+    // chart height itself.
+    inner.style.height = height + "px";
     var dpr = window.devicePixelRatio || 1;
-    canvas.width = width * dpr;
-    canvas.height = height * dpr;
-    canvas.style.width = width + "px";
-    canvas.style.height = height + "px";
-    var ctx = canvas.getContext("2d");
+    var tiles = [];
+    for (var x0 = 0; x0 < width; x0 += TILE_W) {
+      var tileW = Math.min(TILE_W, width - x0);
+      var canvas = document.createElement("canvas");
+      canvas.className = "tvz-canvas";
+      canvas.width = tileW * dpr;
+      canvas.height = height * dpr;
+      canvas.style.width = tileW + "px";
+      canvas.style.height = height + "px";
+      canvas.style.left = x0 + "px";
+      inner.insertBefore(canvas, cross);
+      tiles.push({ ctx: canvas.getContext("2d"), x: x0, w: tileW });
+    }
 
     function draw() {
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      ctx.clearRect(0, 0, width, height);
+      // Each tile runs the same full-chart drawing, shifted by the tile's
+      // offset; the canvas bounds clip it to the tile's slice.
+      tiles.forEach(function (tile) {
+        var ctx = tile.ctx;
+        ctx.setTransform(dpr, 0, 0, dpr, -tile.x * dpr, 0);
+        ctx.clearRect(tile.x, 0, tile.w, height);
 
-      // Week backdrops first, so bands and boundary lines sit behind the bars.
-      config.timelines.forEach(function (timeline, i) {
-        if (!timeline.weeks) return;
-        drawWeekBackdrop(ctx, timeline, resolvedAll[i], TOP_PAD + i * ROW_H, axisY, width);
+        // Week backdrops first, so bands and boundary lines sit behind the bars.
+        config.timelines.forEach(function (timeline, i) {
+          if (!timeline.weeks) return;
+          drawWeekBackdrop(ctx, timeline, resolvedAll[i], TOP_PAD + i * ROW_H, axisY, width);
+        });
+        config.timelines.forEach(function (timeline, i) {
+          drawTimelineRow(ctx, timeline, resolvedAll[i], TOP_PAD + i * ROW_H, width);
+        });
+        drawAxis(ctx, axisY, maxYear);
       });
-      config.timelines.forEach(function (timeline, i) {
-        drawTimelineRow(ctx, timeline, resolvedAll[i], TOP_PAD + i * ROW_H, width);
-      });
-      drawAxis(ctx, axisY, maxYear);
     }
 
     draw();
