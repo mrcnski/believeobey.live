@@ -841,6 +841,14 @@ $post-meta-padding: calc($spacing-unit / 4);
             margin-left: 0;
             margin-right: 0;
         }
+        &.simple-verse-wrapper {
+            margin-left: 0;
+            margin-right: 0;
+
+            + .simple-verse-wrapper {
+                margin-left: calc(2 * $verse-wrapper-margin);
+            }
+        }
     }
 
     + .caption {
