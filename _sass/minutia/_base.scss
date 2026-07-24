@@ -357,6 +357,16 @@ table {
     //     background-color: #f9f9f9;
     // }
 
+    // Row tints come on fast and release slowly: the :hover duration applies
+    // on the way in, the base duration on the way out.
+    tr, th, tbody {
+        transition: background-color 0.4s ease;
+    }
+
+    tr:hover, tr:hover th, tbody:hover, tbody:hover th {
+        transition-duration: 0.15s;
+    }
+
     tr:hover {
         background-color: $hover-background;
     }

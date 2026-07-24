@@ -880,28 +880,47 @@ $post-meta-padding: calc($spacing-unit / 4);
 .hl-1, .hl-2, .hl-3, .hl-4,
 .hl-5, .hl-6, .hl-7, .hl-8 {
     border-radius: 4px;
+    padding: 1px 2px;
+    margin: 0 -2px;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+    // Light up fast, release slowly: the .on duration applies on the way in,
+    // this one on the way out.
+    transition: background-color 0.4s ease, box-shadow 0.4s ease;
+
+    &.on {
+        transition-duration: 0.15s;
+    }
 }
 .hl-1 {
-    background-color: $hl-1;
+    background-color: $hl-1-rest;
+    &.on { background-color: $hl-1; box-shadow: 0 0 0 1px $hl-1-ink; }
 }
 .hl-2 {
-    background-color: $hl-2;
+    background-color: $hl-2-rest;
+    &.on { background-color: $hl-2; box-shadow: 0 0 0 1px $hl-2-ink; }
 }
 .hl-3 {
-    background-color: $hl-3;
+    background-color: $hl-3-rest;
+    &.on { background-color: $hl-3; box-shadow: 0 0 0 1px $hl-3-ink; }
 }
 .hl-4 {
-    background-color: $hl-4;
+    background-color: $hl-4-rest;
+    &.on { background-color: $hl-4; box-shadow: 0 0 0 1px $hl-4-ink; }
 }
 .hl-5 {
-    background-color: $hl-5;
+    background-color: $hl-5-rest;
+    &.on { background-color: $hl-5; box-shadow: 0 0 0 1px $hl-5-ink; }
 }
 .hl-6 {
-    background-color: $hl-6;
+    background-color: $hl-6-rest;
+    &.on { background-color: $hl-6; box-shadow: 0 0 0 1px $hl-6-ink; }
 }
 .hl-7 {
-    background-color: $hl-7;
+    background-color: $hl-7-rest;
+    &.on { background-color: $hl-7; box-shadow: 0 0 0 1px $hl-7-ink; }
 }
 .hl-8 {
-    background-color: $hl-8;
+    background-color: $hl-8-rest;
+    &.on { background-color: $hl-8; box-shadow: 0 0 0 1px $hl-8-ink; }
 }

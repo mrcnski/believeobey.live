@@ -54,14 +54,35 @@ $dark-purple:      #400c73 !default;
 $text-color:       #111 !default;
 $background-color: #fdfdfd !default;
 
+// Highlight fills: the full-strength (hovered/active) state.
 $hl-1:             lighten(#fec4c5, 4%) !default;
 $hl-2:             lighten(#fedbbc, 2%) !default;
-$hl-3:             lighten(#fef4c2, 0%) !default;
+$hl-3:             #fdefa9 !default;
 $hl-4:             lighten(#caf1cb, 1%) !default;
 $hl-5:             lighten(#c7eeea, 1%) !default;
 $hl-6:             lighten(#bbd5fe, 3%) !default;
 $hl-7:             lighten(#dac8fe, 4%) !default;
 $hl-8:             lighten(#b1b1b1, 15%) !default;
+
+// Resting washes for the same highlights.
+$hl-1-rest:        rgba(254, 165, 170, 0.28) !default;
+$hl-2-rest:        rgba(250, 173, 96, 0.24) !default;
+$hl-3-rest:        rgba(245, 216, 74, 0.32) !default;
+$hl-4-rest:        rgba(110, 205, 118, 0.22) !default;
+$hl-5-rest:        rgba(90, 200, 190, 0.22) !default;
+$hl-6-rest:        rgba(115, 165, 250, 0.20) !default;
+$hl-7-rest:        rgba(170, 135, 250, 0.18) !default;
+$hl-8-rest:        rgba(140, 140, 140, 0.18) !default;
+
+// Outline inks for the hovered/active highlight state.
+$hl-1-ink:         rgba(#d95e63, 0.55) !default;
+$hl-2-ink:         rgba(#dd8435, 0.55) !default;
+$hl-3-ink:         rgba(#c2a114, 0.55) !default;
+$hl-4-ink:         rgba(#55a35d, 0.55) !default;
+$hl-5-ink:         rgba(#3fa095, 0.55) !default;
+$hl-6-ink:         rgba(#5b8edb, 0.55) !default;
+$hl-7-ink:         rgba(#9d75e3, 0.55) !default;
+$hl-8-ink:         rgba(#8f8f8f, 0.55) !default;
 
 /* Define some common color variables */
 
