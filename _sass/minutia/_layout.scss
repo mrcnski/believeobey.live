@@ -880,7 +880,7 @@ $post-meta-padding: calc($spacing-unit / 4);
 .hl-1, .hl-2, .hl-3, .hl-4,
 .hl-5, .hl-6, .hl-7, .hl-8 {
     border-radius: 4px;
-    padding: 1px 2px;
+    padding: 0 2px;
     margin: 0 -2px;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
