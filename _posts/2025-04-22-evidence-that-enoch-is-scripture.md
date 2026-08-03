@@ -50,7 +50,7 @@ text="And therefore I have not appointed wives for you; for as for the spiritual
 verse="Enoch 15:7"
 %}
 
-By saying that the Sadduccees [Zadokites] did not know the scriptures, it would seem that Messiah was implicitly affirming that Enoch is indeed scripture.
+By saying that the Sadduccees [Zadokites?] did not know the scriptures, it would seem that Messiah was implicitly affirming that Enoch is indeed scripture.
 
 ## Direct Quotes in the Canon
 
@@ -1224,6 +1224,11 @@ verse="Enoch 100:11"
 </div>
 
 <div>
+{% include verse.html
+text="When the sky is shut up and there is **no rain because they have sinned against you** ..."
+verse="1 Kings 8:35"
+%}
+
 {% include verse.html
 text="They don’t say in their heart, ‘Let’s now fear YHWH our God, who gives **rain**, both the former and the latter, in its season, who preserves to us the appointed weeks of the harvest.’ Your iniquities have turned away these things, and **your sins have withheld good from you**."
 verse="Jeremiah 5:24-25"
