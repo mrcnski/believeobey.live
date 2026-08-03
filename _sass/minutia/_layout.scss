@@ -64,23 +64,6 @@
             position: relative;
             height: 100%;
 
-            .page-link {
-                font-family: $logo-font-family;
-                font-weight: $bold-font-weight;
-
-                color: $dark-blue;
-
-                padding: 0px 7px 1px 7px;
-                margin-right: 5px;
-
-                @include relative-font-size(1.375);
-
-                &:hover {
-                    text-decoration: none;
-                    opacity: $hover-opacity;
-                }
-            }
-
             .nav-links {
                 display: none;
                 opacity: 0;

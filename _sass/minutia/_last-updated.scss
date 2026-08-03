@@ -1,7 +1,7 @@
 /* "Last Updated": an inline, collapsible commit history shown under the post
    meta. It uses the shared disclosure mechanism (_disclosure.scss +
    disclosure.html) but is styled independently of the Table of Contents — full
-   width, small, italic, link-blue, with no disclosure arrow (the blue text
+   width, small, link-blue, with no disclosure arrow (the blue text
    signals it's clickable). */
 
 .last-updated {
@@ -20,7 +20,6 @@
 
         color: $link;
         font-size: $smaller-font-size;
-        font-style: italic;
 
         -webkit-user-select: none;
         user-select: none;
